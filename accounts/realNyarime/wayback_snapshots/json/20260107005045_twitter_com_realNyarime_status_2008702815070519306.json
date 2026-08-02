@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2008702815070519306",
+    "created_at": "2026-01-07T00:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T01:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008702815070519306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EvanWritesX/st…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/EvanWritesX/status/2008697752902066290",
+          "start": 130,
+          "url": "https://t.co/ACwJWCBH3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008702815070519306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "XXXcardinalcommerce.com",
+            "end": 181,
+            "expanded_url": "http://XXXcardinalcommerce.com",
+            "start": 158,
+            "url": "https://t.co/HYGa6Iojxd"
+          },
+          {
+            "display_url": "naixicardinalcommerce.com",
+            "end": 219,
+            "expanded_url": "http://naixicardinalcommerce.com",
+            "start": 196,
+            "url": "https://t.co/AzlQIzn9oz"
+          },
+          {
+            "display_url": "mmsc.mms.o2.co.uk",
+            "end": 361,
+            "expanded_url": "http://mmsc.mms.o2.co.uk",
+            "start": 338,
+            "url": "https://t.co/2KC1bz4ig5"
+          }
+        ]
+      },
+      "text": "提到giffgaff免流，虽然已经死好久了，也不寄中国了。这卡没连过基站，就永久有效，一旦联网就3个月倒计时。\n有些卡预设号码，但2/3都没有。以前可以漫游中国移动2G打10086可以找智障客服问本机号码，她会从『0044开始给你报』。\n\n1、某支付接口免流\n使用未激活或者0余额的卡，否则扣费扣到0。需要自行注册一https://t.co/HYGa6Iojxd的域名\nXXX为任意内容 如 https://t.co/AzlQIzn9oz 这个域名，其二级域名也行。再用该域名申请https证书搭建v2ray节点（ws+tls）使用443端口\n\n2、彩信免流（去看你的APN里面有一个mmsc彩信地址，那个host就可以拿来免流）\n例如giffgaff是O2的mvno，彩信是https://t.co/2KC1bz4ig5。实测通杀所有O2，包括giffgaff、lebara等。\n\n运营商：这么说你发了2TB的短信是吗？\n不过giffgaff免流是中东佬发明的，跟club sim一样都被玩死过。以上的方法已经失效，因此才放出来说（就当陈述历史了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008697752902066290",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "提到giffgaff免流，虽然已经死好久了，也不寄中国了。这卡没连过基站，就永久有效，一旦联网就3个月倒计时。\n有些卡预设号码，但2/3都没有。以前可以漫游中国移动2G打10086可以找智障客服问本机号码，她会从『0044开始给你报』。\n\n1、某支付接口免流 https://t.co/ACwJWCBH3k"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2008702815070519306",
+        "created_at": "2026-01-07T00:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T01:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008702815070519306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EvanWritesX/st…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/EvanWritesX/status/2008697752902066290",
+              "start": 130,
+              "url": "https://t.co/ACwJWCBH3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008702815070519306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "XXXcardinalcommerce.com",
+                "end": 181,
+                "expanded_url": "http://XXXcardinalcommerce.com",
+                "start": 158,
+                "url": "https://t.co/HYGa6Iojxd"
+              },
+              {
+                "display_url": "naixicardinalcommerce.com",
+                "end": 219,
+                "expanded_url": "http://naixicardinalcommerce.com",
+                "start": 196,
+                "url": "https://t.co/AzlQIzn9oz"
+              },
+              {
+                "display_url": "mmsc.mms.o2.co.uk",
+                "end": 361,
+                "expanded_url": "http://mmsc.mms.o2.co.uk",
+                "start": 338,
+                "url": "https://t.co/2KC1bz4ig5"
+              }
+            ]
+          },
+          "text": "提到giffgaff免流，虽然已经死好久了，也不寄中国了。这卡没连过基站，就永久有效，一旦联网就3个月倒计时。\n有些卡预设号码，但2/3都没有。以前可以漫游中国移动2G打10086可以找智障客服问本机号码，她会从『0044开始给你报』。\n\n1、某支付接口免流\n使用未激活或者0余额的卡，否则扣费扣到0。需要自行注册一https://t.co/HYGa6Iojxd的域名\nXXX为任意内容 如 https://t.co/AzlQIzn9oz 这个域名，其二级域名也行。再用该域名申请https证书搭建v2ray节点（ws+tls）使用443端口\n\n2、彩信免流（去看你的APN里面有一个mmsc彩信地址，那个host就可以拿来免流）\n例如giffgaff是O2的mvno，彩信是https://t.co/2KC1bz4ig5。实测通杀所有O2，包括giffgaff、lebara等。\n\n运营商：这么说你发了2TB的短信是吗？\n不过giffgaff免流是中东佬发明的，跟club sim一样都被玩死过。以上的方法已经失效，因此才放出来说（就当陈述历史了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008697752902066290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "提到giffgaff免流，虽然已经死好久了，也不寄中国了。这卡没连过基站，就永久有效，一旦联网就3个月倒计时。\n有些卡预设号码，但2/3都没有。以前可以漫游中国移动2G打10086可以找智障客服问本机号码，她会从『0044开始给你报』。\n\n1、某支付接口免流 https://t.co/ACwJWCBH3k"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3016619443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2008697752902066290",
+        "created_at": "2026-01-07T00:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T01:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008697752902066290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/evanwritesx/st…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/evanwritesx/status/2008065409312817435",
+              "start": 104,
+              "url": "https://t.co/sJdUgkS8Up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008697752902066290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008065409312817435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这张卡其实有不少人拿他搞黑产\n免流薅羊毛\n\n昨天有人私信我\n\n他去年4月份拿这张卡免流薅羊毛，前两天被封了，绑定的 TG，𝕏之类的平台怎么解绑？\n\n我还是劝大家善良，这么低成本的保号卡，这么稳定，请善待它！ https://t.co/sJdUgkS8Up"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008425765751185868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6750,
+          "following_count": 725,
+          "like_count": 8558,
+          "listed_count": 20,
+          "media_count": 611,
+          "tweet_count": 5200
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-10T15:36:40.000Z",
+        "description": "前媒体人 \n\n联系方式：https://t.co/2wytvRVLqf\n读书频道：https://t.co/0fTLS0vAOS    \n魔法推荐：https://t.co/w1sYMHBO96",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 35,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 12,
+                "url": "https://t.co/2wytvRVLqf"
+              },
+              {
+                "display_url": "t.me/Book_Scape",
+                "end": 64,
+                "expanded_url": "https://t.me/Book_Scape",
+                "start": 41,
+                "url": "https://t.co/0fTLS0vAOS"
+              },
+              {
+                "display_url": "my.racknerd.com/aff.php?aff=16…",
+                "end": 97,
+                "expanded_url": "https://my.racknerd.com/aff.php?aff=16843",
+                "start": 74,
+                "url": "https://t.co/w1sYMHBO96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 0,
+                "url": "https://t.co/2wytvRVLqf"
+              }
+            ]
+          }
+        },
+        "id": "3016619443",
+        "location": "微信 - EvanaWorks",
+        "name": "Jason",
+        "pinned_tweet_id": "2007676380423872646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993562015932334082/50xwYK4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7501,
+          "following_count": 670,
+          "like_count": 2123,
+          "listed_count": 30,
+          "media_count": 732,
+          "tweet_count": 3132
+        },
+        "url": "https://t.co/2wytvRVLqf",
+        "username": "EvanWritesX",
+        "verified": true
+      }
+    ]
+  }
+}

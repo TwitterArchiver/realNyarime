@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2049856990957236483",
+    "created_at": "2026-04-30T15:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049876787400950016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1956962007477006336",
+          "start": 0,
+          "username": "I00B6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049876787400950016",
+    "in_reply_to_user_id": "1956962007477006336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049876194146107473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I00B6 那你快去谷歌入职，我要用Google VPN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2049856990957236483",
+        "created_at": "2026-04-30T15:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049876787400950016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1956962007477006336",
+              "start": 0,
+              "username": "I00B6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049876787400950016",
+        "in_reply_to_user_id": "1956962007477006336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049876194146107473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I00B6 那你快去谷歌入职，我要用Google VPN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956962007477006336",
+        "conversation_id": "2049856990957236483",
+        "created_at": "2026-04-30T15:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049876194146107473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049876194146107473",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049856990957236483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 坏了，这次真在我附近…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31541,
+          "following_count": 586,
+          "like_count": 13320,
+          "listed_count": 152,
+          "media_count": 1625,
+          "tweet_count": 10889
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T06:11:27.000Z",
+        "description": "认知不同，看世界的方式也不一样 .另一個我 @SuoZhangNO1\n售后、同款📦及頻道： https://t.co/tg4pyiVIUE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "SuoZhangNO1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/esim81888",
+                "end": 69,
+                "expanded_url": "https://t.me/esim81888",
+                "start": 46,
+                "url": "https://t.co/tg4pyiVIUE"
+              }
+            ]
+          }
+        },
+        "id": "1956962007477006336",
+        "location": "Singapore",
+        "name": "所長",
+        "pinned_tweet_id": "2043170296178540811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019406830582263817/AQj0Z_o6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 640,
+          "like_count": 25,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 150
+        },
+        "username": "I00B6",
+        "verified": true
+      }
+    ]
+  }
+}

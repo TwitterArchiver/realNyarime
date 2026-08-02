@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070772146960298121",
+    "created_at": "2026-06-27T07:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070776773805998114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1584727841320890368",
+          "start": 0,
+          "username": "BeiWeiji"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070776773805998114",
+    "in_reply_to_user_id": "1584727841320890368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070776308565758382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeiWeiji 经得起考验！"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070772146960298121",
+        "created_at": "2026-06-27T07:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070776773805998114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1584727841320890368",
+              "start": 0,
+              "username": "BeiWeiji"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070776773805998114",
+        "in_reply_to_user_id": "1584727841320890368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070776308565758382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiWeiji 经得起考验！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584727841320890368",
+        "conversation_id": "2070772146960298121",
+        "created_at": "2026-06-27T07:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070776308565758382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070776308565758382",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070776000464539976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 大楼确实没事……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38566,
+          "following_count": 664,
+          "like_count": 18495,
+          "listed_count": 179,
+          "media_count": 2251,
+          "tweet_count": 15497
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-25T02:05:56.000Z",
+        "description": "男｜数码玩家｜科技日常｜美股投资碎碎念｜✝️｜乐观享受生活｜观察者\n中文, 就是sparkling turquoise lagoon",
+        "id": "1584727841320890368",
+        "name": "贝玮霁",
+        "pinned_tweet_id": "2044799305626874140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626120909793947648/QHk0s9vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 253,
+          "like_count": 497,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 1444
+        },
+        "url": "",
+        "username": "BeiWeiji",
+        "verified": true
+      }
+    ]
+  }
+}

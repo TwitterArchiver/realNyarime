@@ -1,0 +1,785 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053763189498908672"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google - AI",
+          "id": "10050907858",
+          "name": "Google - AI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10028889887",
+          "name": "Google Play"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10042585046",
+          "name": "Google Now"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2053764913156481220",
+    "created_at": "2026-05-11T09:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053764913156481220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dmf2TfV8Gl",
+          "end": 174,
+          "expanded_url": "https://x.com/realNyarime/status/2053764913156481220/photo/1",
+          "media_key": "3_2053763189498908672",
+          "start": 151,
+          "url": "https://t.co/Dmf2TfV8Gl"
+        },
+        {
+          "display_url": "x.com/IntCyberDigest…",
+          "end": 198,
+          "expanded_url": "https://twitter.com/IntCyberDigest/status/2053259432054726872",
+          "start": 175,
+          "url": "https://t.co/CRu5a8mcyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053764913156481220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "谷歌新一代的 reCAPTCHA 验证码系统与 Android 上的 Google Play 服务绑定。这意味着不带 GMS 的系统都将自动无法通过验证，这项要求迫使 Android 用户必须运行版本号为 25.41.30 或更高的谷歌专有应用框架，仅仅是为了证明自己是人类\n\n当 reCAPTCHA 标记其认为的可疑活动时，它会放弃传统的图像拼图，转而要求拿手机扫描二维码。该扫描操作需要 Play 服务在后台运行，并与谷歌的服务器进行通信。对于任何剥离了谷歌软件的第三方定制系统验证将失败，然而面对中国大陆的网络环境加上国行机并没有默认启用 GMS 组件，可能会成为一块绊脚石\n\n此外，虽然谷歌豁免了运行 iOS 16.4 或更高版本的苹果用户安装额外应用，但在 iOS 15.0-16.4 的设备需要从 App Store 下载 reCAPTCHA 应用辅助验证，同时出问题的还有国产深度定制ROM以及华为鸿蒙星河版（HarmonyOS Next）中卓易通的 Android 容器环境。不过现在越来越多的网站转向使用 Cloudflare Turnstile 验证码以保护站点安全，后续可能会因谷歌这一项调整，逐步移到别家提供商以确保用户体验"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053259432054726872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谷歌新一代的 reCAPTCHA 验证码系统与 Android 上的 Google Play 服务绑定。这意味着不带 GMS 的系统都将自动无法通过验证，这项要求迫使 Android 用户必须运行版本号为 25.41.30 或更高的谷歌专有应用框架，仅仅是为了证明自己是人类\n\n当 reCAPTCHA https://t.co/Dmf2TfV8Gl https://t.co/CRu5a8mcyu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2053763189498908672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBuvVLbEAAzEXA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 802,
+        "media_key": "3_2053259163665408002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6kVKoXoAIA5Mv.jpg",
+        "width": 802
+      },
+      {
+        "height": 1093,
+        "media_key": "3_2053259300554801156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6kdIlWAAQ_KsI.jpg",
+        "width": 1093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053763189498908672"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google - AI",
+              "id": "10050907858",
+              "name": "Google - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10042585046",
+              "name": "Google Now"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2053764913156481220",
+        "created_at": "2026-05-11T09:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053764913156481220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dmf2TfV8Gl",
+              "end": 174,
+              "expanded_url": "https://x.com/realNyarime/status/2053764913156481220/photo/1",
+              "media_key": "3_2053763189498908672",
+              "start": 151,
+              "url": "https://t.co/Dmf2TfV8Gl"
+            },
+            {
+              "display_url": "x.com/IntCyberDigest…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/IntCyberDigest/status/2053259432054726872",
+              "start": 175,
+              "url": "https://t.co/CRu5a8mcyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053764913156481220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "谷歌新一代的 reCAPTCHA 验证码系统与 Android 上的 Google Play 服务绑定。这意味着不带 GMS 的系统都将自动无法通过验证，这项要求迫使 Android 用户必须运行版本号为 25.41.30 或更高的谷歌专有应用框架，仅仅是为了证明自己是人类\n\n当 reCAPTCHA 标记其认为的可疑活动时，它会放弃传统的图像拼图，转而要求拿手机扫描二维码。该扫描操作需要 Play 服务在后台运行，并与谷歌的服务器进行通信。对于任何剥离了谷歌软件的第三方定制系统验证将失败，然而面对中国大陆的网络环境加上国行机并没有默认启用 GMS 组件，可能会成为一块绊脚石\n\n此外，虽然谷歌豁免了运行 iOS 16.4 或更高版本的苹果用户安装额外应用，但在 iOS 15.0-16.4 的设备需要从 App Store 下载 reCAPTCHA 应用辅助验证，同时出问题的还有国产深度定制ROM以及华为鸿蒙星河版（HarmonyOS Next）中卓易通的 Android 容器环境。不过现在越来越多的网站转向使用 Cloudflare Turnstile 验证码以保护站点安全，后续可能会因谷歌这一项调整，逐步移到别家提供商以确保用户体验"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053259432054726872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谷歌新一代的 reCAPTCHA 验证码系统与 Android 上的 Google Play 服务绑定。这意味着不带 GMS 的系统都将自动无法通过验证，这项要求迫使 Android 用户必须运行版本号为 25.41.30 或更高的谷歌专有应用框架，仅仅是为了证明自己是人类\n\n当 reCAPTCHA https://t.co/Dmf2TfV8Gl https://t.co/CRu5a8mcyu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053259163665408002",
+            "3_2053259300554801156"
+          ]
+        },
+        "author_id": "1831435289341894656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google - AI",
+              "id": "10050907858",
+              "name": "Google - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10042585046",
+              "name": "Google Now"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2053259432054726872",
+        "created_at": "2026-05-09T23:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053259432054726872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wl9Tk902y2",
+              "end": 302,
+              "expanded_url": "https://x.com/IntCyberDigest/status/2053259432054726872/photo/1",
+              "media_key": "3_2053259163665408002",
+              "start": 279,
+              "url": "https://t.co/Wl9Tk902y2"
+            },
+            {
+              "display_url": "pic.x.com/Wl9Tk902y2",
+              "end": 302,
+              "expanded_url": "https://x.com/IntCyberDigest/status/2053259432054726872/photo/1",
+              "media_key": "3_2053259300554801156",
+              "start": 279,
+              "url": "https://t.co/Wl9Tk902y2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053259432054726872",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "‼️🚨 ALARMING: Google now treats privacy as suspicious behavior by default. Users of GrapheneOS, CalyxOS, /e/OS, and other deGoogled Android phones are being locked out of millions of websites unless they install the exact Google Play Services software they deliberately removed.\n\nGrapheneOS is recommended by the EFF and used by journalists, lawyers, and activists in high-risk environments. The audience most likely to read Google's data practices and refuse its terms is now flagged as fraudulent for that exact decision.\n\nWhat happened?:\n▪️ Google announced \"Cloud Fraud Defense\" at Cloud Next on April 22-23, 2026, branding it \"the next evolution of reCAPTCHA.\" Existing reCAPTCHA customers were auto-migrated.\n▪️ When the system flags traffic as suspicious, the old click-the-bus puzzle is gone. Users get a QR code instead.\n▪️ Scanning the QR code requires Google Play Services running on the device. Internet Archive snapshots show this requirement has been live since at least October 2025, silently rolled out for 7 months before anyone noticed.\n▪️ No Play Services = no QR scan = locked out.\n\nThe bigger picture:\n▪️ Google already tried this in 2023. It was called Web Environment Integrity (WEI), and it would have let Google decide which devices were \"real enough\" to access the web. Standards bodies and the public pushed back hard, and Google killed it. Three years later, the same idea is back, just hidden behind a QR code instead of a browser feature.\n▪️ reCAPTCHA runs on millions of websites. Every developer who keeps using it is now, by default, telling deGoogled Android users they're not welcome..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4674,
+          "impression_count": 1228970,
+          "like_count": 15840,
+          "quote_count": 522,
+          "reply_count": 521,
+          "retweet_count": 4737
+        },
+        "reply_settings": "everyone",
+        "text": "‼️🚨 ALARMING: Google now treats privacy as suspicious behavior by default. Users of GrapheneOS, CalyxOS, /e/OS, and other deGoogled Android phones are being locked out of millions of websites unless they install the exact Google Play Services software they deliberately removed. https://t.co/Wl9Tk902y2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32727,
+          "following_count": 604,
+          "like_count": 13911,
+          "listed_count": 150,
+          "media_count": 1724,
+          "tweet_count": 11323
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T20:53:04.000Z",
+        "description": "Your weekly go-to cybersecurity newsletter, curated and commented on by our senior analysts.\n\nGot tips? Signal: IntCyberDigest.20",
+        "id": "1831435289341894656",
+        "name": "International Cyber Digest",
+        "pinned_tweet_id": "2053259432054726872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831435438562615296/imkSFey2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148688,
+          "following_count": 298,
+          "like_count": 5475,
+          "listed_count": 726,
+          "media_count": 2642,
+          "tweet_count": 5788
+        },
+        "username": "IntCyberDigest",
+        "verified": true
+      }
+    ]
+  }
+}

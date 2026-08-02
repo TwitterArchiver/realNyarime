@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041549499903152128"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2041549876929159510",
+    "created_at": "2026-04-07T16:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041549876929159510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FQYSl8vQkr",
+          "end": 149,
+          "expanded_url": "https://x.com/realNyarime/status/2041549876929159510/photo/1",
+          "media_key": "3_2041549499903152128",
+          "start": 126,
+          "url": "https://t.co/FQYSl8vQkr"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/realNyarime/status/2040312158106378306",
+          "start": 150,
+          "url": "https://t.co/JiDDs4GyMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041549876929159510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "前段时间机缘巧合下在L站看到佬友分享的注册机踏上了开中转站的道路，当时自建邮局就可以注册，但是好景不长两天就大规模封号，很多codex大量拉闸，期间出来新的注册方法但是统统都黑封禁。直到昨天找到个邮箱今天成功注册了几百个后（也不知道后续会不会封号）， 突然感觉好索然无味今天算是来交作业了\n\n研究了五天没日没夜的研codex的注册，历经艰辛，期间好几天连续24小时没睡高强度上网，找过很多邮箱. 包括duck 、addy 、simplelogin 、 outlook邮箱也买了一大堆、firfox relay的会员。买过代理池、eSIM等住宅IP，很多次原本以为找到方法了结果第二天就不行了：\nduckduckgo：刚开始duckduckgo可以撸大概撸了80个，不给我创建别名了 换号后发现被撸秃噜皮了，或者几分钟甚至几十分钟才能收到邮件.\naddy 提供的别名隐私邮箱也是100成功，撸5个给封号了 不过个人够用了\nsimplelogin ：还在测试测试着给我发邮件说我在注册openai 警告我然后给我封了（看来这种邮箱转发服务还会看你的邮件内容）\nfirefox relay：说好开会员有无限别名开完会员创建100个账号后给我账号暂停了 ”，我发邮件过去表达不满过一天他给我解封了 可是这是这个火狐邮箱提交过去gpt直接拒绝下一步了.（不过也很不错了）\n微软邮箱：outlook 买了500个号 400个oauth无效 剩下100个addphone\nhotmail 买了500 也有400个oauth无效 然后50% 左右会addphone 幸好还有50个存活\n\n比起LINUX DO上别人公益都十几二十万账号池的，我这个一千个号就当试试水吧。其实addphone主要就是邮箱的原因，自用的话可以用我上面说的一些方法撸十来个都是可以够自己用的，总之OpenAI的风控也就这样..."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040312158106378306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前段时间机缘巧合下在L站看到佬友分享的注册机踏上了开中转站的道路，当时自建邮局就可以注册，但是好景不长两天就大规模封号，很多codex大量拉闸，期间出来新的注册方法但是统统都黑封禁。直到昨天找到个邮箱今天成功注册了几百个后（也不知道后续会不会封号）， https://t.co/FQYSl8vQkr https://t.co/JiDDs4GyMG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 248,
+        "media_key": "3_2041549499903152128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUKdB0akAAs7Qz.png",
+        "width": 886
+      },
+      {
+        "height": 555,
+        "media_key": "3_2040191211617820672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA3GPpaoAAIej_.png",
+        "width": 613
+      },
+      {
+        "height": 567,
+        "media_key": "3_2040191391675109376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA3Quaa0AAHAqD.jpg",
+        "width": 1870
+      },
+      {
+        "height": 493,
+        "media_key": "3_2040191391259820032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA3Qs3aAAAkF10.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041549499903152128"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2041549876929159510",
+        "created_at": "2026-04-07T16:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041549876929159510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQYSl8vQkr",
+              "end": 149,
+              "expanded_url": "https://x.com/realNyarime/status/2041549876929159510/photo/1",
+              "media_key": "3_2041549499903152128",
+              "start": 126,
+              "url": "https://t.co/FQYSl8vQkr"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/realNyarime/status/2040312158106378306",
+              "start": 150,
+              "url": "https://t.co/JiDDs4GyMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041549876929159510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前段时间机缘巧合下在L站看到佬友分享的注册机踏上了开中转站的道路，当时自建邮局就可以注册，但是好景不长两天就大规模封号，很多codex大量拉闸，期间出来新的注册方法但是统统都黑封禁。直到昨天找到个邮箱今天成功注册了几百个后（也不知道后续会不会封号）， 突然感觉好索然无味今天算是来交作业了\n\n研究了五天没日没夜的研codex的注册，历经艰辛，期间好几天连续24小时没睡高强度上网，找过很多邮箱. 包括duck 、addy 、simplelogin 、 outlook邮箱也买了一大堆、firfox relay的会员。买过代理池、eSIM等住宅IP，很多次原本以为找到方法了结果第二天就不行了：\nduckduckgo：刚开始duckduckgo可以撸大概撸了80个，不给我创建别名了 换号后发现被撸秃噜皮了，或者几分钟甚至几十分钟才能收到邮件.\naddy 提供的别名隐私邮箱也是100成功，撸5个给封号了 不过个人够用了\nsimplelogin ：还在测试测试着给我发邮件说我在注册openai 警告我然后给我封了（看来这种邮箱转发服务还会看你的邮件内容）\nfirefox relay：说好开会员有无限别名开完会员创建100个账号后给我账号暂停了 ”，我发邮件过去表达不满过一天他给我解封了 可是这是这个火狐邮箱提交过去gpt直接拒绝下一步了.（不过也很不错了）\n微软邮箱：outlook 买了500个号 400个oauth无效 剩下100个addphone\nhotmail 买了500 也有400个oauth无效 然后50% 左右会addphone 幸好还有50个存活\n\n比起LINUX DO上别人公益都十几二十万账号池的，我这个一千个号就当试试水吧。其实addphone主要就是邮箱的原因，自用的话可以用我上面说的一些方法撸十来个都是可以够自己用的，总之OpenAI的风控也就这样..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040312158106378306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前段时间机缘巧合下在L站看到佬友分享的注册机踏上了开中转站的道路，当时自建邮局就可以注册，但是好景不长两天就大规模封号，很多codex大量拉闸，期间出来新的注册方法但是统统都黑封禁。直到昨天找到个邮箱今天成功注册了几百个后（也不知道后续会不会封号）， https://t.co/FQYSl8vQkr https://t.co/JiDDs4GyMG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040191211617820672",
+            "3_2040191391675109376",
+            "3_2040191391259820032"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2040312158106378306",
+        "created_at": "2026-04-04T06:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040312158106378306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ftjl3wnb6o",
+              "end": 201,
+              "expanded_url": "https://x.com/realNyarime/status/2040312158106378306/photo/1",
+              "media_key": "3_2040191211617820672",
+              "start": 178,
+              "url": "https://t.co/Ftjl3wnb6o"
+            },
+            {
+              "display_url": "pic.x.com/Ftjl3wnb6o",
+              "end": 201,
+              "expanded_url": "https://x.com/realNyarime/status/2040312158106378306/photo/1",
+              "media_key": "3_2040191391675109376",
+              "start": 178,
+              "url": "https://t.co/Ftjl3wnb6o"
+            },
+            {
+              "display_url": "pic.x.com/Ftjl3wnb6o",
+              "end": 201,
+              "expanded_url": "https://x.com/realNyarime/status/2040312158106378306/photo/1",
+              "media_key": "3_2040191391259820032",
+              "start": 178,
+              "url": "https://t.co/Ftjl3wnb6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040312158106378306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "实现ChatGPT 5.4自由其实不难，由于各大公益站使用的注册机目前封号速度较快，只能手搓ChatGPT用于Codex满足个人所需。\n\n在开始注册前，请确保具备以下基础环境：\n谷歌Chrome浏览器 + 1个相对干净的节点 + CPA(CLIProxyAPI)\n先装个安装DuckDuckGo插件，完成Duck邮箱的基础配置，最后注册OpenAI账号。\n\n用DuckDuckGo的临时邮箱注册，节点干净的话不用绑定手机号的，如果让你绑定可以先不理。然后用CPA的Codex OAuth打开链接，用刚才注册好的duck邮箱登录。最后用CC Switch配置CPA的节点即可使用，普号一个星期15个就够用了，手搓自己用能坚持挺久！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 604,
+          "impression_count": 60211,
+          "like_count": 423,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "实现ChatGPT 5.4自由其实不难，由于各大公益站使用的注册机目前封号速度较快，只能手搓ChatGPT用于Codex满足个人所需。\n\n在开始注册前，请确保具备以下基础环境：\n谷歌Chrome浏览器 + 1个相对干净的节点 + CPA(CLIProxyAPI)\n先装个安装DuckDuckGo插件，完成Duck邮箱的基础配置，最后注册OpenAI账号。 https://t.co/Ftjl3wnb6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26954,
+          "following_count": 500,
+          "like_count": 11833,
+          "listed_count": 125,
+          "media_count": 1406,
+          "tweet_count": 9480
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

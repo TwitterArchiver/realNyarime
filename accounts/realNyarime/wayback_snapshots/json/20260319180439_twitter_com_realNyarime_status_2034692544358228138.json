@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034688522603700226",
+        "3_2034688573585465345",
+        "3_2034688591079907329",
+        "3_2034688856407384067"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2034692544358228138",
+    "created_at": "2026-03-19T18:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T19:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034692544358228138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wu7UJ1tfND",
+          "end": 103,
+          "expanded_url": "https://x.com/realNyarime/status/2034692544358228138/video/1",
+          "media_key": "13_2034688522603700226",
+          "start": 80,
+          "url": "https://t.co/wu7UJ1tfND"
+        },
+        {
+          "display_url": "pic.x.com/wu7UJ1tfND",
+          "end": 103,
+          "expanded_url": "https://x.com/realNyarime/status/2034692544358228138/video/1",
+          "media_key": "3_2034688573585465345",
+          "start": 80,
+          "url": "https://t.co/wu7UJ1tfND"
+        },
+        {
+          "display_url": "pic.x.com/wu7UJ1tfND",
+          "end": 103,
+          "expanded_url": "https://x.com/realNyarime/status/2034692544358228138/video/1",
+          "media_key": "3_2034688591079907329",
+          "start": 80,
+          "url": "https://t.co/wu7UJ1tfND"
+        },
+        {
+          "display_url": "pic.x.com/wu7UJ1tfND",
+          "end": 103,
+          "expanded_url": "https://x.com/realNyarime/status/2034692544358228138/video/1",
+          "media_key": "3_2034688856407384067",
+          "start": 80,
+          "url": "https://t.co/wu7UJ1tfND"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/realNyarime/status/2033969969663504746",
+          "start": 104,
+          "url": "https://t.co/IrSPDj9QZ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034692544358228138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "CMHK漫游上海移动，在无痕模式下HTTP访问被反诈网站时有概率跳当地反诈，以HTTPS访问论坛则触发RST，启用Cloudflare WARP后则恢复正常。\n\n疑似中国移动的旁路设备具备抢答UDP53上的DNS请求能力，或许将配置内卡的规则应用到外卡上。其余上海运营商DNS均带有反诈劫持，会不定期跳转，使用第三方公共DNS则不会有该问题。\n\n更奇怪的是，使用CTMO/CMHK/CTM打不开dnsleaktest[.]com检测网站。似乎是运营商侧DNS的解析失败，而非漫游基站所影响，原因未知。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033969969663504746",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "CMHK漫游上海移动，在无痕模式下HTTP访问被反诈网站时有概率跳当地反诈，以HTTPS访问论坛则触发RST，启用Cloudflare WARP后则恢复正常。 https://t.co/wu7UJ1tfND https://t.co/IrSPDj9QZ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39833,
+        "height": 832,
+        "media_key": "13_2034688522603700226",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034688522603700226/img/eY8kTWX_KjnDYP6q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034688522603700226/vid/avc1/320x692/L_oQq_HPqPoBVVEQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034688522603700226/vid/avc1/384x832/nNJa3UabSOhtMMqw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034688522603700226/pl/rWMgoarT-n3cDySM.m3u8"
+          }
+        ],
+        "width": 384
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2034688573585465345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyqejkboAECOem.jpg",
+        "width": 588
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034688591079907329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyqfkvboAEPmDh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2034688856407384067",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyqvBKboAMWOPx.jpg",
+        "width": 1002
+      },
+      {
+        "height": 635,
+        "media_key": "3_2033964473686626306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDoX6ZPbEAIx8Yq.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034688522603700226",
+            "3_2034688573585465345",
+            "3_2034688591079907329",
+            "3_2034688856407384067"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2034692544358228138",
+        "created_at": "2026-03-19T18:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T19:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034692544358228138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wu7UJ1tfND",
+              "end": 103,
+              "expanded_url": "https://x.com/realNyarime/status/2034692544358228138/video/1",
+              "media_key": "13_2034688522603700226",
+              "start": 80,
+              "url": "https://t.co/wu7UJ1tfND"
+            },
+            {
+              "display_url": "pic.x.com/wu7UJ1tfND",
+              "end": 103,
+              "expanded_url": "https://x.com/realNyarime/status/2034692544358228138/video/1",
+              "media_key": "3_2034688573585465345",
+              "start": 80,
+              "url": "https://t.co/wu7UJ1tfND"
+            },
+            {
+              "display_url": "pic.x.com/wu7UJ1tfND",
+              "end": 103,
+              "expanded_url": "https://x.com/realNyarime/status/2034692544358228138/video/1",
+              "media_key": "3_2034688591079907329",
+              "start": 80,
+              "url": "https://t.co/wu7UJ1tfND"
+            },
+            {
+              "display_url": "pic.x.com/wu7UJ1tfND",
+              "end": 103,
+              "expanded_url": "https://x.com/realNyarime/status/2034692544358228138/video/1",
+              "media_key": "3_2034688856407384067",
+              "start": 80,
+              "url": "https://t.co/wu7UJ1tfND"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/realNyarime/status/2033969969663504746",
+              "start": 104,
+              "url": "https://t.co/IrSPDj9QZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034692544358228138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "CMHK漫游上海移动，在无痕模式下HTTP访问被反诈网站时有概率跳当地反诈，以HTTPS访问论坛则触发RST，启用Cloudflare WARP后则恢复正常。\n\n疑似中国移动的旁路设备具备抢答UDP53上的DNS请求能力，或许将配置内卡的规则应用到外卡上。其余上海运营商DNS均带有反诈劫持，会不定期跳转，使用第三方公共DNS则不会有该问题。\n\n更奇怪的是，使用CTMO/CMHK/CTM打不开dnsleaktest[.]com检测网站。似乎是运营商侧DNS的解析失败，而非漫游基站所影响，原因未知。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033969969663504746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "CMHK漫游上海移动，在无痕模式下HTTP访问被反诈网站时有概率跳当地反诈，以HTTPS访问论坛则触发RST，启用Cloudflare WARP后则恢复正常。 https://t.co/wu7UJ1tfND https://t.co/IrSPDj9QZ0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033964473686626306"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2033969969663504746",
+        "created_at": "2026-03-17T18:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033969969663504746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mUMxbkBluq",
+              "end": 176,
+              "expanded_url": "https://x.com/realNyarime/status/2033969969663504746/photo/1",
+              "media_key": "3_2033964473686626306",
+              "start": 153,
+              "url": "https://t.co/mUMxbkBluq"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/realNyarime/status/2029792933973770377",
+              "start": 177,
+              "url": "https://t.co/DcNR0As19C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033969969663504746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有网友称，在上海使用境外eSIM并访问Google会被劫持至上海反诈拦截页，原因不明。\n\n我在本月初到沪时，发现酒店使用的上海移动IP打不开奶昔论坛，怀疑是中间人攻击，若加上HTTPS则触发RST阻断。若访问目标没开HSTS或以HTTP访问，页面会被302至上海反诈页面，包括数名上海推友也反馈了该问题。\n\n使用itdog的上海移动节点，在运营商DNS下解析的是反诈IP。而强制指向正确IP后，该节点直接超时，应该是SNI阻断了。猜测上海运营商已经开始在部署“省墙”，建议推友们给浏览器配个ECH省得被劫持。。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 539,
+          "impression_count": 311047,
+          "like_count": 826,
+          "quote_count": 13,
+          "reply_count": 62,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029792933973770377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有网友称，在上海使用境外eSIM并访问Google会被劫持至上海反诈拦截页，原因不明。\n\n我在本月初到沪时，发现酒店使用的上海移动IP打不开奶昔论坛，怀疑是中间人攻击，若加上HTTPS则触发RST阻断。若访问目标没开HSTS或以HTTP访问，页面会被302至上海反诈页面，包括数名上海推友也反馈了该问题。 https://t.co/mUMxbkBluq https://t.co/DcNR0As19C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22743,
+          "following_count": 502,
+          "like_count": 11092,
+          "listed_count": 95,
+          "media_count": 1184,
+          "tweet_count": 8564
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

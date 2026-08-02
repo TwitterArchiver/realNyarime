@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2015003988656357430",
+    "created_at": "2026-01-25T03:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T04:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015267944465682578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "940931345001299970",
+          "start": 0,
+          "username": "pxwwu_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015267944465682578",
+    "in_reply_to_user_id": "940931345001299970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015267404503507065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pxwwu_chan 我说的是Google One的那个VPN😣其他的都不会掉就是了，包括Fi的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1953,
+        "media_key": "3_2015267399898152960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_erBdpawAAuVP_.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2015003988656357430",
+        "created_at": "2026-01-25T03:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015267944465682578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "940931345001299970",
+              "start": 0,
+              "username": "pxwwu_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015267944465682578",
+        "in_reply_to_user_id": "940931345001299970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015267404503507065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pxwwu_chan 我说的是Google One的那个VPN😣其他的都不会掉就是了，包括Fi的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015267399898152960"
+          ]
+        },
+        "author_id": "940931345001299970",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2015003988656357430",
+        "created_at": "2026-01-25T03:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015267404503507065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOcx8JYHmh",
+              "end": 134,
+              "expanded_url": "https://x.com/pxwwu_chan/status/2015267404503507065/photo/1",
+              "media_key": "3_2015267399898152960",
+              "start": 111,
+              "url": "https://t.co/cOcx8JYHmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015267404503507065",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015003988656357430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime Pixel版Google VPN在后续版本中似乎已经把每1G流量的地区检测去掉了（我在大陆网络环境下跑了三次测速，总共跑掉了快2G流量，VPN还是没有掉），但是加上了对Google账号的地区要求 https://t.co/cOcx8JYHmh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10569,
+          "following_count": 587,
+          "like_count": 9755,
+          "listed_count": 36,
+          "media_count": 802,
+          "tweet_count": 6733
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-13T13:08:09.000Z",
+        "description": "🦋：@pxwwu.com|已摆烂の02年老阿姨|176cm|伪音摆烂中|🩷：MoeDreamAria（已销号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "pxwwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pxwwu.com",
+                "end": 23,
+                "expanded_url": "http://pxwwu.com",
+                "start": 0,
+                "url": "https://t.co/kiprkGLP3Z"
+              }
+            ]
+          }
+        },
+        "id": "940931345001299970",
+        "location": "阿莉亚的被窝",
+        "name": "pxwwu🦀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011275549809975297/b_0xZEp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12647,
+          "following_count": 3157,
+          "like_count": 176466,
+          "listed_count": 44,
+          "media_count": 3696,
+          "tweet_count": 18104
+        },
+        "url": "https://t.co/kiprkGLP3Z",
+        "username": "pxwwu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

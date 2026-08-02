@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068581681611821551",
+    "created_at": "2026-06-21T06:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068589071962907030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3387569464",
+          "start": 0,
+          "username": "UFP_YujunL"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "62bd729efdea504b"
+    },
+    "id": "2068589071962907030",
+    "in_reply_to_user_id": "3387569464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068581681611821551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UFP_YujunL 给🐏注入🧧！"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [62bd729efdea504b].",
+      "parameter": "geo.place_id",
+      "resource_id": "62bd729efdea504b",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "62bd729efdea504b"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068581672887742464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUUEllbcAA_LLa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068581681611821551",
+        "created_at": "2026-06-21T06:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068589071962907030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3387569464",
+              "start": 0,
+              "username": "UFP_YujunL"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "62bd729efdea504b"
+        },
+        "id": "2068589071962907030",
+        "in_reply_to_user_id": "3387569464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068581681611821551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UFP_YujunL 给🐏注入🧧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068581672887742464"
+          ]
+        },
+        "author_id": "3387569464",
+        "conversation_id": "2068581681611821551",
+        "created_at": "2026-06-21T06:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068581681611821551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxgFr5xbNA",
+              "end": 48,
+              "expanded_url": "https://x.com/UFP_YujunL/status/2068581681611821551/photo/1",
+              "media_key": "3_2068581672887742464",
+              "start": 25,
+              "url": "https://t.co/vxgFr5xbNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068581681611821551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁家反动派蚂蚁趁🐑主席加玻璃水时候伏击给🐑打针😭 https://t.co/vxgFr5xbNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38109,
+          "following_count": 658,
+          "like_count": 18084,
+          "listed_count": 178,
+          "media_count": 2204,
+          "tweet_count": 15073
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-22T15:56:17.000Z",
+        "description": "如果我牺牲了,请用我的骨灰在火星乌托邦平原种下一棵胡杨树(建制左派)|家用车驾驶王| 前𝗧𝗢𝗬𝗢𝗧𝗔 𝗖𝗔𝗠𝗥𝗬 𝗫𝗦𝗘 𝗔𝗪𝗗(不)省油车主|比亚迪大汉EV准车主 | 老婆@Pinokurimogu | 我真回流了你怎么还没润？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Pinokurimogu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yujunl.com.cn",
+                "end": 23,
+                "expanded_url": "http://yujunl.com.cn",
+                "start": 0,
+                "url": "https://t.co/ImIAme7ZMM"
+              }
+            ]
+          }
+        },
+        "id": "3387569464",
+        "location": "星际联邦地球广州人类抽象史博物馆",
+        "name": "彧君姨姨(🐑上班中)",
+        "pinned_tweet_id": "2022195978129092788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033623058410520576/mW4HfCtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13428,
+          "following_count": 859,
+          "like_count": 150263,
+          "listed_count": 58,
+          "media_count": 3990,
+          "tweet_count": 52073
+        },
+        "url": "https://t.co/ImIAme7ZMM",
+        "username": "UFP_YujunL",
+        "verified": false
+      }
+    ]
+  }
+}

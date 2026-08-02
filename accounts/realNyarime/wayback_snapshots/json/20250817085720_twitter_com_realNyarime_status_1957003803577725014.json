@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1956620773189431767",
+    "created_at": "2025-08-17T08:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T09:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957003803577725014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "717303429568172033",
+          "start": 0,
+          "username": "TooooooBug"
+        }
+      ],
+      "urls": [
+        {
+          "description": "奶昔论坛是一个专业的主机测评和卡粉论坛，提供全球IDC资源、服务器优惠信息、全球电话卡（实体卡/eSIM）、eUICC（5ber、9eSIM、eSTK）推荐，同时涵盖 海外银行卡、信用卡、虚拟卡、出海支付 等资源交流。适合VPS玩家、IDC主机商、跨境支付需求用户加入讨论。",
+          "display_url": "naixi.net",
+          "end": 57,
+          "expanded_url": "http://naixi.net",
+          "start": 34,
+          "status": 200,
+          "title": "奶昔论坛",
+          "unwound_url": "https://forum.naixi.net/",
+          "url": "https://t.co/6BGyA2AiQF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957003803577725014",
+    "in_reply_to_user_id": "717303429568172033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956620773189431767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TooooooBug 感谢引用论坛~这个问题确实也挺困扰的，之前 https://t.co/6BGyA2AiQF 也遇到过这种问题，后面是迁移到华为云上（因为华为云的TTL=1等都是DNSPod企业版的功能，分区域细化）对中国内地做了所谓的cf for saas（也就是优选"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1932,
+        "media_key": "3_1956620392765997056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GydP4W8aQAArzB5.jpg",
+        "width": 1924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1956620773189431767",
+        "created_at": "2025-08-17T08:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957003803577725014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "717303429568172033",
+              "start": 0,
+              "username": "TooooooBug"
+            }
+          ],
+          "urls": [
+            {
+              "description": "奶昔论坛是一个专业的主机测评和卡粉论坛，提供全球IDC资源、服务器优惠信息、全球电话卡（实体卡/eSIM）、eUICC（5ber、9eSIM、eSTK）推荐，同时涵盖 海外银行卡、信用卡、虚拟卡、出海支付 等资源交流。适合VPS玩家、IDC主机商、跨境支付需求用户加入讨论。",
+              "display_url": "naixi.net",
+              "end": 57,
+              "expanded_url": "http://naixi.net",
+              "start": 34,
+              "status": 200,
+              "title": "奶昔论坛",
+              "unwound_url": "https://forum.naixi.net/",
+              "url": "https://t.co/6BGyA2AiQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957003803577725014",
+        "in_reply_to_user_id": "717303429568172033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956620773189431767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TooooooBug 感谢引用论坛~这个问题确实也挺困扰的，之前 https://t.co/6BGyA2AiQF 也遇到过这种问题，后面是迁移到华为云上（因为华为云的TTL=1等都是DNSPod企业版的功能，分区域细化）对中国内地做了所谓的cf for saas（也就是优选"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956620392765997056"
+          ]
+        },
+        "author_id": "717303429568172033",
+        "conversation_id": "1956620773189431767",
+        "created_at": "2025-08-16T07:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T08:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956620773189431767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "还以为域名被墙了，用itdog.cn测了全都是104.21.x.1的IP，特征是中国大陆的流量全红刚开始记得是移动全红，看论坛也有人提到Cloudflare默认分配的CDN节点IP地址被墙影响 ... Cloudflare默认解析的 .1 IP疑似被墙",
+              "display_url": "forum.naixi.net/thread-4643-1-…",
+              "end": 107,
+              "expanded_url": "https://forum.naixi.net/thread-4643-1-1.html",
+              "start": 84,
+              "status": 200,
+              "title": "Cloudflare默认解析的 .1 IP疑似被墙 - 日常 - 奶昔论坛",
+              "unwound_url": "https://forum.naixi.net/thread-4643-1-1.html",
+              "url": "https://t.co/I2IZiJWARF"
+            },
+            {
+              "description": "rt，发现自己网站打不开了，itdog 测了下发现整个移动网都连不上，有没有什么办法解决。 如何解决域名解析的 Cloudflare CDN 地址被墙？",
+              "display_url": "forum.naixi.net/thread-3371-1-…",
+              "end": 131,
+              "expanded_url": "https://forum.naixi.net/thread-3371-1-1.html",
+              "start": 108,
+              "status": 200,
+              "title": "如何解决域名解析的 Cloudflare CDN 地址被墙？ - 技术 - 奶昔论坛",
+              "unwound_url": "https://forum.naixi.net/thread-3371-1-1.html",
+              "url": "https://t.co/juFVR2wY0N"
+            },
+            {
+              "display_url": "pic.x.com/ZruinGhJFH",
+              "end": 155,
+              "expanded_url": "https://x.com/TooooooBug/status/1956620773189431767/photo/1",
+              "media_key": "3_1956620392765997056",
+              "start": 132,
+              "url": "https://t.co/ZruinGhJFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956620773189431767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "托管在Cloudflare CDN上的部分域名，疑似命中某些名单/规则，Cloudflare主动返回被墙IP（最后一段始终是是.1）从而实现在中国内地无法被访问到。\n\nhttps://t.co/I2IZiJWARF https://t.co/juFVR2wY0N https://t.co/ZruinGhJFH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Misaka Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "realYingxi"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.naixi.org",
+                "end": 23,
+                "expanded_url": "http://about.naixi.org",
+                "start": 0,
+                "url": "https://t.co/8GeteJjIji"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1921821242216079872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946950491587346432/_yYHQvqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 805,
+          "like_count": 7927,
+          "listed_count": 6,
+          "media_count": 446,
+          "tweet_count": 3978
+        },
+        "url": "https://t.co/8GeteJjIji",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-05T10:50:39.000Z",
+        "description": "🌐@tinkink_net 创始人\n💌最近在做https://t.co/UzVaVEWUlF\n💼前腾讯/富途专家工程师\n💼前富途中层管理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "tinkink_net"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tinkmail.me",
+                "end": 46,
+                "expanded_url": "http://tinkmail.me",
+                "start": 23,
+                "url": "https://t.co/UzVaVEWUlF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toobug.net",
+                "end": 23,
+                "expanded_url": "https://www.toobug.net",
+                "start": 0,
+                "url": "https://t.co/EM1K9CR9h5"
+              }
+            ]
+          }
+        },
+        "id": "717303429568172033",
+        "location": "Shenzhen, China",
+        "name": "toobug",
+        "pinned_tweet_id": "1938150675105636761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722438878509064193/KgsDUvfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6047,
+          "following_count": 931,
+          "like_count": 1978,
+          "listed_count": 66,
+          "media_count": 922,
+          "tweet_count": 7065
+        },
+        "url": "https://t.co/EM1K9CR9h5",
+        "username": "TooooooBug",
+        "verified": true
+      }
+    ]
+  }
+}

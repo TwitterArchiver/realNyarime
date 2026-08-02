@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2066916314434982171",
+    "created_at": "2026-06-16T17:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066940803583488122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "69546024",
+          "start": 0,
+          "username": "moreoronce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066940803583488122",
+    "in_reply_to_user_id": "69546024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066926102413738476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moreoronce 很有道理，记录了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2066916314434982171",
+        "created_at": "2026-06-16T17:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066940803583488122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "69546024",
+              "start": 0,
+              "username": "moreoronce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066940803583488122",
+        "in_reply_to_user_id": "69546024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066926102413738476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moreoronce 很有道理，记录了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69546024",
+        "conversation_id": "2066916314434982171",
+        "created_at": "2026-06-16T16:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066926102413738476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066926102413738476",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066916314434982171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 腋窝选我选择ROS的原因：\n1. 稳定性极高\n2. 系统占用极低\n3. 旁路网关可以配合mangle实现更完美的分流\n4. 有app可以随时操作\n5. 文档能查到对应模块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37883,
+          "following_count": 657,
+          "like_count": 17699,
+          "listed_count": 178,
+          "media_count": 2168,
+          "tweet_count": 14660
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-28T09:13:13.000Z",
+        "description": "自我迭代",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deeprouter.org",
+                "end": 23,
+                "expanded_url": "https://deeprouter.org",
+                "start": 0,
+                "url": "https://t.co/JP4wgQA4FJ"
+              }
+            ]
+          }
+        },
+        "id": "69546024",
+        "name": "Lex Parsimoniae🚲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011250033107365888/ziB0RGqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 389,
+          "like_count": 1846,
+          "listed_count": 16,
+          "media_count": 1556,
+          "tweet_count": 48973
+        },
+        "url": "https://t.co/JP4wgQA4FJ",
+        "username": "moreoronce",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "1950131229832990849",
+    "created_at": "2025-07-29T09:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T10:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950131229832990849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "buy.naixi.a.coffee",
+          "end": 23,
+          "expanded_url": "http://buy.naixi.a.coffee",
+          "start": 0,
+          "status": 404,
+          "unwound_url": "http://buy.naixi.a.coffee",
+          "url": "https://t.co/7xwtOPIeKD"
+        },
+        {
+          "display_url": "x.com/we_webmaster/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/we_webmaster/status/1950066561131172154",
+          "start": 24,
+          "url": "https://t.co/7Wt2fu5ojE"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "1950131229832990849",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950066561131172154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/7xwtOPIeKD https://t.co/7Wt2fu5ojE"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1950131229832990849",
+        "created_at": "2025-07-29T09:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950131229832990849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "buy.naixi.a.coffee",
+              "end": 23,
+              "expanded_url": "http://buy.naixi.a.coffee",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "http://buy.naixi.a.coffee",
+              "url": "https://t.co/7xwtOPIeKD"
+            },
+            {
+              "display_url": "x.com/we_webmaster/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/we_webmaster/status/1950066561131172154",
+              "start": 24,
+              "url": "https://t.co/7Wt2fu5ojE"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1950131229832990849",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950066561131172154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/7xwtOPIeKD https://t.co/7Wt2fu5ojE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535449604984287232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1950066561131172154",
+        "created_at": "2025-07-29T05:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T06:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950066561131172154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950066561131172154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "buy.me.a.coffee",
+                "end": 291,
+                "expanded_url": "http://buy.me.a.coffee",
+                "start": 268,
+                "url": "https://t.co/GSgMpCZZJE"
+              },
+              {
+                "display_url": "A.coffee/[x",
+                "end": 345,
+                "expanded_url": "http://A.coffee/[x",
+                "start": 322,
+                "url": "https://t.co/oyRjioOxVU"
+              }
+            ]
+          },
+          "text": "If you want a subdomain in the format buy.[x].a.coffee, follow me and quote this post with the subdomain [x] you’d like to claim.\n\n* v1 will only support redirects to your specified URL, no other features yet.\n* Development just started.\n* Requires >= 2 characters.\n* https://t.co/GSgMpCZZJE is reserved.\n* Accessible via https://t.co/oyRjioOxVU] too.\n* Cannot use names of other people or products.\n* Cannot be common restricted words.\n* Some words may be unusable for other reasons.\n* First come, first served for the same name."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 176,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "If you want a subdomain in the format buy.[x].a.coffee, follow me and quote this post with the subdomain [x] you’d like to claim.\n\n* v1 will only support redirects to your specified URL, no other features yet.\n* Development just started.\n* Requires &gt;= 2 characters.\n*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Misaka Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "realYingxi"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.naixi.org",
+                "end": 23,
+                "expanded_url": "http://about.naixi.org",
+                "start": 0,
+                "url": "https://t.co/8GeteJjIji"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1921821242216079872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946950491587346432/_yYHQvqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 783,
+          "like_count": 7866,
+          "listed_count": 7,
+          "media_count": 444,
+          "tweet_count": 3935
+        },
+        "url": "https://t.co/8GeteJjIji",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T02:31:36.000Z",
+        "description": "中文: @becool_me\n\nhttps://t.co/zP2V1C2i6V\nhttps://t.co/UIkVoOEixv\nhttps://t.co/H8fSluwJ8h\nhttps://t.co/QyVhcTIfUw\nhttps://t.co/GqwX7lgrqZ\nhttps://t.co/rKmp6lDSlU\nhttps://t.co/wM7eU6XflF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "becool_me"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Datetime.app",
+                "end": 39,
+                "expanded_url": "https://Datetime.app",
+                "start": 16,
+                "url": "https://t.co/zP2V1C2i6V"
+              },
+              {
+                "display_url": "Query.domains",
+                "end": 63,
+                "expanded_url": "https://Query.domains",
+                "start": 40,
+                "url": "https://t.co/UIkVoOEixv"
+              },
+              {
+                "display_url": "Favicon.im",
+                "end": 87,
+                "expanded_url": "https://Favicon.im",
+                "start": 64,
+                "url": "https://t.co/H8fSluwJ8h"
+              },
+              {
+                "display_url": "IP.network",
+                "end": 111,
+                "expanded_url": "https://www.IP.network",
+                "start": 88,
+                "url": "https://t.co/QyVhcTIfUw"
+              },
+              {
+                "display_url": "logo.surf",
+                "end": 135,
+                "expanded_url": "https://www.logo.surf",
+                "start": 112,
+                "url": "https://t.co/GqwX7lgrqZ"
+              },
+              {
+                "display_url": "Small.im",
+                "end": 159,
+                "expanded_url": "https://Small.im",
+                "start": 136,
+                "url": "https://t.co/rKmp6lDSlU"
+              },
+              {
+                "display_url": "QRCode.fun",
+                "end": 183,
+                "expanded_url": "https://QRCode.fun",
+                "start": 160,
+                "url": "https://t.co/wM7eU6XflF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "webmaster.studio",
+                "end": 23,
+                "expanded_url": "https://webmaster.studio",
+                "start": 0,
+                "url": "https://t.co/x9iewXjsZb"
+              }
+            ]
+          }
+        },
+        "id": "1535449604984287232",
+        "location": "web",
+        "name": "Webmaster.Studio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826652664848846848/sadPKi-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 419,
+          "like_count": 476,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/x9iewXjsZb",
+        "username": "we_webmaster",
+        "verified": true
+      }
+    ]
+  }
+}

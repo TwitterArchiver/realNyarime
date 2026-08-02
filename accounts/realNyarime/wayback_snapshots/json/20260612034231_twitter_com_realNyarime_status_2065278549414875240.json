@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065277261797060608",
+        "3_2065277280658878465",
+        "3_2065277298442686464"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041116541",
+          "name": "LinkedIn"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10043689816",
+          "name": "Microsoft Office"
+        }
+      }
+    ],
+    "conversation_id": "2065278549414875240",
+    "created_at": "2026-06-12T03:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065278549414875240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ltYxe5JZfZ",
+          "end": 156,
+          "expanded_url": "https://x.com/realNyarime/status/2065278549414875240/photo/1",
+          "media_key": "3_2065277261797060608",
+          "start": 133,
+          "url": "https://t.co/ltYxe5JZfZ"
+        },
+        {
+          "display_url": "pic.x.com/ltYxe5JZfZ",
+          "end": 156,
+          "expanded_url": "https://x.com/realNyarime/status/2065278549414875240/photo/1",
+          "media_key": "3_2065277280658878465",
+          "start": 133,
+          "url": "https://t.co/ltYxe5JZfZ"
+        },
+        {
+          "display_url": "pic.x.com/ltYxe5JZfZ",
+          "end": 156,
+          "expanded_url": "https://x.com/realNyarime/status/2065278549414875240/photo/1",
+          "media_key": "3_2065277298442686464",
+          "start": 133,
+          "url": "https://t.co/ltYxe5JZfZ"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 180,
+          "expanded_url": "https://twitter.com/realNyarime/status/2061794657651290478",
+          "start": 157,
+          "url": "https://t.co/rHQ3mKuqwH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065278549414875240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061794657651290478",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你说轻量project用Claude、GPT浪费？之前有薅Office Premium用起来，免费的就不心疼了！\n\nWord可以用Claude Opus 4.7，PPT、Excel可以用Claude Opus 4.8\n同时还有GPT-Image-2生图，这不好吗？ https://t.co/ltYxe5JZfZ https://t.co/rHQ3mKuqwH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1246,
+        "media_key": "3_2065277261797060608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlWujAa8AA5FZN.jpg",
+        "width": 826
+      },
+      {
+        "height": 1552,
+        "media_key": "3_2065277280658878465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlWvpRbcAErj8O.jpg",
+        "width": 818
+      },
+      {
+        "height": 1094,
+        "media_key": "3_2065277298442686464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlWwrha0AAIi4f.jpg",
+        "width": 766
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2061793672526716928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJz2a9saYAApUqA.jpg",
+        "width": 809
+      },
+      {
+        "height": 655,
+        "media_key": "3_2061793699257106432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJz2chRbwAAOKco.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065277261797060608",
+            "3_2065277280658878465",
+            "3_2065277298442686464"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043689816",
+              "name": "Microsoft Office"
+            }
+          }
+        ],
+        "conversation_id": "2065278549414875240",
+        "created_at": "2026-06-12T03:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065278549414875240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltYxe5JZfZ",
+              "end": 156,
+              "expanded_url": "https://x.com/realNyarime/status/2065278549414875240/photo/1",
+              "media_key": "3_2065277261797060608",
+              "start": 133,
+              "url": "https://t.co/ltYxe5JZfZ"
+            },
+            {
+              "display_url": "pic.x.com/ltYxe5JZfZ",
+              "end": 156,
+              "expanded_url": "https://x.com/realNyarime/status/2065278549414875240/photo/1",
+              "media_key": "3_2065277280658878465",
+              "start": 133,
+              "url": "https://t.co/ltYxe5JZfZ"
+            },
+            {
+              "display_url": "pic.x.com/ltYxe5JZfZ",
+              "end": 156,
+              "expanded_url": "https://x.com/realNyarime/status/2065278549414875240/photo/1",
+              "media_key": "3_2065277298442686464",
+              "start": 133,
+              "url": "https://t.co/ltYxe5JZfZ"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/realNyarime/status/2061794657651290478",
+              "start": 157,
+              "url": "https://t.co/rHQ3mKuqwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065278549414875240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061794657651290478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说轻量project用Claude、GPT浪费？之前有薅Office Premium用起来，免费的就不心疼了！\n\nWord可以用Claude Opus 4.7，PPT、Excel可以用Claude Opus 4.8\n同时还有GPT-Image-2生图，这不好吗？ https://t.co/ltYxe5JZfZ https://t.co/rHQ3mKuqwH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061793672526716928",
+            "3_2061793699257106432"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043689816",
+              "name": "Microsoft Office"
+            }
+          }
+        ],
+        "conversation_id": "2061794657651290478",
+        "created_at": "2026-06-02T12:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061794657651290478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jcc902h49J",
+              "end": 191,
+              "expanded_url": "https://x.com/realNyarime/status/2061794657651290478/photo/1",
+              "media_key": "3_2061793672526716928",
+              "start": 168,
+              "url": "https://t.co/jcc902h49J"
+            },
+            {
+              "display_url": "pic.x.com/jcc902h49J",
+              "end": 191,
+              "expanded_url": "https://x.com/realNyarime/status/2061794657651290478/photo/1",
+              "media_key": "3_2061793699257106432",
+              "start": 168,
+              "url": "https://t.co/jcc902h49J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061794657651290478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 53297,
+          "like_count": 192,
+          "quote_count": 2,
+          "reply_count": 108,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Office 365 Premium用户可免费用GPT-5.4、GPT-5.5，Claude Opus 4.7、Claude Opus 4.8四款模型\n\n如果你之前薅过5年的Office优惠，那个送领英（LinkedIn）会员的，就可以打开Excel和PPT用起来了\n当然如果你愿意在Excel里编程，在PPT里面生图，那确实很好了😂 https://t.co/jcc902h49J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37467,
+          "following_count": 657,
+          "like_count": 17322,
+          "listed_count": 163,
+          "media_count": 2137,
+          "tweet_count": 14340
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

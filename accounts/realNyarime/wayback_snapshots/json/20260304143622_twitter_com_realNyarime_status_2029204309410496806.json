@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2029202971356217524",
+    "created_at": "2026-03-04T14:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T15:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029204309410496806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3362233085",
+          "start": 0,
+          "username": "CyanCherry8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029204309410496806",
+    "in_reply_to_user_id": "3362233085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029203989276000706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyanCherry8964 如果换成USB-A给我的鼠标就好了，真的当瘦客户机（vnc、rdp、vdi连接器）也不是不行。\n尤其是教育行业，可以跟Chromebook抢市场，未来可期！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2029202971356217524",
+        "created_at": "2026-03-04T14:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029204309410496806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3362233085",
+              "start": 0,
+              "username": "CyanCherry8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029204309410496806",
+        "in_reply_to_user_id": "3362233085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029203989276000706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyanCherry8964 如果换成USB-A给我的鼠标就好了，真的当瘦客户机（vnc、rdp、vdi连接器）也不是不行。\n尤其是教育行业，可以跟Chromebook抢市场，未来可期！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3362233085",
+        "conversation_id": "2029202971356217524",
+        "created_at": "2026-03-04T14:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029203989276000706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029203989276000706",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029202971356217524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 前所未有的耳机孔位置"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19360,
+          "following_count": 520,
+          "like_count": 10612,
+          "listed_count": 76,
+          "media_count": 1034,
+          "tweet_count": 7923
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-06T11:03:26.000Z",
+        "description": "tech otaku, web full-stack, in GoLang & TypeScript. Getting interested in LLM inference engine.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyan-fun.vercel.app",
+                "end": 23,
+                "expanded_url": "http://cyan-fun.vercel.app",
+                "start": 0,
+                "url": "https://t.co/PXIT5y7vBA"
+              }
+            ]
+          }
+        },
+        "id": "3362233085",
+        "location": "Blue Earth, MN",
+        "name": "Cyan Cherry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718613854522097664/IOJ1V_w0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 163,
+          "like_count": 10925,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/PXIT5y7vBA",
+        "username": "CyanCherry8964",
+        "verified": false
+      }
+    ]
+  }
+}

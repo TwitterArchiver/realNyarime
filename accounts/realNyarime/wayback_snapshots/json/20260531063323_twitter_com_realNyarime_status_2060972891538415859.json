@@ -1,0 +1,570 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060972485110341632"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2060972891538415859",
+    "created_at": "2026-05-31T06:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060972891538415859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "开源维护者可以申请 Codex for Open Source 的支持，包括 ChatGPT Pro、AI 辅助代码审查，以及针对关键项目的安全工具。",
+          "display_url": "openai.com/zh-Hans-CN/for…",
+          "end": 160,
+          "expanded_url": "https://openai.com/zh-Hans-CN/form/codex-for-oss/",
+          "images": [
+            {
+              "height": 900,
+              "url": "https://pbs.twimg.com/news_img/2060688826071396353/2kVUDSn1?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2060688826071396353/2kVUDSn1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 137,
+          "status": 200,
+          "title": "Codex for Open Source",
+          "unwound_url": "https://openai.com/zh-Hans-CN/form/codex-for-oss/",
+          "url": "https://t.co/xqTlGQz3eW"
+        },
+        {
+          "display_url": "pic.x.com/VM9lT3dbet",
+          "end": 184,
+          "expanded_url": "https://x.com/realNyarime/status/2060972891538415859/photo/1",
+          "media_key": "3_2060972485110341632",
+          "start": 161,
+          "url": "https://t.co/VM9lT3dbet"
+        },
+        {
+          "display_url": "x.com/thsottiaux/sta…",
+          "end": 208,
+          "expanded_url": "https://twitter.com/thsottiaux/status/2060964284117782996",
+          "start": 185,
+          "url": "https://t.co/brgCu6BM53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060972891538415859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060964284117782996",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就喜欢Tibo老重置我的Codex额度，把我的周末都变成coding week了，不用又感觉亏（被拿捏了😭\n\n另外安利一下Codex for Open Source，如果你是开源dalao可以尝试申请一下，万一被OpenAI看到了就有半年免费的ChatGPT Pro用\n\nhttps://t.co/xqTlGQz3eW https://t.co/VM9lT3dbet https://t.co/brgCu6BM53"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2060972485110341632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoLjkLbIAAHcp1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060972485110341632"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2060972891538415859",
+        "created_at": "2026-05-31T06:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060972891538415859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "开源维护者可以申请 Codex for Open Source 的支持，包括 ChatGPT Pro、AI 辅助代码审查，以及针对关键项目的安全工具。",
+              "display_url": "openai.com/zh-Hans-CN/for…",
+              "end": 160,
+              "expanded_url": "https://openai.com/zh-Hans-CN/form/codex-for-oss/",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2060688826071396353/2kVUDSn1?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060688826071396353/2kVUDSn1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 137,
+              "status": 200,
+              "title": "Codex for Open Source",
+              "unwound_url": "https://openai.com/zh-Hans-CN/form/codex-for-oss/",
+              "url": "https://t.co/xqTlGQz3eW"
+            },
+            {
+              "display_url": "pic.x.com/VM9lT3dbet",
+              "end": 184,
+              "expanded_url": "https://x.com/realNyarime/status/2060972891538415859/photo/1",
+              "media_key": "3_2060972485110341632",
+              "start": 161,
+              "url": "https://t.co/VM9lT3dbet"
+            },
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2060964284117782996",
+              "start": 185,
+              "url": "https://t.co/brgCu6BM53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060972891538415859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060964284117782996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就喜欢Tibo老重置我的Codex额度，把我的周末都变成coding week了，不用又感觉亏（被拿捏了😭\n\n另外安利一下Codex for Open Source，如果你是开源dalao可以尝试申请一下，万一被OpenAI看到了就有半年免费的ChatGPT Pro用\n\nhttps://t.co/xqTlGQz3eW https://t.co/VM9lT3dbet https://t.co/brgCu6BM53"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953337039510003712",
+        "conversation_id": "2060964284117782996",
+        "created_at": "2026-05-31T05:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060964284117782996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blader/status/…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/blader/status/2060920535245324479",
+              "start": 102,
+              "url": "https://t.co/MdRBfp8Od0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060964284117782996",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 35654,
+          "like_count": 905,
+          "quote_count": 75,
+          "reply_count": 117,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060920535245324479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Five million users would agree. Resetting the limits tomorrow morning to celebrate.\n\nTime to go /fast https://t.co/MdRBfp8Od0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35540,
+          "following_count": 656,
+          "like_count": 16175,
+          "listed_count": 156,
+          "media_count": 1996,
+          "tweet_count": 13269
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex & ChatGPT @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "OpenAI"
+              }
+            ]
+          }
+        },
+        "id": "1953337039510003712",
+        "name": "Tibo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953339828738899968/WWQlU2RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128104,
+          "following_count": 64,
+          "like_count": 7156,
+          "listed_count": 1361,
+          "media_count": 72,
+          "tweet_count": 1826
+        },
+        "username": "thsottiaux",
+        "verified": true
+      }
+    ]
+  }
+}

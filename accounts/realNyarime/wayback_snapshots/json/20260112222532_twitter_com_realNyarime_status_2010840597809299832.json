@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2010840597809299832",
+    "created_at": "2026-01-12T22:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T23:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010840597809299832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yeahwu404/stat…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/yeahwu404/status/2004457215403741243",
+          "start": 137,
+          "url": "https://t.co/WS5c2A2z5v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010840597809299832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "gomami.io/aff.php?aff=190",
+            "end": 432,
+            "expanded_url": "https://gomami.io/aff.php?aff=190",
+            "start": 409,
+            "url": "https://t.co/KjH3a4G0kO"
+          }
+        ]
+      },
+      "text": "VmShell老板杨总据说在美国开了一家像Wise的银行，叫VmBank。不过我跟他多年前认识过，应该是2021年那段时间。\n\n他们家最头疼的问题还是内存珍惜入金，配置给的好低，除了现在的1c0.5g，以前甚至有256MB内存的KVM存在，不是给建站的而是开机场VPN的。\n另外就是speedtest会导致机器断网半个小时？不过自己的7788测速vps还是好端端的，不清楚现在开心的SolusVM换了没？\n如果没换建议你同产品买一对，俩换着IP用就计算不了流量了。至于说那么点内存能干啥，当个机场落地？\n\n既然提到CeRaNetworks，那就是AS40065，VmShell有一款产品叫澳门IP的，其实就是把whois mo的IPv4放香港🐔上，这跟市面上那个“东亚”nat朝鲜ipv6挂warp的操作其实大差不差。\n线路是好线路，至于这价格，我觉得有点眼力见的可以选择Sharon家的GoMami，那个才算顶尖。\nhttps://t.co/KjH3a4G0kO"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004457215403741243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "VmShell老板杨总据说在美国开了一家像Wise的银行，叫VmBank。不过我跟他多年前认识过，应该是2021年那段时间。\n\n他们家最头疼的问题还是内存珍惜入金，配置给的好低，除了现在的1c0.5g，以前甚至有256MB内存的KVM存在，不是给建站的而是开机场VPN的。 https://t.co/WS5c2A2z5v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2010840597809299832",
+        "created_at": "2026-01-12T22:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T23:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010840597809299832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yeahwu404/stat…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/yeahwu404/status/2004457215403741243",
+              "start": 137,
+              "url": "https://t.co/WS5c2A2z5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010840597809299832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "gomami.io/aff.php?aff=190",
+                "end": 432,
+                "expanded_url": "https://gomami.io/aff.php?aff=190",
+                "start": 409,
+                "url": "https://t.co/KjH3a4G0kO"
+              }
+            ]
+          },
+          "text": "VmShell老板杨总据说在美国开了一家像Wise的银行，叫VmBank。不过我跟他多年前认识过，应该是2021年那段时间。\n\n他们家最头疼的问题还是内存珍惜入金，配置给的好低，除了现在的1c0.5g，以前甚至有256MB内存的KVM存在，不是给建站的而是开机场VPN的。\n另外就是speedtest会导致机器断网半个小时？不过自己的7788测速vps还是好端端的，不清楚现在开心的SolusVM换了没？\n如果没换建议你同产品买一对，俩换着IP用就计算不了流量了。至于说那么点内存能干啥，当个机场落地？\n\n既然提到CeRaNetworks，那就是AS40065，VmShell有一款产品叫澳门IP的，其实就是把whois mo的IPv4放香港🐔上，这跟市面上那个“东亚”nat朝鲜ipv6挂warp的操作其实大差不差。\n线路是好线路，至于这价格，我觉得有点眼力见的可以选择Sharon家的GoMami，那个才算顶尖。\nhttps://t.co/KjH3a4G0kO"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004457215403741243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "VmShell老板杨总据说在美国开了一家像Wise的银行，叫VmBank。不过我跟他多年前认识过，应该是2021年那段时间。\n\n他们家最头疼的问题还是内存珍惜入金，配置给的好低，除了现在的1c0.5g，以前甚至有256MB内存的KVM存在，不是给建站的而是开机场VPN的。 https://t.co/WS5c2A2z5v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3645622759",
+        "conversation_id": "2004457215403741243",
+        "created_at": "2025-12-26T07:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T08:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004457215403741243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "vmshell.com/aff.php?aff=27…",
+              "end": 95,
+              "expanded_url": "https://vmshell.com/aff.php?aff=2773&pid=12",
+              "start": 72,
+              "status": 200,
+              "unwound_url": "https://vmshell.com/index.php?rp=/store/cmin2hk",
+              "url": "https://t.co/BBnWHWJ1nu"
+            },
+            {
+              "display_url": "netdata.vmshell.com:7788",
+              "end": 123,
+              "expanded_url": "http://netdata.vmshell.com:7788",
+              "start": 100,
+              "unwound_url": "http://netdata.vmshell.com:7788",
+              "url": "https://t.co/ZdcH6ztbU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004457215403741243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4424,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港三网CMI，价格真还可以\n\n配置升到: 1C-512MB内存-1TB/月\n\n价格还是维持: 33.00 USD/年\n(续费同价)\n\n订购: https://t.co/BBnWHWJ1nu\n\n测速：https://t.co/ZdcH6ztbU6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008425765751185868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7988,
+          "following_count": 678,
+          "like_count": 8863,
+          "listed_count": 22,
+          "media_count": 688,
+          "tweet_count": 5701
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-22T05:50:09.000Z",
+        "description": "TG频道：https://t.co/XecRtYVXfl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Hello_1024",
+                "end": 28,
+                "expanded_url": "http://t.me/Hello_1024",
+                "start": 5,
+                "url": "https://t.co/XecRtYVXfl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1024.day",
+                "end": 23,
+                "expanded_url": "https://1024.day",
+                "start": 0,
+                "url": "https://t.co/CWwF31aaRR"
+              }
+            ]
+          }
+        },
+        "id": "3645622759",
+        "name": "七舅姥爷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/758615102564163584/BRWfouwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14138,
+          "following_count": 326,
+          "like_count": 1745,
+          "listed_count": 149,
+          "media_count": 271,
+          "tweet_count": 2743
+        },
+        "url": "https://t.co/CWwF31aaRR",
+        "username": "yeahwu404",
+        "verified": true
+      }
+    ]
+  }
+}

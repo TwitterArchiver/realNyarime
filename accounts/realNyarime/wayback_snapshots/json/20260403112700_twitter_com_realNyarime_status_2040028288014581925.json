@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Internet of Things",
+          "id": "898657691010191360",
+          "name": "Internet of things"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Internet of Things",
+          "id": "898657691010191360",
+          "name": "Internet of things"
+        }
+      }
+    ],
+    "conversation_id": "2039749556691497197",
+    "created_at": "2026-04-03T11:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040028288014581925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "86323794",
+          "start": 0,
+          "username": "rainmanctu"
+        },
+        {
+          "end": 24,
+          "id": "704608953494142976",
+          "start": 12,
+          "username": "zoenghoigin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040028288014581925",
+    "in_reply_to_user_id": "86323794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039827062350066102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainmanctu @zoenghoigin APN配置，名字随意，写cmhk或mb.iot即可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Internet of Things",
+              "id": "898657691010191360",
+              "name": "Internet of things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Internet of Things",
+              "id": "898657691010191360",
+              "name": "Internet of things"
+            }
+          }
+        ],
+        "conversation_id": "2039749556691497197",
+        "created_at": "2026-04-03T11:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040028288014581925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "86323794",
+              "start": 0,
+              "username": "rainmanctu"
+            },
+            {
+              "end": 24,
+              "id": "704608953494142976",
+              "start": 12,
+              "username": "zoenghoigin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040028288014581925",
+        "in_reply_to_user_id": "86323794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039827062350066102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainmanctu @zoenghoigin APN配置，名字随意，写cmhk或mb.iot即可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "86323794",
+        "conversation_id": "2039749556691497197",
+        "created_at": "2026-04-02T22:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T23:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039827062350066102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 25,
+              "id": "704608953494142976",
+              "start": 13,
+              "username": "zoenghoigin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039827062350066102",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039759428887683219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @zoenghoigin 内地有信号，没流量，不知道是什么原因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25552,
+          "following_count": 497,
+          "like_count": 11693,
+          "listed_count": 115,
+          "media_count": 1359,
+          "tweet_count": 9239
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-30T14:28:32.000Z",
+        "description": "",
+        "id": "86323794",
+        "name": "一鍋炖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/874749964173234176/FduyjByw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 362,
+          "like_count": 4328,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 2166
+        },
+        "username": "rainmanctu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-01T10:07:20.000Z",
+        "description": "",
+        "id": "704608953494142976",
+        "name": "ZoengHJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022612456959545344/R2CJofG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 190,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 32
+        },
+        "username": "zoenghoigin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "NVIDIA - AI",
+          "id": "10050907860",
+          "name": "NVIDIA - AI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "1913027583450714204",
+    "created_at": "2025-04-19T11:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T12:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913551350031376789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1580781",
+          "start": 0,
+          "username": "ruanyf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913551350031376789",
+    "in_reply_to_user_id": "1580781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913027583450714204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruanyf 不过我还是喜欢dp，虽然NVIDIA的dp仍是1.4。我有听说过hdmi要版权费，但是显卡上面4个接口只有一个hdmi，这种是非常难受的事情，而且更新的版本要求线材以及显示器，显卡都支持。作为一个懒人，我更喜欢type c一线连。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_1913027565524250624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goxwb2iacAAeIv0.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "NVIDIA - AI",
+              "id": "10050907860",
+              "name": "NVIDIA - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "1913027583450714204",
+        "created_at": "2025-04-19T11:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913551350031376789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1580781",
+              "start": 0,
+              "username": "ruanyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913551350031376789",
+        "in_reply_to_user_id": "1580781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913027583450714204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruanyf 不过我还是喜欢dp，虽然NVIDIA的dp仍是1.4。我有听说过hdmi要版权费，但是显卡上面4个接口只有一个hdmi，这种是非常难受的事情，而且更新的版本要求线材以及显示器，显卡都支持。作为一个懒人，我更喜欢type c一线连。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913027565524250624"
+          ]
+        },
+        "author_id": "1580781",
+        "conversation_id": "1913027583450714204",
+        "created_at": "2025-04-18T00:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T01:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913027583450714204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "今年一月，有一个消息，大家可能没关注，那就是 HDMI 接口发布了 2.2版。 HDMI 1.0-1.2（2002）：4.9Gbps HDMI 1.3-1.4（2006）：10.2Gbps HDMI 2.0（2013）：18Gbps HDMI 2.1（2017）：48Gbps HDMI 2.2（2025）：96Gbps 这一次，从2.1版升级到2.2版，速率从 48Gbps 加大到 96Gbps。 这是什么概念？最快的家庭网络现在是万兆网络（10Gbps），一般人根本不需要这么快，而 HDMI 2.2 比它还快10倍！ 问题是，你用不到它。4K + 60帧 + HDR10 或杜比视界效果的视频，只需要 HDMI 2.0 就能实时传输。 8K + 60帧的视频，要用到 HDMI 2.1，而 HDMI 2.2 支持 12K + 60帧的视频。 大家可能听说过一个词\" 视网膜分辨率 \"（retina display），指的是人眼能够感知的最高分辨率。 国外有人 计算过，普通的家庭影院， 坐在距离3.6米的地方，观看 12K 视频，屏幕可以大到550英寸，也能达到视网膜分辨率。 音频也是如此。对于一般人的耳朵，CD",
+              "display_url": "ruanyifeng.com/blog/2025/04/w…",
+              "end": 155,
+              "expanded_url": "https://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html",
+              "start": 132,
+              "status": 200,
+              "title": "科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了 - 阮一峰的网络日志",
+              "unwound_url": "https://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html",
+              "url": "https://t.co/fjCJuuDLcL"
+            },
+            {
+              "display_url": "pic.x.com/0rzxsUqcvG",
+              "end": 179,
+              "expanded_url": "https://x.com/ruanyf/status/1913027583450714204/photo/1",
+              "media_key": "3_1913027565524250624",
+              "start": 156,
+              "url": "https://t.co/0rzxsUqcvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913027583450714204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 87046,
+          "like_count": 175,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "今年一月，有一个消息，大家可能没关注，那就是 HDMI 接口发布了2.2版。\n\n我冒着打脸的风险，猜测一下，这个标准可能到头了。\n\n这一次，从2.1版升级到2.2版，信号传输速率从 48Gbps 加大到 96Gbps。\n\n这个速率，大得吓人。但问题是，你用不到它。https://t.co/fjCJuuDLcL https://t.co/0rzxsUqcvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Misaka Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "realYingxi"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1767109982145905132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580046332437594112/p_ttVV6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 659,
+          "like_count": 7378,
+          "listed_count": 6,
+          "media_count": 434,
+          "tweet_count": 3679
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-20T02:53:02.000Z",
+        "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ruanyifeng.com",
+                "end": 22,
+                "expanded_url": "http://www.ruanyifeng.com",
+                "start": 0,
+                "url": "http://t.co/fw8pEsBuak"
+              }
+            ]
+          }
+        },
+        "id": "1580781",
+        "location": "Shanghai, China",
+        "name": "ruanyf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187372,
+          "following_count": 374,
+          "like_count": 13750,
+          "listed_count": 1472,
+          "media_count": 2901,
+          "tweet_count": 4878
+        },
+        "url": "http://t.co/fw8pEsBuak",
+        "username": "ruanyf",
+        "verified": false
+      }
+    ]
+  }
+}

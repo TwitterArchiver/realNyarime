@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068572145547137371",
+    "created_at": "2026-06-21T06:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068581299452072351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "345437084",
+          "start": 0,
+          "username": "iamcheyan"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "62bd729efdea504b"
+    },
+    "id": "2068581299452072351",
+    "in_reply_to_user_id": "345437084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068572145547137371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamcheyan 他老人家最大的想法就是让你出门在外照顾好自己，人嘛不要留太多遗憾在这世上就好，顺心顺意就好。"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [62bd729efdea504b].",
+      "parameter": "geo.place_id",
+      "resource_id": "62bd729efdea504b",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "62bd729efdea504b"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_2068572108071018496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLULX13aoAAtiJl.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068572145547137371",
+        "created_at": "2026-06-21T06:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068581299452072351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "345437084",
+              "start": 0,
+              "username": "iamcheyan"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "62bd729efdea504b"
+        },
+        "id": "2068581299452072351",
+        "in_reply_to_user_id": "345437084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068572145547137371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamcheyan 他老人家最大的想法就是让你出门在外照顾好自己，人嘛不要留太多遗憾在这世上就好，顺心顺意就好。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068572108071018496"
+          ]
+        },
+        "author_id": "345437084",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068572145547137371",
+        "created_at": "2026-06-21T05:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:49:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068572112521146842",
+          "2068572145547137371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMdN3ayvbO",
+              "end": 70,
+              "expanded_url": "https://x.com/iamcheyan/status/2068572145547137371/photo/1",
+              "media_key": "3_2068572108071018496",
+              "start": 47,
+              "url": "https://t.co/lMdN3ayvbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068572145547137371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 737,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想说点什么又说不出来，我俩的沟通永远只是来来回回的那几句话。他可能不懂我，但其实我也不懂他。 https://t.co/lMdN3ayvbO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38110,
+          "following_count": 658,
+          "like_count": 18063,
+          "listed_count": 178,
+          "media_count": 2203,
+          "tweet_count": 15052
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-30T16:05:20.000Z",
+        "description": "程序员・作家・编剧 / 東京在住 🗼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iamcheyan.com",
+                "end": 23,
+                "expanded_url": "http://iamcheyan.com",
+                "start": 0,
+                "url": "https://t.co/IoKuPng256"
+              }
+            ]
+          }
+        },
+        "id": "345437084",
+        "location": "東京 墨田区",
+        "name": "徹言",
+        "pinned_tweet_id": "1431803902769332224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752946036358909952/o_vVoTim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44142,
+          "following_count": 7332,
+          "like_count": 126721,
+          "listed_count": 211,
+          "media_count": 3370,
+          "tweet_count": 17899
+        },
+        "url": "https://t.co/IoKuPng256",
+        "username": "iamcheyan",
+        "verified": true
+      }
+    ]
+  }
+}

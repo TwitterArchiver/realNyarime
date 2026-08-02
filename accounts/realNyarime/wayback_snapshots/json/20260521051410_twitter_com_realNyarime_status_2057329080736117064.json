@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057328605492125696",
+        "3_2057328704112795648"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040695083",
+          "name": "Amazon Web Services (AWS)"
+        }
+      }
+    ],
+    "conversation_id": "2057329080736117064",
+    "created_at": "2026-05-21T05:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057329080736117064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "api.avemujica.moe/sign-up?aff=aY…",
+          "end": 115,
+          "expanded_url": "https://api.avemujica.moe/sign-up?aff=aYgB",
+          "start": 92,
+          "status": 200,
+          "unwound_url": "https://api.avemujica.moe/sign-up?aff=aYgB",
+          "url": "https://t.co/BCMGZm0GW2"
+        },
+        {
+          "display_url": "remix.codes/sign-up?aff=Wb…",
+          "end": 205,
+          "expanded_url": "https://remix.codes/sign-up?aff=Wboe",
+          "start": 182,
+          "status": 200,
+          "unwound_url": "https://remix.codes/sign-up?aff=Wboe",
+          "url": "https://t.co/LMKDRwTkvr"
+        },
+        {
+          "display_url": "pic.x.com/kE6gjjyZew",
+          "end": 229,
+          "expanded_url": "https://x.com/realNyarime/status/2057329080736117064/photo/1",
+          "media_key": "3_2057328605492125696",
+          "start": 206,
+          "url": "https://t.co/kE6gjjyZew"
+        },
+        {
+          "display_url": "pic.x.com/kE6gjjyZew",
+          "end": 229,
+          "expanded_url": "https://x.com/realNyarime/status/2057329080736117064/photo/1",
+          "media_key": "3_2057328704112795648",
+          "start": 206,
+          "url": "https://t.co/kE6gjjyZew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057329080736117064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "api.avemujica.moe/sign-up?aff=aY…",
+            "end": 115,
+            "expanded_url": "https://api.avemujica.moe/sign-up?aff=aYgB",
+            "start": 92,
+            "url": "https://t.co/wgWM3uZKSC"
+          },
+          {
+            "display_url": "remix.codes/sign-up?aff=Wb…",
+            "end": 205,
+            "expanded_url": "https://remix.codes/sign-up?aff=Wboe",
+            "start": 182,
+            "url": "https://t.co/VgrFpWV8yy"
+          }
+        ]
+      },
+      "text": "分享两家我在用的AI中转站，分别是AveMujica和RemixCode，都是1块1刀且支持开票\n\nAveMujica提供0.15x的GPT模型\n上游接的是官方号池，高缓存、生图\n👉 https://t.co/wgWM3uZKSC\n\nRemixCode家的Claude模型最划算\n上游很多，Kiro、AWS Bedrock、Claude Max号池，倍率不同\n👉 https://t.co/VgrFpWV8yy\n\n走链接注册有赠金罢了可不走，充多少用多少，有时候周限了就切到第三方AI API站跑Hermes😆"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享两家我在用的AI中转站，分别是AveMujica和RemixCode，都是1块1刀且支持开票\n\nAveMujica提供0.15x的GPT模型\n上游接的是官方号池，高缓存、生图\n👉 https://t.co/BCMGZm0GW2\n\nRemixCode家的Claude模型最划算\n上游很多，Kiro、AWS Bedrock、Claude Max号池，倍率不同\n👉 https://t.co/LMKDRwTkvr https://t.co/kE6gjjyZew"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2057328605492125696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0Zd2yboAA7Wv4.jpg",
+        "width": 1309
+      },
+      {
+        "height": 939,
+        "media_key": "3_2057328704112795648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0ZjmLboAAoia6.jpg",
+        "width": 1730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057328605492125696",
+            "3_2057328704112795648"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "2057329080736117064",
+        "created_at": "2026-05-21T05:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057329080736117064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "api.avemujica.moe/sign-up?aff=aY…",
+              "end": 115,
+              "expanded_url": "https://api.avemujica.moe/sign-up?aff=aYgB",
+              "start": 92,
+              "status": 200,
+              "unwound_url": "https://api.avemujica.moe/sign-up?aff=aYgB",
+              "url": "https://t.co/BCMGZm0GW2"
+            },
+            {
+              "display_url": "remix.codes/sign-up?aff=Wb…",
+              "end": 205,
+              "expanded_url": "https://remix.codes/sign-up?aff=Wboe",
+              "start": 182,
+              "status": 200,
+              "unwound_url": "https://remix.codes/sign-up?aff=Wboe",
+              "url": "https://t.co/LMKDRwTkvr"
+            },
+            {
+              "display_url": "pic.x.com/kE6gjjyZew",
+              "end": 229,
+              "expanded_url": "https://x.com/realNyarime/status/2057329080736117064/photo/1",
+              "media_key": "3_2057328605492125696",
+              "start": 206,
+              "url": "https://t.co/kE6gjjyZew"
+            },
+            {
+              "display_url": "pic.x.com/kE6gjjyZew",
+              "end": 229,
+              "expanded_url": "https://x.com/realNyarime/status/2057329080736117064/photo/1",
+              "media_key": "3_2057328704112795648",
+              "start": 206,
+              "url": "https://t.co/kE6gjjyZew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057329080736117064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "api.avemujica.moe/sign-up?aff=aY…",
+                "end": 115,
+                "expanded_url": "https://api.avemujica.moe/sign-up?aff=aYgB",
+                "start": 92,
+                "url": "https://t.co/wgWM3uZKSC"
+              },
+              {
+                "display_url": "remix.codes/sign-up?aff=Wb…",
+                "end": 205,
+                "expanded_url": "https://remix.codes/sign-up?aff=Wboe",
+                "start": 182,
+                "url": "https://t.co/VgrFpWV8yy"
+              }
+            ]
+          },
+          "text": "分享两家我在用的AI中转站，分别是AveMujica和RemixCode，都是1块1刀且支持开票\n\nAveMujica提供0.15x的GPT模型\n上游接的是官方号池，高缓存、生图\n👉 https://t.co/wgWM3uZKSC\n\nRemixCode家的Claude模型最划算\n上游很多，Kiro、AWS Bedrock、Claude Max号池，倍率不同\n👉 https://t.co/VgrFpWV8yy\n\n走链接注册有赠金罢了可不走，充多少用多少，有时候周限了就切到第三方AI API站跑Hermes😆"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享两家我在用的AI中转站，分别是AveMujica和RemixCode，都是1块1刀且支持开票\n\nAveMujica提供0.15x的GPT模型\n上游接的是官方号池，高缓存、生图\n👉 https://t.co/BCMGZm0GW2\n\nRemixCode家的Claude模型最划算\n上游很多，Kiro、AWS Bedrock、Claude Max号池，倍率不同\n👉 https://t.co/LMKDRwTkvr https://t.co/kE6gjjyZew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2056247533354229974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34529,
+          "following_count": 644,
+          "like_count": 14806,
+          "listed_count": 153,
+          "media_count": 1847,
+          "tweet_count": 12085
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

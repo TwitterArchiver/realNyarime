@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2041111020161343584",
+    "created_at": "2026-04-06T11:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041119718615269452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1564877971051393025",
+          "start": 0,
+          "username": "CorrectRoad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041119718615269452",
+    "in_reply_to_user_id": "1564877971051393025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041118627450257443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CorrectRoad 288刀应该支持mitm、URL Rewrite、Header Rewrite、Body Rewrite、Mock、脚本、模块、分流了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2041111020161343584",
+        "created_at": "2026-04-06T11:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041119718615269452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1564877971051393025",
+              "start": 0,
+              "username": "CorrectRoad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041119718615269452",
+        "in_reply_to_user_id": "1564877971051393025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041118627450257443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CorrectRoad 288刀应该支持mitm、URL Rewrite、Header Rewrite、Body Rewrite、Mock、脚本、模块、分流了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564877971051393025",
+        "conversation_id": "2041111020161343584",
+        "created_at": "2026-04-06T11:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041118627450257443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041118627450257443",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041111020161343584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 印象中surge6好像主要更新了gateway vm和ipv6 override ，其它我没印象。\n\nudp fastpath算一个没印象的？ 然后ai相关的就是加了cli和skill。\n\n现在只许愿能支持一下tailscale了，这个出的话我愿意订阅解锁功能。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26241,
+          "following_count": 500,
+          "like_count": 11802,
+          "listed_count": 121,
+          "media_count": 1400,
+          "tweet_count": 9438
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-31T07:29:29.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "correctroadh.github.io",
+                "end": 23,
+                "expanded_url": "https://correctroadh.github.io",
+                "start": 0,
+                "url": "https://t.co/PXxBVQ5e7T"
+              }
+            ]
+          }
+        },
+        "id": "1564877971051393025",
+        "name": "CorrectRoad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722865942319759360/xUEKTGT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 621,
+          "like_count": 2791,
+          "listed_count": 8,
+          "media_count": 127,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/PXxBVQ5e7T",
+        "username": "CorrectRoad",
+        "verified": false
+      }
+    ]
+  }
+}

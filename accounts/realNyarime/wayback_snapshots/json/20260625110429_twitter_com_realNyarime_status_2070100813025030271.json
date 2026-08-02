@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070100773233709056"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070090753863499960",
+    "created_at": "2026-06-25T11:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070100813025030271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685499489493323776",
+          "start": 0,
+          "username": "GuiMengNya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QVKub5MLR0",
+          "end": 51,
+          "expanded_url": "https://x.com/realNyarime/status/2070100813025030271/photo/1",
+          "media_key": "3_2070100773233709056",
+          "start": 28,
+          "url": "https://t.co/QVKub5MLR0"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070100813025030271",
+    "in_reply_to_user_id": "1685499489493323776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070090753863499960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuiMengNya 我也有，得下周才有空去银行拿了 https://t.co/QVKub5MLR0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2070100773233709056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp5r3XbUAAU1ce.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070090745655308288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpwkLubsAAoKSz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070100773233709056"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070090753863499960",
+        "created_at": "2026-06-25T11:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070100813025030271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVKub5MLR0",
+              "end": 51,
+              "expanded_url": "https://x.com/realNyarime/status/2070100813025030271/photo/1",
+              "media_key": "3_2070100773233709056",
+              "start": 28,
+              "url": "https://t.co/QVKub5MLR0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070100813025030271",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070090753863499960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 我也有，得下周才有空去银行拿了 https://t.co/QVKub5MLR0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070090745655308288"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2070090753863499960",
+        "created_at": "2026-06-25T10:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070090753863499960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3J2fQf29vi",
+              "end": 26,
+              "expanded_url": "https://x.com/GuiMengNya/status/2070090753863499960/photo/1",
+              "media_key": "3_2070090745655308288",
+              "start": 3,
+              "url": "https://t.co/3J2fQf29vi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070090753863499960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新卡 https://t.co/3J2fQf29vi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38407,
+          "following_count": 661,
+          "like_count": 18376,
+          "listed_count": 179,
+          "media_count": 2238,
+          "tweet_count": 15382
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10423,
+          "following_count": 692,
+          "like_count": 11497,
+          "listed_count": 30,
+          "media_count": 2362,
+          "tweet_count": 4745
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

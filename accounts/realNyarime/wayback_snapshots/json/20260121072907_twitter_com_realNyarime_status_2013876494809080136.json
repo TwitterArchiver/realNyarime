@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013874583842271232",
+        "3_2013874927464833024",
+        "3_2013875512217919488",
+        "3_2013875825402355714"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2013876494809080136",
+    "created_at": "2026-01-21T07:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013876494809080136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "go.naixi.net/group",
+          "end": 29,
+          "expanded_url": "https://go.naixi.net/group",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2013876495819907073/7FpuYqKp?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2013876495819907073/7FpuYqKp?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 6,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+l6_pTWcWWLAwODI1",
+          "url": "https://t.co/osIttOoAUG"
+        },
+        {
+          "display_url": "pic.x.com/Q2JuYSC2kl",
+          "end": 195,
+          "expanded_url": "https://x.com/realNyarime/status/2013876494809080136/photo/1",
+          "media_key": "3_2013874583842271232",
+          "start": 172,
+          "url": "https://t.co/Q2JuYSC2kl"
+        },
+        {
+          "display_url": "pic.x.com/Q2JuYSC2kl",
+          "end": 195,
+          "expanded_url": "https://x.com/realNyarime/status/2013876494809080136/photo/1",
+          "media_key": "3_2013874927464833024",
+          "start": 172,
+          "url": "https://t.co/Q2JuYSC2kl"
+        },
+        {
+          "display_url": "pic.x.com/Q2JuYSC2kl",
+          "end": 195,
+          "expanded_url": "https://x.com/realNyarime/status/2013876494809080136/photo/1",
+          "media_key": "3_2013875512217919488",
+          "start": 172,
+          "url": "https://t.co/Q2JuYSC2kl"
+        },
+        {
+          "display_url": "pic.x.com/Q2JuYSC2kl",
+          "end": 195,
+          "expanded_url": "https://x.com/realNyarime/status/2013876494809080136/photo/1",
+          "media_key": "3_2013875825402355714",
+          "start": 172,
+          "url": "https://t.co/Q2JuYSC2kl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013876494809080136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "go.naixi.net/group",
+            "end": 29,
+            "expanded_url": "https://go.naixi.net/group",
+            "start": 6,
+            "url": "https://t.co/RXHg62q5eo"
+          }
+        ]
+      },
+      "text": "论坛电报群(https://t.co/RXHg62q5eo)里有联通员工把eSIM写入iPhone港版。据说新卡板不需要解5码，联通人直接上中国联通cBSS业务支撑系统就可以拿到数据。\n只不过需要寻找像红茶移动Simlessly这类的RSP服务器进行托管，将卡转为eSIM Profile并让设备终端下发，看来联通在eSIM上还是遥遥领先了！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "论坛电报群(https://t.co/osIttOoAUG)里有联通员工把eSIM写入iPhone港版。据说新卡板不需要解5码，联通人直接上中国联通cBSS业务支撑系统就可以拿到数据。\n只不过需要寻找像红茶移动Simlessly这类的RSP服务器进行托管，将卡转为eSIM Profile并让设备终端下发，看来联通在eSIM上还是遥遥领先了！ https://t.co/Q2JuYSC2kl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2013874583842271232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_K4Q5gbMAA1EXp.jpg",
+        "width": 1177
+      },
+      {
+        "height": 419,
+        "media_key": "3_2013874927464833024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_K4k5mbYAAz2t2.png",
+        "width": 800
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2013875512217919488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_K5G7-bYAAmuSg.jpg",
+        "width": 3497
+      },
+      {
+        "height": 1939,
+        "media_key": "3_2013875825402355714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_K5ZKraoAIcJXc.jpg",
+        "width": 1177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013874583842271232",
+            "3_2013874927464833024",
+            "3_2013875512217919488",
+            "3_2013875825402355714"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2013876494809080136",
+        "created_at": "2026-01-21T07:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013876494809080136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "go.naixi.net/group",
+              "end": 29,
+              "expanded_url": "https://go.naixi.net/group",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2013876495819907073/7FpuYqKp?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2013876495819907073/7FpuYqKp?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 6,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+l6_pTWcWWLAwODI1",
+              "url": "https://t.co/osIttOoAUG"
+            },
+            {
+              "display_url": "pic.x.com/Q2JuYSC2kl",
+              "end": 195,
+              "expanded_url": "https://x.com/realNyarime/status/2013876494809080136/photo/1",
+              "media_key": "3_2013874583842271232",
+              "start": 172,
+              "url": "https://t.co/Q2JuYSC2kl"
+            },
+            {
+              "display_url": "pic.x.com/Q2JuYSC2kl",
+              "end": 195,
+              "expanded_url": "https://x.com/realNyarime/status/2013876494809080136/photo/1",
+              "media_key": "3_2013874927464833024",
+              "start": 172,
+              "url": "https://t.co/Q2JuYSC2kl"
+            },
+            {
+              "display_url": "pic.x.com/Q2JuYSC2kl",
+              "end": 195,
+              "expanded_url": "https://x.com/realNyarime/status/2013876494809080136/photo/1",
+              "media_key": "3_2013875512217919488",
+              "start": 172,
+              "url": "https://t.co/Q2JuYSC2kl"
+            },
+            {
+              "display_url": "pic.x.com/Q2JuYSC2kl",
+              "end": 195,
+              "expanded_url": "https://x.com/realNyarime/status/2013876494809080136/photo/1",
+              "media_key": "3_2013875825402355714",
+              "start": 172,
+              "url": "https://t.co/Q2JuYSC2kl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013876494809080136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "go.naixi.net/group",
+                "end": 29,
+                "expanded_url": "https://go.naixi.net/group",
+                "start": 6,
+                "url": "https://t.co/RXHg62q5eo"
+              }
+            ]
+          },
+          "text": "论坛电报群(https://t.co/RXHg62q5eo)里有联通员工把eSIM写入iPhone港版。据说新卡板不需要解5码，联通人直接上中国联通cBSS业务支撑系统就可以拿到数据。\n只不过需要寻找像红茶移动Simlessly这类的RSP服务器进行托管，将卡转为eSIM Profile并让设备终端下发，看来联通在eSIM上还是遥遥领先了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论坛电报群(https://t.co/osIttOoAUG)里有联通员工把eSIM写入iPhone港版。据说新卡板不需要解5码，联通人直接上中国联通cBSS业务支撑系统就可以拿到数据。\n只不过需要寻找像红茶移动Simlessly这类的RSP服务器进行托管，将卡转为eSIM Profile并让设备终端下发，看来联通在eSIM上还是遥遥领先了！ https://t.co/Q2JuYSC2kl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8853,
+          "following_count": 588,
+          "like_count": 9692,
+          "listed_count": 29,
+          "media_count": 771,
+          "tweet_count": 6586
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

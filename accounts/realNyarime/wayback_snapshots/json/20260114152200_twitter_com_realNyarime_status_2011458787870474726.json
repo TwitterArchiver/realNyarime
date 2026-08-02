@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011458748678860800"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2011445912854487185",
+    "created_at": "2026-01-14T15:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T16:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011458787870474726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "15115534",
+          "start": 0,
+          "username": "Showfom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4fJM4VDtg1",
+          "end": 55,
+          "expanded_url": "https://x.com/realNyarime/status/2011458787870474726/photo/1",
+          "media_key": "3_2011458748678860800",
+          "start": 32,
+          "url": "https://t.co/4fJM4VDtg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011458787870474726",
+    "in_reply_to_user_id": "15115534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011445912854487185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Showfom 我也依赖CC，不过我有自己的NewAPI镜像 https://t.co/4fJM4VDtg1"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2011445912854487185].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2011445912854487185",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2011445912854487185"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 535,
+        "media_key": "3_2011458748678860800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ojEyNa8AADOPO.png",
+        "width": 1107
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011458748678860800"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2011445912854487185",
+        "created_at": "2026-01-14T15:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T16:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011458787870474726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "15115534",
+              "start": 0,
+              "username": "Showfom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fJM4VDtg1",
+              "end": 55,
+              "expanded_url": "https://x.com/realNyarime/status/2011458787870474726/photo/1",
+              "media_key": "3_2011458748678860800",
+              "start": 32,
+              "url": "https://t.co/4fJM4VDtg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011458787870474726",
+        "in_reply_to_user_id": "15115534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011445912854487185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Showfom 我也依赖CC，不过我有自己的NewAPI镜像 https://t.co/4fJM4VDtg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008425765751185868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7982,
+          "following_count": 685,
+          "like_count": 8986,
+          "listed_count": 22,
+          "media_count": 710,
+          "tweet_count": 5837
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2008-06-14T09:00:18.000Z",
+        "description": "这是我的中文账号，本账号发表的观点仅代表本人的观点，与任何个人或组织都无关，English tweets @gxf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 53,
+                "username": "gxf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "u.sb",
+                "end": 23,
+                "expanded_url": "https://u.sb/",
+                "start": 0,
+                "url": "https://t.co/DY2wRe9Vjs"
+              }
+            ]
+          }
+        },
+        "id": "15115534",
+        "location": "Sydney, Australia",
+        "name": "兽兽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908946236901863424/Uy5P4ZSU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8657,
+          "following_count": 749,
+          "like_count": 751,
+          "listed_count": 199,
+          "media_count": 65,
+          "tweet_count": 61853
+        },
+        "url": "https://t.co/DY2wRe9Vjs",
+        "username": "Showfom",
+        "verified": false
+      }
+    ]
+  }
+}

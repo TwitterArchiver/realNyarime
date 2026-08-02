@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068363084562063360"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2068363098495525077",
+    "created_at": "2026-06-20T15:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068363098495525077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ePjiRyJaM3",
+          "end": 150,
+          "expanded_url": "https://x.com/realNyarime/status/2068363098495525077/photo/1",
+          "media_key": "3_2068363084562063360",
+          "start": 127,
+          "url": "https://t.co/ePjiRyJaM3"
+        },
+        {
+          "display_url": "x.com/parker_lyman/s…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/parker_lyman/status/2067983315341283547",
+          "start": 151,
+          "url": "https://t.co/2LRNWFB7Nl"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "6b49c2b54c068a58"
+    },
+    "id": "2068363098495525077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "说个不太冷的往事：如今炙手可热的Ai公司Anthropic创始人之一达里奥·阿莫迪（Dario Amodei）曾在2014年加入百度研究院（Baidu Research），在吴恩达指导下工作约一年，参与AI和语音识别研究，这是他在AI工业界的生涯起点。\n\n当时达里奥·阿莫迪在斯坦福大学医学院进行博士后研究，从医学转投AI，得益于他在斯坦福大学本科期间的物理学科教育。\n在百度的这段经历让他接触到了中文和多语种环境下的AI应用，这在后来Anthropic做大规模语言模型的多样性和安全性研究时也有一定的间接影响。\n\n他离开百度后转投谷歌和OpenAI，后创立Anthropic，但这段百度经历被视为其AI规模化思考（如Scaling Laws）的开端。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067983315341283547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说个不太冷的往事：如今炙手可热的Ai公司Anthropic创始人之一达里奥·阿莫迪（Dario Amodei）曾在2014年加入百度研究院（Baidu Research），在吴恩达指导下工作约一年，参与AI和语音识别研究，这是他在AI工业界的生涯起点。 https://t.co/ePjiRyJaM3 https://t.co/2LRNWFB7Nl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [6b49c2b54c068a58].",
+      "parameter": "geo.place_id",
+      "resource_id": "6b49c2b54c068a58",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "6b49c2b54c068a58"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2068363084562063360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRNREnaYAAh3LY.jpg",
+        "width": 720
+      },
+      {
+        "height": 1282,
+        "media_key": "3_2067893593579343872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKiRGaaUAAg0nC.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2067893608221732864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKiR89bcAAB6bN.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068363084562063360"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2068363098495525077",
+        "created_at": "2026-06-20T15:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068363098495525077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePjiRyJaM3",
+              "end": 150,
+              "expanded_url": "https://x.com/realNyarime/status/2068363098495525077/photo/1",
+              "media_key": "3_2068363084562063360",
+              "start": 127,
+              "url": "https://t.co/ePjiRyJaM3"
+            },
+            {
+              "display_url": "x.com/parker_lyman/s…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/parker_lyman/status/2067983315341283547",
+              "start": 151,
+              "url": "https://t.co/2LRNWFB7Nl"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "6b49c2b54c068a58"
+        },
+        "id": "2068363098495525077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说个不太冷的往事：如今炙手可热的Ai公司Anthropic创始人之一达里奥·阿莫迪（Dario Amodei）曾在2014年加入百度研究院（Baidu Research），在吴恩达指导下工作约一年，参与AI和语音识别研究，这是他在AI工业界的生涯起点。\n\n当时达里奥·阿莫迪在斯坦福大学医学院进行博士后研究，从医学转投AI，得益于他在斯坦福大学本科期间的物理学科教育。\n在百度的这段经历让他接触到了中文和多语种环境下的AI应用，这在后来Anthropic做大规模语言模型的多样性和安全性研究时也有一定的间接影响。\n\n他离开百度后转投谷歌和OpenAI，后创立Anthropic，但这段百度经历被视为其AI规模化思考（如Scaling Laws）的开端。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067983315341283547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说个不太冷的往事：如今炙手可热的Ai公司Anthropic创始人之一达里奥·阿莫迪（Dario Amodei）曾在2014年加入百度研究院（Baidu Research），在吴恩达指导下工作约一年，参与AI和语音识别研究，这是他在AI工业界的生涯起点。 https://t.co/ePjiRyJaM3 https://t.co/2LRNWFB7Nl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067893593579343872",
+            "3_2067893608221732864"
+          ]
+        },
+        "author_id": "1308476677681422336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2067983315341283547",
+        "created_at": "2026-06-19T14:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067983315341283547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2ExpHmPuo",
+              "end": 75,
+              "expanded_url": "https://x.com/parker_lyman/status/2067983315341283547/photo/1",
+              "media_key": "3_2067893593579343872",
+              "start": 52,
+              "url": "https://t.co/n2ExpHmPuo"
+            },
+            {
+              "display_url": "pic.x.com/n2ExpHmPuo",
+              "end": 75,
+              "expanded_url": "https://x.com/parker_lyman/status/2067983315341283547/photo/1",
+              "media_key": "3_2067893608221732864",
+              "start": 52,
+              "url": "https://t.co/n2ExpHmPuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067983315341283547",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 36263,
+          "like_count": 289,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Sam Altman launching Startup School Beijing in 2018 https://t.co/n2ExpHmPuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38078,
+          "following_count": 658,
+          "like_count": 18008,
+          "listed_count": 178,
+          "media_count": 2192,
+          "tweet_count": 14951
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-22T18:42:32.000Z",
+        "description": "Chief of Staff @manusai | Prev VC @lightbank & @ElevCap",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "manusai"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "lightbank"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "ElevCap"
+              }
+            ]
+          }
+        },
+        "id": "1308476677681422336",
+        "location": "Singapore",
+        "name": "Parker Lyman",
+        "pinned_tweet_id": "2005768825766306194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064859763251544064/kx_Cexo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3631,
+          "following_count": 1038,
+          "like_count": 4201,
+          "listed_count": 46,
+          "media_count": 101,
+          "tweet_count": 1064
+        },
+        "url": "",
+        "username": "parker_lyman",
+        "verified": true
+      }
+    ]
+  }
+}

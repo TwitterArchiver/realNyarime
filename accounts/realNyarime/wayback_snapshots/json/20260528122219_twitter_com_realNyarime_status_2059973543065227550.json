@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026302013",
+          "name": "T-Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2059955037497872681",
+    "created_at": "2026-05-28T12:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059973543065227550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1071775016885248005",
+          "start": 0,
+          "username": "0xLaughing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059973543065227550",
+    "in_reply_to_user_id": "1071775016885248005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059955037497872681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xLaughing 红包卡吧，续费贼困难的。。。如果你要搞入门的美国电话卡，建议是Ultra紫卡或T-Mobile 3刀，当然每个月40刀甚至在中国大陆都能Roaming data"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2059954536408584197",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZtvJwWkAUnmjz.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026302013",
+              "name": "T-Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2059955037497872681",
+        "created_at": "2026-05-28T12:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059973543065227550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1071775016885248005",
+              "start": 0,
+              "username": "0xLaughing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059973543065227550",
+        "in_reply_to_user_id": "1071775016885248005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059955037497872681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xLaughing 红包卡吧，续费贼困难的。。。如果你要搞入门的美国电话卡，建议是Ultra紫卡或T-Mobile 3刀，当然每个月40刀甚至在中国大陆都能Roaming data"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059954536408584197"
+          ]
+        },
+        "author_id": "1071775016885248005",
+        "conversation_id": "2059955037497872681",
+        "created_at": "2026-05-28T11:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059955037497872681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZnepP0s2Z",
+              "end": 84,
+              "expanded_url": "https://x.com/0xLaughing/status/2059955037497872681/photo/1",
+              "media_key": "3_2059954536408584197",
+              "start": 61,
+              "url": "https://t.co/FZnepP0s2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059955037497872681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 566,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丫够燥的\n\n刚开通了一个2.5刀/月的美国号码 eSIM\n\n有流量，通话，有接发短信\n\n一年加起来才30刀，还要啥自行车 https://t.co/FZnepP0s2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35336,
+          "following_count": 651,
+          "like_count": 15798,
+          "listed_count": 154,
+          "media_count": 1943,
+          "tweet_count": 12953
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-09T14:34:11.000Z",
+        "description": "👨🏻‍🍳 APAC Lead aka chief reply guy @GoKiteAI @KiteAIChinese @Kite_Frens_Eco @KiteAIFDN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "GoKiteAI"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "KiteAIChinese"
+              },
+              {
+                "end": 75,
+                "start": 60,
+                "username": "Kite_Frens_Eco"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "KiteAIFDN"
+              }
+            ]
+          }
+        },
+        "id": "1071775016885248005",
+        "location": "Metaverse",
+        "name": "Laughing🪁",
+        "pinned_tweet_id": "1962879117147459857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011365531673358336/zP1m8GGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16395,
+          "following_count": 3654,
+          "like_count": 52922,
+          "listed_count": 271,
+          "media_count": 1292,
+          "tweet_count": 10784
+        },
+        "username": "0xLaughing",
+        "verified": true
+      }
+    ]
+  }
+}

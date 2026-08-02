@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2010435851252064256"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10023891829",
+          "name": "Verizon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10023891829",
+          "name": "Verizon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10026319207",
+          "name": "Verizon Wireless"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2010442890087194663",
+    "created_at": "2026-01-11T20:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T21:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010442890087194663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LpxIQIVy8J",
+          "end": 197,
+          "expanded_url": "https://x.com/realNyarime/status/2010442890087194663/video/1",
+          "media_key": "13_2010435851252064256",
+          "start": 174,
+          "url": "https://t.co/LpxIQIVy8J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010442890087194663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "前阵子解中国大陆运营商5码（ICCID、IMSI、 SMSP、KI、OPC）的丁香花，凭一己之力让红茶移动旗下RSP托管平台Simlessly把460（中国的移动国家代码 MCC）拉黑。\n首先解5码最早是iPhone4时期的东西。当年国外CDMA是没有卡槽的，例如Verizon版iPhone4写号机，当时的电信卡就需要读取5码写入iPhone。\n\n其次国内三大运营商的SIM卡在中国大陆进入4G时代后就更换了新卡。旧卡的算法因以前的手机处理器能力不足所遗留漏洞缺陷，由于USIM卡可向上兼容，因此很多3G时代办的、剪成NanoSIM卡的老卡依旧有存量。新卡已使用更为安全的算法但仍可暴力破解。以SIM卡的寿命来看，破解成功率大概为20%，并且频繁补卡容易被运营商风控。\n\n举个例子，如移动和联通所用东信和平USIM卡，可通过其泄露的工具读取KI，借着KI完成整张SIM卡的破解，相当于取到了SIM卡的源代码，到这一步就可以克隆电话卡了。\n而对于eSIM则需要受GSMA授权的RSP服务器下卡，如东南亚的一些小运营商就只能借助东信和平或红茶移动的RSP平台，你可以把二维码解析后得到LPA，其中前面旧包含了SM-DP+地址，那就是RSP服务器。\n这就跟NGINX证书一样是双向认证的。如果RSP服务器没有和eUICC芯片一样的GSM Association - RSP2 Root CI1证书，eSIM下卡是双向鉴权，需要对比 RSP 所支持的 CI，从而判断此 eSIM 卡片是否支持该 RSP（以及使用该 RSP 的运营商）\n除非你能搞定Apple的LPA，或是像人才网友借助Simlessly托管SIM卡，并取得eSIM二维码，不然建议洗洗睡。\n\n最后就是切勿以身试险。根据奶昔论坛的网友反馈老联通卡读取ADM后无法取得KI，放回手机后电话卡无法使用只能去线下营业厅补卡。\n而且如视频所示，该行为涉嫌违法可能用于电信犯罪，可能会面临公安部门的行政处罚，甚至是触犯刑法吃免费饭。\n既然中国内地的eSIM使用的是自己签的根证书，有两种合法的方式取得。1）使用之前介绍的4CI/3CI的eUICC转接的eSIM卡，扫描营业厅提供的二维码下卡 2）购买合规的国行eSIM设备，并在中国大陆添加eSIM Profile。除此之外，只能曲线救国去用三大运营商海外亲儿子（CMLink、CUniq、CTExcel）提供的一卡两号、家乡号，合法实现在非国行eSIM设备使用+86号码的需求。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前阵子解中国大陆运营商5码（ICCID、IMSI、 SMSP、KI、OPC）的丁香花，凭一己之力让红茶移动旗下RSP托管平台Simlessly把460（中国的移动国家代码 MCC）拉黑。\n首先解5码最早是iPhone4时期的东西。当年国外CDMA是没有卡槽的，例如Verizon版iPhone4写号机，当时的电信卡就需要读取5码写入iPhone。 https://t.co/LpxIQIVy8J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61579,
+        "height": 640,
+        "media_key": "13_2010435851252064256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010435851252064256/img/3ag1C2qHm0Wd3nmY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010435851252064256/vid/avc1/320x568/-jeg85fNyTmD5Gu4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010435851252064256/vid/avc1/360x640/wEzoEjCJ7ujMoN_W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010435851252064256/pl/U7zicNhOc4M0AnIn.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010435851252064256"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10023891829",
+              "name": "Verizon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10023891829",
+              "name": "Verizon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026319207",
+              "name": "Verizon Wireless"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2010442890087194663",
+        "created_at": "2026-01-11T20:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T21:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010442890087194663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpxIQIVy8J",
+              "end": 197,
+              "expanded_url": "https://x.com/realNyarime/status/2010442890087194663/video/1",
+              "media_key": "13_2010435851252064256",
+              "start": 174,
+              "url": "https://t.co/LpxIQIVy8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010442890087194663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前阵子解中国大陆运营商5码（ICCID、IMSI、 SMSP、KI、OPC）的丁香花，凭一己之力让红茶移动旗下RSP托管平台Simlessly把460（中国的移动国家代码 MCC）拉黑。\n首先解5码最早是iPhone4时期的东西。当年国外CDMA是没有卡槽的，例如Verizon版iPhone4写号机，当时的电信卡就需要读取5码写入iPhone。\n\n其次国内三大运营商的SIM卡在中国大陆进入4G时代后就更换了新卡。旧卡的算法因以前的手机处理器能力不足所遗留漏洞缺陷，由于USIM卡可向上兼容，因此很多3G时代办的、剪成NanoSIM卡的老卡依旧有存量。新卡已使用更为安全的算法但仍可暴力破解。以SIM卡的寿命来看，破解成功率大概为20%，并且频繁补卡容易被运营商风控。\n\n举个例子，如移动和联通所用东信和平USIM卡，可通过其泄露的工具读取KI，借着KI完成整张SIM卡的破解，相当于取到了SIM卡的源代码，到这一步就可以克隆电话卡了。\n而对于eSIM则需要受GSMA授权的RSP服务器下卡，如东南亚的一些小运营商就只能借助东信和平或红茶移动的RSP平台，你可以把二维码解析后得到LPA，其中前面旧包含了SM-DP+地址，那就是RSP服务器。\n这就跟NGINX证书一样是双向认证的。如果RSP服务器没有和eUICC芯片一样的GSM Association - RSP2 Root CI1证书，eSIM下卡是双向鉴权，需要对比 RSP 所支持的 CI，从而判断此 eSIM 卡片是否支持该 RSP（以及使用该 RSP 的运营商）\n除非你能搞定Apple的LPA，或是像人才网友借助Simlessly托管SIM卡，并取得eSIM二维码，不然建议洗洗睡。\n\n最后就是切勿以身试险。根据奶昔论坛的网友反馈老联通卡读取ADM后无法取得KI，放回手机后电话卡无法使用只能去线下营业厅补卡。\n而且如视频所示，该行为涉嫌违法可能用于电信犯罪，可能会面临公安部门的行政处罚，甚至是触犯刑法吃免费饭。\n既然中国内地的eSIM使用的是自己签的根证书，有两种合法的方式取得。1）使用之前介绍的4CI/3CI的eUICC转接的eSIM卡，扫描营业厅提供的二维码下卡 2）购买合规的国行eSIM设备，并在中国大陆添加eSIM Profile。除此之外，只能曲线救国去用三大运营商海外亲儿子（CMLink、CUniq、CTExcel）提供的一卡两号、家乡号，合法实现在非国行eSIM设备使用+86号码的需求。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前阵子解中国大陆运营商5码（ICCID、IMSI、 SMSP、KI、OPC）的丁香花，凭一己之力让红茶移动旗下RSP托管平台Simlessly把460（中国的移动国家代码 MCC）拉黑。\n首先解5码最早是iPhone4时期的东西。当年国外CDMA是没有卡槽的，例如Verizon版iPhone4写号机，当时的电信卡就需要读取5码写入iPhone。 https://t.co/LpxIQIVy8J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008425765751185868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7723,
+          "following_count": 680,
+          "like_count": 8819,
+          "listed_count": 22,
+          "media_count": 675,
+          "tweet_count": 5601
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

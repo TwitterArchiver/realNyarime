@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2051536474341019965",
+    "created_at": "2026-05-05T09:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051589250009993344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "730205023620071424",
+          "start": 0,
+          "username": "Boywus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051589250009993344",
+    "in_reply_to_user_id": "730205023620071424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051536474341019965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Boywus 所以你会发现后面的免流基本上都只有电信和联通，而移动的139免流早就在当时OpenVPN云免的时代过去了\n现在能玩的也就只有个别省份的联通网厅直播和电信wap绿通了，至于免定向，现在百度直连还活着，当然还有TinyProxy\n当年混的最多的也就那个妖火论坛和百度贴吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2051536474341019965",
+        "created_at": "2026-05-05T09:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051589250009993344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "730205023620071424",
+              "start": 0,
+              "username": "Boywus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051589250009993344",
+        "in_reply_to_user_id": "730205023620071424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051536474341019965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Boywus 所以你会发现后面的免流基本上都只有电信和联通，而移动的139免流早就在当时OpenVPN云免的时代过去了\n现在能玩的也就只有个别省份的联通网厅直播和电信wap绿通了，至于免定向，现在百度直连还活着，当然还有TinyProxy\n当年混的最多的也就那个妖火论坛和百度贴吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "730205023620071424",
+        "conversation_id": "2051536474341019965",
+        "created_at": "2026-05-05T05:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051536474341019965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051536474341019965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "15年前我就在免流量上网了，那时候还是5元30M的年代，也是中国年轻一代技术极客疯狂的年代，各种免流上网，建站面板，下载站，卡盟刷钻，网赚私服。\n\n最早的时候，中国移动有CMWAP,CMNET两种上网方式，中间出现过CMMM上网方式，访问139移动梦网的社交空间的时候是免流量的，于是衍生了一种很奇葩的免流量下载方案：\n1. 把一个50M的电影文件和一张图片用“组合器”组合在一起，图片能够正常读出，只是看起来有50M大小而已。\n2. 在139移动梦网的交友社区板块发一个带图片的帖子，上传也免流量，网页上默认显示缩略图，也没什么问题\n3. 让你的好友去交友社区打开帖子，选择“下载原图”，这样子就可以免流量下载50M的图片\n4. 再用“解组器”把电影和图片分离，就实现了最原始的免流量传递大文件。\n\n再到后来就衍生了各种本地网络劫持Host信息，伪装成你一直在访问中国移动官网，实际上你在网络冲浪的软件，后面随着运营商将资费标准调低，研究这些就不再具有经济意义。\n\n所以规则漏洞必定是随着时代发展而出现的，新规旧规交替的时候，总有被遗漏的点，但是所谓的靠漏洞吃稳定收益是不可能长期存在的，只有不断提高自己找规则优势的能力。\n\n所以也不必再懊恼自己没有赶上国企改制、房地产放水时代，我们有自己的时代，研究规则，把握机会，顺Beta而上。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 11214,
+          "like_count": 39,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "15年前我就在免流量上网了，那时候还是5元30M的年代，也是中国年轻一代技术极客疯狂的年代，各种免流上网，建站面板，下载站，卡盟刷钻，网赚私服。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32183,
+          "following_count": 594,
+          "like_count": 13601,
+          "listed_count": 154,
+          "media_count": 1668,
+          "tweet_count": 11092
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-11T01:16:59.000Z",
+        "description": "HFT Trader，专注于跨所套利交易，做市商交易",
+        "id": "730205023620071424",
+        "name": "Boywus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818531629436203008/pd_aLbbA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9097,
+          "following_count": 636,
+          "like_count": 2395,
+          "listed_count": 261,
+          "media_count": 123,
+          "tweet_count": 910
+        },
+        "username": "Boywus",
+        "verified": true
+      }
+    ]
+  }
+}

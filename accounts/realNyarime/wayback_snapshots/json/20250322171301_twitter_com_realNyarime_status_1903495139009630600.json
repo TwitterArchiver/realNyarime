@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "1902010491876380923",
+    "created_at": "2025-03-22T17:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T18:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903495139009630600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "15115534",
+          "start": 0,
+          "username": "Showfom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903495139009630600",
+    "in_reply_to_user_id": "15115534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902010491876380923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Showfom 开放的短域名服务稍不管理，就会被Chrome标红。还记得之前用的 unu 如今已经变成 see了😂\n不知道为啥打新域名的内容发不出去"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1902010491876380923].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1902010491876380923",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1902010491876380923"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "1902010491876380923",
+        "created_at": "2025-03-22T17:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T18:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903495139009630600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "15115534",
+              "start": 0,
+              "username": "Showfom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903495139009630600",
+        "in_reply_to_user_id": "15115534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902010491876380923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Showfom 开放的短域名服务稍不管理，就会被Chrome标红。还记得之前用的 unu 如今已经变成 see了😂\n不知道为啥打新域名的内容发不出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Misaka Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "realYingxi"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.naixi.net",
+                "end": 23,
+                "expanded_url": "http://about.naixi.net",
+                "start": 0,
+                "url": "https://t.co/jd4KlGd9Ea"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1767109982145905132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580046332437594112/p_ttVV6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 618,
+          "like_count": 7111,
+          "listed_count": 6,
+          "media_count": 434,
+          "tweet_count": 3581
+        },
+        "url": "https://t.co/jd4KlGd9Ea",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2008-06-14T09:00:18.000Z",
+        "description": "English tweets @gxf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 15,
+                "username": "gxf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "u.sb",
+                "end": 23,
+                "expanded_url": "https://u.sb/",
+                "start": 0,
+                "url": "https://t.co/DY2wRe9Vjs"
+              }
+            ]
+          }
+        },
+        "id": "15115534",
+        "location": "New South Wales, Australia",
+        "name": "Showfom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763361511058178048/MkQko9xh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9480,
+          "following_count": 751,
+          "like_count": 740,
+          "listed_count": 200,
+          "media_count": 64,
+          "tweet_count": 61737
+        },
+        "url": "https://t.co/DY2wRe9Vjs",
+        "username": "Showfom",
+        "verified": true
+      }
+    ]
+  }
+}

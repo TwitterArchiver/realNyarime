@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075501746756210688"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2075501754956013838",
+    "created_at": "2026-07-10T08:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075501754956013838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZQDiiNYEh0",
+          "end": 224,
+          "expanded_url": "https://x.com/realNyarime/status/2075501754956013838/photo/1",
+          "media_key": "3_2075501746756210688",
+          "start": 201,
+          "url": "https://t.co/ZQDiiNYEh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075501754956013838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "很多人看到GPT-5.6的名字都懵了，甚至OpenAI官方插件、技能似乎都可以在Chat模式使用\n\nSol=GPT5.6（日）价格对标Claude Fable 5\nTerra=GPT5.6mini（地）价格对标GPT 5.5\nLuna=GPT5.6nano（月）价格对标GPT 5.4mini还要贵一点\n\nUltra=Claude的ultra code workflow\nPro=只是单纯的think more并默认屏蔽工具、技能\n网页、手机的work模式=单纯的把Codex跑在OpenAI自己的Cloud容器中"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多人看到GPT-5.6的名字都懵了，甚至OpenAI官方插件、技能似乎都可以在Chat模式使用\n\nSol=GPT5.6（日）价格对标Claude Fable 5\nTerra=GPT5.6mini（地）价格对标GPT 5.5\nLuna=GPT5.6nano（月）价格对标GPT 5.4mini还要贵一点\n\nUltra=Claude的ultra code workflow\nPro=只是单纯的think https://t.co/ZQDiiNYEh0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 531,
+        "media_key": "3_2075501746756210688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2p15obUAAPz1y.png",
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075501746756210688"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2075501754956013838",
+        "created_at": "2026-07-10T08:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075501754956013838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQDiiNYEh0",
+              "end": 224,
+              "expanded_url": "https://x.com/realNyarime/status/2075501754956013838/photo/1",
+              "media_key": "3_2075501746756210688",
+              "start": 201,
+              "url": "https://t.co/ZQDiiNYEh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075501754956013838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人看到GPT-5.6的名字都懵了，甚至OpenAI官方插件、技能似乎都可以在Chat模式使用\n\nSol=GPT5.6（日）价格对标Claude Fable 5\nTerra=GPT5.6mini（地）价格对标GPT 5.5\nLuna=GPT5.6nano（月）价格对标GPT 5.4mini还要贵一点\n\nUltra=Claude的ultra code workflow\nPro=只是单纯的think more并默认屏蔽工具、技能\n网页、手机的work模式=单纯的把Codex跑在OpenAI自己的Cloud容器中"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人看到GPT-5.6的名字都懵了，甚至OpenAI官方插件、技能似乎都可以在Chat模式使用\n\nSol=GPT5.6（日）价格对标Claude Fable 5\nTerra=GPT5.6mini（地）价格对标GPT 5.5\nLuna=GPT5.6nano（月）价格对标GPT 5.4mini还要贵一点\n\nUltra=Claude的ultra code workflow\nPro=只是单纯的think https://t.co/ZQDiiNYEh0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40004,
+          "following_count": 658,
+          "like_count": 19097,
+          "listed_count": 185,
+          "media_count": 2339,
+          "tweet_count": 16094
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068340989778157661",
+    "created_at": "2026-06-20T15:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068357042897629397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1378681079876313090",
+          "start": 0,
+          "username": "Ayane014081"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "6b49c2b54c068a58"
+    },
+    "id": "2068357042897629397",
+    "in_reply_to_user_id": "1378681079876313090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068340989778157661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayane014081 一看就是优雅haruta"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [6b49c2b54c068a58].",
+      "parameter": "geo.place_id",
+      "resource_id": "6b49c2b54c068a58",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "6b49c2b54c068a58"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_2068340971679748097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ5J7tbkAEn8yL.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068340989778157661",
+        "created_at": "2026-06-20T15:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068357042897629397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1378681079876313090",
+              "start": 0,
+              "username": "Ayane014081"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "6b49c2b54c068a58"
+        },
+        "id": "2068357042897629397",
+        "in_reply_to_user_id": "1378681079876313090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068340989778157661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayane014081 一看就是优雅haruta"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068340971679748097"
+          ]
+        },
+        "author_id": "1378681079876313090",
+        "conversation_id": "2068340989778157661",
+        "created_at": "2026-06-20T14:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068340989778157661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOLkfNpGYT",
+              "end": 32,
+              "expanded_url": "https://x.com/Ayane014081/status/2068340989778157661/photo/1",
+              "media_key": "3_2068340971679748097",
+              "start": 9,
+              "url": "https://t.co/hOLkfNpGYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068340989778157661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试一下小腿袜💕 https://t.co/hOLkfNpGYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38071,
+          "following_count": 657,
+          "like_count": 18000,
+          "listed_count": 178,
+          "media_count": 2191,
+          "tweet_count": 14945
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-04T12:09:27.000Z",
+        "description": "祝你从别人身上想起我～\n已有对象🥰",
+        "id": "1378681079876313090",
+        "name": "绫音SakuyaAyane",
+        "pinned_tweet_id": "1395608207729434634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923311953403092992/ukN2DR-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4105,
+          "following_count": 958,
+          "like_count": 60034,
+          "listed_count": 18,
+          "media_count": 155,
+          "tweet_count": 3370
+        },
+        "url": "",
+        "username": "Ayane014081",
+        "verified": false
+      }
+    ]
+  }
+}

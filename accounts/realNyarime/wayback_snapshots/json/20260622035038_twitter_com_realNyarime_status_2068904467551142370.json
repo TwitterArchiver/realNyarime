@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068881474183700724",
+    "created_at": "2026-06-22T03:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068904467551142370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "950460643173216256",
+          "start": 0,
+          "username": "idoubicc"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2068904467551142370",
+    "in_reply_to_user_id": "950460643173216256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068881474183700724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idoubicc 可惜不在广州，不然这种课对于有想法但难实现的同学很有帮助，或许4096就是交个朋友"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_2068881468613599232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYku_saIAAba7I.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068881474183700724",
+        "created_at": "2026-06-22T03:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068904467551142370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "950460643173216256",
+              "start": 0,
+              "username": "idoubicc"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2068904467551142370",
+        "in_reply_to_user_id": "950460643173216256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068881474183700724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idoubicc 可惜不在广州，不然这种课对于有想法但难实现的同学很有帮助，或许4096就是交个朋友"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068881468613599232"
+          ]
+        },
+        "author_id": "950460643173216256",
+        "conversation_id": "2068881474183700724",
+        "created_at": "2026-06-22T02:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068881474183700724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "周末来南沙喝杯咖啡。一天时间，我带 5 个人用上 Claude Code 和 Codex，从一个想法出发，现场把项目真正做出来。",
+              "display_url": "codefree.cafe",
+              "end": 30,
+              "expanded_url": "http://codefree.cafe",
+              "start": 7,
+              "status": 200,
+              "title": "CodeFree",
+              "unwound_url": "http://codefree.cafe",
+              "url": "https://t.co/ULtivYzXlr"
+            },
+            {
+              "display_url": "pic.x.com/9BLNzkHgFp",
+              "end": 204,
+              "expanded_url": "https://x.com/idoubicc/status/2068881474183700724/photo/1",
+              "media_key": "3_2068881468613599232",
+              "start": 181,
+              "url": "https://t.co/9BLNzkHgFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068881474183700724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "codefree.cafe",
+                "end": 30,
+                "expanded_url": "http://codefree.cafe",
+                "start": 7,
+                "url": "https://t.co/IoSSxZrSBM"
+              },
+              {
+                "display_url": "codefree.cafe",
+                "end": 491,
+                "expanded_url": "http://codefree.cafe",
+                "start": 468,
+                "url": "https://t.co/IoSSxZrSBM"
+              },
+              {
+                "display_url": "codefree.cafe",
+                "end": 667,
+                "expanded_url": "http://codefree.cafe",
+                "start": 644,
+                "url": "https://t.co/IoSSxZrSBM"
+              }
+            ]
+          },
+          "text": "我昨天做了个：https://t.co/IoSSxZrSBM\n\n定位是：咖啡馆里的 AI 编程小桌课\n\n周末来咖啡馆，一天时间，用上 Claude Code 和 Codex，从一个想法出发，现场把项目真正做出来。\n\n## 可以收获什么\n\n1. 帮你搞定网络配置，让你畅快用上 cc 和 codex\n2. 教你基本的 Vibe Coding 技巧和调试方法\n3. 给你演示如何用 ShipAny 快速上站\n4. 帮你拆解你的 idea，跑通从开发到上线的全流程\n\n六小时结对编程，面对面解答你的问题。\n\n## 如何收费\n\n¥4096 / 人次\n\n赠送：\n\n1. ShipAny 会员（¥1999）\n2. 1024 全栈开发社群一年会员（¥1024）\n3.《这就是 MCP》一本（¥49）\n\n赠送权益价值：¥3072\n\n跟朋友报名同行，所有同行成员半价。包午餐 + 咖啡\n\n如果你已拥有 shipany + 1024 + mcp 大满贯权益，跟朋友一起来，只需要支付：(4096-3072)/2 = ¥512\n\n## 如何报名\n\n1. 在 https://t.co/IoSSxZrSBM 网站提交表单报名\n2. 报名成功后添加微信，确认你需要支付的金额\n3. 跟你确认开课时间、地点和行程安排\n\n------\n\n本周六开 CodeFree 第一期小桌课\n\n面向广深地区的朋友，限定 5 个席位，先报名先安排\n\n地点：广州 · 南沙客运港\n\n目标是让你：带着想法来，带着作品走。\n\n线上报名👉 https://t.co/IoSSxZrSBM"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1948,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我昨天做了个：https://t.co/ULtivYzXlr\n\n定位是：咖啡馆里的 AI 编程小桌课\n\n周末来咖啡馆，一天时间，用上 Claude Code 和 Codex，从一个想法出发，现场把项目真正做出来。\n\n## 可以收获什么\n\n1. 帮你搞定网络配置，让你畅快用上 cc 和 codex\n2. 教你基本的 Vibe Coding 技巧和调试方法\n3. https://t.co/9BLNzkHgFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38155,
+          "following_count": 660,
+          "like_count": 18171,
+          "listed_count": 178,
+          "media_count": 2212,
+          "tweet_count": 15165
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-08T20:14:10.000Z",
+        "description": "Building Agent Infra + Agent SaaS 👇\nhttps://t.co/jiNBn9il4Q\nhttps://t.co/Ommsg8hqJU\nhttps://t.co/4btT69Ma7s\nhttps://t.co/bl7xJUoksb\nhttps://t.co/H0JafkPZje",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fastclaw.ai",
+                "end": 59,
+                "expanded_url": "http://fastclaw.ai",
+                "start": 36,
+                "url": "https://t.co/jiNBn9il4Q"
+              },
+              {
+                "display_url": "shipany.ai",
+                "end": 83,
+                "expanded_url": "http://shipany.ai",
+                "start": 60,
+                "url": "https://t.co/Ommsg8hqJU"
+              },
+              {
+                "display_url": "workany.ai",
+                "end": 107,
+                "expanded_url": "http://workany.ai",
+                "start": 84,
+                "url": "https://t.co/4btT69Ma7s"
+              },
+              {
+                "display_url": "weclaw.im",
+                "end": 131,
+                "expanded_url": "http://weclaw.im",
+                "start": 108,
+                "url": "https://t.co/bl7xJUoksb"
+              },
+              {
+                "display_url": "mcp.so",
+                "end": 155,
+                "expanded_url": "http://mcp.so",
+                "start": 132,
+                "url": "https://t.co/H0JafkPZje"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "idoubi.ai",
+                "end": 23,
+                "expanded_url": "https://idoubi.ai",
+                "start": 0,
+                "url": "https://t.co/K2j8pWVYxc"
+              }
+            ]
+          }
+        },
+        "id": "950460643173216256",
+        "location": "all in AI",
+        "name": "idoubi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657754264729448448/1AOP0K4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27259,
+          "following_count": 392,
+          "like_count": 442,
+          "listed_count": 397,
+          "media_count": 321,
+          "tweet_count": 1007
+        },
+        "url": "https://t.co/K2j8pWVYxc",
+        "username": "idoubicc",
+        "verified": true
+      }
+    ]
+  }
+}

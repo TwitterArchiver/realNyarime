@@ -1,0 +1,976 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034705557366743044"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1238186761110433792",
+          "name": "Mobile development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1238187952997462016",
+          "name": "Android development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1238187996706246656",
+          "name": "iOS development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1238186761110433792",
+          "name": "Mobile development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1238187952997462016",
+          "name": "Android development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1238187996706246656",
+          "name": "iOS development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2034705641537974419",
+    "created_at": "2026-03-19T18:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T19:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034705641537974419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aDa9tsA5vT",
+          "end": 171,
+          "expanded_url": "https://x.com/realNyarime/status/2034705641537974419/photo/1",
+          "media_key": "3_2034705557366743044",
+          "start": 148,
+          "url": "https://t.co/aDa9tsA5vT"
+        },
+        {
+          "display_url": "x.com/AndroidDev/sta…",
+          "end": 195,
+          "expanded_url": "https://twitter.com/AndroidDev/status/2034682546970075183",
+          "start": 172,
+          "url": "https://t.co/BTQlQGX95r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034705641537974419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "安卓越来越封闭了，说是为了防止用户受骗，很好奇国产厂商会怎么改🤔\n\n如果要侧载，需要做以下步骤：\n1）启用「开发者选项」\n2）完成「高级流程」，关闭安全措施\n3）设备重启，进入一天等待期（一次性永久允许安装未注册的应用）\n* 同时Android也提供了7天暂时启用的选项，有点像iOS侧载一样。\n\n无论哪种方式，安装提示仍会显示「该应用程序来自未经验证的开发者」的警告，但用户可以选择「仍然安装」。不过，通过ADB安装的App不受影响，免于等待。\n\n这项高级流程将在今年8月上线，另外谷歌还会推出限量分发帐户，允许用户在不需支付注册费或提供kyc的情况下，与最多20名用户分享App。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034682546970075183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "安卓越来越封闭了，说是为了防止用户受骗，很好奇国产厂商会怎么改🤔\n\n如果要侧载，需要做以下步骤：\n1）启用「开发者选项」\n2）完成「高级流程」，关闭安全措施\n3）设备重启，进入一天等待期（一次性永久允许安装未注册的应用）\n* 同时Android也提供了7天暂时启用的选项，有点像iOS侧载一样。 https://t.co/aDa9tsA5vT https://t.co/BTQlQGX95r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 461,
+        "media_key": "3_2034705557366743044",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDy57JFboAQGs8E.jpg",
+        "width": 700
+      },
+      {
+        "duration_ms": 111566,
+        "height": 720,
+        "media_key": "13_2034682294493917184",
+        "preview_image_url": "https://pbs.twimg.com/media/HDyk4i8XIAA1yle.png",
+        "public_metrics": {
+          "view_count": 5091
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034682294493917184/vid/avc1/320x568/CrAuTnPnsYRvixV8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034682294493917184/vid/avc1/480x852/zLsWADH4kPR49QBW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034682294493917184/vid/avc1/720x1280/rJbgDmu5TqjDA5iU.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034682294493917184/pl/Q8cjPxVHmNm6fvEB.m3u8?tag=14&v=07d"
+          }
+        ],
+        "width": 405
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034705557366743044"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1238186761110433792",
+              "name": "Mobile development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1238187952997462016",
+              "name": "Android development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1238187996706246656",
+              "name": "iOS development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1238186761110433792",
+              "name": "Mobile development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1238187952997462016",
+              "name": "Android development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1238187996706246656",
+              "name": "iOS development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2034705641537974419",
+        "created_at": "2026-03-19T18:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T19:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034705641537974419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDa9tsA5vT",
+              "end": 171,
+              "expanded_url": "https://x.com/realNyarime/status/2034705641537974419/photo/1",
+              "media_key": "3_2034705557366743044",
+              "start": 148,
+              "url": "https://t.co/aDa9tsA5vT"
+            },
+            {
+              "display_url": "x.com/AndroidDev/sta…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/AndroidDev/status/2034682546970075183",
+              "start": 172,
+              "url": "https://t.co/BTQlQGX95r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034705641537974419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "安卓越来越封闭了，说是为了防止用户受骗，很好奇国产厂商会怎么改🤔\n\n如果要侧载，需要做以下步骤：\n1）启用「开发者选项」\n2）完成「高级流程」，关闭安全措施\n3）设备重启，进入一天等待期（一次性永久允许安装未注册的应用）\n* 同时Android也提供了7天暂时启用的选项，有点像iOS侧载一样。\n\n无论哪种方式，安装提示仍会显示「该应用程序来自未经验证的开发者」的警告，但用户可以选择「仍然安装」。不过，通过ADB安装的App不受影响，免于等待。\n\n这项高级流程将在今年8月上线，另外谷歌还会推出限量分发帐户，允许用户在不需支付注册费或提供kyc的情况下，与最多20名用户分享App。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034682546970075183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "安卓越来越封闭了，说是为了防止用户受骗，很好奇国产厂商会怎么改🤔\n\n如果要侧载，需要做以下步骤：\n1）启用「开发者选项」\n2）完成「高级流程」，关闭安全措施\n3）设备重启，进入一天等待期（一次性永久允许安装未注册的应用）\n* 同时Android也提供了7天暂时启用的选项，有点像iOS侧载一样。 https://t.co/aDa9tsA5vT https://t.co/BTQlQGX95r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034682294493917184"
+          ]
+        },
+        "author_id": "93711247",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1238186761110433792",
+              "name": "Mobile development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1238187952997462016",
+              "name": "Android development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1238186761110433792",
+              "name": "Mobile development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1238187952997462016",
+              "name": "Android development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2034682546970075183",
+        "created_at": "2026-03-19T17:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034682546970075183"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 214,
+              "normalized_text": "Android",
+              "probability": 0.9455,
+              "start": 208,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "News and insights on the Android platform, developer tools, and events.",
+              "display_url": "goo.gle/advance-flow",
+              "end": 276,
+              "expanded_url": "https://goo.gle/advance-flow",
+              "images": [
+                {
+                  "height": 803,
+                  "url": "https://pbs.twimg.com/news_img/2034682586279419905/arAjR0H4?format=jpg&name=orig",
+                  "width": 1235
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2034682586279419905/arAjR0H4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 253,
+              "status": 200,
+              "title": "Android developer verification: Balancing openness and choice with safety",
+              "unwound_url": "https://android-developers.googleblog.com/2026/03/android-developer-verification.html",
+              "url": "https://t.co/eQWedAMc4t"
+            },
+            {
+              "display_url": "pic.x.com/vfjxzQPihQ",
+              "end": 300,
+              "expanded_url": "https://x.com/AndroidDev/status/2034682546970075183/video/1",
+              "media_key": "13_2034682294493917184",
+              "start": 277,
+              "url": "https://t.co/vfjxzQPihQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034682546970075183",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 23221,
+          "like_count": 78,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "📣 Sideloading is here to stay. \n\nUsers will be able to install apps from unverified developers via a new advanced flow, which includes safeguards that stop scammers and maintain choice.\n\nLearn more about how Android developer verification is evolving → https://t.co/eQWedAMc4t https://t.co/vfjxzQPihQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22761,
+          "following_count": 502,
+          "like_count": 11095,
+          "listed_count": 96,
+          "media_count": 1185,
+          "tweet_count": 8570
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-30T20:54:18.000Z",
+        "description": "Get the latest Android news, best practices, live videos, demonstrations, tutorials, and more!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goo.gle/androiddevelop…",
+                "end": 23,
+                "expanded_url": "https://goo.gle/androiddevelopers",
+                "start": 0,
+                "url": "https://t.co/slJ5NUkUeS"
+              }
+            ]
+          }
+        },
+        "id": "93711247",
+        "location": "Mountain View, CA",
+        "name": "Android Developers",
+        "pinned_tweet_id": "2029609474059891022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001369912183488513/tLoxLDlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059213,
+          "following_count": 348,
+          "like_count": 4422,
+          "listed_count": 15397,
+          "media_count": 3697,
+          "tweet_count": 8857
+        },
+        "url": "https://t.co/slJ5NUkUeS",
+        "username": "AndroidDev",
+        "verified": true
+      }
+    ]
+  }
+}

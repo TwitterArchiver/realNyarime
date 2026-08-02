@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068538884527358076",
+    "created_at": "2026-06-21T06:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068577282739048658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "936609800598597633",
+          "start": 0,
+          "username": "Jason_Young1231"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "62bd729efdea504b"
+    },
+    "id": "2068577282739048658",
+    "in_reply_to_user_id": "936609800598597633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068538884527358076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jason_Young1231 用了！不过GLM-5.2给我一种Opus4.6的感觉，如果API中转站以假乱真，那我大概率也看不出来"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [62bd729efdea504b].",
+      "parameter": "geo.place_id",
+      "resource_id": "62bd729efdea504b",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "62bd729efdea504b"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_2068538450299555840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTsws5XkAAmpQI.jpg",
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068538884527358076",
+        "created_at": "2026-06-21T06:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068577282739048658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "936609800598597633",
+              "start": 0,
+              "username": "Jason_Young1231"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "62bd729efdea504b"
+        },
+        "id": "2068577282739048658",
+        "in_reply_to_user_id": "936609800598597633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068538884527358076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jason_Young1231 用了！不过GLM-5.2给我一种Opus4.6的感觉，如果API中转站以假乱真，那我大概率也看不出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068538450299555840"
+          ]
+        },
+        "author_id": "936609800598597633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2068538884527358076",
+        "created_at": "2026-06-21T03:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068538884527358076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/edElMh2uEb",
+              "end": 173,
+              "expanded_url": "https://x.com/Jason_Young1231/status/2068538884527358076/photo/1",
+              "media_key": "3_2068538450299555840",
+              "start": 150,
+              "url": "https://t.co/edElMh2uEb"
+            },
+            {
+              "display_url": "x.com/Jason_Young123…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/Jason_Young1231/status/2067233065479426502",
+              "start": 174,
+              "url": "https://t.co/pBD3TIodkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068538884527358076",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7301,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067233065479426502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GLM 5.2 is impressively strong. What happens when you use it inside Codex? Could the combination be greater than the sum of its parts? Try CC Switch! https://t.co/edElMh2uEb https://t.co/pBD3TIodkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38109,
+          "following_count": 658,
+          "like_count": 18052,
+          "listed_count": 178,
+          "media_count": 2199,
+          "tweet_count": 15040
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-01T14:55:52.000Z",
+        "description": "Building CC Switch — open-source tooling for AI coding workflows across Claude Code, Codex, OpenClaw, Hermes and more: https://t.co/gpx1V4wBKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ccswitch.io",
+                "end": 142,
+                "expanded_url": "https://www.ccswitch.io",
+                "start": 119,
+                "url": "https://t.co/gpx1V4wBKk"
+              }
+            ]
+          }
+        },
+        "id": "936609800598597633",
+        "name": "Jason Young",
+        "pinned_tweet_id": "2050969805721874786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604123462792249344/9cNRBhXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17656,
+          "following_count": 651,
+          "like_count": 27790,
+          "listed_count": 148,
+          "media_count": 502,
+          "tweet_count": 8487
+        },
+        "url": "",
+        "username": "Jason_Young1231",
+        "verified": true
+      }
+    ]
+  }
+}

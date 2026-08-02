@@ -1,0 +1,561 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2052730568987791582",
+    "created_at": "2026-05-08T13:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052735610469883978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "53326562",
+          "start": 0,
+          "username": "gxf"
+        },
+        {
+          "end": 16,
+          "id": "32499999",
+          "start": 5,
+          "username": "Cloudflare"
+        },
+        {
+          "end": 32,
+          "id": "885954674523684864",
+          "start": 17,
+          "username": "CloudflareHelp"
+        },
+        {
+          "end": 54,
+          "id": "300637864",
+          "start": 40,
+          "username": "CloudflareDev"
+        },
+        {
+          "end": 79,
+          "id": "1839675874020397056",
+          "start": 69,
+          "username": "darkmembo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052735610469883978",
+    "in_reply_to_user_id": "53326562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052730568987791582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gxf @Cloudflare @CloudflareHelp 我觉得应该找 @CloudflareDev 以及曾经帮助过我的CF小哥 @darkmembo 来看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2052730568987791582",
+        "created_at": "2026-05-08T13:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052735610469883978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "53326562",
+              "start": 0,
+              "username": "gxf"
+            },
+            {
+              "end": 16,
+              "id": "32499999",
+              "start": 5,
+              "username": "Cloudflare"
+            },
+            {
+              "end": 32,
+              "id": "885954674523684864",
+              "start": 17,
+              "username": "CloudflareHelp"
+            },
+            {
+              "end": 54,
+              "id": "300637864",
+              "start": 40,
+              "username": "CloudflareDev"
+            },
+            {
+              "end": 79,
+              "id": "1839675874020397056",
+              "start": 69,
+              "username": "darkmembo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052735610469883978",
+        "in_reply_to_user_id": "53326562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052730568987791582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxf @Cloudflare @CloudflareHelp 我觉得应该找 @CloudflareDev 以及曾经帮助过我的CF小哥 @darkmembo 来看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "53326562",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2052730568987791582",
+        "created_at": "2026-05-08T12:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052730568987791582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 98,
+              "id": "32499999",
+              "start": 87,
+              "username": "Cloudflare"
+            },
+            {
+              "end": 114,
+              "id": "885954674523684864",
+              "start": 99,
+              "username": "CloudflareHelp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052730568987791582",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Cloudflare dashboard is not working on Firefox for several weeks, Chrome only website? @Cloudflare @CloudflareHelp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32399,
+          "following_count": 596,
+          "like_count": 13795,
+          "listed_count": 150,
+          "media_count": 1701,
+          "tweet_count": 11221
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-03T07:45:40.000Z",
+        "description": "Founder of @s_dot_ee, Entrepreneur, Domain Investor, Developer & Open Source Enthusiast.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "s_dot_ee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.ac",
+                "end": 23,
+                "expanded_url": "https://m.ac/",
+                "start": 0,
+                "url": "https://t.co/lvWLUbb3q8"
+              }
+            ]
+          }
+        },
+        "id": "53326562",
+        "location": "Sydney, Australia",
+        "name": "Xiufeng Guo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944577714888704/IZ6jlq4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 248,
+          "like_count": 112,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/lvWLUbb3q8",
+        "username": "gxf",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-17T17:58:28.000Z",
+        "description": "Cloudflare is the world’s leading #ConnectivityCloud, and we have our eyes set on an ambitious goal — to help build a #BetterInternet.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 34,
+                "tag": "ConnectivityCloud"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "tag": "BetterInternet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://www.cloudflare.com/",
+                "start": 0,
+                "url": "https://t.co/6WEmQXqEvH"
+              }
+            ]
+          }
+        },
+        "id": "32499999",
+        "location": "300+ cities in 100+ countries",
+        "name": "Cloudflare",
+        "pinned_tweet_id": "2049592901391233398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016613099034345472/zHWjcVEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279718,
+          "following_count": 5412,
+          "like_count": 6133,
+          "listed_count": 2758,
+          "media_count": 6168,
+          "tweet_count": 47910
+        },
+        "url": "https://t.co/6WEmQXqEvH",
+        "username": "Cloudflare",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-14T20:10:29.000Z",
+        "description": "This is the official @Cloudflare Support account. See https://t.co/fgMNRRYirI for incident updates, or try https://t.co/WyPljyhDls and https://t.co/Q4N8QONzem.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Cloudflare"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cloudflarestatus.com",
+                "end": 77,
+                "expanded_url": "http://cloudflarestatus.com",
+                "start": 54,
+                "url": "https://t.co/fgMNRRYirI"
+              },
+              {
+                "display_url": "community.cloudflare.com",
+                "end": 130,
+                "expanded_url": "http://community.cloudflare.com",
+                "start": 107,
+                "url": "https://t.co/WyPljyhDls"
+              },
+              {
+                "display_url": "support.cloudflare.com",
+                "end": 158,
+                "expanded_url": "http://support.cloudflare.com",
+                "start": 135,
+                "url": "https://t.co/Q4N8QONzem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://www.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/a4Nq2WXVo0"
+              }
+            ]
+          }
+        },
+        "id": "885954674523684864",
+        "location": "Global",
+        "name": "Cloudflare Help",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/941723366855122944/EkK_gyAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14552,
+          "following_count": 23,
+          "like_count": 213,
+          "listed_count": 98,
+          "media_count": 24,
+          "tweet_count": 2874
+        },
+        "url": "https://t.co/a4Nq2WXVo0",
+        "username": "CloudflareHelp",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-18T03:09:45.000Z",
+        "description": "Have questions, or building something cool with Cloudflare's Developer products? We're here to help. For help with your account please try @CloudflareHelp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 139,
+                "username": "CloudflareHelp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "developers.cloudflare.com",
+                "end": 23,
+                "expanded_url": "http://developers.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/PBGcxej2Wq"
+              }
+            ]
+          }
+        },
+        "id": "300637864",
+        "location": "Earth",
+        "name": "Cloudflare Developers",
+        "pinned_tweet_id": "1976655655256944801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/991779658147377152/ESp67BNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68096,
+          "following_count": 138,
+          "like_count": 2043,
+          "listed_count": 515,
+          "media_count": 624,
+          "tweet_count": 4350
+        },
+        "url": "https://t.co/PBGcxej2Wq",
+        "username": "CloudflareDev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-27T14:39:40.000Z",
+        "description": "Powered by coffee. Helping people build on @cloudflare ✌🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "cloudflare"
+              }
+            ]
+          }
+        },
+        "id": "1839675874020397056",
+        "location": "Munich",
+        "name": "Mark Dembo",
+        "pinned_tweet_id": "1931821587440996782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839677129526534144/E9C8vXcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 195,
+          "like_count": 3087,
+          "listed_count": 9,
+          "media_count": 217,
+          "tweet_count": 862
+        },
+        "username": "darkmembo",
+        "verified": true
+      }
+    ]
+  }
+}

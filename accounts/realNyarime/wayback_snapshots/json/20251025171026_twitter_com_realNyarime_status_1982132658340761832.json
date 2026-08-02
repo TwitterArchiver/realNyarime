@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "1981930881523572909",
+    "created_at": "2025-10-25T17:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T18:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982132658340761832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867332524",
+          "start": 0,
+          "username": "YinsenHo_"
+        },
+        {
+          "end": 22,
+          "id": "1892383951836368896",
+          "start": 11,
+          "username": "zjp1997720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982132658340761832",
+    "in_reply_to_user_id": "1867332524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981947883210625202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YinsenHo_ @zjp1997720 这个我很支持，我很期待cherry出iOS版本呜呜（抱着🍍求一个嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1981930881523572909",
+        "created_at": "2025-10-25T17:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T18:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982132658340761832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867332524",
+              "start": 0,
+              "username": "YinsenHo_"
+            },
+            {
+              "end": 22,
+              "id": "1892383951836368896",
+              "start": 11,
+              "username": "zjp1997720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982132658340761832",
+        "in_reply_to_user_id": "1867332524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981947883210625202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YinsenHo_ @zjp1997720 这个我很支持，我很期待cherry出iOS版本呜呜（抱着🍍求一个嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867332524",
+        "conversation_id": "1981930881523572909",
+        "created_at": "2025-10-25T04:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981947883210625202"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "cherry",
+              "probability": 0.6285,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892383951836368896",
+              "start": 0,
+              "username": "zjp1997720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981947883210625202",
+        "in_reply_to_user_id": "1892383951836368896",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 474,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981930881523572909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zjp1997720 cherry studio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Naixi Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "realYingxi"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.naixi.org",
+                "end": 23,
+                "expanded_url": "http://about.naixi.org",
+                "start": 0,
+                "url": "https://t.co/8GeteJjIji"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1980325458756743246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978422573148114944/SvoZ3L_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 853,
+          "like_count": 8188,
+          "listed_count": 7,
+          "media_count": 465,
+          "tweet_count": 4248
+        },
+        "url": "https://t.co/8GeteJjIji",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-15T11:14:10.000Z",
+        "description": "PM of 🍒 Cherry Studio",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Cherry-ai.com",
+                "end": 23,
+                "expanded_url": "http://Cherry-ai.com",
+                "start": 0,
+                "url": "https://t.co/HUjzo4fHJL"
+              }
+            ]
+          }
+        },
+        "id": "1867332524",
+        "location": "Los Angeles, CA",
+        "name": "Yinsen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892102864560062468/HqBEmDlS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8462,
+          "following_count": 605,
+          "like_count": 108,
+          "listed_count": 113,
+          "media_count": 324,
+          "tweet_count": 2499
+        },
+        "url": "https://t.co/HUjzo4fHJL",
+        "username": "YinsenHo_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-20T01:21:26.000Z",
+        "description": "在线下做AI培训与解决方案，同时也是个不定期更新公众号博主「智见AI」,在X上分享心得与高效AI工作流",
+        "id": "1892383951836368896",
+        "name": "Deep_insight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956653239547650048/t8cwGweh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 167,
+          "like_count": 61,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 213
+        },
+        "username": "zjp1997720",
+        "verified": false
+      }
+    ]
+  }
+}

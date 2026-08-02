@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068291323749347626",
+    "created_at": "2026-06-21T00:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T01:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068497225039372585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstra"
+        },
+        {
+          "end": 25,
+          "id": "1557846379736666113",
+          "start": 9,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "7b02fbddf4d9f2c6"
+    },
+    "id": "2068497225039372585",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068403790538277053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstra @Meguminsama2009 能润出去对于国人来说就是救赎了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [7b02fbddf4d9f2c6].",
+      "parameter": "geo.place_id",
+      "resource_id": "7b02fbddf4d9f2c6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "7b02fbddf4d9f2c6"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068291323749347626",
+        "created_at": "2026-06-21T00:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068497225039372585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstra"
+            },
+            {
+              "end": 25,
+              "id": "1557846379736666113",
+              "start": 9,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7b02fbddf4d9f2c6"
+        },
+        "id": "2068497225039372585",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068403790538277053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstra @Meguminsama2009 能润出去对于国人来说就是救赎了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775079210484436992",
+        "conversation_id": "2068291323749347626",
+        "created_at": "2026-06-20T18:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068403790538277053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068403790538277053",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068291323749347626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 说实话大陆翻译有点牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38091,
+          "following_count": 658,
+          "like_count": 18024,
+          "listed_count": 179,
+          "media_count": 2195,
+          "tweet_count": 15015
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "正在打造 @GMWallet ｜GitHub Star全球前十(加密领域) HODL @PudgyPenguins #5103 加密交易用币安：https://t.co/gCvs8cb1ga\nOKX最合规交易所：https://t.co/Spvg2Or79R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "GMWallet"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "PudgyPenguins"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 95,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 72,
+                "url": "https://t.co/gCvs8cb1ga"
+              },
+              {
+                "display_url": "okx.com/join/17846565",
+                "end": 129,
+                "expanded_url": "https://okx.com/join/17846565",
+                "start": 106,
+                "url": "https://t.co/Spvg2Or79R"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063723095492644864/wQfoPaC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8135,
+          "following_count": 933,
+          "like_count": 47875,
+          "listed_count": 36,
+          "media_count": 491,
+          "tweet_count": 10038
+        },
+        "url": "",
+        "username": "0xAstra",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 1959,
+          "like_count": 3175,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 6893
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

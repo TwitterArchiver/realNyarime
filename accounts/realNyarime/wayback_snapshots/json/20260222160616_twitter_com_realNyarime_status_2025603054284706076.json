@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1227714833300090881",
+          "name": "Google Fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2025541983490519356",
+    "created_at": "2026-02-22T16:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025603054284706076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "968086778417618949",
+          "start": 0,
+          "username": "guoyuan6"
+        },
+        {
+          "end": 21,
+          "id": "705380039399858176",
+          "start": 10,
+          "username": "hanson2118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025603054284706076",
+    "in_reply_to_user_id": "968086778417618949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025600455590682713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guoyuan6 @hanson2118 最好就是魅族21Pro呀，这是我觉得最好的热点机。n79什么5g频段都cover而且支持root（闲鱼50），系统级VPN热点\n\n至于T版，你得看现在行情。或者干脆找我买个30刀每月的Google fi也不是不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1227714833300090881",
+              "name": "Google Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2025541983490519356",
+        "created_at": "2026-02-22T16:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025603054284706076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "968086778417618949",
+              "start": 0,
+              "username": "guoyuan6"
+            },
+            {
+              "end": 21,
+              "id": "705380039399858176",
+              "start": 10,
+              "username": "hanson2118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025603054284706076",
+        "in_reply_to_user_id": "968086778417618949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025600455590682713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guoyuan6 @hanson2118 最好就是魅族21Pro呀，这是我觉得最好的热点机。n79什么5g频段都cover而且支持root（闲鱼50），系统级VPN热点\n\n至于T版，你得看现在行情。或者干脆找我买个30刀每月的Google fi也不是不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "968086778417618949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2025541983490519356",
+        "created_at": "2026-02-22T15:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025600455590682713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 24,
+              "id": "705380039399858176",
+              "start": 13,
+              "username": "hanson2118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025600455590682713",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025599530545156138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @hanson2118 那我买美版的时候问下，运行商+解锁价格。\n\n要不就直接买无锁的。\n\n我不想买卡贴了，改卡。（在用14plus美版，原有锁att，2年后花150元，才解锁）\n\n那就是上网就是esim+中兴wifi。\n\n网速稳定吗？\n\n我拿17 promax当个wifi用就可以了。\n\n不是我不想买卡贴，华强北改卡技术在15—17方案很不成熟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16085,
+          "following_count": 519,
+          "like_count": 10288,
+          "listed_count": 69,
+          "media_count": 953,
+          "tweet_count": 7542
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-26T11:34:08.000Z",
+        "description": "1、3年PHP程序员经验，2年python、java。\n2、1年新媒体公众号运营，社群裂变。管理1w微信好友。\n3、2年税务经验，熟悉某省会市税务局科室、税务所工作风格。\n4、现某头部保险公司经纪人。\n5、研究AI商业化产品中。",
+        "id": "968086778417618949",
+        "location": "广州",
+        "name": "Dax610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1191168328863080448/u-IVUcbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 402,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 297
+        },
+        "username": "guoyuan6",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-03T13:11:21.000Z",
+        "description": "",
+        "id": "705380039399858176",
+        "name": "Hanson",
+        "pinned_tweet_id": "1630827158854664194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1235372057455505408/fm-LD2RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 880,
+          "like_count": 34056,
+          "listed_count": 19,
+          "media_count": 411,
+          "tweet_count": 42850
+        },
+        "username": "hanson2118",
+        "verified": false
+      }
+    ]
+  }
+}

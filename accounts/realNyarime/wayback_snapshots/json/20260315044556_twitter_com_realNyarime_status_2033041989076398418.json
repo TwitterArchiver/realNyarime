@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033039202229825539"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2033041989076398418",
+    "created_at": "2026-03-15T04:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T05:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033041989076398418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jhfFSJhHzU",
+          "end": 166,
+          "expanded_url": "https://x.com/realNyarime/status/2033041989076398418/photo/1",
+          "media_key": "3_2033039202229825539",
+          "start": 143,
+          "url": "https://t.co/jhfFSJhHzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033041989076398418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "三星国行可以去营业厅写完两张国内eSIM卡（ChinaCI）后，刷外版固件去除地理围栏。在未解锁的情况下，中港澳台固件是通刷的，可直接使用Odin刷机不掉Knox，没有任何损失！\n\n添加eSIM报错说明及解决方案：\n“此 eSIM 只能在购买地所在国家或地区进行设置。”——换固件大区\n“发生错误，请重试”——重新在营业厅扫有效期600秒的码，此报错为三星服务器校验没过\n“请尝试连接至其他网络...”——如果是国内eSIM，必须用CHC固件（刷回国行固件），如果是其他地区eSIM，通常是连不到SM-DP+（RSP）服务器导致的，换个网再试\n“激活码无效或已被禁用”——QR码过期了\n\n* One UI 8.5后，Odin已转移到维护模式中。提前连接好数据线，在设置-智能管理器-更多-打开维护模式，自动重启后同时按住音量加减（±）即可进入Odin模式。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三星国行可以去营业厅写完两张国内eSIM卡（ChinaCI）后，刷外版固件去除地理围栏。在未解锁的情况下，中港澳台固件是通刷的，可直接使用Odin刷机不掉Knox，没有任何损失！\n\n添加eSIM报错说明及解决方案：\n“此 eSIM 只能在购买地所在国家或地区进行设置。”——换固件大区 https://t.co/jhfFSJhHzU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1790,
+        "media_key": "3_2033039202229825539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDbOYgdaMAMvTZe.jpg",
+        "width": 3510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033039202229825539"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2033041989076398418",
+        "created_at": "2026-03-15T04:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T05:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033041989076398418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jhfFSJhHzU",
+              "end": 166,
+              "expanded_url": "https://x.com/realNyarime/status/2033041989076398418/photo/1",
+              "media_key": "3_2033039202229825539",
+              "start": 143,
+              "url": "https://t.co/jhfFSJhHzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033041989076398418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "三星国行可以去营业厅写完两张国内eSIM卡（ChinaCI）后，刷外版固件去除地理围栏。在未解锁的情况下，中港澳台固件是通刷的，可直接使用Odin刷机不掉Knox，没有任何损失！\n\n添加eSIM报错说明及解决方案：\n“此 eSIM 只能在购买地所在国家或地区进行设置。”——换固件大区\n“发生错误，请重试”——重新在营业厅扫有效期600秒的码，此报错为三星服务器校验没过\n“请尝试连接至其他网络...”——如果是国内eSIM，必须用CHC固件（刷回国行固件），如果是其他地区eSIM，通常是连不到SM-DP+（RSP）服务器导致的，换个网再试\n“激活码无效或已被禁用”——QR码过期了\n\n* One UI 8.5后，Odin已转移到维护模式中。提前连接好数据线，在设置-智能管理器-更多-打开维护模式，自动重启后同时按住音量加减（±）即可进入Odin模式。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三星国行可以去营业厅写完两张国内eSIM卡（ChinaCI）后，刷外版固件去除地理围栏。在未解锁的情况下，中港澳台固件是通刷的，可直接使用Odin刷机不掉Knox，没有任何损失！\n\n添加eSIM报错说明及解决方案：\n“此 eSIM 只能在购买地所在国家或地区进行设置。”——换固件大区 https://t.co/jhfFSJhHzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21882,
+          "following_count": 516,
+          "like_count": 10898,
+          "listed_count": 92,
+          "media_count": 1131,
+          "tweet_count": 8348
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

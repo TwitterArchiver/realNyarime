@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2069819427823178145",
+    "created_at": "2026-06-25T04:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069994566590382563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911411832041955328",
+          "start": 0,
+          "username": "weilulufu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2069994566590382563",
+    "in_reply_to_user_id": "1911411832041955328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069950699782488351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weilulufu BOC和PBOC确实不是同一家，前者是四大行之一也是国有银行，后者是央行也就是印人民币的"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2069819427823178145",
+        "created_at": "2026-06-25T04:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069994566590382563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911411832041955328",
+              "start": 0,
+              "username": "weilulufu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2069994566590382563",
+        "in_reply_to_user_id": "1911411832041955328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069950699782488351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weilulufu BOC和PBOC确实不是同一家，前者是四大行之一也是国有银行，后者是央行也就是印人民币的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911411832041955328",
+        "conversation_id": "2069819427823178145",
+        "created_at": "2026-06-25T01:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069950699782488351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069950699782488351",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1339,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069819427823178145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 中国银行不等于中国人民银行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38354,
+          "following_count": 659,
+          "like_count": 18307,
+          "listed_count": 179,
+          "media_count": 2230,
+          "tweet_count": 15315
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T13:31:39.000Z",
+        "description": "：Head of cross-border R&D\n：Graduate in 25 years!\n：Beginner in Hong Kong and US stocks | Senior AI enthusiast | English | WEB3 noob | Financial",
+        "id": "1911411832041955328",
+        "name": "Wei",
+        "pinned_tweet_id": "2060960136555012186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061095831357554688/QPt_t9fO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 405,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "weilulufu",
+        "verified": true
+      }
+    ]
+  }
+}

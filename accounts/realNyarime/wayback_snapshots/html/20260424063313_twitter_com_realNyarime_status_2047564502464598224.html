@@ -1,0 +1,181 @@
+<!-- Source: https://web.archive.org/web/20260424063313if_/twitter_com_realNyarime_status_2047564502464598224 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="奶昔🥤" src="../avatar/avatar_2037172678558425088.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  奶昔🥤
+  </div>
+  <div class="tweet-author-username">
+  @realNyarime
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  电报上有佬在传北京移动蜂窝 5G 环境下的代理情况观察各协议的阻断行为
+  <br/>
+  1）ss2022 h2mux / NaiveProxy / AnyTLS：会在不特定的时间触发 IP 层面的 180 秒回程墙；若此前因本协议触发过回程墙，解除回程墙后尝试再次连接会再次触发回程墙。
+  <br/>
+  2）ss2022 h2mux + ShadowTLS v3：未测试是否会触发回程墙；若此前因 ss2022 h2mux 触发过回程墙，解除回程墙后虽无法连接，但不会再次触发回程墙。
+  <br/>
+  3）ssnone mux：未测试是否会触发回程墙，但若此前因 ss2022 h2mux 触发过回程墙，解除回程墙后虽无法连通，但不会再次触发回程墙。
+  <br/>
+  4）Hysteria2（salamander）：会在不特定的时间触发 IP 层面的 300 秒回程墙；若此前因 Hysteria2 触发过回程墙，解除回程墙后尝试再次连接会再次触发回程墙；若此前因 ss2022 h2mux 触发过回程墙，解除回程墙后虽无法连通，但不会再次触发回程墙。
+  <br/>
+  5）VMess + HTTP 伪装：未测试是否会触发回程墙，若此前因 ss2022 h2mux 触发过回程墙，解除回程墙后稳定可用，且不会再次触发回程墙。
+  <br/>
+  <br/>
+  回程墙
+  <br/>
+  表现为服务器 IP 层面的回程流量在此 IP 国内骨干网节点（如上海 X-I）被丢弃，持续时间为 180 或 300 秒。
+  <br/>
+  <br/>
+  多入口同步封锁
+  <br/>
+  若同一本地 IP 通过不同入口节点（如香港 → 上海、德国 → 北京）同时使用受监控协议（如 ss2022 h2mux / Hysteria2）连接多个服务器，在回程墙触发时，所有入口会无延迟差异同时丢包。
+  <br/>
+  <br/>
+  能够区分 raw UDP / QUIC 的精准阻断
+  <br/>
+  Hysteria2 触发的阻断（未具体观测阻断现象和位置）仅针对目标服务器服务端口的 QUIC 协议本身 ，不影响同一端口的其他 UDP 流量（如目标服务器使用 socat 监听同一端口 UDP，本地 udpping 仍能连通）。
+  <br/>
+  <br/>
+  TLS 恢复优先级差异
+  <br/>
+  在触发了 IP 层面的回程墙并恢复正常后，基于 TCP 的 TLS 协议和基于 UDP 的 QUIC 协议仍会被阻断一段时间，TLS 协议恢复正常状态的时间早于 QUIC 协议。
+  <!-- If there's a quoted tweet, embed it here!-->
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2026-04-24T06:33:13.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

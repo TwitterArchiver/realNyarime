@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022132210762231808",
+        "3_2022132606792609793",
+        "3_2022132790364655617"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10028889887",
+          "name": "Google Play"
+        }
+      }
+    ],
+    "conversation_id": "2022133434106491388",
+    "created_at": "2026-02-13T02:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T03:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022133434106491388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tylwVHkRVa",
+          "end": 196,
+          "expanded_url": "https://x.com/realNyarime/status/2022133434106491388/photo/1",
+          "media_key": "3_2022132210762231808",
+          "start": 173,
+          "url": "https://t.co/tylwVHkRVa"
+        },
+        {
+          "display_url": "pic.x.com/tylwVHkRVa",
+          "end": 196,
+          "expanded_url": "https://x.com/realNyarime/status/2022133434106491388/photo/1",
+          "media_key": "3_2022132606792609793",
+          "start": 173,
+          "url": "https://t.co/tylwVHkRVa"
+        },
+        {
+          "display_url": "pic.x.com/tylwVHkRVa",
+          "end": 196,
+          "expanded_url": "https://x.com/realNyarime/status/2022133434106491388/photo/1",
+          "media_key": "3_2022132790364655617",
+          "start": 173,
+          "url": "https://t.co/tylwVHkRVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022133434106491388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今早通过Google Play订阅的𝕏 Premium到期了，打算以2倍的价格开Premium+，结果发现直接开1年P+的价格高达60040日元（约391刀），而让好友赠送的1年P+仅需27300日元（约178刀）。\n实在没朋友，那就小号开一个月Premium，再赠送给大号就行。问了Premium客服，只需要到期当天及时续上，就不会影响权益。 https://t.co/tylwVHkRVa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 308,
+        "media_key": "3_2022132210762231808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAOiC9bsAAIkTT.png",
+        "width": 596
+      },
+      {
+        "height": 670,
+        "media_key": "3_2022132606792609793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAO5GSbsAEy0Im.jpg",
+        "width": 1055
+      },
+      {
+        "height": 1316,
+        "media_key": "3_2022132790364655617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAPDyJa0AEUdJf.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022132210762231808",
+            "3_2022132606792609793",
+            "3_2022132790364655617"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2022133434106491388",
+        "created_at": "2026-02-13T02:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022133434106491388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tylwVHkRVa",
+              "end": 196,
+              "expanded_url": "https://x.com/realNyarime/status/2022133434106491388/photo/1",
+              "media_key": "3_2022132210762231808",
+              "start": 173,
+              "url": "https://t.co/tylwVHkRVa"
+            },
+            {
+              "display_url": "pic.x.com/tylwVHkRVa",
+              "end": 196,
+              "expanded_url": "https://x.com/realNyarime/status/2022133434106491388/photo/1",
+              "media_key": "3_2022132606792609793",
+              "start": 173,
+              "url": "https://t.co/tylwVHkRVa"
+            },
+            {
+              "display_url": "pic.x.com/tylwVHkRVa",
+              "end": 196,
+              "expanded_url": "https://x.com/realNyarime/status/2022133434106491388/photo/1",
+              "media_key": "3_2022132790364655617",
+              "start": 173,
+              "url": "https://t.co/tylwVHkRVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022133434106491388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今早通过Google Play订阅的𝕏 Premium到期了，打算以2倍的价格开Premium+，结果发现直接开1年P+的价格高达60040日元（约391刀），而让好友赠送的1年P+仅需27300日元（约178刀）。\n实在没朋友，那就小号开一个月Premium，再赠送给大号就行。问了Premium客服，只需要到期当天及时续上，就不会影响权益。 https://t.co/tylwVHkRVa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2020984211340132415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13888,
+          "following_count": 568,
+          "like_count": 10054,
+          "listed_count": 58,
+          "media_count": 886,
+          "tweet_count": 7221
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

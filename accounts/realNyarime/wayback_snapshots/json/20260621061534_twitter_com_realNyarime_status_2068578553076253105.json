@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068578507853369344"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068578553076253105",
+    "created_at": "2026-06-21T06:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068578553076253105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xHoMbR3YVU",
+          "end": 36,
+          "expanded_url": "https://x.com/realNyarime/status/2068578553076253105/photo/1",
+          "media_key": "3_2068578507853369344",
+          "start": 13,
+          "url": "https://t.co/xHoMbR3YVU"
+        },
+        {
+          "display_url": "x.com/Kiger_YuQing/s…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Kiger_YuQing/status/2068575816485904732",
+          "start": 37,
+          "url": "https://t.co/xmDlfNRvxn"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "62bd729efdea504b"
+    },
+    "id": "2068578553076253105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068575816485904732",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "试过的都说好，鼻青脸肿😇 https://t.co/xHoMbR3YVU https://t.co/xmDlfNRvxn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [62bd729efdea504b].",
+      "parameter": "geo.place_id",
+      "resource_id": "62bd729efdea504b",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "62bd729efdea504b"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2068578507853369344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLURMW6bkAASDin.jpg",
+        "width": 591
+      },
+      {
+        "height": 1742,
+        "media_key": "3_2068575802707546112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUOu5daEAAJbxJ.jpg",
+        "width": 1167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068578507853369344"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068578553076253105",
+        "created_at": "2026-06-21T06:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068578553076253105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHoMbR3YVU",
+              "end": 36,
+              "expanded_url": "https://x.com/realNyarime/status/2068578553076253105/photo/1",
+              "media_key": "3_2068578507853369344",
+              "start": 13,
+              "url": "https://t.co/xHoMbR3YVU"
+            },
+            {
+              "display_url": "x.com/Kiger_YuQing/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Kiger_YuQing/status/2068575816485904732",
+              "start": 37,
+              "url": "https://t.co/xmDlfNRvxn"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "62bd729efdea504b"
+        },
+        "id": "2068578553076253105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068575816485904732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "试过的都说好，鼻青脸肿😇 https://t.co/xHoMbR3YVU https://t.co/xmDlfNRvxn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068575802707546112"
+          ]
+        },
+        "author_id": "1527114974841012225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068575816485904732",
+        "created_at": "2026-06-21T06:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068575816485904732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2DMNmqIKH",
+              "end": 27,
+              "expanded_url": "https://x.com/Kiger_YuQing/status/2068575816485904732/photo/1",
+              "media_key": "3_2068575802707546112",
+              "start": 4,
+              "url": "https://t.co/W2DMNmqIKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068575816485904732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好好 https://t.co/W2DMNmqIKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38110,
+          "following_count": 658,
+          "like_count": 18055,
+          "listed_count": 178,
+          "media_count": 2201,
+          "tweet_count": 15044
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫小雨丨清水不涩丨娃勤摄三位一体黄金冤种丨键政禁止丨头壳是自设+特蕾西娅丨暴躁社恐丨注孤的Aquarius丨INFP-T 4w5丨不首先不主动不礼貌丨只对友善的人友善丨中日英OK",
+        "id": "1527114974841012225",
+        "location": "卡兹屯口垃姬桶",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2051280611957186870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048206160784961536/y1rJhNIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 766,
+          "like_count": 6809,
+          "listed_count": 16,
+          "media_count": 305,
+          "tweet_count": 6621
+        },
+        "url": "",
+        "username": "Kiger_YuQing",
+        "verified": true
+      }
+    ]
+  }
+}

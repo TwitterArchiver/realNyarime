@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2048733458365890767",
+    "created_at": "2026-04-27T11:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048733458365890767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jinglian/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jinglian/status/2048583140260626714",
+          "start": 14,
+          "url": "https://t.co/t0VefBwKt0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048733458365890767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048583140260626714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "claude版的掩耳盗铃😂 https://t.co/t0VefBwKt0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2048582331943071744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4GxuybsAAZT-y.jpg",
+        "width": 2280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2048733458365890767",
+        "created_at": "2026-04-27T11:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048733458365890767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jinglian/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jinglian/status/2048583140260626714",
+              "start": 14,
+              "url": "https://t.co/t0VefBwKt0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048733458365890767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048583140260626714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "claude版的掩耳盗铃😂 https://t.co/t0VefBwKt0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048582331943071744"
+          ]
+        },
+        "author_id": "894382598004199425",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2048583140260626714",
+        "created_at": "2026-04-27T02:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048583140260626714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 8,
+              "tag": "ClaudeCode"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVTc9GpHLM",
+              "end": 250,
+              "expanded_url": "https://x.com/jinglian/status/2048583140260626714/photo/1",
+              "media_key": "3_2048582331943071744",
+              "start": 227,
+              "url": "https://t.co/RVTc9GpHLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048583140260626714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 8,
+                "tag": "ClaudeCode"
+              }
+            ]
+          },
+          "text": "经过测试，我的 #ClaudeCode 暂时不需要 KYC验证，😄，暂时放心了\n\n验证方法：\n\n打开Claude ai 网页端，打开网页的devtools，切换到 console，输入下面的代码，然后回车\n\nfetch('/api/organizations')\n  .then(r => r.json())\n  .then(o => fetch(`/api/organizations/${o[0].uuid}/kyc_status`))\n  .then(r => r.json())\n  .then(d => {\n    const map = {\n      not_required: '✅ 无需 KYC，可直接使用/升级',\n      pending: '⏳ 审核中',\n      approved: '✅ 已通过',\n      denied: '❌ 被拒绝'\n    };\n    console.log('KYC 状态：', d.status, map[d.status] || d.status);\n    console.log('完整返回：', d);  // 可看到 vendor_inquiry_url 等细节\n  })\n  .catch(console.error);"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 16196,
+          "like_count": 102,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "经过测试，我的 #ClaudeCode 暂时不需要 KYC验证，😄，暂时放心了\n\n验证方法：\n\n打开Claude ai 网页端，打开网页的devtools，切换到 console，输入下面的代码，然后回车\n\nfetch('/api/organizations')\n  .then(r =&gt; r.json())\n  .then(o =&gt; fetch(`/api/organizations/${o[0].uuid}/kyc_status`)) https://t.co/RVTc9GpHLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30939,
+          "following_count": 579,
+          "like_count": 13067,
+          "listed_count": 153,
+          "media_count": 1585,
+          "tweet_count": 10668
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-07T02:20:02.000Z",
+        "description": "X Premium+ ｜\n11年前端开发者 & AI 重度用户｜\nAI工具 + X运营，我踩过的坑都帮你避开｜\nproduct yourself with AI = build + sell yourself 🚀｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobemaster56.me",
+                "end": 23,
+                "expanded_url": "https://www.tobemaster56.me",
+                "start": 0,
+                "url": "https://t.co/tsA2sIACYu"
+              }
+            ]
+          }
+        },
+        "id": "894382598004199425",
+        "name": "前端哥Liam",
+        "pinned_tweet_id": "2048583140260626714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012000885275344896/pw0eqfmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6386,
+          "following_count": 3662,
+          "like_count": 15589,
+          "listed_count": 23,
+          "media_count": 939,
+          "tweet_count": 10523
+        },
+        "url": "https://t.co/tsA2sIACYu",
+        "username": "jinglian",
+        "verified": true
+      }
+    ]
+  }
+}

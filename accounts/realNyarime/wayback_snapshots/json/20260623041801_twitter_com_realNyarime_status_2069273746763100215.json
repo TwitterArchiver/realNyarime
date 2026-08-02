@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069273342943883264",
+        "3_2069273375105818624"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      }
+    ],
+    "conversation_id": "2069273746763100215",
+    "created_at": "2026-06-23T04:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069273746763100215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fMCjMPelSh",
+          "end": 153,
+          "expanded_url": "https://x.com/realNyarime/status/2069273746763100215/photo/1",
+          "media_key": "3_2069273342943883264",
+          "start": 130,
+          "url": "https://t.co/fMCjMPelSh"
+        },
+        {
+          "display_url": "pic.x.com/fMCjMPelSh",
+          "end": 153,
+          "expanded_url": "https://x.com/realNyarime/status/2069273746763100215/photo/1",
+          "media_key": "3_2069273375105818624",
+          "start": 130,
+          "url": "https://t.co/fMCjMPelSh"
+        },
+        {
+          "display_url": "x.com/kittendong/sta…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/kittendong/status/2069121424510640272",
+          "start": 154,
+          "url": "https://t.co/ZuMMhIiesE"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2069273746763100215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069121424510640272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你把钱包地区切香港，消费花港币甚至ZA都不会有FTF…… 当然没有HKID有年限额😓\n\n微信不收手续费，那是钱包切换到香港地区，然后以信用卡的形式添加众安银行的Visa卡\n支付宝不收手续费，那是Alipay HK这个独立App，而不是内地和澳门用的「支付宝」 https://t.co/fMCjMPelSh https://t.co/ZuMMhIiesE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2069273342943883264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeJJFVa8AAqGPp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2069273375105818624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeJK9JbIAAwvJt.jpg",
+        "width": 1080
+      },
+      {
+        "height": 948,
+        "media_key": "3_2069121411055288320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb-9e8bAAAPn85.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069273342943883264",
+            "3_2069273375105818624"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2069273746763100215",
+        "created_at": "2026-06-23T04:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069273746763100215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMCjMPelSh",
+              "end": 153,
+              "expanded_url": "https://x.com/realNyarime/status/2069273746763100215/photo/1",
+              "media_key": "3_2069273342943883264",
+              "start": 130,
+              "url": "https://t.co/fMCjMPelSh"
+            },
+            {
+              "display_url": "pic.x.com/fMCjMPelSh",
+              "end": 153,
+              "expanded_url": "https://x.com/realNyarime/status/2069273746763100215/photo/1",
+              "media_key": "3_2069273375105818624",
+              "start": 130,
+              "url": "https://t.co/fMCjMPelSh"
+            },
+            {
+              "display_url": "x.com/kittendong/sta…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/kittendong/status/2069121424510640272",
+              "start": 154,
+              "url": "https://t.co/ZuMMhIiesE"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2069273746763100215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069121424510640272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你把钱包地区切香港，消费花港币甚至ZA都不会有FTF…… 当然没有HKID有年限额😓\n\n微信不收手续费，那是钱包切换到香港地区，然后以信用卡的形式添加众安银行的Visa卡\n支付宝不收手续费，那是Alipay HK这个独立App，而不是内地和澳门用的「支付宝」 https://t.co/fMCjMPelSh https://t.co/ZuMMhIiesE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069121411055288320"
+          ]
+        },
+        "author_id": "1339013501319143429",
+        "conversation_id": "2069121424510640272",
+        "created_at": "2026-06-22T18:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069121424510640272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qi9k60xW5F",
+              "end": 116,
+              "expanded_url": "https://x.com/kittendong/status/2069121424510640272/photo/1",
+              "media_key": "3_2069121411055288320",
+              "start": 93,
+              "url": "https://t.co/Qi9k60xW5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069121424510640272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 557,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫不是针对他人\n我只是好奇的想问大家一下\n你们的港卡直接绑定大陆微信\n然后使用大陆钱包支付超200元不收3%的国际卡手续费吗？\n难道只收我一个人的？\n我真的就是想好奇的想问一下~~~ https://t.co/Qi9k60xW5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38211,
+          "following_count": 659,
+          "like_count": 18242,
+          "listed_count": 180,
+          "media_count": 2219,
+          "tweet_count": 15234
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-16T01:04:40.000Z",
+        "description": "🪙 比特币投资人\n🇺🇸 美股新手\n🧐 干货教程小达人\n🧘‍♂️ 所有笔记仅自我学习\n🧩 并非指导或投资建议\n🫱 喜欢学习也喜欢分享",
+        "id": "1339013501319143429",
+        "name": "🪙BTC🐱小猫👻",
+        "pinned_tweet_id": "2068871524619358222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977727587389689856/XdyqRFNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6103,
+          "following_count": 1789,
+          "like_count": 2050,
+          "listed_count": 13,
+          "media_count": 429,
+          "tweet_count": 8071
+        },
+        "url": "",
+        "username": "kittendong",
+        "verified": true
+      }
+    ]
+  }
+}

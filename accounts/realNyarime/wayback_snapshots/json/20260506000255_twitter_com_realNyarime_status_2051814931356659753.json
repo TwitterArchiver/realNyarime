@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2051685254629618008",
+    "created_at": "2026-05-06T00:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T01:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051814931356659753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1365020011123773442",
+          "start": 0,
+          "username": "Teknium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051814931356659753",
+    "in_reply_to_user_id": "1365020011123773442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051685254629618008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teknium 太好了，Hermes在体验上完胜！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2051685254629618008",
+        "created_at": "2026-05-06T00:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051814931356659753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1365020011123773442",
+              "start": 0,
+              "username": "Teknium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051814931356659753",
+        "in_reply_to_user_id": "1365020011123773442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051685254629618008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teknium 太好了，Hermes在体验上完胜！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365020011123773442",
+        "conversation_id": "2051685254629618008",
+        "created_at": "2026-05-05T15:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051685254629618008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Summary Adds a thin i18n layer so the CLI approval prompt and a handful of gateway replies render in Chinese, Japanese, German, or Spanish when display.language is set. Agent-generated output, logs...",
+              "display_url": "github.com/NousResearch/h…",
+              "end": 167,
+              "expanded_url": "https://github.com/NousResearch/hermes-agent/pull/20231",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2051685175906684928/_5YZa6re?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051685175906684928/_5YZa6re?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 144,
+              "status": 200,
+              "title": "feat(i18n): add display.language for static message translation (zh/ja/de/es) by teknium1 · Pull Request #20231 · NousResearch/hermes-agent",
+              "unwound_url": "https://github.com/NousResearch/hermes-agent/pull/20231",
+              "url": "https://t.co/UcQ9FdwWAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051685254629618008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 11390,
+          "like_count": 367,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Hermes now speaks your language.\nHermes 现在会说你的语言。\nHermes があなたの言語を話すようになりました。\nHermes spricht jetzt deine Sprache.\nHermes ahora habla tu idioma.\n\nhttps://t.co/UcQ9FdwWAg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32279,
+          "following_count": 596,
+          "like_count": 13660,
+          "listed_count": 154,
+          "media_count": 1677,
+          "tweet_count": 11126
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-25T19:25:11.000Z",
+        "description": "Cofounder and Lead Engineer - Hermes Agent @NousResearch, prev @StabilityAI\nGithub: https://t.co/LZwHTUFwPq\nHuggingFace: https://t.co/sN2FFU8PVE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "NousResearch"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "StabilityAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/teknium1",
+                "end": 107,
+                "expanded_url": "http://github.com/teknium1",
+                "start": 84,
+                "url": "https://t.co/LZwHTUFwPq"
+              },
+              {
+                "display_url": "huggingface.co/teknium",
+                "end": 144,
+                "expanded_url": "http://huggingface.co/teknium",
+                "start": 121,
+                "url": "https://t.co/sN2FFU8PVE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sponsors/tekni…",
+                "end": 23,
+                "expanded_url": "http://github.com/sponsors/teknium1",
+                "start": 0,
+                "url": "https://t.co/7DnNfZEOPh"
+              }
+            ]
+          }
+        },
+        "id": "1365020011123773442",
+        "location": "USA",
+        "name": "Teknium 🪽",
+        "pinned_tweet_id": "2026760653743206502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81217,
+          "following_count": 6038,
+          "like_count": 164170,
+          "listed_count": 1554,
+          "media_count": 3152,
+          "tweet_count": 60502
+        },
+        "url": "https://t.co/7DnNfZEOPh",
+        "username": "Teknium",
+        "verified": true
+      }
+    ]
+  }
+}

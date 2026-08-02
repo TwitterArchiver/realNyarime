@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007753838447689728",
+        "3_2007753838921674752",
+        "3_2007753838992949248",
+        "3_2007753841090199552"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2007753843648639157",
+    "created_at": "2026-01-04T09:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T10:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007753843648639157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Y8jgEOo3w",
+          "end": 167,
+          "expanded_url": "https://x.com/realNyarime/status/2007753843648639157/photo/1",
+          "media_key": "3_2007753838447689728",
+          "start": 144,
+          "url": "https://t.co/8Y8jgEOo3w"
+        },
+        {
+          "display_url": "pic.x.com/8Y8jgEOo3w",
+          "end": 167,
+          "expanded_url": "https://x.com/realNyarime/status/2007753843648639157/photo/1",
+          "media_key": "3_2007753838921674752",
+          "start": 144,
+          "url": "https://t.co/8Y8jgEOo3w"
+        },
+        {
+          "display_url": "pic.x.com/8Y8jgEOo3w",
+          "end": 167,
+          "expanded_url": "https://x.com/realNyarime/status/2007753843648639157/photo/1",
+          "media_key": "3_2007753838992949248",
+          "start": 144,
+          "url": "https://t.co/8Y8jgEOo3w"
+        },
+        {
+          "display_url": "pic.x.com/8Y8jgEOo3w",
+          "end": 167,
+          "expanded_url": "https://x.com/realNyarime/status/2007753843648639157/photo/1",
+          "media_key": "3_2007753841090199552",
+          "start": 144,
+          "url": "https://t.co/8Y8jgEOo3w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007753843648639157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "为什么外版手机写不了三大运营商的eSIM之China CI\n很多人其实有疑问，为什么今天iPhone Air国行发售才有人陆陆续续的写卡。\n其实，这是国内的三大运营商用了自己的证书（也就是所谓的China CI），长话短说GSMA 特别准许国内运营商自己选择 CI。而国行的iPhone Air除了GSMA证书（也就是目前国际上eSIM通用证书）以外，还比外版多了三大运营商的CI。\n\n这些就是China CI：\nCMCA eSIM Root CA_NIST: cdf6d1c0a7b07f98a861b6e378b82f648d99663e\nChina Unicom eSIM Root CA: 16b5d16048e3ea02bd4b606e5f77a4bf20808d83\nCCS NETCA eSIM ECC RootCA: d3ef83fc503f9c6ec4b7f6ae055b7f1373d4ab1e\n而除了中国以外的eSIM运营商使用的均是国际通用证书（GSMA CI）\nGSM Association - RSP2 Root CI1: 81370f5125d0b1d408d4c3b232e6d25e795bebfb\n\n目前市面上存在同时支持 GSMA 和国内 CI 的 eUICC 芯片（内置了 CI 的根证书），可以同时写入国内运营商和国外运营商的 eSIM Profile。如Amazfit国行手表上的eUICC芯片，可以通过转接的形式转换为类似于eSTK、9eSIM这类可转移EUICC卡。\n\n在最新的泄露规范要求不得China CI和GSMA CI放一起之后，有些eSIM设备会装载2个eUICC芯片，分别内置3个China CI和GSMA CI。至于我们发行的ecp白卡以及9eSIM v0等产品，如果将卡片放入PC/SC读卡器并使用LPA工具查看，不难发现只有GSMA CI"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么外版手机写不了三大运营商的eSIM之China CI\n很多人其实有疑问，为什么今天iPhone Air国行发售才有人陆陆续续的写卡。\n其实，这是国内的三大运营商用了自己的证书（也就是所谓的China CI），长话短说GSMA 特别准许国内运营商自己选择 CI。而国行的iPhone https://t.co/8Y8jgEOo3w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 577,
+        "media_key": "3_2007753838447689728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9z5eoEaAAA9mNi.jpg",
+        "width": 852
+      },
+      {
+        "height": 577,
+        "media_key": "3_2007753838921674752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9z5ep1acAAxJLX.jpg",
+        "width": 852
+      },
+      {
+        "height": 577,
+        "media_key": "3_2007753838992949248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9z5eqGaAAA0W2H.jpg",
+        "width": 852
+      },
+      {
+        "height": 459,
+        "media_key": "3_2007753841090199552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9z5ex6bgAADgcx.png",
+        "width": 759
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007753838447689728",
+            "3_2007753838921674752",
+            "3_2007753838992949248",
+            "3_2007753841090199552"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2007753843648639157",
+        "created_at": "2026-01-04T09:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007753843648639157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Y8jgEOo3w",
+              "end": 167,
+              "expanded_url": "https://x.com/realNyarime/status/2007753843648639157/photo/1",
+              "media_key": "3_2007753838447689728",
+              "start": 144,
+              "url": "https://t.co/8Y8jgEOo3w"
+            },
+            {
+              "display_url": "pic.x.com/8Y8jgEOo3w",
+              "end": 167,
+              "expanded_url": "https://x.com/realNyarime/status/2007753843648639157/photo/1",
+              "media_key": "3_2007753838921674752",
+              "start": 144,
+              "url": "https://t.co/8Y8jgEOo3w"
+            },
+            {
+              "display_url": "pic.x.com/8Y8jgEOo3w",
+              "end": 167,
+              "expanded_url": "https://x.com/realNyarime/status/2007753843648639157/photo/1",
+              "media_key": "3_2007753838992949248",
+              "start": 144,
+              "url": "https://t.co/8Y8jgEOo3w"
+            },
+            {
+              "display_url": "pic.x.com/8Y8jgEOo3w",
+              "end": 167,
+              "expanded_url": "https://x.com/realNyarime/status/2007753843648639157/photo/1",
+              "media_key": "3_2007753841090199552",
+              "start": 144,
+              "url": "https://t.co/8Y8jgEOo3w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007753843648639157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么外版手机写不了三大运营商的eSIM之China CI\n很多人其实有疑问，为什么今天iPhone Air国行发售才有人陆陆续续的写卡。\n其实，这是国内的三大运营商用了自己的证书（也就是所谓的China CI），长话短说GSMA 特别准许国内运营商自己选择 CI。而国行的iPhone Air除了GSMA证书（也就是目前国际上eSIM通用证书）以外，还比外版多了三大运营商的CI。\n\n这些就是China CI：\nCMCA eSIM Root CA_NIST: cdf6d1c0a7b07f98a861b6e378b82f648d99663e\nChina Unicom eSIM Root CA: 16b5d16048e3ea02bd4b606e5f77a4bf20808d83\nCCS NETCA eSIM ECC RootCA: d3ef83fc503f9c6ec4b7f6ae055b7f1373d4ab1e\n而除了中国以外的eSIM运营商使用的均是国际通用证书（GSMA CI）\nGSM Association - RSP2 Root CI1: 81370f5125d0b1d408d4c3b232e6d25e795bebfb\n\n目前市面上存在同时支持 GSMA 和国内 CI 的 eUICC 芯片（内置了 CI 的根证书），可以同时写入国内运营商和国外运营商的 eSIM Profile。如Amazfit国行手表上的eUICC芯片，可以通过转接的形式转换为类似于eSTK、9eSIM这类可转移EUICC卡。\n\n在最新的泄露规范要求不得China CI和GSMA CI放一起之后，有些eSIM设备会装载2个eUICC芯片，分别内置3个China CI和GSMA CI。至于我们发行的ecp白卡以及9eSIM v0等产品，如果将卡片放入PC/SC读卡器并使用LPA工具查看，不难发现只有GSMA CI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么外版手机写不了三大运营商的eSIM之China CI\n很多人其实有疑问，为什么今天iPhone Air国行发售才有人陆陆续续的写卡。\n其实，这是国内的三大运营商用了自己的证书（也就是所谓的China CI），长话短说GSMA 特别准许国内运营商自己选择 CI。而国行的iPhone https://t.co/8Y8jgEOo3w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4938,
+          "following_count": 678,
+          "like_count": 8432,
+          "listed_count": 17,
+          "media_count": 557,
+          "tweet_count": 4912
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

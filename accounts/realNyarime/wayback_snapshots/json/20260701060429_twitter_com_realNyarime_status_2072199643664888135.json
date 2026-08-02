@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2071936698829914149",
+    "created_at": "2026-07-01T06:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072199643664888135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028308162382901248",
+          "start": 0,
+          "username": "JiangL17208"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/trq212/status/…",
+          "end": 47,
+          "expanded_url": "https://x.com/trq212/status/2072079729331777817",
+          "start": 24,
+          "url": "https://t.co/KXTnZh5CZ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072199643664888135",
+    "in_reply_to_user_id": "2028308162382901248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072079729331777817",
+        "type": "quoted"
+      },
+      {
+        "id": "2072002691690336622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangL17208 CC的负责人已经回复\nhttps://t.co/KXTnZh5CZ0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2071936698829914149",
+        "created_at": "2026-07-01T06:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072199643664888135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028308162382901248",
+              "start": 0,
+              "username": "JiangL17208"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/trq212/status/…",
+              "end": 47,
+              "expanded_url": "https://x.com/trq212/status/2072079729331777817",
+              "start": 24,
+              "url": "https://t.co/KXTnZh5CZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072199643664888135",
+        "in_reply_to_user_id": "2028308162382901248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072079729331777817",
+            "type": "quoted"
+          },
+          {
+            "id": "2072002691690336622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangL17208 CC的负责人已经回复\nhttps://t.co/KXTnZh5CZ0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "352806502",
+        "conversation_id": "2071971609183678544",
+        "created_at": "2026-06-30T22:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072079729331777817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831435289341894656",
+              "start": 0,
+              "username": "IntCyberDigest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072079729331777817",
+        "in_reply_to_user_id": "1831435289341894656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Hi, this is an experiment we launched in March that was meant to prevent account abuse from unauthorized resellers and protect against distillation. \n\nThe team has landed stronger mitigations since then and we’ve actually been meaning to take this down for a while. We merged the PR and this should be fully rolled back in tomorrow’s release."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 149762,
+          "like_count": 471,
+          "quote_count": 71,
+          "reply_count": 142,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071971609183678544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IntCyberDigest Hi, this is an experiment we launched in March that was meant to prevent account abuse from unauthorized resellers and protect against distillation. \n\nThe team has landed stronger mitigations since then and we’ve actually been meaning to take this down for a while. We merged the"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028308162382901248",
+        "conversation_id": "2071936698829914149",
+        "created_at": "2026-06-30T17:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072002691690336622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072002691690336622",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 663,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071936698829914149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime Claude Code 遥测事件曝光后，用户信任度会受影响。希望 Anthropic 能更透明一点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38971,
+          "following_count": 656,
+          "like_count": 18623,
+          "listed_count": 180,
+          "media_count": 2274,
+          "tweet_count": 15624
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T03:15:41.000Z",
+        "description": "AI enthusiast & builder 🤖 | Photographer 📷 | Developer 💻 | Exploring the intersection of tech, creativity & the world.",
+        "id": "2028308162382901248",
+        "location": "United States",
+        "name": "LoongAI🐉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067111367770071040/0yAZBhOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "JiangL17208",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-11T03:16:59.000Z",
+        "description": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "anthropicai"
+              },
+              {
+                "end": 56,
+                "start": 41,
+                "username": "southpkcommons"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "medialab"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thariq.io",
+                "end": 23,
+                "expanded_url": "http://thariq.io",
+                "start": 0,
+                "url": "https://t.co/t9t864dmsg"
+              }
+            ]
+          }
+        },
+        "id": "352806502",
+        "location": "SF via Toronto",
+        "name": "Thariq",
+        "pinned_tweet_id": "2035372716820218141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976939058741039104/r3GgzqRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294539,
+          "following_count": 1853,
+          "like_count": 75749,
+          "listed_count": 3432,
+          "media_count": 477,
+          "tweet_count": 5672
+        },
+        "url": "https://t.co/t9t864dmsg",
+        "username": "trq212",
+        "verified": true
+      }
+    ]
+  }
+}

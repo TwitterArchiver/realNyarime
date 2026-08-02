@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2048565053641957389",
+    "created_at": "2026-04-27T02:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048594615515894189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "982427797296594945",
+          "start": 0,
+          "username": "SjLwrO14y68R3Dw"
+        },
+        {
+          "end": 28,
+          "id": "1788466382000246784",
+          "start": 17,
+          "username": "echo688886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048594615515894189",
+    "in_reply_to_user_id": "982427797296594945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048594249470607831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SjLwrO14y68R3Dw @echo688886 其实在境外地区，直接Cloudflare Tunnel打内网就行了，这是最高效的办法我觉得\n另外CF是支持wireguard接入的，所以我会把内网段分流到wg再出口，这样内网互联就做完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2048565053641957389",
+        "created_at": "2026-04-27T02:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048594615515894189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "982427797296594945",
+              "start": 0,
+              "username": "SjLwrO14y68R3Dw"
+            },
+            {
+              "end": 28,
+              "id": "1788466382000246784",
+              "start": 17,
+              "username": "echo688886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048594615515894189",
+        "in_reply_to_user_id": "982427797296594945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048594249470607831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SjLwrO14y68R3Dw @echo688886 其实在境外地区，直接Cloudflare Tunnel打内网就行了，这是最高效的办法我觉得\n另外CF是支持wireguard接入的，所以我会把内网段分流到wg再出口，这样内网互联就做完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982427797296594945",
+        "conversation_id": "2048565053641957389",
+        "created_at": "2026-04-27T02:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048594249470607831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 24,
+              "id": "1788466382000246784",
+              "start": 13,
+              "username": "echo688886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048594249470607831",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048588940979097971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @echo688886 我不常用遠端桌面，基本上都是配合 tmux/terminus 進行 ssh 連線\n此外他的 subnet-router 我覺得很好用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2048250717077455188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30859,
+          "following_count": 570,
+          "like_count": 13009,
+          "listed_count": 150,
+          "media_count": 1576,
+          "tweet_count": 10612
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-07T01:20:14.000Z",
+        "description": "Let's all love Lain. Rust | Homelab | I use Arch BTW CS/ME@ntnu bu//ding systems, breaking i//usions.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=100010414500933",
+                "start": 0,
+                "url": "https://t.co/MNaZCz25vQ"
+              }
+            ]
+          }
+        },
+        "id": "982427797296594945",
+        "location": "taiwan",
+        "name": "G36_maid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941323178271440896/0WbCmhkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 2223,
+          "like_count": 51622,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 7577
+        },
+        "url": "https://t.co/MNaZCz25vQ",
+        "username": "SjLwrO14y68R3Dw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T07:10:05.000Z",
+        "description": "新启号，新人设，习惯性FUD; 空投, 合约，现货",
+        "id": "1788466382000246784",
+        "name": "布噜bu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047851048954716161/4a_eLHcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 274,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 915
+        },
+        "username": "echo688886",
+        "verified": true
+      }
+    ]
+  }
+}

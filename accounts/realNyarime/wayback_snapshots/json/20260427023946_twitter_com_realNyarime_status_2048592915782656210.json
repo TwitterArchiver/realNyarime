@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048592873646637056"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2048581291193606175",
+    "created_at": "2026-04-27T02:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048592915782656210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "532927108",
+          "start": 0,
+          "username": "999goldfish"
+        },
+        {
+          "end": 22,
+          "id": "136473839",
+          "start": 13,
+          "username": "MrGafish"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AcQQrFkgaB",
+          "end": 61,
+          "expanded_url": "https://x.com/realNyarime/status/2048592915782656210/photo/1",
+          "media_key": "3_2048592873646637056",
+          "start": 38,
+          "url": "https://t.co/AcQQrFkgaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048592915782656210",
+    "in_reply_to_user_id": "532927108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048590272628691078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@999goldfish @MrGafish 这个问题其实Grok就能代劳 https://t.co/AcQQrFkgaB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2048592873646637056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4QXVsawAA8dUo.png",
+        "width": 625
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048592873646637056"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2048581291193606175",
+        "created_at": "2026-04-27T02:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048592915782656210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "532927108",
+              "start": 0,
+              "username": "999goldfish"
+            },
+            {
+              "end": 22,
+              "id": "136473839",
+              "start": 13,
+              "username": "MrGafish"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcQQrFkgaB",
+              "end": 61,
+              "expanded_url": "https://x.com/realNyarime/status/2048592915782656210/photo/1",
+              "media_key": "3_2048592873646637056",
+              "start": 38,
+              "url": "https://t.co/AcQQrFkgaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048592915782656210",
+        "in_reply_to_user_id": "532927108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048590272628691078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@999goldfish @MrGafish 这个问题其实Grok就能代劳 https://t.co/AcQQrFkgaB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "532927108",
+        "conversation_id": "2048581291193606175",
+        "created_at": "2026-04-27T02:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048590272628691078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 22,
+              "id": "136473839",
+              "start": 13,
+              "username": "MrGafish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048590272628691078",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048586324970729872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @MrGafish 这样也行？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2048250717077455188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30859,
+          "following_count": 570,
+          "like_count": 13007,
+          "listed_count": 150,
+          "media_count": 1576,
+          "tweet_count": 10610
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-22T07:58:11.000Z",
+        "description": "“AI × 财经 × 中年生存指南 |欢迎讨论 #AI #财经 #副业”",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "AI"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "财经"
+              },
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "副业"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/baipangpang200",
+                "end": 23,
+                "expanded_url": "https://t.me/baipangpang200",
+                "start": 0,
+                "url": "https://t.co/Pbsj0AsOzd"
+              }
+            ]
+          }
+        },
+        "id": "532927108",
+        "location": "中国山东",
+        "name": "金鱼佬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017616768618131456/zQMhr9BT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 2673,
+          "like_count": 4292,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 3694
+        },
+        "url": "https://t.co/Pbsj0AsOzd",
+        "username": "999goldfish",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-24T01:51:43.000Z",
+        "description": "🧑‍💻 开发者 Gafish(鱼哥)，前互联网大厂程序员\n转型自媒体｜副业搞钱 ｜ 港卡开户 ｜ giffgaff ｜中年人的日常",
+        "id": "136473839",
+        "name": "Mr Gafish",
+        "pinned_tweet_id": "2009650657763139998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888247810040152064/mwSBtOtn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16169,
+          "following_count": 2890,
+          "like_count": 8584,
+          "listed_count": 81,
+          "media_count": 636,
+          "tweet_count": 12938
+        },
+        "username": "MrGafish",
+        "verified": true
+      }
+    ]
+  }
+}

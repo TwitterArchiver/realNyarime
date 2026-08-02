@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070771990999212033",
+        "3_2070771991087316992",
+        "3_2070771991104081920"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070772146960298121",
+    "created_at": "2026-06-27T07:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070772146960298121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ETraAgKCN3",
+          "end": 95,
+          "expanded_url": "https://x.com/realNyarime/status/2070772146960298121/photo/1",
+          "media_key": "3_2070771990999212033",
+          "start": 72,
+          "url": "https://t.co/ETraAgKCN3"
+        },
+        {
+          "display_url": "pic.x.com/ETraAgKCN3",
+          "end": 95,
+          "expanded_url": "https://x.com/realNyarime/status/2070772146960298121/photo/1",
+          "media_key": "3_2070771991087316992",
+          "start": 72,
+          "url": "https://t.co/ETraAgKCN3"
+        },
+        {
+          "display_url": "pic.x.com/ETraAgKCN3",
+          "end": 95,
+          "expanded_url": "https://x.com/realNyarime/status/2070772146960298121/photo/1",
+          "media_key": "3_2070771991104081920",
+          "start": 72,
+          "url": "https://t.co/ETraAgKCN3"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070772146960298121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国也有属于自己的911了，起因是北京中信大厦被一架 Sunward SA 60L Aurora，B-12PP 撞了，这下低空经济发展不起来了 https://t.co/ETraAgKCN3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2070771990999212033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzcJ4ZWIAEAQWn.jpg",
+        "width": 673
+      },
+      {
+        "height": 1023,
+        "media_key": "3_2070771991087316992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzcJ4uWgAA_108.jpg",
+        "width": 1537
+      },
+      {
+        "height": 1335,
+        "media_key": "3_2070771991104081920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzcJ4yWUAAciUp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070771990999212033",
+            "3_2070771991087316992",
+            "3_2070771991104081920"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070772146960298121",
+        "created_at": "2026-06-27T07:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070772146960298121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ETraAgKCN3",
+              "end": 95,
+              "expanded_url": "https://x.com/realNyarime/status/2070772146960298121/photo/1",
+              "media_key": "3_2070771990999212033",
+              "start": 72,
+              "url": "https://t.co/ETraAgKCN3"
+            },
+            {
+              "display_url": "pic.x.com/ETraAgKCN3",
+              "end": 95,
+              "expanded_url": "https://x.com/realNyarime/status/2070772146960298121/photo/1",
+              "media_key": "3_2070771991087316992",
+              "start": 72,
+              "url": "https://t.co/ETraAgKCN3"
+            },
+            {
+              "display_url": "pic.x.com/ETraAgKCN3",
+              "end": 95,
+              "expanded_url": "https://x.com/realNyarime/status/2070772146960298121/photo/1",
+              "media_key": "3_2070771991104081920",
+              "start": 72,
+              "url": "https://t.co/ETraAgKCN3"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070772146960298121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国也有属于自己的911了，起因是北京中信大厦被一架 Sunward SA 60L Aurora，B-12PP 撞了，这下低空经济发展不起来了 https://t.co/ETraAgKCN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38563,
+          "following_count": 664,
+          "like_count": 18487,
+          "listed_count": 179,
+          "media_count": 2249,
+          "tweet_count": 15489
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

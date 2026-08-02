@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2074279643344232653",
+    "created_at": "2026-07-07T16:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074528054937063931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "68271223",
+          "start": 0,
+          "username": "dengxh"
+        },
+        {
+          "end": 24,
+          "id": "1727120087663116288",
+          "start": 8,
+          "username": "xiejiayinBitget"
+        },
+        {
+          "end": 35,
+          "id": "1597158942668226560",
+          "start": 25,
+          "username": "Bitget_zh"
+        },
+        {
+          "end": 43,
+          "id": "1098881129057112064",
+          "start": 36,
+          "username": "bitget"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2074528054937063931",
+    "in_reply_to_user_id": "68271223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074279643344232653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dengxh @xiejiayinBitget @Bitget_zh @bitget 这是腾讯标的。。。"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [35fd5bacecc4c6e5].",
+      "parameter": "geo.place_id",
+      "resource_id": "35fd5bacecc4c6e5",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "35fd5bacecc4c6e5"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2074279638134820864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlSV0PaEAANEwW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2074279643344232653",
+        "created_at": "2026-07-07T16:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074528054937063931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "68271223",
+              "start": 0,
+              "username": "dengxh"
+            },
+            {
+              "end": 24,
+              "id": "1727120087663116288",
+              "start": 8,
+              "username": "xiejiayinBitget"
+            },
+            {
+              "end": 35,
+              "id": "1597158942668226560",
+              "start": 25,
+              "username": "Bitget_zh"
+            },
+            {
+              "end": 43,
+              "id": "1098881129057112064",
+              "start": 36,
+              "username": "bitget"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2074528054937063931",
+        "in_reply_to_user_id": "68271223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074279643344232653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dengxh @xiejiayinBitget @Bitget_zh @bitget 这是腾讯标的。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074279638134820864"
+          ]
+        },
+        "author_id": "68271223",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2074279643344232653",
+        "created_at": "2026-07-06T23:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074279643344232653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 100,
+              "id": "1727120087663116288",
+              "start": 84,
+              "username": "xiejiayinBitget"
+            },
+            {
+              "end": 111,
+              "id": "1597158942668226560",
+              "start": 101,
+              "username": "Bitget_zh"
+            },
+            {
+              "end": 119,
+              "id": "1098881129057112064",
+              "start": 112,
+              "username": "bitget"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LD46uksnCR",
+              "end": 143,
+              "expanded_url": "https://x.com/dengxh/status/2074279643344232653/photo/1",
+              "media_key": "3_2074279638134820864",
+              "start": 120,
+              "url": "https://t.co/LD46uksnCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074279643344232653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4038,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三星手机，Google Play Store 下载的为什么会有这个提示？是因为大陆用户的特殊行情，还是真的有问题呢？苹果手机 APP Store 下载的可以正常安装。 @xiejiayinBitget @Bitget_zh @bitget https://t.co/LD46uksnCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39894,
+          "following_count": 657,
+          "like_count": 18957,
+          "listed_count": 183,
+          "media_count": 2311,
+          "tweet_count": 15967
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-23T23:58:30.000Z",
+        "description": "非典型支付行业专家，数字货币从业人员，典型投资小白，持续减肥ing",
+        "id": "68271223",
+        "location": "Los",
+        "name": "Joker_酒哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/693455161755238400/CTv8k91C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 652,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1109
+        },
+        "url": "",
+        "username": "dengxh",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-22T00:21:43.000Z",
+        "description": "@Bitget 来了就是VIP 🩵 Head of Greater China #UEX",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 40,
+                "tag": "UEX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Bitget"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Bitget.com",
+                "end": 23,
+                "expanded_url": "http://Bitget.com",
+                "start": 0,
+                "url": "https://t.co/iZYxN6vUbn"
+              }
+            ]
+          }
+        },
+        "id": "1727120087663116288",
+        "location": "Singapore",
+        "name": "谢家印",
+        "pinned_tweet_id": "1978698517834354839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042253458250846208/TC_cmqVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90493,
+          "following_count": 1503,
+          "like_count": 32500,
+          "listed_count": 562,
+          "media_count": 1381,
+          "tweet_count": 20605
+        },
+        "url": "https://t.co/iZYxN6vUbn",
+        "username": "xiejiayinBitget",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T09:22:26.000Z",
+        "description": "@Bitget #UEX 来了就是VIP 🩵 全球首家UEX全景交易所，一站买尽加密货币、股票、黄金、外汇等全球核心资产｜@MotoGP & @UntoldFestival 合作伙伴｜官方中文社群：https://t.co/WnPfdfyWRi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "UEX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Bitget"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "username": "MotoGP"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "UntoldFestival"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Bitget_CNOffic…",
+                "end": 122,
+                "expanded_url": "https://t.me/Bitget_CNOfficial",
+                "start": 99,
+                "url": "https://t.co/WnPfdfyWRi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "partner.bitget.fit/bg/gsvbqfr6",
+                "end": 23,
+                "expanded_url": "https://partner.bitget.fit/bg/gsvbqfr6",
+                "start": 0,
+                "url": "https://t.co/K55RAh3dYF"
+              }
+            ]
+          }
+        },
+        "id": "1597158942668226560",
+        "location": "注册获20%手续费返还👉",
+        "name": "Bitget中文",
+        "pinned_tweet_id": "2074116416912142459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013491278881673216/-pSIHjVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109308,
+          "following_count": 640,
+          "like_count": 8754,
+          "listed_count": 465,
+          "media_count": 7171,
+          "tweet_count": 13640
+        },
+        "url": "https://t.co/K55RAh3dYF",
+        "username": "Bitget_zh",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-22T09:44:12.000Z",
+        "description": "World’s largest Universal Exchange (UEX) for Crypto, Stocks, Gold, Forex, and more | Partner of @MotoGP & @UntoldFestival | Support @BitgetSupport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 96,
+                "username": "MotoGP"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "UntoldFestival"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "BitgetSupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bitget.com",
+                "end": 23,
+                "expanded_url": "https://www.bitget.com/",
+                "start": 0,
+                "url": "https://t.co/FKUssOpDWC"
+              }
+            ]
+          }
+        },
+        "id": "1098881129057112064",
+        "location": "Global",
+        "name": "Bitget",
+        "pinned_tweet_id": "2074117295933386951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039226801353031680/PZFXHIZH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4416149,
+          "following_count": 802,
+          "like_count": 9390,
+          "listed_count": 2246,
+          "media_count": 17683,
+          "tweet_count": 46911
+        },
+        "url": "https://t.co/FKUssOpDWC",
+        "username": "bitget",
+        "verified": true
+      }
+    ]
+  }
+}

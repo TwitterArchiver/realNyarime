@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2033087016796373263",
+    "created_at": "2026-03-15T09:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033112994712838354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        },
+        {
+          "end": 22,
+          "id": "1995710751097659392",
+          "start": 13,
+          "username": "openclaw"
+        },
+        {
+          "end": 33,
+          "id": "820440736336228352",
+          "start": 23,
+          "username": "Baidu_Inc"
+        },
+        {
+          "end": 49,
+          "id": "2000391102923481088",
+          "start": 34,
+          "username": "TencentAI_News"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033112994712838354",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033087016796373263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech @openclaw @Baidu_Inc @TencentAI_News 腾讯是轻量云，而不是腾讯云。一直以来Lighthouse都在搞meetup线下会，轻友团比其他友商社群活跃得多。。。尤其是澄哥和嘉钰，在团里的dddd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2033086343077920768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDb5QdzbgAAcugh.png",
+        "width": 665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2033087016796373263",
+        "created_at": "2026-03-15T09:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033112994712838354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            },
+            {
+              "end": 22,
+              "id": "1995710751097659392",
+              "start": 13,
+              "username": "openclaw"
+            },
+            {
+              "end": 33,
+              "id": "820440736336228352",
+              "start": 23,
+              "username": "Baidu_Inc"
+            },
+            {
+              "end": 49,
+              "id": "2000391102923481088",
+              "start": 34,
+              "username": "TencentAI_News"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033112994712838354",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033087016796373263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech @openclaw @Baidu_Inc @TencentAI_News 腾讯是轻量云，而不是腾讯云。一直以来Lighthouse都在搞meetup线下会，轻友团比其他友商社群活跃得多。。。尤其是澄哥和嘉钰，在团里的dddd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033086343077920768"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2033087016796373263",
+        "created_at": "2026-03-15T07:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:43:08.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033086581435977854",
+          "2033086876643651741",
+          "2033087016796373263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1995710751097659392",
+              "start": 40,
+              "username": "openclaw"
+            },
+            {
+              "end": 60,
+              "id": "820440736336228352",
+              "start": 50,
+              "username": "Baidu_Inc"
+            },
+            {
+              "end": 76,
+              "id": "2000391102923481088",
+              "start": 61,
+              "username": "TencentAI_News"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Support OpenClaw's open source work! Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+              "display_url": "github.com/sponsors/openc…",
+              "end": 107,
+              "expanded_url": "https://github.com/sponsors/openclaw#sponsors",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2031597275781230592/BHRTdUA-?format=jpg&name=orig",
+                  "width": 400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2031597275781230592/BHRTdUA-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 84,
+              "status": 200,
+              "title": "Sponsor @openclaw on GitHub Sponsors",
+              "unwound_url": "https://github.com/sponsors/openclaw#sponsors",
+              "url": "https://t.co/KZjNqqWT2v"
+            },
+            {
+              "display_url": "pic.x.com/BTvFQVYn6p",
+              "end": 131,
+              "expanded_url": "https://x.com/landiantech/status/2033087016796373263/photo/1",
+              "media_key": "3_2033086343077920768",
+              "start": 108,
+              "url": "https://t.co/BTvFQVYn6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033087016796373263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2042,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "百度和腾讯均已成为 OpenClaw 官方赞助商，提供资金帮助项目开发🚀🚀🚀\n\n@OpenClaw @Baidu_Inc @TencentAI_News \n\n赞助页面：https://t.co/KZjNqqWT2v https://t.co/BTvFQVYn6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21905,
+          "following_count": 516,
+          "like_count": 10913,
+          "listed_count": 92,
+          "media_count": 1132,
+          "tweet_count": 8369
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33593,
+          "following_count": 711,
+          "like_count": 4263,
+          "listed_count": 271,
+          "media_count": 5002,
+          "tweet_count": 14359
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-02T04:25:09.000Z",
+        "description": "The AI that does things. Emails, calendar, home automation, from your favorite chat app. Your machine, your rules. \nNew shell, same lobster soul. 🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "openclaw.ai",
+                "end": 23,
+                "expanded_url": "https://openclaw.ai",
+                "start": 0,
+                "url": "https://t.co/PuzGLMmjps"
+              }
+            ]
+          }
+        },
+        "id": "1995710751097659392",
+        "location": "Any OS, Any Messsaging App",
+        "name": "OpenClaw🦞",
+        "pinned_tweet_id": "2006801472487629257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017100664984186880/orbYx-3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457683,
+          "following_count": 19,
+          "like_count": 336,
+          "listed_count": 2320,
+          "media_count": 22,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/PuzGLMmjps",
+        "username": "openclaw",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-15T01:21:29.000Z",
+        "description": "Baidu Inc. is a leading AI company with a strong Internet foundation. \nMedia Contact: intlcomm@baidu.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ir.baidu.com",
+                "end": 23,
+                "expanded_url": "http://ir.baidu.com",
+                "start": 0,
+                "url": "https://t.co/BmQM1LHfwD"
+              }
+            ]
+          }
+        },
+        "id": "820440736336228352",
+        "location": "Beijing, China",
+        "name": "Baidu Inc.",
+        "pinned_tweet_id": "2031731883302899839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1373867336021598212/vZ2nWy8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148274,
+          "following_count": 312,
+          "like_count": 2261,
+          "listed_count": 698,
+          "media_count": 2108,
+          "tweet_count": 3499
+        },
+        "url": "https://t.co/BmQM1LHfwD",
+        "username": "Baidu_Inc",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-15T02:23:19.000Z",
+        "description": "The official @Tencentglobal newsroom for AI updates and developer resources.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Tencentglobal"
+              }
+            ]
+          }
+        },
+        "id": "2000391102923481088",
+        "name": "Tencent AI",
+        "pinned_tweet_id": "2029824827083928057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003780428591960064/H6DEq1-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6674,
+          "following_count": 85,
+          "like_count": 101,
+          "listed_count": 40,
+          "media_count": 117,
+          "tweet_count": 250
+        },
+        "username": "TencentAI_News",
+        "verified": true
+      }
+    ]
+  }
+}

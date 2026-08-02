@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026339571",
+          "name": "Cisco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026339571",
+          "name": "Cisco"
+        }
+      }
+    ],
+    "conversation_id": "2067320800475234741",
+    "created_at": "2026-06-17T18:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067320800475234741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JFGAi/status/2…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/JFGAi/status/2067213935053554031",
+          "start": 135,
+          "url": "https://t.co/qDRrNjHFUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067320800475234741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "aTrust（旧版叫EasyConnect）是深信服（Sangfor）开发的SSL VPN软件，对标的是思科的AnyConnect协议，开源的有OpenConnect\n\n这并不是翻墙协议，而是正经的企业用途，如果你使用国区App Store搜索Cisco Secure Client是可以直接下载到这款VPN应用的，人家思科公司作为GFW早期的方案提供商有金身护体，反观深信服有深圳国资委背景护法\n\n这类企业VPN是能拿来翻墙没错，跟WireGuard一样属于可识别却限速的情况，因为公家也要用这个协议。惹恼了外资出逃，那就直接倒车到底了，一看就是吃了没上过大学的亏🤣"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067213935053554031",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "aTrust（旧版叫EasyConnect）是深信服（Sangfor）开发的SSL VPN软件，对标的是思科的AnyConnect协议，开源的有OpenConnect\n\n这并不是翻墙协议，而是正经的企业用途，如果你使用国区App Store搜索Cisco Secure https://t.co/qDRrNjHFUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2067212962759430144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA3PLBb0AAFGyq.jpg",
+        "width": 2558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026339571",
+              "name": "Cisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026339571",
+              "name": "Cisco"
+            }
+          }
+        ],
+        "conversation_id": "2067320800475234741",
+        "created_at": "2026-06-17T18:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067320800475234741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JFGAi/status/2…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/JFGAi/status/2067213935053554031",
+              "start": 135,
+              "url": "https://t.co/qDRrNjHFUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067320800475234741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "aTrust（旧版叫EasyConnect）是深信服（Sangfor）开发的SSL VPN软件，对标的是思科的AnyConnect协议，开源的有OpenConnect\n\n这并不是翻墙协议，而是正经的企业用途，如果你使用国区App Store搜索Cisco Secure Client是可以直接下载到这款VPN应用的，人家思科公司作为GFW早期的方案提供商有金身护体，反观深信服有深圳国资委背景护法\n\n这类企业VPN是能拿来翻墙没错，跟WireGuard一样属于可识别却限速的情况，因为公家也要用这个协议。惹恼了外资出逃，那就直接倒车到底了，一看就是吃了没上过大学的亏🤣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067213935053554031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "aTrust（旧版叫EasyConnect）是深信服（Sangfor）开发的SSL VPN软件，对标的是思科的AnyConnect协议，开源的有OpenConnect\n\n这并不是翻墙协议，而是正经的企业用途，如果你使用国区App Store搜索Cisco Secure https://t.co/qDRrNjHFUP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067212962759430144"
+          ]
+        },
+        "author_id": "2380578619",
+        "conversation_id": "2067213935053554031",
+        "created_at": "2026-06-17T11:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067213935053554031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyOAw1cGLs",
+              "end": 101,
+              "expanded_url": "https://x.com/JFGAi/status/2067213935053554031/photo/1",
+              "media_key": "3_2067212962759430144",
+              "start": 78,
+              "url": "https://t.co/lyOAw1cGLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067213935053554031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 328598,
+          "like_count": 228,
+          "quote_count": 9,
+          "reply_count": 261,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们！墙塌啦🛜\n\n山东烟大校官网直接挂 VPN 下载链接，连安装说明PDF都给你准备好了，属于合规摸鱼教科书级操作。\n\n但实话实说——我还在质疑真实性。 https://t.co/lyOAw1cGLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37932,
+          "following_count": 656,
+          "like_count": 17803,
+          "listed_count": 178,
+          "media_count": 2171,
+          "tweet_count": 14754
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-09T14:46:30.000Z",
+        "description": "Optimistic people tend to achieve their goals.\nPessimistic people usually live in jealousy.",
+        "id": "2380578619",
+        "name": "狗富贵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043494225954885632/DNR8oS9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15693,
+          "following_count": 3782,
+          "like_count": 1860,
+          "listed_count": 19,
+          "media_count": 283,
+          "tweet_count": 1131
+        },
+        "username": "JFGAi",
+        "verified": true
+      }
+    ]
+  }
+}

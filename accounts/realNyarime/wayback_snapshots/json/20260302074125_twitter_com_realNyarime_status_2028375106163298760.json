@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028374370012524544",
+        "3_2028374565030858753"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2028375106163298760",
+    "created_at": "2026-03-02T07:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028375106163298760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8KOBC6Psmv",
+          "end": 164,
+          "expanded_url": "https://x.com/realNyarime/status/2028375106163298760/photo/1",
+          "media_key": "3_2028374370012524544",
+          "start": 141,
+          "url": "https://t.co/8KOBC6Psmv"
+        },
+        {
+          "display_url": "pic.x.com/8KOBC6Psmv",
+          "end": 164,
+          "expanded_url": "https://x.com/realNyarime/status/2028375106163298760/photo/1",
+          "media_key": "3_2028374565030858753",
+          "start": 141,
+          "url": "https://t.co/8KOBC6Psmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028375106163298760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最近微软又在搞事，在Windows Update后会默认启用麦克风的音频增强，导致麦克风音质非常糟糕！\n关闭的方法很简单：\n直接在设置-系统-声音-选择输入设备-关闭音频增强\n\n如果找不到，也可以用控制面板关：\n1）在开始菜单搜索“更改系统声音”\n2）点录制，再右键麦克风，进属性\n3）点高级，找到“信号增强”，关闭“启用音频增强”\n\n最草的是，每个设备都得这么关一次。即使有了新设备还得逐一关闭，真是坏事做尽... 何意味？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近微软又在搞事，在Windows Update后会默认启用麦克风的音频增强，导致麦克风音质非常糟糕！\n关闭的方法很简单：\n直接在设置-系统-声音-选择输入设备-关闭音频增强\n\n如果找不到，也可以用控制面板关：\n1）在开始菜单搜索“更改系统声音”\n2）点录制，再右键麦克风，进属性 https://t.co/8KOBC6Psmv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2028374370012524544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCY7viQacAAg4SY.jpg",
+        "width": 1060
+      },
+      {
+        "height": 579,
+        "media_key": "3_2028374565030858753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCY764waEAEFaI5.png",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028374370012524544",
+            "3_2028374565030858753"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2028375106163298760",
+        "created_at": "2026-03-02T07:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028375106163298760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KOBC6Psmv",
+              "end": 164,
+              "expanded_url": "https://x.com/realNyarime/status/2028375106163298760/photo/1",
+              "media_key": "3_2028374370012524544",
+              "start": 141,
+              "url": "https://t.co/8KOBC6Psmv"
+            },
+            {
+              "display_url": "pic.x.com/8KOBC6Psmv",
+              "end": 164,
+              "expanded_url": "https://x.com/realNyarime/status/2028375106163298760/photo/1",
+              "media_key": "3_2028374565030858753",
+              "start": 141,
+              "url": "https://t.co/8KOBC6Psmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028375106163298760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近微软又在搞事，在Windows Update后会默认启用麦克风的音频增强，导致麦克风音质非常糟糕！\n关闭的方法很简单：\n直接在设置-系统-声音-选择输入设备-关闭音频增强\n\n如果找不到，也可以用控制面板关：\n1）在开始菜单搜索“更改系统声音”\n2）点录制，再右键麦克风，进属性\n3）点高级，找到“信号增强”，关闭“启用音频增强”\n\n最草的是，每个设备都得这么关一次。即使有了新设备还得逐一关闭，真是坏事做尽... 何意味？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近微软又在搞事，在Windows Update后会默认启用麦克风的音频增强，导致麦克风音质非常糟糕！\n关闭的方法很简单：\n直接在设置-系统-声音-选择输入设备-关闭音频增强\n\n如果找不到，也可以用控制面板关：\n1）在开始菜单搜索“更改系统声音”\n2）点录制，再右键麦克风，进属性 https://t.co/8KOBC6Psmv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18834,
+          "following_count": 518,
+          "like_count": 10508,
+          "listed_count": 79,
+          "media_count": 1009,
+          "tweet_count": 7794
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

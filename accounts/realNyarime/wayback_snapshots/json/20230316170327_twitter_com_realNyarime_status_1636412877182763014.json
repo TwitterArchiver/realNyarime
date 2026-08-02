@@ -1,0 +1,504 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Tim Cook",
+          "id": "809105292814270464",
+          "name": "Tim Cook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tim Cook",
+          "id": "809105292814270464",
+          "name": "Tim Cook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "1636360194195349515",
+    "created_at": "2023-03-16T17:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-16T17:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1636412877182763014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608684841729667073",
+          "start": 0,
+          "username": "tongzikin"
+        },
+        {
+          "end": 20,
+          "id": "1636590253",
+          "start": 11,
+          "username": "tim_cook"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "005061e97edfdf2d"
+    },
+    "id": "1636412877182763014",
+    "in_reply_to_user_id": "1608684841729667073",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1636412590317506566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tongzikin @tim_cook 意思就是，这玩意是开发者玩的。你不是开发者没资格玩测试系统，坏了又要跑Apple Store果子都烦了😅"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "People's Republic of China",
+        "country_code": "CN",
+        "full_name": "Sichuan, People's Republic of China",
+        "geo": {
+          "bbox": [
+            97.387161,
+            26.033886,
+            110.17804,
+            34.250275
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "005061e97edfdf2d",
+        "name": "Sichuan",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "1636360194195349515",
+        "created_at": "2023-03-16T17:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-16T17:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1636412877182763014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608684841729667073",
+              "start": 0,
+              "username": "tongzikin"
+            },
+            {
+              "end": 20,
+              "id": "1636590253",
+              "start": 11,
+              "username": "tim_cook"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "005061e97edfdf2d"
+        },
+        "id": "1636412877182763014",
+        "in_reply_to_user_id": "1608684841729667073",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1636412590317506566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tongzikin @tim_cook 意思就是，这玩意是开发者玩的。你不是开发者没资格玩测试系统，坏了又要跑Apple Store果子都烦了😅"
+      },
+      {
+        "attachments": {},
+        "author_id": "1608684841729667073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "1636360194195349515",
+        "created_at": "2023-03-16T17:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-16T17:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1636412590317506566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 22,
+              "id": "1636590253",
+              "start": 13,
+              "username": "tim_cook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1636412590317506566",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1636412107125309440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @tim_cook ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of MoeIDC | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "realYingxi"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "idc.moe",
+                "end": 23,
+                "expanded_url": "http://idc.moe",
+                "start": 0,
+                "url": "https://t.co/OqpqJqF02Q"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "乃月希",
+        "pinned_tweet_id": "1559716756783972352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580046332437594112/p_ttVV6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 738,
+          "listed_count": 6,
+          "tweet_count": 3048
+        },
+        "url": "https://t.co/OqpqJqF02Q",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T04:42:50.000Z",
+        "description": "Grade 11 / INTJ / Asexuality / Non-binary / 🇺🇦 🍁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "is.he.cn",
+                "end": 23,
+                "expanded_url": "https://is.he.cn",
+                "start": 0,
+                "url": "https://t.co/HvRslm2f88"
+              }
+            ]
+          }
+        },
+        "id": "1608684841729667073",
+        "location": "Beijing / Peking",
+        "name": "Zikin (@zikin@zikin.us)",
+        "pinned_tweet_id": "1624093404308320256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608685065344782337/bA02l2Il_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 969,
+          "listed_count": 1,
+          "tweet_count": 1523
+        },
+        "url": "https://t.co/HvRslm2f88",
+        "username": "tongzikin",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-31T22:41:25.000Z",
+        "description": "Apple CEO  Auburn 🏀 🏈 Duke 🏀 National Parks 🏞️ “Life's most persistent and urgent question is, 'What are you doing for others?'” - MLK. he/him",
+        "id": "1636590253",
+        "location": "Cupertino",
+        "name": "Tim Cook",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535420431766671360/Pwq-1eJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14036361,
+          "following_count": 70,
+          "listed_count": 24626,
+          "tweet_count": 1483
+        },
+        "username": "tim_cook",
+        "verified": true
+      }
+    ]
+  }
+}

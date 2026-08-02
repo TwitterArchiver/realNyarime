@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2040365026083750170",
+    "created_at": "2026-04-05T01:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T02:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040602318417395784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4421941038",
+          "start": 0,
+          "username": "stevehongkong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040602318417395784",
+    "in_reply_to_user_id": "4421941038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040602118017687964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stevehongkong 感谢提供 不过深圳机场这个 本地套餐并没有激活自由圈A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2040365026083750170",
+        "created_at": "2026-04-05T01:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040602318417395784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4421941038",
+              "start": 0,
+              "username": "stevehongkong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040602318417395784",
+        "in_reply_to_user_id": "4421941038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040602118017687964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stevehongkong 感谢提供 不过深圳机场这个 本地套餐并没有激活自由圈A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4421941038",
+        "conversation_id": "2040365026083750170",
+        "created_at": "2026-04-05T01:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040602118017687964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040602118017687964",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040365026083750170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 高铁去香港，深圳北开始有CMHK，但是通话算漫游（以前用的套餐不包含内地通话分钟，pay as you go模式，特意测试过，扣了漫游通话），数据流量我常年开着Roaming，不清楚连接深圳CMHK基站时是不是算漫游"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25886,
+          "following_count": 498,
+          "like_count": 11760,
+          "listed_count": 117,
+          "media_count": 1388,
+          "tweet_count": 9358
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-01T16:07:07.000Z",
+        "description": "",
+        "id": "4421941038",
+        "location": "Hong Kong",
+        "name": "Steve YANG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/794733616324481025/lUuf9DYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 509,
+          "like_count": 407,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1360
+        },
+        "username": "stevehongkong",
+        "verified": false
+      }
+    ]
+  }
+}

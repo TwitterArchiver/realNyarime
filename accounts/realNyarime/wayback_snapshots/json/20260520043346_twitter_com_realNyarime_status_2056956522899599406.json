@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2056944100985937980",
+    "created_at": "2026-05-20T04:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056956522899599406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "dsx-air.nvidia.com",
+          "end": 95,
+          "expanded_url": "https://dsx-air.nvidia.com",
+          "start": 72,
+          "status": 200,
+          "title": "NVIDIA DSX Air",
+          "unwound_url": "https://dsx-air.nvidia.com",
+          "url": "https://t.co/JbMACL9Y3I"
+        },
+        {
+          "display_url": "air.nvidia.com",
+          "end": 139,
+          "expanded_url": "https://air.nvidia.com",
+          "start": 116,
+          "status": 200,
+          "title": "NVIDIA Air Infrastructure Simulation Platform",
+          "unwound_url": "https://air.nvidia.com",
+          "url": "https://t.co/pNotqpHGea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056956522899599406",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056944100985937980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "英伟达分别在Air最大提供96C96G 500GB，而NGC提供1万小时的60C60G的DGX Air\nNVIDIA Air注册链接(新链接)：https://t.co/JbMACL9Y3I\nNVIDIA NGC注册链接(旧链接)：https://t.co/pNotqpHGea"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 354,
+        "media_key": "3_2056943733447507968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIu7bWsawAAAoJy.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2056944100985937980",
+        "created_at": "2026-05-20T04:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056956522899599406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "dsx-air.nvidia.com",
+              "end": 95,
+              "expanded_url": "https://dsx-air.nvidia.com",
+              "start": 72,
+              "status": 200,
+              "title": "NVIDIA DSX Air",
+              "unwound_url": "https://dsx-air.nvidia.com",
+              "url": "https://t.co/JbMACL9Y3I"
+            },
+            {
+              "display_url": "air.nvidia.com",
+              "end": 139,
+              "expanded_url": "https://air.nvidia.com",
+              "start": 116,
+              "status": 200,
+              "title": "NVIDIA Air Infrastructure Simulation Platform",
+              "unwound_url": "https://air.nvidia.com",
+              "url": "https://t.co/pNotqpHGea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056956522899599406",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056944100985937980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "英伟达分别在Air最大提供96C96G 500GB，而NGC提供1万小时的60C60G的DGX Air\nNVIDIA Air注册链接(新链接)：https://t.co/JbMACL9Y3I\nNVIDIA NGC注册链接(旧链接)：https://t.co/pNotqpHGea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056943733447507968"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2056944100985937980",
+        "created_at": "2026-05-20T03:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056944100985937980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwYjfKoj9K",
+              "end": 118,
+              "expanded_url": "https://x.com/realNyarime/status/2056944100985937980/photo/1",
+              "media_key": "3_2056943733447507968",
+              "start": 95,
+              "url": "https://t.co/JwYjfKoj9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056944100985937980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 4929,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "NVIDIA 赠送一年NVIDIA DSX Air资源，60vCPU+60G RAM\n\n需使用域名邮箱注册并登录，每7天需要手动续期一次，注册链接放评论区\n最大配置96C96G 500GB https://t.co/JwYjfKoj9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2056247533354229974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34270,
+          "following_count": 644,
+          "like_count": 14693,
+          "listed_count": 152,
+          "media_count": 1830,
+          "tweet_count": 11993
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

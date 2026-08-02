@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2031223062860017876",
+    "created_at": "2026-03-10T22:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T23:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031499838563717378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1102444843140182016",
+          "start": 0,
+          "username": "real_kai42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031499838563717378",
+    "in_reply_to_user_id": "1102444843140182016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031223062860017876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_kai42 期待老师分享👏🏻👏🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 594,
+        "media_key": "3_2031222826649464832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBaZiIbMAAiZ_0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2031223062860017876",
+        "created_at": "2026-03-10T22:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T23:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031499838563717378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1102444843140182016",
+              "start": 0,
+              "username": "real_kai42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031499838563717378",
+        "in_reply_to_user_id": "1102444843140182016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031223062860017876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_kai42 期待老师分享👏🏻👏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031222826649464832"
+          ]
+        },
+        "author_id": "1102444843140182016",
+        "conversation_id": "2031223062860017876",
+        "created_at": "2026-03-10T04:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T05:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031223062860017876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OJkVjqW1d",
+              "end": 77,
+              "expanded_url": "https://x.com/real_kai42/status/2031223062860017876/photo/1",
+              "media_key": "3_2031222826649464832",
+              "start": 54,
+              "url": "https://t.co/4OJkVjqW1d"
+            },
+            {
+              "display_url": "x.com/zhangjintao902…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/zhangjintao9020/status/2031194716457271807",
+              "start": 78,
+              "url": "https://t.co/daPmz4JZMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031223062860017876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 46277,
+          "like_count": 365,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031194716457271807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到时候会给大家分享来自一线的 Agent 开发中的一些落地经验和 insights\n\n希望对大家有所帮助！ https://t.co/4OJkVjqW1d https://t.co/daPmz4JZMR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21601,
+          "following_count": 518,
+          "like_count": 10784,
+          "listed_count": 88,
+          "media_count": 1093,
+          "tweet_count": 8184
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-04T05:45:07.000Z",
+        "description": "独立开发者，20k stars 开源项目 Qwerty Learner 作者，《Web Worker 播客》主播\n\n仅聊技术和生活，仅代表个人观点，不太擅长文字，但话痨∠(｀ω´*) \n\n主页/咨询服务/内推 : https://t.co/ZCsVg4rTbV\nex @Microsoft @BytedanceTalk @hulu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "Microsoft"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "BytedanceTalk"
+              },
+              {
+                "end": 165,
+                "start": 160,
+                "username": "hulu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kaiyi.cool",
+                "end": 130,
+                "expanded_url": "https://kaiyi.cool",
+                "start": 107,
+                "url": "https://t.co/ZCsVg4rTbV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaiyi.cool",
+                "end": 23,
+                "expanded_url": "https://kaiyi.cool",
+                "start": 0,
+                "url": "https://t.co/ZCsVg4rTbV"
+              }
+            ]
+          }
+        },
+        "id": "1102444843140182016",
+        "location": "Vancouver, British Columbia",
+        "name": "Kai",
+        "pinned_tweet_id": "1693098323551596945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706347168393764864/DoRcb3kd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29399,
+          "following_count": 1155,
+          "like_count": 6159,
+          "listed_count": 261,
+          "media_count": 827,
+          "tweet_count": 4764
+        },
+        "url": "https://t.co/ZCsVg4rTbV",
+        "username": "real_kai42",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056411889140420608",
+        "3_2056414434101514244"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2056421625168589245",
+    "created_at": "2026-05-18T17:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056421625168589245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jp6nUbRyJB",
+          "end": 82,
+          "expanded_url": "https://x.com/realNyarime/status/2056421625168589245/photo/1",
+          "media_key": "3_2056411889140420608",
+          "start": 59,
+          "url": "https://t.co/Jp6nUbRyJB"
+        },
+        {
+          "display_url": "pic.x.com/Jp6nUbRyJB",
+          "end": 82,
+          "expanded_url": "https://x.com/realNyarime/status/2056421625168589245/photo/1",
+          "media_key": "3_2056414434101514244",
+          "start": 59,
+          "url": "https://t.co/Jp6nUbRyJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056421625168589245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最近eSIM的热度又起来了，一则推文解决eSIM实体卡（Removable eUICCs）的选择，让你不再选择困难！\n如您所见，随着移动通信的发展，SIM卡从最开始的大卡普及到NanoSIM，相信不少人都经历过4G时代剪老卡。最新的eSIM是将eUICC芯片焊接到手机上，以实现原生eSIM管理功能，而“小白卡”这类的可拔插eSIM卡就是将MFF2（eSIM）转为4FF（Nano SIM）以兼容不具备eSIM功能的设备\n\n最早是SYC速易卡科技通过iPhone拆机取得的ST33系列芯片转接而成，大多都是外版iPhone改双卡换卡槽得到的eUICC，对手机来说它只是一张普通的SIM卡，在没有主控的情况下需使用PC/SC读卡器管理，可以在淘宝上搜智能卡读卡器/PCSC读卡器/健保卡读卡器等，读卡器的样子大概跟电信营业厅写卡的设备差不多。市面上除了最早的5ber，还有eSTK、9eSIM等相关竞品，它们在添加写卡程序的ARA-M（默认预置）后就可以使用App管理\n简单来说，ARA-M是可移动eSIM卡片的一道防火墙，防止未经授权的应用对卡片进行读写\n\n奶昔论坛与eSTK、9eSIM均有合作，在其官网使用NAIXI作为优惠码可享受折扣，但对于大多数人来说没必要一开始买这么贵的可移动eSIM，也不建议去焊转接卡。而是在电商平台上搜GSMA/eUICC/eSIM卡/拔插卡，价格在20块钱以内合适，容量有300KB、420KB等规格。在选购这些卡前，请务必持有一台至少Android11的手机，因为Apple并没有开放读卡器权限，意味着除了STK（SIM卡实用工具）或外置读卡器，都可能存在兼容性问题。而安卓系统在没有root下可通过OMAPI管理，可在添加ARA-M通过NekokoLPA、OpenEuicc、EasyEuicc等App直接切卡、写卡\n因此，如果你还执着在iPhone上用eSIM，就得做好承受苦难的心理准备，我的建议是直接用外版iPhone原生就行\n\n那有人要问了，像1.5M的9eSIM V3和eSTK Max几百块，除了容量大还有什么意义？就跟IMEI（串号一样）每个eUICC芯片都有自己的身份证，叫EID\n已知日本运营商NTT DOCOMO和美国那三家运营商分别对EID做了白名单和拉黑的限制，而eSTKme和iPhone上的eUICC同为G+D制卡，在早期eSTK eco产品系iPhone11拆机+自研主控，因此在运营商眼里与iPhone无异，Apple eUICC的特征就是EID中有888。大多小白卡都是ECP（珠海东信和平）制卡，EID开头为89086030，因过于廉价在前阵子被红茶移动RedteaGO拉黑\n简单说，如果你不玩美国电话卡、日本NTT家的号卡，ECP可写大部分的运营商\n\n而Tello这类的MVNO对可拔插eSIM卡严管，除了EID要是原生设备的，还要注意IMEI对应。似乎T-Mobile的虚拟运营商都知道iPhone有锁机的IMEI2+EID的绑定关系，包括苹果公司会向中国联通定期“过白”清单，以确保eSIM可通过Discovery推送下卡。之前我花了150块买了一台天翼一号2021刷了Flyme后取得root，在紫光展锐展讯的平台上改IMEI就是发一条AT指令的事，正好是我美版iPhone11改双卡留下的eUICC转接，在运营商的眼里IMEI2与EID对应上后它就是一台伪装iPhone。据我所知，大部分电闸用的都是原生转接，一张eSTK Max少说也要150块钱，贵得很\n\n至于说root的安卓手机是最好的，连ARA-M都不用加，直接走TMAPI就像在用读卡器一样。不过请避开华为和荣耀这两家手机，他们在编译系统时刻意去除了OMAPI组件，导致功能不可用。市面上也有像HookEuicc之类的Magisk模块，告知giffgaff的App该设备支持eSIM，LPA信息将拦截并复制到剪辑版，提取后写入其他实体eSIM等操作都行\n\neUICC仅为eSIM Profile的存储介质，即使有了eSIM功能仍需写入对应号卡才能正常工作\n感谢您的阅读，承蒙厚爱，玩eSIM上奶昔论坛！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近eSIM的热度又起来了，一则推文解决eSIM实体卡（Removable eUICCs）的选择，让你不再选择困难！ https://t.co/Jp6nUbRyJB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_2056411889140420608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInXt8Qa0AA9Iei.png",
+        "width": 404
+      },
+      {
+        "height": 800,
+        "media_key": "3_2056414434101514244",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInaCE-bUAQim3Q.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056411889140420608",
+            "3_2056414434101514244"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2056421625168589245",
+        "created_at": "2026-05-18T17:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056421625168589245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jp6nUbRyJB",
+              "end": 82,
+              "expanded_url": "https://x.com/realNyarime/status/2056421625168589245/photo/1",
+              "media_key": "3_2056411889140420608",
+              "start": 59,
+              "url": "https://t.co/Jp6nUbRyJB"
+            },
+            {
+              "display_url": "pic.x.com/Jp6nUbRyJB",
+              "end": 82,
+              "expanded_url": "https://x.com/realNyarime/status/2056421625168589245/photo/1",
+              "media_key": "3_2056414434101514244",
+              "start": 59,
+              "url": "https://t.co/Jp6nUbRyJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056421625168589245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近eSIM的热度又起来了，一则推文解决eSIM实体卡（Removable eUICCs）的选择，让你不再选择困难！\n如您所见，随着移动通信的发展，SIM卡从最开始的大卡普及到NanoSIM，相信不少人都经历过4G时代剪老卡。最新的eSIM是将eUICC芯片焊接到手机上，以实现原生eSIM管理功能，而“小白卡”这类的可拔插eSIM卡就是将MFF2（eSIM）转为4FF（Nano SIM）以兼容不具备eSIM功能的设备\n\n最早是SYC速易卡科技通过iPhone拆机取得的ST33系列芯片转接而成，大多都是外版iPhone改双卡换卡槽得到的eUICC，对手机来说它只是一张普通的SIM卡，在没有主控的情况下需使用PC/SC读卡器管理，可以在淘宝上搜智能卡读卡器/PCSC读卡器/健保卡读卡器等，读卡器的样子大概跟电信营业厅写卡的设备差不多。市面上除了最早的5ber，还有eSTK、9eSIM等相关竞品，它们在添加写卡程序的ARA-M（默认预置）后就可以使用App管理\n简单来说，ARA-M是可移动eSIM卡片的一道防火墙，防止未经授权的应用对卡片进行读写\n\n奶昔论坛与eSTK、9eSIM均有合作，在其官网使用NAIXI作为优惠码可享受折扣，但对于大多数人来说没必要一开始买这么贵的可移动eSIM，也不建议去焊转接卡。而是在电商平台上搜GSMA/eUICC/eSIM卡/拔插卡，价格在20块钱以内合适，容量有300KB、420KB等规格。在选购这些卡前，请务必持有一台至少Android11的手机，因为Apple并没有开放读卡器权限，意味着除了STK（SIM卡实用工具）或外置读卡器，都可能存在兼容性问题。而安卓系统在没有root下可通过OMAPI管理，可在添加ARA-M通过NekokoLPA、OpenEuicc、EasyEuicc等App直接切卡、写卡\n因此，如果你还执着在iPhone上用eSIM，就得做好承受苦难的心理准备，我的建议是直接用外版iPhone原生就行\n\n那有人要问了，像1.5M的9eSIM V3和eSTK Max几百块，除了容量大还有什么意义？就跟IMEI（串号一样）每个eUICC芯片都有自己的身份证，叫EID\n已知日本运营商NTT DOCOMO和美国那三家运营商分别对EID做了白名单和拉黑的限制，而eSTKme和iPhone上的eUICC同为G+D制卡，在早期eSTK eco产品系iPhone11拆机+自研主控，因此在运营商眼里与iPhone无异，Apple eUICC的特征就是EID中有888。大多小白卡都是ECP（珠海东信和平）制卡，EID开头为89086030，因过于廉价在前阵子被红茶移动RedteaGO拉黑\n简单说，如果你不玩美国电话卡、日本NTT家的号卡，ECP可写大部分的运营商\n\n而Tello这类的MVNO对可拔插eSIM卡严管，除了EID要是原生设备的，还要注意IMEI对应。似乎T-Mobile的虚拟运营商都知道iPhone有锁机的IMEI2+EID的绑定关系，包括苹果公司会向中国联通定期“过白”清单，以确保eSIM可通过Discovery推送下卡。之前我花了150块买了一台天翼一号2021刷了Flyme后取得root，在紫光展锐展讯的平台上改IMEI就是发一条AT指令的事，正好是我美版iPhone11改双卡留下的eUICC转接，在运营商的眼里IMEI2与EID对应上后它就是一台伪装iPhone。据我所知，大部分电闸用的都是原生转接，一张eSTK Max少说也要150块钱，贵得很\n\n至于说root的安卓手机是最好的，连ARA-M都不用加，直接走TMAPI就像在用读卡器一样。不过请避开华为和荣耀这两家手机，他们在编译系统时刻意去除了OMAPI组件，导致功能不可用。市面上也有像HookEuicc之类的Magisk模块，告知giffgaff的App该设备支持eSIM，LPA信息将拦截并复制到剪辑版，提取后写入其他实体eSIM等操作都行\n\neUICC仅为eSIM Profile的存储介质，即使有了eSIM功能仍需写入对应号卡才能正常工作\n感谢您的阅读，承蒙厚爱，玩eSIM上奶昔论坛！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近eSIM的热度又起来了，一则推文解决eSIM实体卡（Removable eUICCs）的选择，让你不再选择困难！ https://t.co/Jp6nUbRyJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2056247533354229974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33837,
+          "following_count": 645,
+          "like_count": 14572,
+          "listed_count": 150,
+          "media_count": 1810,
+          "tweet_count": 11892
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

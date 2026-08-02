@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048138015206522880",
+        "3_2048138026841419776",
+        "3_2048138505935818752"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2048184279306494002",
+    "created_at": "2026-04-25T23:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T00:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048184279306494002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xA9qhznr1x",
+          "end": 151,
+          "expanded_url": "https://x.com/realNyarime/status/2048184279306494002/photo/1",
+          "media_key": "3_2048138015206522880",
+          "start": 128,
+          "url": "https://t.co/xA9qhznr1x"
+        },
+        {
+          "display_url": "pic.x.com/xA9qhznr1x",
+          "end": 151,
+          "expanded_url": "https://x.com/realNyarime/status/2048184279306494002/photo/1",
+          "media_key": "3_2048138026841419776",
+          "start": 128,
+          "url": "https://t.co/xA9qhznr1x"
+        },
+        {
+          "display_url": "pic.x.com/xA9qhznr1x",
+          "end": 151,
+          "expanded_url": "https://x.com/realNyarime/status/2048184279306494002/photo/1",
+          "media_key": "3_2048138505935818752",
+          "start": 128,
+          "url": "https://t.co/xA9qhznr1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048184279306494002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最近朋友去深圳打工，租住的城中村被房东&电信宽带垄断，搬的新家是15层高楼，信号太差了只能勉强跑200M，不过1楼信号倒是很好于是请我出谋划策。至于上网卡，飞猫M2卡 400开的2年套餐，设备用的是中兴F50 深分类5G DTU RG500U模组\n\n把深分类重新刷了官方ROOT固件+高级后台，同一个位置信号强度比F50高8-9db，再用上去年闲鱼200捡的 带的普通胶棒天线 估计也不太好，换思科的增益天线应该还会好点(太贵了 一套天线要100)\n他买的这个设备没有WIFI模组，之前是零距固件，估计被卖家拆了，又在闲鱼花15买了个高通WIFI模块，希望能用，零距固件不支持WIFI 但是有网页AT命令，但是我发现高级后台也有这个功能，就刷回官方ROOT固件了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近朋友去深圳打工，租住的城中村被房东&amp;电信宽带垄断，搬的新家是15层高楼，信号太差了只能勉强跑200M，不过1楼信号倒是很好于是请我出谋划策。至于上网卡，飞猫M2卡 400开的2年套餐，设备用的是中兴F50 深分类5G DTU RG500U模组 https://t.co/xA9qhznr1x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2780,
+        "media_key": "3_2048138015206522880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxyrF9bwAABrut.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2780,
+        "media_key": "3_2048138026841419776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxyrxTaMAA0rkQ.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2540,
+        "media_key": "3_2048138505935818752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxzHqEakAAhTlj.jpg",
+        "width": 3792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048138015206522880",
+            "3_2048138026841419776",
+            "3_2048138505935818752"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2048184279306494002",
+        "created_at": "2026-04-25T23:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T00:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048184279306494002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xA9qhznr1x",
+              "end": 151,
+              "expanded_url": "https://x.com/realNyarime/status/2048184279306494002/photo/1",
+              "media_key": "3_2048138015206522880",
+              "start": 128,
+              "url": "https://t.co/xA9qhznr1x"
+            },
+            {
+              "display_url": "pic.x.com/xA9qhznr1x",
+              "end": 151,
+              "expanded_url": "https://x.com/realNyarime/status/2048184279306494002/photo/1",
+              "media_key": "3_2048138026841419776",
+              "start": 128,
+              "url": "https://t.co/xA9qhznr1x"
+            },
+            {
+              "display_url": "pic.x.com/xA9qhznr1x",
+              "end": 151,
+              "expanded_url": "https://x.com/realNyarime/status/2048184279306494002/photo/1",
+              "media_key": "3_2048138505935818752",
+              "start": 128,
+              "url": "https://t.co/xA9qhznr1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048184279306494002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近朋友去深圳打工，租住的城中村被房东&电信宽带垄断，搬的新家是15层高楼，信号太差了只能勉强跑200M，不过1楼信号倒是很好于是请我出谋划策。至于上网卡，飞猫M2卡 400开的2年套餐，设备用的是中兴F50 深分类5G DTU RG500U模组\n\n把深分类重新刷了官方ROOT固件+高级后台，同一个位置信号强度比F50高8-9db，再用上去年闲鱼200捡的 带的普通胶棒天线 估计也不太好，换思科的增益天线应该还会好点(太贵了 一套天线要100)\n他买的这个设备没有WIFI模组，之前是零距固件，估计被卖家拆了，又在闲鱼花15买了个高通WIFI模块，希望能用，零距固件不支持WIFI 但是有网页AT命令，但是我发现高级后台也有这个功能，就刷回官方ROOT固件了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近朋友去深圳打工，租住的城中村被房东&amp;电信宽带垄断，搬的新家是15层高楼，信号太差了只能勉强跑200M，不过1楼信号倒是很好于是请我出谋划策。至于上网卡，飞猫M2卡 400开的2年套餐，设备用的是中兴F50 深分类5G DTU RG500U模组 https://t.co/xA9qhznr1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30540,
+          "following_count": 554,
+          "like_count": 12883,
+          "listed_count": 149,
+          "media_count": 1565,
+          "tweet_count": 10475
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2060896115877097904",
+    "created_at": "2026-05-31T01:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060896467288735863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "997698770761478144",
+          "start": 0,
+          "username": "MoonLightBiskit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060896467288735863",
+    "in_reply_to_user_id": "997698770761478144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060896115877097904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoonLightBiskit 好用吗 能评测一下？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060896115877097904].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060896115877097904",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060896115877097904"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2060896115877097904",
+        "created_at": "2026-05-31T01:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060896467288735863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "997698770761478144",
+              "start": 0,
+              "username": "MoonLightBiskit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060896467288735863",
+        "in_reply_to_user_id": "997698770761478144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060896115877097904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoonLightBiskit 好用吗 能评测一下？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35520,
+          "following_count": 657,
+          "like_count": 16153,
+          "listed_count": 157,
+          "media_count": 1997,
+          "tweet_count": 13253
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-19T04:41:38.000Z",
+        "description": "Mixed zh-CN and en-US account for @imbushuo.  biu~ ❤️❤️❤️ @Fujii_shiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "imbushuo"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Fujii_shiki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imbushuo.net",
+                "end": 23,
+                "expanded_url": "http://imbushuo.net",
+                "start": 0,
+                "url": "https://t.co/cY3BjXJi49"
+              }
+            ]
+          }
+        },
+        "id": "997698770761478144",
+        "location": "Sunnyvale/Seattle/?",
+        "name": "MoonLight Biscuits not at scale | 饼干 🍪",
+        "pinned_tweet_id": "1828999665548931133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316038351967850504/DvGWRPC5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 404,
+          "like_count": 43927,
+          "listed_count": 2,
+          "media_count": 3186,
+          "tweet_count": 24381
+        },
+        "url": "https://t.co/cY3BjXJi49",
+        "username": "MoonLightBiskit",
+        "verified": false
+      }
+    ]
+  }
+}

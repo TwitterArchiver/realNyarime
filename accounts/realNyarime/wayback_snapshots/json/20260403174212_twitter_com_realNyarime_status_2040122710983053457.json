@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2039985153075007656",
+    "created_at": "2026-04-03T17:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040122710983053457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239927988122075136",
+          "start": 0,
+          "username": "tyw1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040122710983053457",
+    "in_reply_to_user_id": "1239927988122075136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039985153075007656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tyw1984 专线顶多拿来打打游戏，论纯净度算是万人骑，那些高端机场我都不用，这没什么好追求的\n论加速，不如让网易UU加速claude雷神加速GitHub，稳定又便宜\n\n最后奶昔机场和我没关系，论IP纯度，不如漫游原生境外运营商的来的好，至于ping0就看个乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2039985153075007656",
+        "created_at": "2026-04-03T17:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040122710983053457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239927988122075136",
+              "start": 0,
+              "username": "tyw1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040122710983053457",
+        "in_reply_to_user_id": "1239927988122075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039985153075007656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tyw1984 专线顶多拿来打打游戏，论纯净度算是万人骑，那些高端机场我都不用，这没什么好追求的\n论加速，不如让网易UU加速claude雷神加速GitHub，稳定又便宜\n\n最后奶昔机场和我没关系，论IP纯度，不如漫游原生境外运营商的来的好，至于ping0就看个乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239927988122075136",
+        "conversation_id": "2039985153075007656",
+        "created_at": "2026-04-03T08:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039985153075007656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gxgexiao/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/gxgexiao/status/2039713191236899105",
+              "start": 34,
+              "url": "https://t.co/wKxhLtfPpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039985153075007656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2968,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039713191236899105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奶昔今年怎么了，花那么多钱不就是想要好点的体验吗，刚刚又断了，吐血 https://t.co/wKxhLtfPpN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25667,
+          "following_count": 498,
+          "like_count": 11713,
+          "listed_count": 116,
+          "media_count": 1364,
+          "tweet_count": 9285
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-17T14:54:12.000Z",
+        "description": "寻求咨询加微Conogo｜表https://t.co/ncq909IeuN｜OKX交易20%优惠：https://t.co/bs6MAhn4V0｜Binance交易10%优惠：https://t.co/lhq57Tx6bA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cutt.ly/ne6dZK5P",
+                "end": 37,
+                "expanded_url": "https://cutt.ly/ne6dZK5P",
+                "start": 14,
+                "url": "https://t.co/ncq909IeuN"
+              },
+              {
+                "display_url": "web3.okx.com/ul/joindex?ref…",
+                "end": 72,
+                "expanded_url": "https://web3.okx.com/ul/joindex?ref=NANATANG",
+                "start": 49,
+                "url": "https://t.co/bs6MAhn4V0"
+              },
+              {
+                "display_url": "web3.binance.com/referral?ref=F…",
+                "end": 111,
+                "expanded_url": "https://web3.binance.com/referral?ref=FFJ8Y65X",
+                "start": 88,
+                "url": "https://t.co/lhq57Tx6bA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tyw1984",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@tyw1984",
+                "start": 0,
+                "url": "https://t.co/ipPYGJRsqX"
+              }
+            ]
+          }
+        },
+        "id": "1239927988122075136",
+        "location": "所有推文不构成投资建议👉🏻",
+        "name": "nanatang",
+        "pinned_tweet_id": "2026311159524302854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962907333215830016/2gGLbpZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33766,
+          "following_count": 2957,
+          "like_count": 14028,
+          "listed_count": 766,
+          "media_count": 1963,
+          "tweet_count": 14933
+        },
+        "url": "https://t.co/ipPYGJRsqX",
+        "username": "tyw1984",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070375021571346583",
+    "created_at": "2026-06-26T05:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070378908290289892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1649102667627794432",
+          "start": 0,
+          "username": "coldin04"
+        },
+        {
+          "end": 22,
+          "id": "1362960365055668225",
+          "start": 10,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070378908290289892",
+    "in_reply_to_user_id": "1649102667627794432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070378667658858901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldin04 @POI74103174 麦当劳有，欢迎吃"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070375021571346583",
+        "created_at": "2026-06-26T05:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070378908290289892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1649102667627794432",
+              "start": 0,
+              "username": "coldin04"
+            },
+            {
+              "end": 22,
+              "id": "1362960365055668225",
+              "start": 10,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070378908290289892",
+        "in_reply_to_user_id": "1649102667627794432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070378667658858901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldin04 @POI74103174 麦当劳有，欢迎吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649102667627794432",
+        "conversation_id": "2070375021571346583",
+        "created_at": "2026-06-26T05:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070378667658858901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 25,
+              "id": "1362960365055668225",
+              "start": 13,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070378667658858901",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070376825952588152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @POI74103174 吃吃奶昔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38485,
+          "following_count": 662,
+          "like_count": 18418,
+          "listed_count": 179,
+          "media_count": 2240,
+          "tweet_count": 15422
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-20T17:28:32.000Z",
+        "description": "一个热爱编程与分享的计算机萌新 \n有很多胡乱想法，爱从产品角度思考\n软件/产品/开发/灵感 碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "co1d.in",
+                "end": 23,
+                "expanded_url": "https://co1d.in",
+                "start": 0,
+                "url": "https://t.co/B0kMGASf9F"
+              }
+            ]
+          }
+        },
+        "id": "1649102667627794432",
+        "location": "127.0.0.1",
+        "name": "酷丁同学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013251797234651136/oZg0wtUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 424,
+          "like_count": 1581,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/B0kMGASf9F",
+        "username": "coldin04",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "大变活🐧了（大概）\n饲养员@penguinmomentjp\n日常/小市民；不友也不厌任何群体，\n爱具体的人。\n小号@POI74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "penguinmomentjp"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "POI74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWwsvr"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "優杏@Poi🍧",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4499,
+          "following_count": 334,
+          "like_count": 69935,
+          "listed_count": 17,
+          "media_count": 3159,
+          "tweet_count": 26199
+        },
+        "url": "https://t.co/XlV7pWwsvr",
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

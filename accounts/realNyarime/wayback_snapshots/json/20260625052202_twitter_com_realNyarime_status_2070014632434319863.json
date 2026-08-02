@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070013184422129941",
+    "created_at": "2026-06-25T05:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070014632434319863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1691289874228469761",
+          "start": 0,
+          "username": "fishjlch"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070014632434319863",
+    "in_reply_to_user_id": "1691289874228469761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070014342481994163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishjlch 你结婚喊我，我也得给你随一个哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_2070014287339479040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLorBuTaYAAmOoQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070013184422129941",
+        "created_at": "2026-06-25T05:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070014632434319863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1691289874228469761",
+              "start": 0,
+              "username": "fishjlch"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070014632434319863",
+        "in_reply_to_user_id": "1691289874228469761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070014342481994163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishjlch 你结婚喊我，我也得给你随一个哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070014287339479040"
+          ]
+        },
+        "author_id": "1691289874228469761",
+        "conversation_id": "2070013184422129941",
+        "created_at": "2026-06-25T05:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070014342481994163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGz8ctMMfE",
+              "end": 75,
+              "expanded_url": "https://x.com/fishjlch/status/2070014342481994163/photo/1",
+              "media_key": "3_2070014287339479040",
+              "start": 52,
+              "url": "https://t.co/uGz8ctMMfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070014342481994163",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070013850020376715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 唉 拉着我问我几时结婚呢 我昨晚问了一个朋友 结婚吗?\n他说ok 等我更新吧 https://t.co/uGz8ctMMfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38358,
+          "following_count": 660,
+          "like_count": 18332,
+          "listed_count": 179,
+          "media_count": 2232,
+          "tweet_count": 15338
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-15T03:25:18.000Z",
+        "description": "努力活着是一种勇气\n学心理学主要为了治疗我脑子别问了\n会跟老板对着干的虚拟卡BD\n干了3年助理现在准备准备离开世界",
+        "id": "1691289874228469761",
+        "location": "Kuala Lumpur",
+        "name": "Fish",
+        "pinned_tweet_id": "2059820583324721602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039784644816855040/Si0OkMZg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 915,
+          "like_count": 13535,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1241
+        },
+        "url": "",
+        "username": "fishjlch",
+        "verified": true
+      }
+    ]
+  }
+}

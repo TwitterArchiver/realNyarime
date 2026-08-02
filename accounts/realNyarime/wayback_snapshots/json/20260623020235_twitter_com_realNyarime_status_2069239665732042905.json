@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2069225813850099712",
+    "created_at": "2026-06-23T02:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069239665732042905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstra"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2069239665732042905",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069225813850099712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstra 不如zai哈哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069225807403524096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdd6JpboAAeDfe.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2069225813850099712",
+        "created_at": "2026-06-23T02:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069239665732042905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstra"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2069239665732042905",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069225813850099712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstra 不如zai哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069225807403524096"
+          ]
+        },
+        "author_id": "1775079210484436992",
+        "conversation_id": "2069225813850099712",
+        "created_at": "2026-06-23T01:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069225813850099712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7X0GCWThk",
+              "end": 39,
+              "expanded_url": "https://x.com/0xAstra/status/2069225813850099712/photo/1",
+              "media_key": "3_2069225807403524096",
+              "start": 16,
+              "url": "https://t.co/I7X0GCWThk"
+            },
+            {
+              "display_url": "x.com/plantegg/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/plantegg/status/2069224335672291469",
+              "start": 40,
+              "url": "https://t.co/iklWDKYx9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069225813850099712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069224335672291469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "垄断了20多年不如智谱冲一年😅 https://t.co/I7X0GCWThk https://t.co/iklWDKYx9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38203,
+          "following_count": 658,
+          "like_count": 18224,
+          "listed_count": 179,
+          "media_count": 2217,
+          "tweet_count": 15215
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "正在打造 @GMWallet ｜GitHub Star全球前十(加密领域) HODL @PudgyPenguins #5103 加密交易用币安：https://t.co/gCvs8cb1ga\nOKX最合规交易所：https://t.co/Spvg2Or79R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "GMWallet"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "PudgyPenguins"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 95,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 72,
+                "url": "https://t.co/gCvs8cb1ga"
+              },
+              {
+                "display_url": "okx.com/join/17846565",
+                "end": 129,
+                "expanded_url": "https://okx.com/join/17846565",
+                "start": 106,
+                "url": "https://t.co/Spvg2Or79R"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063723095492644864/wQfoPaC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8141,
+          "following_count": 937,
+          "like_count": 48353,
+          "listed_count": 36,
+          "media_count": 501,
+          "tweet_count": 10143
+        },
+        "url": "",
+        "username": "0xAstra",
+        "verified": true
+      }
+    ]
+  }
+}

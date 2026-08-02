@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045035531768348672",
+        "3_2045037123120857088",
+        "3_2045040653030354944"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2045041334478921895",
+    "created_at": "2026-04-17T07:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T08:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045041334478921895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0F4uQb1pr7",
+          "end": 154,
+          "expanded_url": "https://x.com/realNyarime/status/2045041334478921895/photo/1",
+          "media_key": "3_2045035531768348672",
+          "start": 131,
+          "url": "https://t.co/0F4uQb1pr7"
+        },
+        {
+          "display_url": "pic.x.com/0F4uQb1pr7",
+          "end": 154,
+          "expanded_url": "https://x.com/realNyarime/status/2045041334478921895/photo/1",
+          "media_key": "3_2045037123120857088",
+          "start": 131,
+          "url": "https://t.co/0F4uQb1pr7"
+        },
+        {
+          "display_url": "pic.x.com/0F4uQb1pr7",
+          "end": 154,
+          "expanded_url": "https://x.com/realNyarime/status/2045041334478921895/photo/1",
+          "media_key": "3_2045040653030354944",
+          "start": 131,
+          "url": "https://t.co/0F4uQb1pr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045041334478921895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "自建梯子就要买VPS，目前国内宽带业务就那三家，广电没有自己的骨干网就不提了。除了电信绕美，移动往香港，联通往日本、德国效果很不错，现在移动单宽带tb上一年大概也就几百，我们先说看线路再分享我用的那几家\n\n买VPS时，商家会提供测试IP，如果还有looking glass还能测速、回程等，首先建议下载一个NextTraceRoute（路由追踪，图中演示的是内地CN2到香港Cloudflare）软件，测试到目标IP去程走的线路，这样你就知道是哪个环节导致的绕路\n其次是IP质量，如果这个IP段有邻居滥用那会导致跳验证码频繁，除了改数据的ping0还有ippure、iplark这类的网站可以多方参考，这部分其实意义不大，我更推荐是跑一下lmc999/RegionRestrictionCheck（流媒体解锁脚本），测一下YouTube是否送中、Netflix是否支持等，只要能满足你的需求都是好鸡\n顺便扯下优化线路，有些商家会标记电信CN2（或CTG）、移动CMI（或CMIN2）、联通9929（CUII），这些表示他们买了三大运营商某家（或全买）的IP传输，因为三家是互相peer的。当然市面上有移动快乐鸡、移动优化鸡，回程直接偷Lumen（前Level3），除了移动是直的，联通和电信都绕\n\n最后说说我自己吧，我花了400在某宝整了条移动家宽，然后去Akile的拍卖蹲10元/月的鸡，他家重置流量也便宜。不过一分钱一分货，尤其是IPv6在我体验上简直不能用，可能是我本地的网络环境太糟糕。他家还有个PushShop频道会更新拍卖上架，可能买到的VPS是别人用过的N手鸡，但IP有没有被墙面板上也会有标记，这个倒是可以放心。不过我不做推荐，至于小宽带30/50/100Mbps的两位数优化线路VPS，我放晚上再说"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自建梯子就要买VPS，目前国内宽带业务就那三家，广电没有自己的骨干网就不提了。除了电信绕美，移动往香港，联通往日本、德国效果很不错，现在移动单宽带tb上一年大概也就几百，我们先说看线路再分享我用的那几家\n\n买VPS时，商家会提供测试IP，如果还有looking https://t.co/0F4uQb1pr7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2037,
+        "media_key": "3_2045035531768348672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFs-ygawAAefAz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2388,
+        "media_key": "3_2045037123120857088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFubawbAAA4BAo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2089,
+        "media_key": "3_2045040653030354944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFxo4sbcAAeMPF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045035531768348672",
+            "3_2045037123120857088",
+            "3_2045040653030354944"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2045041334478921895",
+        "created_at": "2026-04-17T07:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045041334478921895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0F4uQb1pr7",
+              "end": 154,
+              "expanded_url": "https://x.com/realNyarime/status/2045041334478921895/photo/1",
+              "media_key": "3_2045035531768348672",
+              "start": 131,
+              "url": "https://t.co/0F4uQb1pr7"
+            },
+            {
+              "display_url": "pic.x.com/0F4uQb1pr7",
+              "end": 154,
+              "expanded_url": "https://x.com/realNyarime/status/2045041334478921895/photo/1",
+              "media_key": "3_2045037123120857088",
+              "start": 131,
+              "url": "https://t.co/0F4uQb1pr7"
+            },
+            {
+              "display_url": "pic.x.com/0F4uQb1pr7",
+              "end": 154,
+              "expanded_url": "https://x.com/realNyarime/status/2045041334478921895/photo/1",
+              "media_key": "3_2045040653030354944",
+              "start": 131,
+              "url": "https://t.co/0F4uQb1pr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045041334478921895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "自建梯子就要买VPS，目前国内宽带业务就那三家，广电没有自己的骨干网就不提了。除了电信绕美，移动往香港，联通往日本、德国效果很不错，现在移动单宽带tb上一年大概也就几百，我们先说看线路再分享我用的那几家\n\n买VPS时，商家会提供测试IP，如果还有looking glass还能测速、回程等，首先建议下载一个NextTraceRoute（路由追踪，图中演示的是内地CN2到香港Cloudflare）软件，测试到目标IP去程走的线路，这样你就知道是哪个环节导致的绕路\n其次是IP质量，如果这个IP段有邻居滥用那会导致跳验证码频繁，除了改数据的ping0还有ippure、iplark这类的网站可以多方参考，这部分其实意义不大，我更推荐是跑一下lmc999/RegionRestrictionCheck（流媒体解锁脚本），测一下YouTube是否送中、Netflix是否支持等，只要能满足你的需求都是好鸡\n顺便扯下优化线路，有些商家会标记电信CN2（或CTG）、移动CMI（或CMIN2）、联通9929（CUII），这些表示他们买了三大运营商某家（或全买）的IP传输，因为三家是互相peer的。当然市面上有移动快乐鸡、移动优化鸡，回程直接偷Lumen（前Level3），除了移动是直的，联通和电信都绕\n\n最后说说我自己吧，我花了400在某宝整了条移动家宽，然后去Akile的拍卖蹲10元/月的鸡，他家重置流量也便宜。不过一分钱一分货，尤其是IPv6在我体验上简直不能用，可能是我本地的网络环境太糟糕。他家还有个PushShop频道会更新拍卖上架，可能买到的VPS是别人用过的N手鸡，但IP有没有被墙面板上也会有标记，这个倒是可以放心。不过我不做推荐，至于小宽带30/50/100Mbps的两位数优化线路VPS，我放晚上再说"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自建梯子就要买VPS，目前国内宽带业务就那三家，广电没有自己的骨干网就不提了。除了电信绕美，移动往香港，联通往日本、德国效果很不错，现在移动单宽带tb上一年大概也就几百，我们先说看线路再分享我用的那几家\n\n买VPS时，商家会提供测试IP，如果还有looking https://t.co/0F4uQb1pr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28333,
+          "following_count": 529,
+          "like_count": 12425,
+          "listed_count": 132,
+          "media_count": 1484,
+          "tweet_count": 10072
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

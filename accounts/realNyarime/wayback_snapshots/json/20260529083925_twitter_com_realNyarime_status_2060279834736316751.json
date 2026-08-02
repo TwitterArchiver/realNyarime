@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2060275716869300695",
+    "created_at": "2026-05-29T08:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060279834736316751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "936609800598597633",
+          "start": 0,
+          "username": "Jason_Young1231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 85,
+          "expanded_url": "https://x.com/realNyarime/status/2060148419310891180",
+          "start": 62,
+          "url": "https://t.co/kl6okcSn6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060279834736316751",
+    "in_reply_to_user_id": "936609800598597633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060148419310891180",
+        "type": "quoted"
+      },
+      {
+        "id": "2060275716869300695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jason_Young1231 然而大部分第三方渠道，都是默认的High，包括cursor和github copilot\nhttps://t.co/kl6okcSn6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 765,
+        "media_key": "3_2060147981844905985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcdrKKagAEL2zE.jpg",
+        "width": 1208
+      },
+      {
+        "height": 746,
+        "media_key": "3_2060147981840707584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcdrKJacAAME3z.jpg",
+        "width": 1040
+      },
+      {
+        "height": 310,
+        "media_key": "16_2060275386173583360",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJeRjERbcAAZSwu.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJeRjERbcAAZSwu.mp4"
+          }
+        ],
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2060275716869300695",
+        "created_at": "2026-05-29T08:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060279834736316751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "936609800598597633",
+              "start": 0,
+              "username": "Jason_Young1231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 85,
+              "expanded_url": "https://x.com/realNyarime/status/2060148419310891180",
+              "start": 62,
+              "url": "https://t.co/kl6okcSn6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060279834736316751",
+        "in_reply_to_user_id": "936609800598597633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060148419310891180",
+            "type": "quoted"
+          },
+          {
+            "id": "2060275716869300695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jason_Young1231 然而大部分第三方渠道，都是默认的High，包括cursor和github copilot\nhttps://t.co/kl6okcSn6R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060147981844905985",
+            "3_2060147981840707584"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060148419310891180",
+        "created_at": "2026-05-28T23:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060148419310891180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KXxX0my4J3",
+              "end": 70,
+              "expanded_url": "https://x.com/realNyarime/status/2060148419310891180/photo/1",
+              "media_key": "3_2060147981844905985",
+              "start": 47,
+              "url": "https://t.co/KXxX0my4J3"
+            },
+            {
+              "display_url": "pic.x.com/KXxX0my4J3",
+              "end": 70,
+              "expanded_url": "https://x.com/realNyarime/status/2060148419310891180/photo/1",
+              "media_key": "3_2060147981840707584",
+              "start": 47,
+              "url": "https://t.co/KXxX0my4J3"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/realNyarime/status/2060055041868976302",
+              "start": 71,
+              "url": "https://t.co/GNFhpgeGJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060148419310891180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4730,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060055041868976302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cursor等平台都上了Opus 4.8 High和Opus 4.8 High Fast模型 https://t.co/KXxX0my4J3 https://t.co/GNFhpgeGJQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2060275386173583360"
+          ]
+        },
+        "author_id": "936609800598597633",
+        "conversation_id": "2060275716869300695",
+        "created_at": "2026-05-29T08:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060275716869300695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cRgJXo4Uk",
+              "end": 91,
+              "expanded_url": "https://x.com/Jason_Young1231/status/2060275716869300695/photo/1",
+              "media_key": "16_2060275386173583360",
+              "start": 68,
+              "url": "https://t.co/7cRgJXo4Uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060275716869300695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 264,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以防你不知道，Opus 4.8现在有 Low, Medium, High, xHigh, Max, Ultracode 六个思考等级🤣 https://t.co/7cRgJXo4Uk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35437,
+          "following_count": 650,
+          "like_count": 15971,
+          "listed_count": 154,
+          "media_count": 1970,
+          "tweet_count": 13102
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-01T14:55:52.000Z",
+        "description": "Creator of CC Switch — open-source tooling for AI coding workflows across Claude Code, Codex, OpenClaw, Hermes and more: https://t.co/gpx1V4wBKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ccswitch.io",
+                "end": 144,
+                "expanded_url": "https://www.ccswitch.io",
+                "start": 121,
+                "url": "https://t.co/gpx1V4wBKk"
+              }
+            ]
+          }
+        },
+        "id": "936609800598597633",
+        "name": "Jason Young",
+        "pinned_tweet_id": "2050969805721874786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604123462792249344/9cNRBhXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13635,
+          "following_count": 623,
+          "like_count": 26881,
+          "listed_count": 129,
+          "media_count": 473,
+          "tweet_count": 8056
+        },
+        "username": "Jason_Young1231",
+        "verified": true
+      }
+    ]
+  }
+}

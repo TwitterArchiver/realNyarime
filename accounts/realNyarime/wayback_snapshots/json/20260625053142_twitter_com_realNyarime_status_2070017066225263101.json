@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070011818895102422",
+    "created_at": "2026-06-25T05:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070017066225263101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1726222913509134336",
+          "start": 0,
+          "username": "Ethan__Fang"
+        },
+        {
+          "end": 22,
+          "id": "1363127588701368323",
+          "start": 13,
+          "username": "Ion_Mio_"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070017066225263101",
+    "in_reply_to_user_id": "1726222913509134336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070016139032469821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ethan__Fang @Ion_Mio_ 不需要啊，手机App上申请就行了，只是开户的时候不是有让你选择账户类型吗？你可以选择one或者premier\n\n我是非常推荐选p户的，至少这半年里，你不用为存1万块钱管理费而操心，还可以多存点钱，把信用卡申了\n\n半年过后你填个表，去线下给他降个级就好了，然后放着1万不要动"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070011818895102422",
+        "created_at": "2026-06-25T05:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070017066225263101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726222913509134336",
+              "start": 0,
+              "username": "Ethan__Fang"
+            },
+            {
+              "end": 22,
+              "id": "1363127588701368323",
+              "start": 13,
+              "username": "Ion_Mio_"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070017066225263101",
+        "in_reply_to_user_id": "1726222913509134336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070016139032469821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ethan__Fang @Ion_Mio_ 不需要啊，手机App上申请就行了，只是开户的时候不是有让你选择账户类型吗？你可以选择one或者premier\n\n我是非常推荐选p户的，至少这半年里，你不用为存1万块钱管理费而操心，还可以多存点钱，把信用卡申了\n\n半年过后你填个表，去线下给他降个级就好了，然后放着1万不要动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726222913509134336",
+        "conversation_id": "2070011818895102422",
+        "created_at": "2026-06-25T05:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070016139032469821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 22,
+              "id": "1363127588701368323",
+              "start": 13,
+              "username": "Ion_Mio_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070016139032469821",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070014988883021887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @Ion_Mio_ 我是去年11月份开的户，还要去柜台申请？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38358,
+          "following_count": 660,
+          "like_count": 18335,
+          "listed_count": 179,
+          "media_count": 2232,
+          "tweet_count": 15341
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-19T12:56:41.000Z",
+        "description": "Bridging Tech Innovation & Capital | Passionate about $TSLA's autonomy, #NVDA's AI edge, #AMD's compute power | Let's invest wisely together",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "TSLA"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 72,
+                "tag": "NVDA"
+              },
+              {
+                "end": 93,
+                "start": 89,
+                "tag": "AMD"
+              }
+            ]
+          }
+        },
+        "id": "1726222913509134336",
+        "location": "Singapore",
+        "name": "EthanFang",
+        "pinned_tweet_id": "1981221363739418765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067785040197775360/hQbmbMVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 556,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1646
+        },
+        "url": "",
+        "username": "Ethan__Fang",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T14:05:27.000Z",
+        "description": "Creator of NewAPI (LLM Gateway) ｜❤️ @Seefs_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "Seefs_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Calcium-Ion",
+                "end": 23,
+                "expanded_url": "https://github.com/Calcium-Ion",
+                "start": 0,
+                "url": "https://t.co/Z3Se1igA1c"
+              }
+            ]
+          }
+        },
+        "id": "1363127588701368323",
+        "name": "离离子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798068602555551744/VQ2uYuyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 842,
+          "like_count": 9243,
+          "listed_count": 24,
+          "media_count": 155,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/Z3Se1igA1c",
+        "username": "Ion_Mio_",
+        "verified": true
+      }
+    ]
+  }
+}

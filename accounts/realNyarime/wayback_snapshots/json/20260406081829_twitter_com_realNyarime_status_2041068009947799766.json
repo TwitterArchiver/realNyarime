@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2041063101307761140",
+    "created_at": "2026-04-06T08:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041068009947799766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927261154377670656",
+          "start": 0,
+          "username": "lei_ren38662"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Stay connected anywhere in the world with eSIM.cc eSIM.",
+          "display_url": "s.ee/esimcc",
+          "end": 157,
+          "expanded_url": "http://s.ee/esimcc",
+          "start": 134,
+          "status": 200,
+          "title": "eSIM.CC: eSIM suitable for international travel",
+          "unwound_url": "https://www.esim.cc/?affiliate=NAIXI",
+          "url": "https://t.co/6oLcjGQXw3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041068009947799766",
+    "in_reply_to_user_id": "1927261154377670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041066685449540070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lei_ren38662 只要安卓版本≥11且非华为/荣耀手机，就有OMAPI通道进行写卡，否则就需要读卡器或root（tmapi）\n你看兼容列表有三星就行，或是联系9esim客服询问可否支持，这个问题不大的\n\n至于v0版本9.9是活动价，已经没了。后面基本是配合 https://t.co/6oLcjGQXw3 联名出的玩具卡，你要我这边还有库存就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2041063101307761140",
+        "created_at": "2026-04-06T08:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041068009947799766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927261154377670656",
+              "start": 0,
+              "username": "lei_ren38662"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Stay connected anywhere in the world with eSIM.cc eSIM.",
+              "display_url": "s.ee/esimcc",
+              "end": 157,
+              "expanded_url": "http://s.ee/esimcc",
+              "start": 134,
+              "status": 200,
+              "title": "eSIM.CC: eSIM suitable for international travel",
+              "unwound_url": "https://www.esim.cc/?affiliate=NAIXI",
+              "url": "https://t.co/6oLcjGQXw3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041068009947799766",
+        "in_reply_to_user_id": "1927261154377670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041066685449540070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei_ren38662 只要安卓版本≥11且非华为/荣耀手机，就有OMAPI通道进行写卡，否则就需要读卡器或root（tmapi）\n你看兼容列表有三星就行，或是联系9esim客服询问可否支持，这个问题不大的\n\n至于v0版本9.9是活动价，已经没了。后面基本是配合 https://t.co/6oLcjGQXw3 联名出的玩具卡，你要我这边还有库存就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927261154377670656",
+        "conversation_id": "2041063101307761140",
+        "created_at": "2026-04-06T08:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041066685449540070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041066685449540070",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041066087782158401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 9eSIM我看过适配列表里没有s24u，不知道使用起来如何。还有我经常看见您发的九块九买到v0版本的，我一直找不着，只在奶昔超市看见小白卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26210,
+          "following_count": 500,
+          "like_count": 11785,
+          "listed_count": 121,
+          "media_count": 1398,
+          "tweet_count": 9412
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-27T07:10:52.000Z",
+        "description": "",
+        "id": "1927261154377670656",
+        "name": "类人猿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980657102847696896/Av7cBXm9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 54
+        },
+        "username": "lei_ren38662",
+        "verified": false
+      }
+    ]
+  }
+}

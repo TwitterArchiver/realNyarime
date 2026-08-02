@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070804749604311381",
+    "created_at": "2026-06-27T10:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070812695973044592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1282036593784582144",
+          "start": 0,
+          "username": "Wakana233"
+        },
+        {
+          "end": 20,
+          "id": "4455570672",
+          "start": 11,
+          "username": "cchong_x"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070812695973044592",
+    "in_reply_to_user_id": "1282036593784582144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070804749604311381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wakana233 @cchong_x 是好地雷还是坏坏地雷妹"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_2070804742608154625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz58RpacAELn3L.jpg",
+        "width": 2169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070804749604311381",
+        "created_at": "2026-06-27T10:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070812695973044592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282036593784582144",
+              "start": 0,
+              "username": "Wakana233"
+            },
+            {
+              "end": 20,
+              "id": "4455570672",
+              "start": 11,
+              "username": "cchong_x"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070812695973044592",
+        "in_reply_to_user_id": "1282036593784582144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070804749604311381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wakana233 @cchong_x 是好地雷还是坏坏地雷妹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070804742608154625"
+          ]
+        },
+        "author_id": "1282036593784582144",
+        "conversation_id": "2070804749604311381",
+        "created_at": "2026-06-27T09:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070804749604311381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDePlMUFbi",
+              "end": 32,
+              "expanded_url": "https://x.com/Wakana233/status/2070804749604311381/photo/1",
+              "media_key": "3_2070804742608154625",
+              "start": 9,
+              "url": "https://t.co/zDePlMUFbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070804749604311381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "居家拖鞋地雷妹（ https://t.co/zDePlMUFbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38573,
+          "following_count": 664,
+          "like_count": 18505,
+          "listed_count": 179,
+          "media_count": 2252,
+          "tweet_count": 15508
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-11T19:38:50.000Z",
+        "description": "某不知名穿搭/腿子博主。低电量生物，一般不扩列。家养贪吃🐷：@cchong_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "cchong_x"
+              }
+            ]
+          }
+        },
+        "id": "1282036593784582144",
+        "location": "鏡都",
+        "name": "和奏QvQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985546933025587204/DQlvrR1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5491,
+          "following_count": 1734,
+          "like_count": 9410,
+          "listed_count": 15,
+          "media_count": 117,
+          "tweet_count": 1975
+        },
+        "url": "",
+        "username": "Wakana233",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T18:35:05.000Z",
+        "description": "过期JK & 傻了吧唧代言人 /聊天ok但请不要尬聊（x）/驰名饭盒@Wakana233持有人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "Wakana233"
+              }
+            ]
+          }
+        },
+        "id": "4455570672",
+        "location": "萨门",
+        "name": "懒虫虫虫虫虫虫",
+        "pinned_tweet_id": "2030284475859603767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039568049611931648/h0_Iz_4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4850,
+          "following_count": 748,
+          "like_count": 6215,
+          "listed_count": 22,
+          "media_count": 355,
+          "tweet_count": 2829
+        },
+        "url": "",
+        "username": "cchong_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "2009294448258400402",
+    "created_at": "2026-01-08T16:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T17:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009294448258400402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/python_xxt/sta…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/python_xxt/status/2008940177939681432",
+          "start": 133,
+          "url": "https://t.co/o46WtKoN8S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009294448258400402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "没什么好羡慕的\n差旅政策跟公司经营实际情况有关\n\n为什么大厂能做到没有预算上限？没有审批流程？没有报销表格？\n只需拍照上传收据就行。在公司营收不错的情况下，提升福利本是提升员工积极性的做法\n\n公司内审部门每年审计10%的费用，如发现员工过度消费，第一次违规就解雇。\n在中国，解雇得赔钱，按《劳动法》先仲裁、再打官司；\n在美国，炒鱿鱼直接开了，一分钱都不用赔🤣\n\n假设你是老板，\n你会给员工怎么样的差旅报销呢？\n或报销的标准，有什么见解？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008940177939681432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没什么好羡慕的\n差旅政策跟公司经营实际情况有关\n\n为什么大厂能做到没有预算上限？没有审批流程？没有报销表格？\n只需拍照上传收据就行。在公司营收不错的情况下，提升福利本是提升员工积极性的做法\n\n公司内审部门每年审计10%的费用，如发现员工过度消费，第一次违规就解雇。 https://t.co/o46WtKoN8S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2009294448258400402",
+        "created_at": "2026-01-08T16:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009294448258400402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/python_xxt/sta…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/python_xxt/status/2008940177939681432",
+              "start": 133,
+              "url": "https://t.co/o46WtKoN8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009294448258400402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "没什么好羡慕的\n差旅政策跟公司经营实际情况有关\n\n为什么大厂能做到没有预算上限？没有审批流程？没有报销表格？\n只需拍照上传收据就行。在公司营收不错的情况下，提升福利本是提升员工积极性的做法\n\n公司内审部门每年审计10%的费用，如发现员工过度消费，第一次违规就解雇。\n在中国，解雇得赔钱，按《劳动法》先仲裁、再打官司；\n在美国，炒鱿鱼直接开了，一分钱都不用赔🤣\n\n假设你是老板，\n你会给员工怎么样的差旅报销呢？\n或报销的标准，有什么见解？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008940177939681432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没什么好羡慕的\n差旅政策跟公司经营实际情况有关\n\n为什么大厂能做到没有预算上限？没有审批流程？没有报销表格？\n只需拍照上传收据就行。在公司营收不错的情况下，提升福利本是提升员工积极性的做法\n\n公司内审部门每年审计10%的费用，如发现员工过度消费，第一次违规就解雇。 https://t.co/o46WtKoN8S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "880606715141529600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2008940177939681432",
+        "created_at": "2026-01-07T16:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008940177939681432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008940177939681432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个差旅冷知识\nNetflix的差旅政策只有5个词：\n\nAct in Netflix's best interest\n以Netflix最佳利益行事\n\n没有预算上限，\n没有审批流程，\n没有报销表格。\n拍照上传收据就行。\n\n公司内审部门每年审计10%的费用,如发现员工过度消费,第一次违规就解雇。\n用极致自主+极致问责，替代繁琐流程。\n\n而这本质是个筛选机制:\n过于强调规则的文化，会驱逐高绩效员工\n\n 我可真是太羡慕了…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 119787,
+          "like_count": 540,
+          "quote_count": 6,
+          "reply_count": 51,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "一个差旅冷知识\nNetflix的差旅政策只有5个词：\n\nAct in Netflix's best interest\n以Netflix最佳利益行事\n\n没有预算上限，\n没有审批流程，\n没有报销表格。\n拍照上传收据就行。\n\n公司内审部门每年审计10%的费用,如发现员工过度消费,第一次违规就解雇。\n用极致自主+极致问责，替代繁琐流程。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008425765751185868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7238,
+          "following_count": 730,
+          "like_count": 8646,
+          "listed_count": 21,
+          "media_count": 632,
+          "tweet_count": 5343
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-30T01:59:36.000Z",
+        "description": "AI & Robustness in chaos.\n\nInsight  → Strategy → Operation\n\nNow,not How.\n\n我对现实世界的认知\n贫瘠到无法自知其贫瘠",
+        "id": "880606715141529600",
+        "location": "Deep thinker try to think",
+        "name": "Robinson · 鲁棒逊",
+        "pinned_tweet_id": "2009196859307512015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980814059525033985/d9tb6rAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24321,
+          "following_count": 494,
+          "like_count": 27011,
+          "listed_count": 276,
+          "media_count": 413,
+          "tweet_count": 7181
+        },
+        "username": "python_xxt",
+        "verified": true
+      }
+    ]
+  }
+}

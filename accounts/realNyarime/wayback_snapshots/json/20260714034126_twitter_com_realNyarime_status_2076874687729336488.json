@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027014509",
+          "name": "Go Daddy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      }
+    ],
+    "conversation_id": "2076874687729336488",
+    "created_at": "2026-07-14T03:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076874687729336488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/durov/status/2…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/durov/status/2076836338117046660",
+          "start": 75,
+          "url": "https://t.co/dZVCtO5URo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076874687729336488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076836338117046660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Telegram用的短链域 t(.me)被黑山注册局ServerHold了，并不是GoDaddy的问题，暂时可用 telegram(.me)代替解决 https://t.co/dZVCtO5URo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027014509",
+              "name": "Go Daddy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "2076874687729336488",
+        "created_at": "2026-07-14T03:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076874687729336488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/durov/status/2…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/durov/status/2076836338117046660",
+              "start": 75,
+              "url": "https://t.co/dZVCtO5URo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076874687729336488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076836338117046660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Telegram用的短链域 t(.me)被黑山注册局ServerHold了，并不是GoDaddy的问题，暂时可用 telegram(.me)代替解决 https://t.co/dZVCtO5URo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "16477634",
+        "conversation_id": "2076836338117046660",
+        "created_at": "2026-07-14T01:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076836338117046660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "40193786",
+              "start": 4,
+              "username": "domainME"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Fast. Secure. Powerful.",
+              "display_url": "t.me",
+              "end": 38,
+              "expanded_url": "http://t.me",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2076628069545291776/1ffRka0C?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076628069545291776/1ffRka0C?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "Telegram – a new era of messaging",
+              "unwound_url": "https://telegram.org/",
+              "url": "https://t.co/9z6UC2o37U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076836338117046660",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 223021,
+          "like_count": 1687,
+          "quote_count": 65,
+          "reply_count": 271,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "Hey @domainME, https://t.co/9z6UC2o37U links stopped working. Can you look into it? 🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40162,
+          "following_count": 664,
+          "like_count": 19361,
+          "listed_count": 184,
+          "media_count": 2361,
+          "tweet_count": 16317
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2008-09-27T00:12:22.000Z",
+        "description": "Founder, CEO at @telegram (2013), founder, ex-CEO of @vkontakte (2006), part-time troll.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "telegram"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "vkontakte"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/durov",
+                "end": 23,
+                "expanded_url": "http://t.me/durov",
+                "start": 0,
+                "url": "https://t.co/j9dOiblQNJ"
+              }
+            ]
+          }
+        },
+        "id": "16477634",
+        "location": "United Arab Emirates",
+        "name": "Pavel Durov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/658376777258151936/-Jz8l4Rr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3271950,
+          "following_count": 1,
+          "like_count": 431,
+          "listed_count": 6158,
+          "media_count": 148,
+          "tweet_count": 2439
+        },
+        "url": "https://t.co/j9dOiblQNJ",
+        "username": "durov",
+        "verified": true
+      }
+    ]
+  }
+}

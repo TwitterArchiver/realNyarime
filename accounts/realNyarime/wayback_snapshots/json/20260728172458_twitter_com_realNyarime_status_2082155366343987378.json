@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2082002841087218164",
+    "created_at": "2026-07-28T17:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082155366343987378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082155366343987378",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "小米公司自从上市过后，他在我的眼里就跟华为是一样恶臭的德行了，只能说他变了\n你没有发现以前黄仁勋是雷军的粉丝是米粉，但是最后他们差距开始悬殊了起来，你看现在雷军的种种行为，不就是在复刻黄仁勋在中国的吃热干面，吃炸酱面，穿夹克什么的行为吗？\n所以我觉得有一方面就是为了哄抬股价，另一方面就是想让投资人开心，包括小米在上市之前被投资人骂过多少次，雷军自己心里应该清楚"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082002841087218164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@RainEngine2024m 小米公司自从上市过后，他在我的眼里就跟华为是一样恶臭的德行了，只能说他变了\n你没有发现以前黄仁勋是雷军的粉丝是米粉，但是最后他们差距开始悬殊了起来，你看现在雷军的种种行为，不就是在复刻黄仁勋在中国的吃热干面，吃炸酱面，穿夹克什么的行为吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2844,
+        "media_key": "3_2082002815598354432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTCh6UaYAACnix.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2082002841087218164",
+        "created_at": "2026-07-28T17:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082155366343987378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082155366343987378",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小米公司自从上市过后，他在我的眼里就跟华为是一样恶臭的德行了，只能说他变了\n你没有发现以前黄仁勋是雷军的粉丝是米粉，但是最后他们差距开始悬殊了起来，你看现在雷军的种种行为，不就是在复刻黄仁勋在中国的吃热干面，吃炸酱面，穿夹克什么的行为吗？\n所以我觉得有一方面就是为了哄抬股价，另一方面就是想让投资人开心，包括小米在上市之前被投资人骂过多少次，雷军自己心里应该清楚"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082002841087218164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RainEngine2024m 小米公司自从上市过后，他在我的眼里就跟华为是一样恶臭的德行了，只能说他变了\n你没有发现以前黄仁勋是雷军的粉丝是米粉，但是最后他们差距开始悬殊了起来，你看现在雷军的种种行为，不就是在复刻黄仁勋在中国的吃热干面，吃炸酱面，穿夹克什么的行为吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082002815598354432"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "conversation_id": "2082002841087218164",
+        "created_at": "2026-07-28T07:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:17:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082002492125335993",
+          "2082002841087218164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mHkXh9aQJV",
+              "end": 79,
+              "expanded_url": "https://x.com/RainEngine2024m/status/2082002841087218164/photo/1",
+              "media_key": "3_2082002815598354432",
+              "start": 56,
+              "url": "https://t.co/mHkXh9aQJV"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2082002841087218164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我操，你有这么好的微博，你怎么不早点告诉我\n小米公关部总经理徐洁云用玄武语言回应了某知名博主对于小米营销的评价 https://t.co/mHkXh9aQJV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42240,
+          "following_count": 670,
+          "like_count": 20518,
+          "listed_count": 184,
+          "media_count": 2484,
+          "tweet_count": 17200
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "不知名数码爱好者、米粉/欧粉/花粉、社民/民社、INFP、摄影、ACG、Galgame\n爱人：@wxb_nb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "wxb_nb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/gbsnx2009",
+                "end": 23,
+                "expanded_url": "http://telegram.me/gbsnx2009",
+                "start": 0,
+                "url": "https://t.co/zF8pJloxVl"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "JiLin Republic of China",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2077399541406630389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069668562675859456/CCsU4ILA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 1597,
+          "like_count": 6352,
+          "listed_count": 10,
+          "media_count": 1136,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/zF8pJloxVl",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

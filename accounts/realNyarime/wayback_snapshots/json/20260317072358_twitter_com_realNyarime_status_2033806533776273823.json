@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2033806533776273823",
+    "created_at": "2026-03-17T07:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T08:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033806533776273823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mtrainier2020/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/mtrainier2020/status/2033795601759146315",
+          "start": 16,
+          "url": "https://t.co/Ttg22kZBHt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033806533776273823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033795601759146315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "联网了还谈保密，最低级的错误😅 https://t.co/Ttg22kZBHt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2033806533776273823",
+        "created_at": "2026-03-17T07:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033806533776273823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mtrainier2020/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mtrainier2020/status/2033795601759146315",
+              "start": 16,
+              "url": "https://t.co/Ttg22kZBHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033806533776273823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033795601759146315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "联网了还谈保密，最低级的错误😅 https://t.co/Ttg22kZBHt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141738094485315584",
+        "conversation_id": "2033795601759146315",
+        "created_at": "2026-03-17T06:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033795601759146315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mtrainier2020/…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/mtrainier2020/status/2033792126480486915",
+              "start": 119,
+              "url": "https://t.co/NSrxwNHl8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033795601759146315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从现有的数据看，可以确定的是 \n1. 国家超算中心确实被黑了。 \n2. 甚至被黑的途径都可以猜的到。 \n3. 不确定的是不是有10PB的数据被盗。 \n10PB数据很大，但是也是有可能的。\n\n 很多人不知道，这个意味着什么。\n\n1. 飞机 \n从民航客机到五代、六代战斗机，其结构强度、气动布局、疲劳寿命、振动特性，全部依赖大规模有限元和流体仿真；\n应力分析，强度分析，疲劳计算，振动分析等等。\n这些局部是通过本地的超算中心做的，但是大规模的还是需要国家超算中心计算的。  \n\n2. 潜艇\n包括核潜艇的结构强度解算，流体分析，模拟，都需要超算中心。  \n\n3. 高超音速飞行器，需要计算高温气动、激波结构、材料极限；\n\n甚至包括核爆、核聚变等极端物理过程的模拟。\n\n所以重要性不言而喻了。\n\n理论上，这类系统应该具备：\n\n分级隔离（Multi-Level Security）\n军工 / 航空 / 核 → 物理隔离，你做钻地弹的凭啥可以看人家设计鸡翅膀的。\nZero Trust 架构\nJob级隔离（计算任务沙箱）\n存算分离。\n\n入侵检测没发现，流量监控失效是可预期的。\n因为HPC网络特点：\n高吞吐（100Gbps+）\n大量内部通信（MPI）\n导致IDS/IPS 很难区分：\n正常计算流量 vs 数据外泄\n\n但是这个完全可以采用其他的办法来监测的，但是估计没有开发专用于超算的入侵检测系统。\n\n结果搞成这样子。。。\n一个节点攻破，全部被攻破。\n真是草台班子。\n\n这有人要上法场了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 35447,
+          "like_count": 150,
+          "quote_count": 9,
+          "reply_count": 30,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033792126480486915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从现有的数据看，可以确定的是 \n1. 国家超算中心确实被黑了。 \n2. 甚至被黑的途径都可以猜的到。 \n3. 不确定的是不是有10PB的数据被盗。 \n10PB数据很大，但是也是有可能的。\n\n 很多人不知道，这个意味着什么。\n\n1. 飞机 https://t.co/NSrxwNHl8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22302,
+          "following_count": 516,
+          "like_count": 10997,
+          "listed_count": 93,
+          "media_count": 1157,
+          "tweet_count": 8462
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-20T16:02:28.000Z",
+        "description": "Cogito, ergo sum",
+        "id": "1141738094485315584",
+        "location": "Seattle",
+        "name": "Rainier",
+        "pinned_tweet_id": "1958229585600118804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904800624769982465/iRK-BnOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139563,
+          "following_count": 999,
+          "like_count": 7373,
+          "listed_count": 1102,
+          "media_count": 2523,
+          "tweet_count": 12562
+        },
+        "username": "mtrainier2020",
+        "verified": true
+      }
+    ]
+  }
+}

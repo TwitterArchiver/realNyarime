@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10042866033",
+          "name": "VMware"
+        }
+      }
+    ],
+    "conversation_id": "2043945854520963079",
+    "created_at": "2026-04-14T14:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044060654789898492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "703796597335822336",
+          "start": 0,
+          "username": "Kubai087"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044060654789898492",
+    "in_reply_to_user_id": "703796597335822336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043945854520963079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kubai087 A让我想起HarmonyOS开机动画\nB有点VMware的商业方案\nC不就是Claude那个海胆风格\nD我不知道设计初衷\n\n单纯第一眼感觉，仅个人观点，都好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2043945736736518146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2N0XpasAIOveS.jpg",
+        "width": 2552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042866033",
+              "name": "VMware"
+            }
+          }
+        ],
+        "conversation_id": "2043945854520963079",
+        "created_at": "2026-04-14T14:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044060654789898492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "703796597335822336",
+              "start": 0,
+              "username": "Kubai087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044060654789898492",
+        "in_reply_to_user_id": "703796597335822336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043945854520963079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kubai087 A让我想起HarmonyOS开机动画\nB有点VMware的商业方案\nC不就是Claude那个海胆风格\nD我不知道设计初衷\n\n单纯第一眼感觉，仅个人观点，都好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043945736736518146"
+          ]
+        },
+        "author_id": "703796597335822336",
+        "conversation_id": "2043945854520963079",
+        "created_at": "2026-04-14T06:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043945854520963079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q5YiqZwKz7",
+              "end": 39,
+              "expanded_url": "https://x.com/Kubai087/status/2043945854520963079/photo/1",
+              "media_key": "3_2043945736736518146",
+              "start": 16,
+              "url": "https://t.co/q5YiqZwKz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043945854520963079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 8888,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "送四个图标～ 给有产品的有缘人 https://t.co/q5YiqZwKz7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27914,
+          "following_count": 509,
+          "like_count": 12186,
+          "listed_count": 128,
+          "media_count": 1470,
+          "tweet_count": 9871
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-28T04:19:19.000Z",
+        "description": "💫 Icon Designer 经常送 App 图标｜IAAS UX｜图标排单 🧩 Icon Comissions https://t.co/0FNoHdCGfw ｜🦋 Building Lumno - An Open-sourced Arc-like command bar extension",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pd.kubai.design",
+                "end": 81,
+                "expanded_url": "http://pd.kubai.design",
+                "start": 58,
+                "url": "https://t.co/0FNoHdCGfw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lumno.kubai.design",
+                "end": 23,
+                "expanded_url": "https://lumno.kubai.design/",
+                "start": 0,
+                "url": "https://t.co/cMR1I1xHes"
+              }
+            ]
+          }
+        },
+        "id": "703796597335822336",
+        "location": "Try Lumno ➡️",
+        "name": "枯白啃设计",
+        "pinned_tweet_id": "2025830617334854023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036148968900665346/DblPsR4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 880,
+          "like_count": 3480,
+          "listed_count": 34,
+          "media_count": 159,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/cMR1I1xHes",
+        "username": "Kubai087",
+        "verified": true
+      }
+    ]
+  }
+}

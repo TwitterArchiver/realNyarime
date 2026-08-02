@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056305461734035456"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1227714833300090881",
+          "name": "Google Fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2055984203821646309",
+    "created_at": "2026-05-18T09:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056305702432555307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "137946654",
+          "start": 0,
+          "username": "zzxwill"
+        },
+        {
+          "end": 19,
+          "id": "1426015810472972298",
+          "start": 9,
+          "username": "CyronANNO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uesUoEoRhD",
+          "end": 112,
+          "expanded_url": "https://x.com/realNyarime/status/2056305702432555307/photo/1",
+          "media_key": "3_2056305461734035456",
+          "start": 89,
+          "url": "https://t.co/uesUoEoRhD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056305702432555307",
+    "in_reply_to_user_id": "137946654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056304261445910925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzxwill @CyronANNO 单位报销的Google Fi，不仅有美国号码（非虚拟号），204个国家漫游，WiFicall免费打50多地\n更重要的是我一分钱都不用给😅 https://t.co/uesUoEoRhD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1719,
+        "media_key": "3_2056305461734035456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIl27DRaUAA_5bA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056305461734035456"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1227714833300090881",
+              "name": "Google Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2055984203821646309",
+        "created_at": "2026-05-18T09:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056305702432555307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "137946654",
+              "start": 0,
+              "username": "zzxwill"
+            },
+            {
+              "end": 19,
+              "id": "1426015810472972298",
+              "start": 9,
+              "username": "CyronANNO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uesUoEoRhD",
+              "end": 112,
+              "expanded_url": "https://x.com/realNyarime/status/2056305702432555307/photo/1",
+              "media_key": "3_2056305461734035456",
+              "start": 89,
+              "url": "https://t.co/uesUoEoRhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056305702432555307",
+        "in_reply_to_user_id": "137946654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056304261445910925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzxwill @CyronANNO 单位报销的Google Fi，不仅有美国号码（非虚拟号），204个国家漫游，WiFicall免费打50多地\n更重要的是我一分钱都不用给😅 https://t.co/uesUoEoRhD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "137946654",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2055984203821646309",
+        "created_at": "2026-05-18T09:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056304261445910925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 23,
+              "id": "1426015810472972298",
+              "start": 13,
+              "username": "CyronANNO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Choose from over 1.2 million hotels in more than 200 countries, 30 million real guest reviews. Book flights to over 5,000 destinations worldwide. 24/7 Customer Service.",
+              "display_url": "trip.com",
+              "end": 62,
+              "expanded_url": "http://trip.com",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2054444837534044160/a-iVyu3e?format=png&name=orig",
+                  "width": 360
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054444837534044160/a-iVyu3e?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "Trip.com Official Site‎‎ | Travel Deals and Promotions",
+              "unwound_url": "https://www.trip.com/",
+              "url": "https://t.co/m4Ow1zCdAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056304261445910925",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056297475217252570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @CyronANNO 要漫游何必 giffgaff，https://t.co/m4Ow1zCdAg 上无手机号 esim 漫游又便宜又高速又灵活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2055700166846599490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33656,
+          "following_count": 640,
+          "like_count": 14528,
+          "listed_count": 150,
+          "media_count": 1806,
+          "tweet_count": 11858
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-28T06:06:33.000Z",
+        "description": "AI Infra engineer @alibaba_cloud",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "alibaba_cloud"
+              }
+            ]
+          }
+        },
+        "id": "137946654",
+        "location": "Singapore",
+        "name": "zzxwill",
+        "pinned_tweet_id": "2003695377963450815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968671671675678720/Pu87BRd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4524,
+          "following_count": 1353,
+          "like_count": 9454,
+          "listed_count": 26,
+          "media_count": 1995,
+          "tweet_count": 9090
+        },
+        "username": "zzxwill",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ナチョ､フブキ推し | ガジェット | チュウマイ | バンドリ | \nDM⇒フォロバ | アイコン→@LQSeYlU20w87883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "LQSeYlU20w87883"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051275409053159424/QLZJZ89E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 901,
+          "like_count": 197687,
+          "listed_count": 0,
+          "media_count": 5116,
+          "tweet_count": 21332
+        },
+        "username": "CyronANNO",
+        "verified": true
+      }
+    ]
+  }
+}

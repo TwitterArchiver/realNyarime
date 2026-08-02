@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2075970963158839366",
+    "created_at": "2026-07-11T15:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075972152587878879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075972152587878879",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075970963158839366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 盒子姐姐厉害！唉，可惜我不懂这些，我只是个小萌新哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2075970963158839366",
+        "created_at": "2026-07-11T15:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075972152587878879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075972152587878879",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075970963158839366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 盒子姐姐厉害！唉，可惜我不懂这些，我只是个小萌新哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2075970963158839366",
+        "created_at": "2026-07-11T15:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075970963158839366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075970963158839366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Hi，我们是 Felinic 猫本原理，一个专注于 Cloud Agent 和 AI Agent Infrastructure 的团队。\n\n我们相信，Agent 将成为下一代软件的重要交互方式，而优秀的 Agent 需要同样优秀的基础设施。我们正在寻找热爱技术、愿意一起探索未来的小伙伴加入我们。\n\nAI Harness Engineer\n希望你：对现代 Agent 的底层原理有深入理解；\n熟悉 Claude Code、Codex 等 Agent Harness 的运行方式，理解 Tool Use、Context Management 等核心机制；\n具备一定的模型评估（Model Evaluation）能力，对 Agent 的能力边界有自己的思考。\n\nInfra Engineer\n希望你：对虚拟化、Firecracker、Kubernetes 等基础设施技术有较深入的理解；\n熟悉 Golang 或 Rust，并希望构建高性能、高可靠的 AI Infra。\n\nIntern\n如果你对 Agent、前端、设计或其他相关方向充满兴趣，并且有自己的实践项目，欢迎带着你的开源项目、作品集或其他能够展示能力的内容来找我们。\n\nBase： 深圳 / 上海（Onsite），同时支持 Remote。\n\n加分项\n- 有自己的开源项目，或长期活跃于开源社区；\n- 对 Agent Harness 有独立思考，敢于挑战现有产品形态和架构设计；\n- 在 AI 时代依然保持优秀的 UI / UX Taste，关注产品体验而不仅仅是模型能力。\n\n你将会获得\nAI Tooling 全额报销（目前包含 Codex Pro 20×、Claude Max 20×）；\n与一群热爱开源、热爱 Agent 的工程师一起工作，探索下一代 AI Agent Infrastructure。\n\n如果你感兴趣，请将你的简历、GitHub Profile（或其他能够展示项目经验的作品链接）发送至 hr@felinic.ai。\n\n期待与你一起构建下一代 AI Agent Infrastructure."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Hi，我们是 Felinic 猫本原理，一个专注于 Cloud Agent 和 AI Agent Infrastructure 的团队。\n\n我们相信，Agent 将成为下一代软件的重要交互方式，而优秀的 Agent 需要同样优秀的基础设施。我们正在寻找热爱技术、愿意一起探索未来的小伙伴加入我们。\n\nAI Harness Engineer\n希望你：对现代 Agent"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40008,
+          "following_count": 663,
+          "like_count": 19198,
+          "listed_count": 184,
+          "media_count": 2350,
+          "tweet_count": 16173
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 🐱家里有小猫和大猫\n/ https://t.co/hUTrNHa19i\n/ Co-founder of https://t.co/gLiVpv8l1t https://t.co/PSLnUgusnm\n/ Building https://t.co/1QoAcF6sm4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 45,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 22,
+                "url": "https://t.co/hUTrNHa19i"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 85,
+                "expanded_url": "http://memoh.ai",
+                "start": 62,
+                "url": "https://t.co/gLiVpv8l1t"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 109,
+                "expanded_url": "http://felinic.ai",
+                "start": 86,
+                "url": "https://t.co/PSLnUgusnm"
+              },
+              {
+                "display_url": "oh-my-github.app",
+                "end": 144,
+                "expanded_url": "http://oh-my-github.app",
+                "start": 121,
+                "url": "https://t.co/1QoAcF6sm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/acboxawa",
+                "end": 23,
+                "expanded_url": "http://t.me/acboxawa",
+                "start": 0,
+                "url": "https://t.co/ItS4Ve8jNM"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2075970963158839366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12346,
+          "following_count": 2750,
+          "like_count": 3475,
+          "listed_count": 64,
+          "media_count": 1131,
+          "tweet_count": 6458
+        },
+        "url": "https://t.co/ItS4Ve8jNM",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

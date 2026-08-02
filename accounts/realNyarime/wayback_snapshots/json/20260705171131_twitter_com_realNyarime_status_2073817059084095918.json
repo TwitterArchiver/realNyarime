@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2073806826882445474",
+    "created_at": "2026-07-05T17:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073817059084095918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1567179325551812609",
+          "start": 0,
+          "username": "xiangyuli"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "001b1f4d203740ea"
+    },
+    "id": "2073817059084095918",
+    "in_reply_to_user_id": "1567179325551812609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073806826882445474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangyuli 海 内存 知己"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [001b1f4d203740ea].",
+      "parameter": "geo.place_id",
+      "resource_id": "001b1f4d203740ea",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "001b1f4d203740ea"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2073806824302927872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMekUbdbYAAT6DJ.png",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2073806826882445474",
+        "created_at": "2026-07-05T17:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073817059084095918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1567179325551812609",
+              "start": 0,
+              "username": "xiangyuli"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2073817059084095918",
+        "in_reply_to_user_id": "1567179325551812609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073806826882445474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangyuli 海 内存 知己"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073806824302927872"
+          ]
+        },
+        "author_id": "1567179325551812609",
+        "conversation_id": "2073806826882445474",
+        "created_at": "2026-07-05T16:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073806826882445474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3ZWY2RckI",
+              "end": 48,
+              "expanded_url": "https://x.com/xiangyuli/status/2073806826882445474/photo/1",
+              "media_key": "3_2073806824302927872",
+              "start": 25,
+              "url": "https://t.co/J3ZWY2RckI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073806826882445474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 450,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果没有内存两个字，\n这多像一次诱发的动作电位啊 https://t.co/J3ZWY2RckI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39558,
+          "following_count": 658,
+          "like_count": 18913,
+          "listed_count": 183,
+          "media_count": 2301,
+          "tweet_count": 15899
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T15:54:12.000Z",
+        "description": "Neural scientist diving deep into AI | Brain explorer | 计算机民科 | Email to xiangyuli997@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiangyu-li97.github.io",
+                "end": 23,
+                "expanded_url": "https://xiangyu-li97.github.io/",
+                "start": 0,
+                "url": "https://t.co/cL1qJtmxUG"
+              }
+            ]
+          }
+        },
+        "id": "1567179325551812609",
+        "name": "Xiangyu 香鱼🐬",
+        "pinned_tweet_id": "2073083665048113455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911584400224948224/QbglopMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27887,
+          "following_count": 2277,
+          "like_count": 55616,
+          "listed_count": 167,
+          "media_count": 1015,
+          "tweet_count": 28393
+        },
+        "url": "https://t.co/cL1qJtmxUG",
+        "username": "xiangyuli",
+        "verified": true
+      }
+    ]
+  }
+}

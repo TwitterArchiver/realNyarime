@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1975126382574448826",
+    "created_at": "2025-10-06T09:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975131030173716883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1126154089216262145",
+          "start": 0,
+          "username": "ArtsSuraimu"
+        },
+        {
+          "end": 22,
+          "id": "1288412189926150144",
+          "start": 13,
+          "username": "RedteaGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975131030173716883",
+    "in_reply_to_user_id": "1126154089216262145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975130199701536999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtsSuraimu @RedteaGO 有给tiktok、ChatGPT和claude分流。gemini因为Google送中不太行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1975126382574448826",
+        "created_at": "2025-10-06T09:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975131030173716883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsSuraimu"
+            },
+            {
+              "end": 22,
+              "id": "1288412189926150144",
+              "start": 13,
+              "username": "RedteaGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975131030173716883",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975130199701536999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsSuraimu @RedteaGO 有给tiktok、ChatGPT和claude分流。gemini因为Google送中不太行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126154089216262145",
+        "conversation_id": "1975126382574448826",
+        "created_at": "2025-10-06T09:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975130199701536999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 22,
+              "id": "1288412189926150144",
+              "start": 13,
+              "username": "RedteaGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975130199701536999",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975126382574448826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @RedteaGO 哎 她家确实还行 但是hkip不太好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Naixi Networks | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "realYingxi"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.naixi.org",
+                "end": 23,
+                "expanded_url": "http://about.naixi.org",
+                "start": 0,
+                "url": "https://t.co/8GeteJkg8Q"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1921821242216079872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946950491587346432/_yYHQvqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 839,
+          "like_count": 8101,
+          "listed_count": 7,
+          "media_count": 456,
+          "tweet_count": 4124
+        },
+        "url": "https://t.co/8GeteJkg8Q",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. Traveller. Opinions are own. 属性鼠鹿，性别男/无性别，找不到对象，政治属性不明，喜欢鹿乃子、史莱姆（利姆露）、小埋、@ddvd233 日本語を少しい話せます Deutsch kann ich auch ein bissl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 96,
+                "username": "ddvd233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimurosuraimu",
+                "end": 23,
+                "expanded_url": "https://t.me/rimurosuraimu",
+                "start": 0,
+                "url": "https://t.co/IDEk4qoiBq"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu スライム 史莱姆",
+        "pinned_tweet_id": "1961942536651776399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973833276134400000/Y2Fmw8_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10942,
+          "following_count": 2549,
+          "like_count": 94526,
+          "listed_count": 49,
+          "media_count": 604,
+          "tweet_count": 6061
+        },
+        "url": "https://t.co/IDEk4qoiBq",
+        "username": "ArtsSuraimu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-29T09:53:09.000Z",
+        "description": "Always Connected, Always Trusted. \nYour top choice of eSIM for an enjoyable journey in 180+ destinations with affordable local rates.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "esim.redteago.com",
+                "end": 23,
+                "expanded_url": "http://esim.redteago.com",
+                "start": 0,
+                "url": "https://t.co/gz5J4prZ2P"
+              }
+            ]
+          }
+        },
+        "id": "1288412189926150144",
+        "location": "🌎 180+ Countries & Regions.",
+        "name": "RedteaGO | eSIM World's Best Travel App",
+        "pinned_tweet_id": "1803698914278986065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547425027183677441/3QrQ-DW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 150,
+          "like_count": 443,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/gz5J4prZ2P",
+        "username": "RedteaGO",
+        "verified": false
+      }
+    ]
+  }
+}

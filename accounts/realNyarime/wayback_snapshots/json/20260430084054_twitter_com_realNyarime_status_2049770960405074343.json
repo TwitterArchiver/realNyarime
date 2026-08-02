@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2049769104882770267",
+    "created_at": "2026-04-30T08:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049770960405074343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "786479809647869952",
+          "start": 0,
+          "username": "skywind3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049770960405074343",
+    "in_reply_to_user_id": "786479809647869952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "很多发行版几小时内就推了更新，如果自动更新开着可能已经修了，应该打了补丁\n试试lsmod | grep algif，很多最小化安装不自动加载algif_aead模块\nDocker/LXC容器默认不允许AF_ALG socket\n某些发行版有seccomp策略，默认阻止 socket(AF_ALG, ...) 系统调用\nPoC 条件苛刻，需要精确的页缓存对齐 + setuid 二进制在缓存中 + 时序窗口\n\n需要多次尝试让页缓存中的 4 字节写入命中正确位置，不像dirty pipe那么简单粗暴"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049769104882770267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skywind3000 很多发行版几小时内就推了更新，如果自动更新开着可能已经修了，应该打了补丁\n试试lsmod | grep algif，很多最小化安装不自动加载algif_aead模块\nDocker/LXC容器默认不允许AF_ALG socket\n某些发行版有seccomp策略，默认阻止 socket(AF_ALG, ...) 系统调用\nPoC 条件苛刻，需要精确的页缓存对齐 + setuid"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_2049769077871362048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI-Hb4aQAAuq-9.png",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2049769104882770267",
+        "created_at": "2026-04-30T08:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049770960405074343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "786479809647869952",
+              "start": 0,
+              "username": "skywind3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049770960405074343",
+        "in_reply_to_user_id": "786479809647869952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多发行版几小时内就推了更新，如果自动更新开着可能已经修了，应该打了补丁\n试试lsmod | grep algif，很多最小化安装不自动加载algif_aead模块\nDocker/LXC容器默认不允许AF_ALG socket\n某些发行版有seccomp策略，默认阻止 socket(AF_ALG, ...) 系统调用\nPoC 条件苛刻，需要精确的页缓存对齐 + setuid 二进制在缓存中 + 时序窗口\n\n需要多次尝试让页缓存中的 4 字节写入命中正确位置，不像dirty pipe那么简单粗暴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049769104882770267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skywind3000 很多发行版几小时内就推了更新，如果自动更新开着可能已经修了，应该打了补丁\n试试lsmod | grep algif，很多最小化安装不自动加载algif_aead模块\nDocker/LXC容器默认不允许AF_ALG socket\n某些发行版有seccomp策略，默认阻止 socket(AF_ALG, ...) 系统调用\nPoC 条件苛刻，需要精确的页缓存对齐 + setuid"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049769077871362048"
+          ]
+        },
+        "author_id": "786479809647869952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2049769104882770267",
+        "created_at": "2026-04-30T08:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049769104882770267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gB6fQNGAS2",
+              "end": 42,
+              "expanded_url": "https://x.com/skywind3000/status/2049769104882770267/photo/1",
+              "media_key": "3_2049769077871362048",
+              "start": 19,
+              "url": "https://t.co/gB6fQNGAS2"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/realNyarime/status/2049737746563158361",
+              "start": 43,
+              "url": "https://t.co/A20rT1j6BJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049769104882770267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049737746563158361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种帖子是在瞎说么？为啥我复现不了？ https://t.co/gB6fQNGAS2 https://t.co/A20rT1j6BJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31446,
+          "following_count": 583,
+          "like_count": 13286,
+          "listed_count": 152,
+          "media_count": 1620,
+          "tweet_count": 10864
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-13T08:12:53.000Z",
+        "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywind.me/blog",
+                "end": 23,
+                "expanded_url": "https://skywind.me/blog",
+                "start": 0,
+                "url": "https://t.co/UQNrDmhScr"
+              }
+            ]
+          }
+        },
+        "id": "786479809647869952",
+        "location": "Guangdong",
+        "name": "LIN WEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27390,
+          "following_count": 340,
+          "like_count": 7943,
+          "listed_count": 216,
+          "media_count": 1217,
+          "tweet_count": 9262
+        },
+        "url": "https://t.co/UQNrDmhScr",
+        "username": "skywind3000",
+        "verified": true
+      }
+    ]
+  }
+}

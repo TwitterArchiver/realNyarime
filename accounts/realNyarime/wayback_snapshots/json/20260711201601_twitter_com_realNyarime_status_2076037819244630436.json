@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2075822741241131464",
+    "created_at": "2026-07-11T20:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T21:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076037819244630436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1505829104737685505",
+          "start": 0,
+          "username": "jason_chen998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076037819244630436",
+    "in_reply_to_user_id": "1505829104737685505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075822741241131464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jason_chen998 短信：什么鸟运营"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2075822730931486720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7Nxo3aQAALl2f.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2075822741241131464",
+        "created_at": "2026-07-11T20:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076037819244630436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1505829104737685505",
+              "start": 0,
+              "username": "jason_chen998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076037819244630436",
+        "in_reply_to_user_id": "1505829104737685505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075822741241131464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jason_chen998 短信：什么鸟运营"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075822730931486720"
+          ]
+        },
+        "author_id": "1505829104737685505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2075822741241131464",
+        "created_at": "2026-07-11T06:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075822741241131464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdyZucBPJe",
+              "end": 181,
+              "expanded_url": "https://x.com/jason_chen998/status/2075822741241131464/photo/1",
+              "media_key": "3_2075822730931486720",
+              "start": 158,
+              "url": "https://t.co/vdyZucBPJe"
+            },
+            {
+              "display_url": "x.com/jason_chen998/…",
+              "end": 205,
+              "expanded_url": "https://twitter.com/jason_chen998/status/2074148396886372860",
+              "start": 182,
+              "url": "https://t.co/Iflo2zcKrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075822741241131464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚刚想试着注册一下那个给美国小孩免费发钱的特朗普账户时，接收到验证码后突然发现居然是 Robinhood 发过来的，也就是说特朗普给全国 7300 万 18 岁以下青少年开设的账户，实际上底层用的就是 Robinhood ，意味着 Robinhood 现在成了国家级唯一指定券商，一次性获得了全美国从 0 到 18 岁的所有用户。再加上 Robinhood 新发的链最近也大获成功，可见一家公司的运势起来后真的挡不住啊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 174677,
+          "like_count": 351,
+          "quote_count": 13,
+          "reply_count": 56,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074148396886372860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚想试着注册一下那个给美国小孩免费发钱的特朗普账户时，接收到验证码后突然发现居然是 Robinhood 发过来的，也就是说特朗普给全国 7300 万 18 岁以下青少年开设的账户，实际上底层用的就是 Robinhood ，意味着 Robinhood 现在成了国家级唯一指定券商，一次性获得了全美国从 0 到 18 https://t.co/vdyZucBPJe https://t.co/Iflo2zcKrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40028,
+          "following_count": 662,
+          "like_count": 19210,
+          "listed_count": 184,
+          "media_count": 2350,
+          "tweet_count": 16185
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-21T08:50:25.000Z",
+        "description": "瞎分析，玻璃心，脾气差，杠精傻逼喷子等等一切沟通费劲说话难听的我全部都拉黑，不爱看就也把我拉黑别那么多废话累不累啊你",
+        "id": "1505829104737685505",
+        "name": "陈剑Jason",
+        "pinned_tweet_id": "2027567874827776046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653068718321336321/grq9EkXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118969,
+          "following_count": 351,
+          "like_count": 29018,
+          "listed_count": 2624,
+          "media_count": 1956,
+          "tweet_count": 14574
+        },
+        "url": "",
+        "username": "jason_chen998",
+        "verified": true
+      }
+    ]
+  }
+}

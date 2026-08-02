@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2012899934677148111",
+    "created_at": "2026-01-18T19:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T20:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012967917735100791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1527743101242064896",
+          "start": 0,
+          "username": "LeeMmai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012967917735100791",
+    "in_reply_to_user_id": "1527743101242064896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012899934677148111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeMmai 去微软官网下个镜像，要Win10记得F12模拟手机就有直链了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 497,
+        "media_key": "3_2012899925957177344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9B0V8WcAA7vXf.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2012899934677148111",
+        "created_at": "2026-01-18T19:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012967917735100791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1527743101242064896",
+              "start": 0,
+              "username": "LeeMmai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012967917735100791",
+        "in_reply_to_user_id": "1527743101242064896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012899934677148111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeMmai 去微软官网下个镜像，要Win10记得F12模拟手机就有直链了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012899925957177344"
+          ]
+        },
+        "author_id": "1527743101242064896",
+        "conversation_id": "2012899934677148111",
+        "created_at": "2026-01-18T14:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012899934677148111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwbK7HMUli",
+              "end": 64,
+              "expanded_url": "https://x.com/LeeMmai/status/2012899934677148111/photo/1",
+              "media_key": "3_2012899925957177344",
+              "start": 41,
+              "url": "https://t.co/CwbK7HMUli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012899934677148111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1148,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的，想着是重置过的系统就没有重装，我软件都是官网下载的，哪来的脏东西啊！！！ https://t.co/CwbK7HMUli"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2012553157209927938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8078,
+          "following_count": 616,
+          "like_count": 9326,
+          "listed_count": 23,
+          "media_count": 740,
+          "tweet_count": 6241
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-20T20:08:57.000Z",
+        "description": "冬季是经不起等待的季节，我的面又坨了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onekey.so/r/UXAZBV/app",
+                "end": 23,
+                "expanded_url": "http://onekey.so/r/UXAZBV/app",
+                "start": 0,
+                "url": "https://t.co/56HwvUf03w"
+              }
+            ]
+          }
+        },
+        "id": "1527743101242064896",
+        "name": "李麦麦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18434,
+          "following_count": 1718,
+          "like_count": 46312,
+          "listed_count": 92,
+          "media_count": 2787,
+          "tweet_count": 13389
+        },
+        "url": "https://t.co/56HwvUf03w",
+        "username": "LeeMmai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074542361519247360"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2074361225216196628",
+    "created_at": "2026-07-07T17:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074542402522763692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1167834723327959040",
+          "start": 0,
+          "username": "Lee_points"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nFKjosaR3u",
+          "end": 48,
+          "expanded_url": "https://x.com/realNyarime/status/2074542402522763692/photo/1",
+          "media_key": "3_2074542361519247360",
+          "start": 25,
+          "url": "https://t.co/nFKjosaR3u"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2074542402522763692",
+    "in_reply_to_user_id": "1167834723327959040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074361225216196628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee_points 就我是废物了，拿着废卡😭 https://t.co/nFKjosaR3u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [35fd5bacecc4c6e5].",
+      "parameter": "geo.place_id",
+      "resource_id": "35fd5bacecc4c6e5",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "35fd5bacecc4c6e5"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074542361519247360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpBSVHa0AAgUql.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1679,
+        "media_key": "3_2074361215800037376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmciQub0AAGNCv.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074361215799992320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmciQubIAAR4GO.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074542361519247360"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2074361225216196628",
+        "created_at": "2026-07-07T17:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074542402522763692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1167834723327959040",
+              "start": 0,
+              "username": "Lee_points"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFKjosaR3u",
+              "end": 48,
+              "expanded_url": "https://x.com/realNyarime/status/2074542402522763692/photo/1",
+              "media_key": "3_2074542361519247360",
+              "start": 25,
+              "url": "https://t.co/nFKjosaR3u"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2074542402522763692",
+        "in_reply_to_user_id": "1167834723327959040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074361225216196628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee_points 就我是废物了，拿着废卡😭 https://t.co/nFKjosaR3u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074361215800037376",
+            "3_2074361215799992320"
+          ]
+        },
+        "author_id": "1167834723327959040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074361225216196628",
+        "created_at": "2026-07-07T05:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074361225216196628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGHIZV4oln",
+              "end": 101,
+              "expanded_url": "https://x.com/Lee_points/status/2074361225216196628/photo/1",
+              "media_key": "3_2074361215800037376",
+              "start": 78,
+              "url": "https://t.co/gGHIZV4oln"
+            },
+            {
+              "display_url": "pic.x.com/gGHIZV4oln",
+              "end": 101,
+              "expanded_url": "https://x.com/Lee_points/status/2074361225216196628/photo/1",
+              "media_key": "3_2074361215799992320",
+              "start": 78,
+              "url": "https://t.co/gGHIZV4oln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074361225216196628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 14714,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "夯卡我有2家，EtherFi和Plasma One。\n\n可为什么不在夯卡行列的RedotPay U卡却能霸占主流U卡榜首呢？充值量和消费量远远高于前两者。 https://t.co/gGHIZV4oln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39899,
+          "following_count": 657,
+          "like_count": 18965,
+          "listed_count": 183,
+          "media_count": 2313,
+          "tweet_count": 15971
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-31T16:21:21.000Z",
+        "description": "优秀互联网冲浪选手｜Web3炼金小将｜AI🤖炼丹师｜Esim和银行卡重点培养选手",
+        "id": "1167834723327959040",
+        "name": "星球🪐🪐☄️☄️",
+        "pinned_tweet_id": "2065255057764024565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981597194319720448/AM1z7ZU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 629,
+          "like_count": 2313,
+          "listed_count": 17,
+          "media_count": 332,
+          "tweet_count": 4713
+        },
+        "url": "",
+        "username": "Lee_points",
+        "verified": true
+      }
+    ]
+  }
+}

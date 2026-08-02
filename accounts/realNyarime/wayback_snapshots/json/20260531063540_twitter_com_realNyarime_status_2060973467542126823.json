@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2060972456614170825",
+    "created_at": "2026-05-31T06:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060973467542126823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "46585371",
+          "start": 0,
+          "username": "m0d8ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060973467542126823",
+    "in_reply_to_user_id": "46585371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060972456614170825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m0d8ye 用opencode会比第三方中转安全，直到生产需要再订阅Claude或Codex也不迟，那几百刀是给每周40小时的AI重度需求者用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2060972456614170825",
+        "created_at": "2026-05-31T06:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060973467542126823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "46585371",
+              "start": 0,
+              "username": "m0d8ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060973467542126823",
+        "in_reply_to_user_id": "46585371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060972456614170825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m0d8ye 用opencode会比第三方中转安全，直到生产需要再订阅Claude或Codex也不迟，那几百刀是给每周40小时的AI重度需求者用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46585371",
+        "conversation_id": "2060972456614170825",
+        "created_at": "2026-05-31T06:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060972456614170825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060972456614170825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天又试了一下 opencoode，感觉从任何角度看，对于一般 vibe coding 的用户已经完全够用了，zen/go 的包月价格也很便宜，还可以在 各种 SOTA 开源大模型之间切换。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35539,
+          "following_count": 656,
+          "like_count": 16177,
+          "listed_count": 156,
+          "media_count": 1996,
+          "tweet_count": 13270
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-12T04:58:38.000Z",
+        "description": "Chip Architect, \nBitcoin Enthusiast.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/madeye",
+                "end": 23,
+                "expanded_url": "https://github.com/madeye",
+                "start": 0,
+                "url": "https://t.co/v2E8btO5fS"
+              }
+            ]
+          }
+        },
+        "id": "46585371",
+        "location": "Shanghai, China",
+        "name": "Max Lv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649917814/bio_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18293,
+          "following_count": 259,
+          "like_count": 735,
+          "listed_count": 163,
+          "media_count": 159,
+          "tweet_count": 4779
+        },
+        "url": "https://t.co/v2E8btO5fS",
+        "username": "m0d8ye",
+        "verified": true
+      }
+    ]
+  }
+}

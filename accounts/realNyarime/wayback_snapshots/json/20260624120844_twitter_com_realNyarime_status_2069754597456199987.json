@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2069722073623314514",
+    "created_at": "2026-06-24T12:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069754597456199987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1680105152",
+          "start": 0,
+          "username": "skaas777"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2069754597456199987",
+    "in_reply_to_user_id": "1680105152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069753868712399291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skaas777 因为我在金门旁边😂"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2069722073623314514",
+        "created_at": "2026-06-24T12:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069754597456199987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1680105152",
+              "start": 0,
+              "username": "skaas777"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2069754597456199987",
+        "in_reply_to_user_id": "1680105152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069753868712399291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skaas777 因为我在金门旁边😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680105152",
+        "conversation_id": "2069722073623314514",
+        "created_at": "2026-06-24T12:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069753868712399291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069753868712399291",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069722073623314514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime from taiwan 是怎么做到的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38308,
+          "following_count": 658,
+          "like_count": 18292,
+          "listed_count": 179,
+          "media_count": 2226,
+          "tweet_count": 15298
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-18T07:24:14.000Z",
+        "description": "一人+AI做项目，持续公开从0到1全过程。\n专注：AI工具链、内容增长、自动化工作流、变现实验。\n只讲实战，不讲空话。\n便宜大模型中转：https://t.co/u8cuCtUxEX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "api.ai-genesis.app",
+                "end": 91,
+                "expanded_url": "https://api.ai-genesis.app",
+                "start": 68,
+                "url": "https://t.co/u8cuCtUxEX"
+              }
+            ]
+          }
+        },
+        "id": "1680105152",
+        "location": "Japan",
+        "name": "Jason Lee",
+        "pinned_tweet_id": "2068371083888308231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973376105307578369/TWS2NpAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6041,
+          "following_count": 977,
+          "like_count": 28268,
+          "listed_count": 42,
+          "media_count": 2761,
+          "tweet_count": 10526
+        },
+        "url": "",
+        "username": "skaas777",
+        "verified": true
+      }
+    ]
+  }
+}

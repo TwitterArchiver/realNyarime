@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2050358486672748548",
+    "created_at": "2026-05-02T04:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050432907874038226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820087559634202624",
+          "start": 0,
+          "username": "aiandcloud"
+        },
+        {
+          "end": 25,
+          "id": "1589638196",
+          "start": 12,
+          "username": "yagiznizipli"
+        },
+        {
+          "end": 42,
+          "id": "2580421885",
+          "start": 26,
+          "username": "zhangjintao9020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050432907874038226",
+    "in_reply_to_user_id": "1820087559634202624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050429650761814468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiandcloud @yagiznizipli @zhangjintao9020 希望涛哥也能拿回他的账号"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [zhangjintao9020].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "zhangjintao9020",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "zhangjintao9020"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1777,
+        "media_key": "3_2050426987898892288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSUe1uWcAANWet.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2050358486672748548",
+        "created_at": "2026-05-02T04:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050432907874038226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820087559634202624",
+              "start": 0,
+              "username": "aiandcloud"
+            },
+            {
+              "end": 25,
+              "id": "1589638196",
+              "start": 12,
+              "username": "yagiznizipli"
+            },
+            {
+              "end": 42,
+              "id": "2580421885",
+              "start": 26,
+              "username": "zhangjintao9020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050432907874038226",
+        "in_reply_to_user_id": "1820087559634202624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050429650761814468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiandcloud @yagiznizipli @zhangjintao9020 希望涛哥也能拿回他的账号"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050426987898892288"
+          ]
+        },
+        "author_id": "1820087559634202624",
+        "conversation_id": "2050358486672748548",
+        "created_at": "2026-05-02T04:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050429650761814468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589638196",
+              "start": 0,
+              "username": "yagiznizipli"
+            },
+            {
+              "end": 41,
+              "id": "2580421885",
+              "start": 25,
+              "username": "zhangjintao9020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jwqxuoFguL",
+              "end": 318,
+              "expanded_url": "https://x.com/aiandcloud/status/2050429650761814468/photo/1",
+              "media_key": "3_2050426987898892288",
+              "start": 295,
+              "url": "https://t.co/jwqxuoFguL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050429650761814468",
+        "in_reply_to_user_id": "1589638196",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050358486672748548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yagiznizipli My account @zhangjintao9020 was suspended last month. I submitted an appeal and received an email from X saying my account has been fully restored and no violation was found.\n\nHowever, when I try to log in, my account is still suspended.\n\nCould you please help check this?\nThanks! https://t.co/jwqxuoFguL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31779,
+          "following_count": 589,
+          "like_count": 13396,
+          "listed_count": 153,
+          "media_count": 1639,
+          "tweet_count": 10948
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-04T13:21:30.000Z",
+        "description": "CNCF Ambassador, @Microsoft MVP, PyCon China and KCD Beijing organizer. Cloud Native + AI. Working at @Kong . Opinions are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Microsoft"
+              },
+              {
+                "end": 107,
+                "start": 102,
+                "username": "Kong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tao12345666333",
+                "end": 23,
+                "expanded_url": "https://github.com/tao12345666333",
+                "start": 0,
+                "url": "https://t.co/lvweLkHEDE"
+              }
+            ]
+          }
+        },
+        "id": "1820087559634202624",
+        "name": "Jintao Zhang",
+        "pinned_tweet_id": "2049321411420811479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040033807311798273/eSQwgRtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 382,
+          "like_count": 918,
+          "listed_count": 9,
+          "media_count": 41,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/lvweLkHEDE",
+        "username": "aiandcloud",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-12T23:13:09.000Z",
+        "description": "working on https://t.co/CmeQhokbdy. @v8js committer. @nodejs technical steering committee member. previously @cloudflare and @sentry.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 36,
+                "username": "v8js"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "nodejs"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "cloudflare"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "sentry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 34,
+                "expanded_url": "http://x.com",
+                "start": 11,
+                "url": "https://t.co/CmeQhokbdy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yagiz.co",
+                "end": 23,
+                "expanded_url": "https://yagiz.co",
+                "start": 0,
+                "url": "https://t.co/62eL2hBbqm"
+              }
+            ]
+          }
+        },
+        "id": "1589638196",
+        "name": "Yagiz Nizipli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847351597359132672/5_FzMgT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15465,
+          "following_count": 545,
+          "like_count": 20080,
+          "listed_count": 114,
+          "media_count": 1351,
+          "tweet_count": 9046
+        },
+        "url": "https://t.co/62eL2hBbqm",
+        "username": "yagiznizipli",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2051360143850561875",
+    "created_at": "2026-05-05T02:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T03:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051496175728271765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "24313912",
+          "start": 0,
+          "username": "wey_gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051496175728271765",
+    "in_reply_to_user_id": "24313912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051471262061679102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wey_gu 刚刚听推友的建议把插件里面的core memory关掉后终于不痴呆了，给他发个你好，然后他回应了以后就停了，直到2分钟后他才把消息发出来\n\n不过我经常用这类agent合pr，换句话说，小龙虾我是真不敢更新了，我以为是我配置的问题，没想到是他4月27号那个版本加了个痴呆插件\n\n反正已经切到hermes去了哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2051360143850561875",
+        "created_at": "2026-05-05T02:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051496175728271765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "24313912",
+              "start": 0,
+              "username": "wey_gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051496175728271765",
+        "in_reply_to_user_id": "24313912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051471262061679102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wey_gu 刚刚听推友的建议把插件里面的core memory关掉后终于不痴呆了，给他发个你好，然后他回应了以后就停了，直到2分钟后他才把消息发出来\n\n不过我经常用这类agent合pr，换句话说，小龙虾我是真不敢更新了，我以为是我配置的问题，没想到是他4月27号那个版本加了个痴呆插件\n\n反正已经切到hermes去了哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "24313912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2051360143850561875",
+        "created_at": "2026-05-05T01:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051471262061679102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051471262061679102",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我本地一直有运行着 openclaw 和 hermes，还会一直升级到最新，但是除了测试 Mem 插件，平时没有机会用到。\n\n昨天和老婆在旅行的时候，电脑在酒店，因为有大佬的新 feature pr 合并，我要给 con 发一个新版，我从 github 上用 pre-release 触发的 tag，但是 ci 最后一步需要 release 是 draft 才能跑过，需要把 release 设成 draft 再 retry failed task。\n\n然后我才想起来 claw 和 hermes。\n我在 telegram 里先是和 claw 聊，发现它好像一位明明不懂却硬撑，回复超级慢的实习生，不断聊了十分钟（中间各种问卡没卡住），最后居然告诉我没有执行 command 的工具，非常奇怪。\n在 Hermes 里一个 shot 就帮我搞定了。\n\n刚才和 openclaw 确认了一下，主要是 telegram channel 默认设置给的配置过于安全，没有 exec 工具的原因。\n\n但是反应慢的体验确实很差，不过可能是权限不足一直在 retry"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 429,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051360143850561875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 我本地一直有运行着 openclaw 和 hermes，还会一直升级到最新，但是除了测试 Mem 插件，平时没有机会用到。\n\n昨天和老婆在旅行的时候，电脑在酒店，因为有大佬的新 feature pr 合并，我要给 con 发一个新版，我从 github 上用 pre-release 触发的 tag，但是 ci 最后一步需要 release 是 draft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32123,
+          "following_count": 593,
+          "like_count": 13543,
+          "listed_count": 153,
+          "media_count": 1661,
+          "tweet_count": 11055
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-14T02:46:34.000Z",
+        "description": "Build things, troubleshoot& sing.\nCo-Founder @NowledgeLabs, build @NowledgeMem& https://t.co/RVZI2oX9pr\nMicrosoft MVP. Feminist. Prev @NebulaGraph, @Ericsson Cloud",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "NowledgeLabs"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "NowledgeMem"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "NebulaGraph"
+              },
+              {
+                "end": 157,
+                "start": 148,
+                "username": "Ericsson"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nowled.ge/kl",
+                "end": 103,
+                "expanded_url": "https://nowled.ge/kl",
+                "start": 80,
+                "url": "https://t.co/RVZI2oX9pr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "siwei.io/en/",
+                "end": 23,
+                "expanded_url": "https://siwei.io/en/",
+                "start": 0,
+                "url": "https://t.co/rQ8z4IElIi"
+              }
+            ]
+          }
+        },
+        "id": "24313912",
+        "location": "@siwei@mas.to",
+        "name": "Wey Gu 古思为",
+        "pinned_tweet_id": "1952559537703342350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275624368618397697/kZ6PZRqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17714,
+          "following_count": 3833,
+          "like_count": 35829,
+          "listed_count": 248,
+          "media_count": 954,
+          "tweet_count": 20733
+        },
+        "url": "https://t.co/rQ8z4IElIi",
+        "username": "wey_gu",
+        "verified": true
+      }
+    ]
+  }
+}

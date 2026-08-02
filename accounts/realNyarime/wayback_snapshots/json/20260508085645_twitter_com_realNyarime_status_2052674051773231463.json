@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052670724708741120",
+        "3_2052671639230517248",
+        "3_2052672843650146305"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040695083",
+          "name": "Amazon Web Services (AWS)"
+        }
+      }
+    ],
+    "conversation_id": "2052674051773231463",
+    "created_at": "2026-05-08T08:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052674051773231463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "ClaudeAPI.com",
+          "end": 87,
+          "expanded_url": "https://ClaudeAPI.com",
+          "start": 64,
+          "status": 200,
+          "unwound_url": "https://ClaudeAPI.com",
+          "url": "https://t.co/veqNNYsooE"
+        },
+        {
+          "display_url": "pic.x.com/VO0BVWXkMm",
+          "end": 197,
+          "expanded_url": "https://x.com/realNyarime/status/2052674051773231463/photo/1",
+          "media_key": "3_2052670724708741120",
+          "start": 174,
+          "url": "https://t.co/VO0BVWXkMm"
+        },
+        {
+          "display_url": "pic.x.com/VO0BVWXkMm",
+          "end": 197,
+          "expanded_url": "https://x.com/realNyarime/status/2052674051773231463/photo/1",
+          "media_key": "3_2052671639230517248",
+          "start": 174,
+          "url": "https://t.co/VO0BVWXkMm"
+        },
+        {
+          "display_url": "pic.x.com/VO0BVWXkMm",
+          "end": 197,
+          "expanded_url": "https://x.com/realNyarime/status/2052674051773231463/photo/1",
+          "media_key": "3_2052672843650146305",
+          "start": 174,
+          "url": "https://t.co/VO0BVWXkMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052674051773231463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "ClaudeAPI.com",
+            "end": 87,
+            "expanded_url": "https://ClaudeAPI.com",
+            "start": 64,
+            "url": "https://t.co/QJABzGLQj7"
+          },
+          {
+            "display_url": "hvoy.ai",
+            "end": 209,
+            "expanded_url": "https://hvoy.ai/",
+            "start": 186,
+            "url": "https://t.co/F3ha24tCVl"
+          }
+        ]
+      },
+      "text": "前阵子Claude Max又用限了，就找了多家API中转站顶着用，也用了多个检测工具识别中转站是否掺水的问题\n\n总体来说，这家 https://t.co/QJABzGLQj7 让我挺满意的，他们官网介绍渠道来自Anthropic官Key+AWS Bedrock。实际体验上也跟A\\的差别不大，用CC Switch改了下改 base_url 就能接\n\n至于检测工具，我推荐 https://t.co/F3ha24tCVl 这个网站，临时生成个API Key然后填入测试后revoke就行。不过第三方站点仍建议用多少充多少，就跟买VPS不要轻易年付一样，希望能帮到推友们"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前阵子Claude Max又用限了，就找了多家API中转站顶着用，也用了多个检测工具识别中转站是否掺水的问题\n\n总体来说，这家 https://t.co/veqNNYsooE 让我挺满意的，他们官网介绍渠道来自Anthropic官Key+AWS Bedrock。实际体验上也跟A\\的差别不大，用CC Switch改了下改 base_url 就能接 https://t.co/VO0BVWXkMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_2052670724708741120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyNJgsbsAAM0yA.jpg",
+        "width": 1865
+      },
+      {
+        "height": 865,
+        "media_key": "3_2052671639230517248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyN-vjakAAioP7.jpg",
+        "width": 1541
+      },
+      {
+        "height": 729,
+        "media_key": "3_2052672843650146305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyPE2XboAEJesT.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052670724708741120",
+            "3_2052671639230517248",
+            "3_2052672843650146305"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "2052674051773231463",
+        "created_at": "2026-05-08T08:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052674051773231463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ClaudeAPI.com",
+              "end": 87,
+              "expanded_url": "https://ClaudeAPI.com",
+              "start": 64,
+              "status": 200,
+              "unwound_url": "https://ClaudeAPI.com",
+              "url": "https://t.co/veqNNYsooE"
+            },
+            {
+              "display_url": "pic.x.com/VO0BVWXkMm",
+              "end": 197,
+              "expanded_url": "https://x.com/realNyarime/status/2052674051773231463/photo/1",
+              "media_key": "3_2052670724708741120",
+              "start": 174,
+              "url": "https://t.co/VO0BVWXkMm"
+            },
+            {
+              "display_url": "pic.x.com/VO0BVWXkMm",
+              "end": 197,
+              "expanded_url": "https://x.com/realNyarime/status/2052674051773231463/photo/1",
+              "media_key": "3_2052671639230517248",
+              "start": 174,
+              "url": "https://t.co/VO0BVWXkMm"
+            },
+            {
+              "display_url": "pic.x.com/VO0BVWXkMm",
+              "end": 197,
+              "expanded_url": "https://x.com/realNyarime/status/2052674051773231463/photo/1",
+              "media_key": "3_2052672843650146305",
+              "start": 174,
+              "url": "https://t.co/VO0BVWXkMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052674051773231463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ClaudeAPI.com",
+                "end": 87,
+                "expanded_url": "https://ClaudeAPI.com",
+                "start": 64,
+                "url": "https://t.co/QJABzGLQj7"
+              },
+              {
+                "display_url": "hvoy.ai",
+                "end": 209,
+                "expanded_url": "https://hvoy.ai/",
+                "start": 186,
+                "url": "https://t.co/F3ha24tCVl"
+              }
+            ]
+          },
+          "text": "前阵子Claude Max又用限了，就找了多家API中转站顶着用，也用了多个检测工具识别中转站是否掺水的问题\n\n总体来说，这家 https://t.co/QJABzGLQj7 让我挺满意的，他们官网介绍渠道来自Anthropic官Key+AWS Bedrock。实际体验上也跟A\\的差别不大，用CC Switch改了下改 base_url 就能接\n\n至于检测工具，我推荐 https://t.co/F3ha24tCVl 这个网站，临时生成个API Key然后填入测试后revoke就行。不过第三方站点仍建议用多少充多少，就跟买VPS不要轻易年付一样，希望能帮到推友们"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前阵子Claude Max又用限了，就找了多家API中转站顶着用，也用了多个检测工具识别中转站是否掺水的问题\n\n总体来说，这家 https://t.co/veqNNYsooE 让我挺满意的，他们官网介绍渠道来自Anthropic官Key+AWS Bedrock。实际体验上也跟A\\的差别不大，用CC Switch改了下改 base_url 就能接 https://t.co/VO0BVWXkMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32386,
+          "following_count": 596,
+          "like_count": 13778,
+          "listed_count": 149,
+          "media_count": 1698,
+          "tweet_count": 11203
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

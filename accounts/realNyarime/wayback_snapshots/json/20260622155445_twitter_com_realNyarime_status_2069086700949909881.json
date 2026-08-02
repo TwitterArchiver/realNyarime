@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2069076510217281627",
+    "created_at": "2026-06-22T15:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069086700949909881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1678058596339433472",
+          "start": 0,
+          "username": "Ruo_Haruka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069086700949909881",
+    "in_reply_to_user_id": "1678058596339433472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069076510217281627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruo_Haruka 喜欢白丝，但只能驾驭黑丝😢🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2069076510217281627].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2069076510217281627",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2069076510217281627"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2069076510217281627",
+        "created_at": "2026-06-22T15:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069086700949909881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1678058596339433472",
+              "start": 0,
+              "username": "Ruo_Haruka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069086700949909881",
+        "in_reply_to_user_id": "1678058596339433472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069076510217281627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruo_Haruka 喜欢白丝，但只能驾驭黑丝😢🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38187,
+          "following_count": 658,
+          "like_count": 18219,
+          "listed_count": 179,
+          "media_count": 2217,
+          "tweet_count": 15210
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-09T15:08:54.000Z",
+        "description": "布丁狗suki/DevOps",
+        "id": "1678058596339433472",
+        "name": "汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033856511722868736/yfgHzVTh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 519,
+          "like_count": 45133,
+          "listed_count": 5,
+          "media_count": 1084,
+          "tweet_count": 2633
+        },
+        "url": "",
+        "username": "Ruo_Haruka",
+        "verified": false
+      }
+    ]
+  }
+}

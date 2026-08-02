@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014749372656029696",
+        "3_2014749372651864066"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traffic",
+          "id": "1037076073719025664",
+          "name": "Traffic"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2014755278080901132",
+    "created_at": "2026-01-23T17:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T18:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014755278080901132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n8kOB8CvHX",
+          "end": 178,
+          "expanded_url": "https://x.com/realNyarime/status/2014755278080901132/photo/1",
+          "media_key": "3_2014749372656029696",
+          "start": 155,
+          "url": "https://t.co/n8kOB8CvHX"
+        },
+        {
+          "display_url": "pic.x.com/n8kOB8CvHX",
+          "end": 178,
+          "expanded_url": "https://x.com/realNyarime/status/2014755278080901132/photo/1",
+          "media_key": "3_2014749372651864066",
+          "start": 155,
+          "url": "https://t.co/n8kOB8CvHX"
+        },
+        {
+          "display_url": "x.com/Snowden/status…",
+          "end": 202,
+          "expanded_url": "https://twitter.com/Snowden/status/1175430722733129729",
+          "start": 179,
+          "url": "https://t.co/DuyXDqqPZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014755278080901132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最近身边的好多朋友都换了Pixel，问了一圈都是刷成GrapheneOS（石墨烯）并重新上BL锁使用的。\n连曝光“棱镜门”的斯诺登都表示，“如果要配置一台手机，会采用GrapheneOS作为基础系统。”（见引用）\n先说答案：没那么神奇，但极端！\n\n我也找了台Pixel刷了一下，体验上有点像鸿蒙4.2的感觉。\n系统中「GMSCompat」的功能，不需要像microG那样signature spoofing伪装成GMS，而是直接沙盒化Google Play，限制GMS的权限。\n\n解锁、刷系统、上锁，完全没问题。可以说这个系统专为Pixel定制，但MEETS_STRONG_INTEGRITY缺失依然无法通过Play Integrity。可能会导致一些依赖Play Integrity的金融类APP无法使用，从而降低体验。\n\n为什么开头说这个系统极端？除了一段时间没有解锁会自动重启的功能外，它还可以设置两个密码。\n除了正常解锁的密码，还有个“格机”密码。一旦输入，将清除硬件存储中的所有密钥，包括用于加密驱动器上数据的密钥，以及清除eUICC芯片中的eSIM Profile和重新启动。\n\n除非能扛得住“大记忆恢复术”，不然人永远是最脆弱的一环。\n再怎么隐私保护，还不如多释放几个干扰弹。大数据不怕你藏起来，因为迟早是要暴露的，而是怕收集到错误的讯息、干扰了判断。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1175430722733129729",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最近身边的好多朋友都换了Pixel，问了一圈都是刷成GrapheneOS（石墨烯）并重新上BL锁使用的。\n连曝光“棱镜门”的斯诺登都表示，“如果要配置一台手机，会采用GrapheneOS作为基础系统。”（见引用）\n先说答案：没那么神奇，但极端！\n\n我也找了台Pixel刷了一下，体验上有点像鸿蒙4.2的感觉。 https://t.co/n8kOB8CvHX https://t.co/DuyXDqqPZs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2014749372656029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XT4TyakAAjanf.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2014749372651864066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XT4TxbAAIEiG5.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014749372656029696",
+            "3_2014749372651864066"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2014755278080901132",
+        "created_at": "2026-01-23T17:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014755278080901132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8kOB8CvHX",
+              "end": 178,
+              "expanded_url": "https://x.com/realNyarime/status/2014755278080901132/photo/1",
+              "media_key": "3_2014749372656029696",
+              "start": 155,
+              "url": "https://t.co/n8kOB8CvHX"
+            },
+            {
+              "display_url": "pic.x.com/n8kOB8CvHX",
+              "end": 178,
+              "expanded_url": "https://x.com/realNyarime/status/2014755278080901132/photo/1",
+              "media_key": "3_2014749372651864066",
+              "start": 155,
+              "url": "https://t.co/n8kOB8CvHX"
+            },
+            {
+              "display_url": "x.com/Snowden/status…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/Snowden/status/1175430722733129729",
+              "start": 179,
+              "url": "https://t.co/DuyXDqqPZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014755278080901132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近身边的好多朋友都换了Pixel，问了一圈都是刷成GrapheneOS（石墨烯）并重新上BL锁使用的。\n连曝光“棱镜门”的斯诺登都表示，“如果要配置一台手机，会采用GrapheneOS作为基础系统。”（见引用）\n先说答案：没那么神奇，但极端！\n\n我也找了台Pixel刷了一下，体验上有点像鸿蒙4.2的感觉。\n系统中「GMSCompat」的功能，不需要像microG那样signature spoofing伪装成GMS，而是直接沙盒化Google Play，限制GMS的权限。\n\n解锁、刷系统、上锁，完全没问题。可以说这个系统专为Pixel定制，但MEETS_STRONG_INTEGRITY缺失依然无法通过Play Integrity。可能会导致一些依赖Play Integrity的金融类APP无法使用，从而降低体验。\n\n为什么开头说这个系统极端？除了一段时间没有解锁会自动重启的功能外，它还可以设置两个密码。\n除了正常解锁的密码，还有个“格机”密码。一旦输入，将清除硬件存储中的所有密钥，包括用于加密驱动器上数据的密钥，以及清除eUICC芯片中的eSIM Profile和重新启动。\n\n除非能扛得住“大记忆恢复术”，不然人永远是最脆弱的一环。\n再怎么隐私保护，还不如多释放几个干扰弹。大数据不怕你藏起来，因为迟早是要暴露的，而是怕收集到错误的讯息、干扰了判断。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1175430722733129729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近身边的好多朋友都换了Pixel，问了一圈都是刷成GrapheneOS（石墨烯）并重新上BL锁使用的。\n连曝光“棱镜门”的斯诺登都表示，“如果要配置一台手机，会采用GrapheneOS作为基础系统。”（见引用）\n先说答案：没那么神奇，但极端！\n\n我也找了台Pixel刷了一下，体验上有点像鸿蒙4.2的感觉。 https://t.co/n8kOB8CvHX https://t.co/DuyXDqqPZs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2916305152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "American whistleblower and former National Security Agency contractor",
+              "id": "1070724848081559554",
+              "name": "Edward Snowden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "American whistleblower and former National Security Agency contractor",
+              "id": "1070724848081559554",
+              "name": "Edward Snowden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "American whistleblower and former National Security Agency contractor",
+              "id": "1070724848081559554",
+              "name": "Edward Snowden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Celebrities",
+              "id": "1095352268046495745",
+              "name": "Celebrities"
+            }
+          }
+        ],
+        "conversation_id": "1174024719072468996",
+        "created_at": "2019-09-21T15:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2019-09-21T15:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1175430722733129729"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 185,
+              "normalized_text": "bluetooth",
+              "probability": 0.4368,
+              "start": 177,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1010684073038176256",
+              "start": 50,
+              "username": "DanielMicay"
+            },
+            {
+              "end": 76,
+              "id": "1111324340136534016",
+              "start": 65,
+              "username": "GrapheneOS"
+            },
+            {
+              "end": 269,
+              "id": "18466967",
+              "start": 258,
+              "username": "torproject"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1175430722733129729",
+        "in_reply_to_user_id": "2916305152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 402,
+          "impression_count": 0,
+          "like_count": 2519,
+          "quote_count": 102,
+          "reply_count": 59,
+          "retweet_count": 815
+        },
+        "referenced_tweets": [
+          {
+            "id": "1175429665323925506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "If I were configuring a smartphone today, I'd use @DanielMicay's @GrapheneOS as the base operating system. I'd desolder the microphones and keep the radios (cellular, wifi, and bluetooth) turned off when I didn't need them. I would route traffic through the @torproject network."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10175,
+          "following_count": 587,
+          "like_count": 9742,
+          "listed_count": 34,
+          "media_count": 795,
+          "tweet_count": 6697
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2014-12-11T21:24:28.000Z",
+        "description": "I used to work for the government, but now I work for the public.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "edwardsnowden.substack.com",
+                "end": 23,
+                "expanded_url": "https://edwardsnowden.substack.com",
+                "start": 0,
+                "url": "https://t.co/kPBEESUmlH"
+              }
+            ]
+          }
+        },
+        "id": "2916305152",
+        "name": "Edward Snowden",
+        "pinned_tweet_id": "1338974576047480835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5612352,
+          "following_count": 1,
+          "like_count": 2117,
+          "listed_count": 22561,
+          "media_count": 680,
+          "tweet_count": 9800
+        },
+        "url": "https://t.co/kPBEESUmlH",
+        "username": "Snowden",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068582857900199936",
+    "created_at": "2026-06-21T06:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068586945471807773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1730050648517853186",
+          "start": 0,
+          "username": "AfengWeb3"
+        },
+        {
+          "end": 27,
+          "id": "1484231561784737792",
+          "start": 11,
+          "username": "AirdropAlchemis"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "62bd729efdea504b"
+    },
+    "id": "2068586945471807773",
+    "in_reply_to_user_id": "1730050648517853186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068586560602395119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AfengWeb3 @AirdropAlchemis 100G 30刀 能用一年"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [62bd729efdea504b].",
+      "parameter": "geo.place_id",
+      "resource_id": "62bd729efdea504b",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "62bd729efdea504b"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068582857900199936",
+        "created_at": "2026-06-21T06:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068586945471807773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1730050648517853186",
+              "start": 0,
+              "username": "AfengWeb3"
+            },
+            {
+              "end": 27,
+              "id": "1484231561784737792",
+              "start": 11,
+              "username": "AirdropAlchemis"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "62bd729efdea504b"
+        },
+        "id": "2068586945471807773",
+        "in_reply_to_user_id": "1730050648517853186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068586560602395119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AfengWeb3 @AirdropAlchemis 100G 30刀 能用一年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730050648517853186",
+        "conversation_id": "2068582857900199936",
+        "created_at": "2026-06-21T06:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068586560602395119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 29,
+              "id": "1484231561784737792",
+              "start": 13,
+              "username": "AirdropAlchemis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068586560602395119",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068584499185844498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @AirdropAlchemis ESIM什么 介格啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38109,
+          "following_count": 658,
+          "like_count": 18076,
+          "listed_count": 178,
+          "media_count": 2203,
+          "tweet_count": 15066
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-30T02:26:49.000Z",
+        "description": "专注 AI Agent、Crypto、Telegram、出海资源\n分享信息差、机会、门路与避坑\nTG: https://t.co/AFjPOWUIpE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/niuyouhui",
+                "end": 75,
+                "expanded_url": "https://t.me/niuyouhui",
+                "start": 52,
+                "url": "https://t.co/AFjPOWUIpE"
+              }
+            ]
+          }
+        },
+        "id": "1730050648517853186",
+        "name": "阿风 | AI & Web3 实战",
+        "pinned_tweet_id": "2038823994942771644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011645662123966464/DpkCmtH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 1132,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 985
+        },
+        "url": "",
+        "username": "AfengWeb3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-20T18:29:24.000Z",
+        "description": "纯玩抽象的不构成任何投资建议\n\nSolar member @solana_zh\n炼金弟弟 @lianjinshushu\nhttps://t.co/28LJt8RXUv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "solana_zh"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "lianjinshushu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com",
+                "end": 83,
+                "expanded_url": "http://web3.okx.com",
+                "start": 60,
+                "url": "https://t.co/28LJt8RXUv"
+              }
+            ]
+          }
+        },
+        "id": "1484231561784737792",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "炼金叔叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65750,
+          "following_count": 3598,
+          "like_count": 81289,
+          "listed_count": 930,
+          "media_count": 8900,
+          "tweet_count": 61099
+        },
+        "url": "",
+        "username": "AirdropAlchemis",
+        "verified": true
+      }
+    ]
+  }
+}

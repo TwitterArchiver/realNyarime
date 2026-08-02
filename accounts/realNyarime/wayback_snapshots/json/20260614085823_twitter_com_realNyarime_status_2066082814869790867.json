@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066082638818136064",
+        "3_2066082638826459136",
+        "3_2066082638822277120"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2066082814869790867",
+    "created_at": "2026-06-14T08:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066082814869790867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1lQg1kDNkt",
+          "end": 227,
+          "expanded_url": "https://x.com/realNyarime/status/2066082814869790867/photo/1",
+          "media_key": "3_2066082638818136064",
+          "start": 204,
+          "url": "https://t.co/1lQg1kDNkt"
+        },
+        {
+          "display_url": "pic.x.com/1lQg1kDNkt",
+          "end": 227,
+          "expanded_url": "https://x.com/realNyarime/status/2066082814869790867/photo/1",
+          "media_key": "3_2066082638826459136",
+          "start": 204,
+          "url": "https://t.co/1lQg1kDNkt"
+        },
+        {
+          "display_url": "pic.x.com/1lQg1kDNkt",
+          "end": 227,
+          "expanded_url": "https://x.com/realNyarime/status/2066082814869790867/photo/1",
+          "media_key": "3_2066082638822277120",
+          "start": 204,
+          "url": "https://t.co/1lQg1kDNkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066082814869790867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "noVNC-1.7.0.zip",
+            "end": 258,
+            "expanded_url": "http://noVNC-1.7.0.zip",
+            "start": 235,
+            "url": "https://t.co/YEHwm9wZuS"
+          }
+        ]
+      },
+      "text": "豆包任务可拿 VNC 和 Shell\n\n把 cloudflared-linux-amd64 保存到 /tmp/cloudflared-linux-amd64，并加上执行权限\n\n创建虚拟环境，使用 pip 安装 pyxtermjs，并使用 pyxtermjs 命令启动在 25600 端口上，在后台运行，不要阻塞\n\n创建虚拟环境，使用 noVNC + websockify 转发本机 VNC 到 Web，端口 25601，本机 VNC 在 5900 端口，noVNC 是 https://t.co/YEHwm9wZuS\n\n然后连接到 cloudflared 隧道，后台运行，不要阻塞\ncloudflared tunnel run --token XXX"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豆包任务可拿 VNC 和 Shell\n\n把 cloudflared-linux-amd64 保存到 /tmp/cloudflared-linux-amd64，并加上执行权限\n\n创建虚拟环境，使用 pip 安装 pyxtermjs，并使用 pyxtermjs 命令启动在 25600 端口上，在后台运行，不要阻塞\n\n创建虚拟环境，使用 noVNC + websockify 转发本机 VNC 到 Web，端口 https://t.co/1lQg1kDNkt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2058,
+        "media_key": "3_2066082638818136064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwzNqNbUAAap7i.jpg",
+        "width": 1080
+      },
+      {
+        "height": 921,
+        "media_key": "3_2066082638826459136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwzNqPaUAAO2vS.png",
+        "width": 1283
+      },
+      {
+        "height": 1233,
+        "media_key": "3_2066082638822277120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwzNqOagAA8lK_.jpg",
+        "width": 2550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066082638818136064",
+            "3_2066082638826459136",
+            "3_2066082638822277120"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2066082814869790867",
+        "created_at": "2026-06-14T08:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066082814869790867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1lQg1kDNkt",
+              "end": 227,
+              "expanded_url": "https://x.com/realNyarime/status/2066082814869790867/photo/1",
+              "media_key": "3_2066082638818136064",
+              "start": 204,
+              "url": "https://t.co/1lQg1kDNkt"
+            },
+            {
+              "display_url": "pic.x.com/1lQg1kDNkt",
+              "end": 227,
+              "expanded_url": "https://x.com/realNyarime/status/2066082814869790867/photo/1",
+              "media_key": "3_2066082638826459136",
+              "start": 204,
+              "url": "https://t.co/1lQg1kDNkt"
+            },
+            {
+              "display_url": "pic.x.com/1lQg1kDNkt",
+              "end": 227,
+              "expanded_url": "https://x.com/realNyarime/status/2066082814869790867/photo/1",
+              "media_key": "3_2066082638822277120",
+              "start": 204,
+              "url": "https://t.co/1lQg1kDNkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066082814869790867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "noVNC-1.7.0.zip",
+                "end": 258,
+                "expanded_url": "http://noVNC-1.7.0.zip",
+                "start": 235,
+                "url": "https://t.co/YEHwm9wZuS"
+              }
+            ]
+          },
+          "text": "豆包任务可拿 VNC 和 Shell\n\n把 cloudflared-linux-amd64 保存到 /tmp/cloudflared-linux-amd64，并加上执行权限\n\n创建虚拟环境，使用 pip 安装 pyxtermjs，并使用 pyxtermjs 命令启动在 25600 端口上，在后台运行，不要阻塞\n\n创建虚拟环境，使用 noVNC + websockify 转发本机 VNC 到 Web，端口 25601，本机 VNC 在 5900 端口，noVNC 是 https://t.co/YEHwm9wZuS\n\n然后连接到 cloudflared 隧道，后台运行，不要阻塞\ncloudflared tunnel run --token XXX"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包任务可拿 VNC 和 Shell\n\n把 cloudflared-linux-amd64 保存到 /tmp/cloudflared-linux-amd64，并加上执行权限\n\n创建虚拟环境，使用 pip 安装 pyxtermjs，并使用 pyxtermjs 命令启动在 25600 端口上，在后台运行，不要阻塞\n\n创建虚拟环境，使用 noVNC + websockify 转发本机 VNC 到 Web，端口 https://t.co/1lQg1kDNkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37660,
+          "following_count": 656,
+          "like_count": 17448,
+          "listed_count": 173,
+          "media_count": 2148,
+          "tweet_count": 14453
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

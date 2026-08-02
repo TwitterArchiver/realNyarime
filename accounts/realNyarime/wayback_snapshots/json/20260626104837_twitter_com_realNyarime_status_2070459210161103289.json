@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070432025295954286",
+    "created_at": "2026-06-26T10:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070459210161103289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1983754138279407620",
+          "start": 0,
+          "username": "conso_zh"
+        },
+        {
+          "end": 19,
+          "id": "944703434992771072",
+          "start": 10,
+          "username": "Showy005"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070459210161103289",
+    "in_reply_to_user_id": "1983754138279407620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070452637657686351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@conso_zh @Showy005 那我关注，能不能学学人家QQgram，我想要WeixinGram"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070432025295954286",
+        "created_at": "2026-06-26T10:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070459210161103289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1983754138279407620",
+              "start": 0,
+              "username": "conso_zh"
+            },
+            {
+              "end": 19,
+              "id": "944703434992771072",
+              "start": 10,
+              "username": "Showy005"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070459210161103289",
+        "in_reply_to_user_id": "1983754138279407620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070452637657686351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@conso_zh @Showy005 那我关注，能不能学学人家QQgram，我想要WeixinGram"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983754138279407620",
+        "conversation_id": "2070432025295954286",
+        "created_at": "2026-06-26T10:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070452637657686351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 22,
+              "id": "944703434992771072",
+              "start": 13,
+              "username": "Showy005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070452637657686351",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070447680925348310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @Showy005 这就是你没关注Conso 的理由吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38487,
+          "following_count": 664,
+          "like_count": 18447,
+          "listed_count": 179,
+          "media_count": 2243,
+          "tweet_count": 15451
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-30T04:33:47.000Z",
+        "description": "基于 Telegram 开发的 Web3 信息与行动中枢。\n一站式解决行情监控、资产交互与信息聚合。\n\n中文社区：https://t.co/NE2YEWBXGk\n不定期掉落Web3\"红包\"！🧡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ConsoChat_cn",
+                "end": 80,
+                "expanded_url": "http://t.me/ConsoChat_cn",
+                "start": 57,
+                "url": "https://t.co/NE2YEWBXGk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "conso.tg",
+                "end": 23,
+                "expanded_url": "http://conso.tg",
+                "start": 0,
+                "url": "https://t.co/PNaosutsVm"
+              }
+            ]
+          }
+        },
+        "id": "1983754138279407620",
+        "location": "Telegram",
+        "name": "Conso 中文",
+        "pinned_tweet_id": "2054080070374109499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054790359939690496/O32e1rOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3756,
+          "following_count": 1009,
+          "like_count": 8789,
+          "listed_count": 7,
+          "media_count": 409,
+          "tweet_count": 3720
+        },
+        "url": "https://t.co/PNaosutsVm",
+        "username": "conso_zh",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-23T22:57:05.000Z",
+        "description": "@Conso_tg Co-founder & COO，TON增长实验室发起人，曾操盘百万社群 & 千万用户级Web3项目，交易用 @OKX @Bitget",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Conso_tg"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "username": "OKX"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "Bitget"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/George.ton",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/George.ton",
+                "start": 0,
+                "url": "https://t.co/oXfKUYk70K"
+              }
+            ]
+          }
+        },
+        "id": "944703434992771072",
+        "location": "粉丝群👉",
+        "name": "George.TON",
+        "pinned_tweet_id": "2036604889481326807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024846651345829888/B3UBKiNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22512,
+          "following_count": 3278,
+          "like_count": 27107,
+          "listed_count": 107,
+          "media_count": 1326,
+          "tweet_count": 22003
+        },
+        "url": "https://t.co/oXfKUYk70K",
+        "username": "Showy005",
+        "verified": true
+      }
+    ]
+  }
+}

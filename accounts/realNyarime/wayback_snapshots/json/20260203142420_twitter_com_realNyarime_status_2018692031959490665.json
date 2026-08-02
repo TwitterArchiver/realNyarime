@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018690852873461760"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2018692031959490665",
+    "created_at": "2026-02-03T14:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T15:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018692031959490665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "icloud.com/shortcuts/0002…",
+          "end": 154,
+          "expanded_url": "https://www.icloud.com/shortcuts/0002e5bd9b7842bda3c2a83ad82033c9",
+          "images": [
+            {
+              "height": 300,
+              "url": "https://pbs.twimg.com/news_img/2001533748270055425/8Mmx4I11?format=png&name=orig",
+              "width": 300
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2001533748270055425/8Mmx4I11?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 131,
+          "status": 200,
+          "title": "Save MobileGestalt",
+          "unwound_url": "https://www.icloud.com/shortcuts/0002e5bd9b7842bda3c2a83ad82033c9",
+          "url": "https://t.co/Fw2otloJ7d"
+        },
+        {
+          "display_url": "pic.x.com/ZQ5OUhjByO",
+          "end": 178,
+          "expanded_url": "https://x.com/realNyarime/status/2018692031959490665/photo/1",
+          "media_key": "3_2018690852873461760",
+          "start": 155,
+          "url": "https://t.co/ZQ5OUhjByO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018692031959490665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "icloud.com/shortcuts/0002…",
+            "end": 154,
+            "expanded_url": "https://www.icloud.com/shortcuts/0002e5bd9b7842bda3c2a83ad82033c9",
+            "start": 131,
+            "url": "https://t.co/NJHtCqfl7z"
+          },
+          {
+            "display_url": "github.com/straight-tamag…",
+            "end": 564,
+            "expanded_url": "https://github.com/straight-tamago/misaka26",
+            "start": 541,
+            "url": "https://t.co/owZHP1DTdt"
+          }
+        ]
+      },
+      "text": "看外卡测速的大佬们才知道，原来这个是通过misaka26修改MobileGestalt得到的FTM完全体，仅支持iOS26.2beta1及以下版本。\n\n首先用iPhone安装捷径，并运行，根据捷径里面的指引，将MobileGestalt文件导出，传输到电脑上。\nhttps://t.co/NJHtCqfl7z\n\n然后将导出的文件，在电脑上进行修改，增加代码，参考截图。需要增加的代码如下：\n<key>Oji6HRoPi7rH7HPdWVakuw</key>\n<string>HasInternalSettingsBundle</string>\n<key>LBJfwOEzExRxzlAnSuI7eg</key>\n<string>InternalBuild</string>\n<key>EqrsVvjcYDdxHBiQmGhAWw</key>\n<string>apple-internal-install</string>\n添加完成之后保存，后缀名命名为.plist。\n\n最后到iPhone上关闭查找我的手机。将iPhone连接电脑，电脑上下载对应电脑版本的misaka26版本并运行，点击「select .plist」，选择刚刚修改好的文件。点击「Apply」，之后手机自动重启。\nhttps://t.co/owZHP1DTdt\n\n生效后就可以进入 ftm 看效果，别忘了把查找我的iPhone开回去。\n要不是iOS26.0.1有SA漫游，我也不至于苟活到现在，更新后又回到NSA 5G了😢😢😢"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看外卡测速的大佬们才知道，原来这个是通过misaka26修改MobileGestalt得到的FTM完全体，仅支持iOS26.2beta1及以下版本。\n\n首先用iPhone安装捷径，并运行，根据捷径里面的指引，将MobileGestalt文件导出，传输到电脑上。\nhttps://t.co/Fw2otloJ7d https://t.co/ZQ5OUhjByO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2018690852873461760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPUopzaYAAp_we.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018690852873461760"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2018692031959490665",
+        "created_at": "2026-02-03T14:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018692031959490665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "icloud.com/shortcuts/0002…",
+              "end": 154,
+              "expanded_url": "https://www.icloud.com/shortcuts/0002e5bd9b7842bda3c2a83ad82033c9",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/2001533748270055425/8Mmx4I11?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001533748270055425/8Mmx4I11?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "Save MobileGestalt",
+              "unwound_url": "https://www.icloud.com/shortcuts/0002e5bd9b7842bda3c2a83ad82033c9",
+              "url": "https://t.co/Fw2otloJ7d"
+            },
+            {
+              "display_url": "pic.x.com/ZQ5OUhjByO",
+              "end": 178,
+              "expanded_url": "https://x.com/realNyarime/status/2018692031959490665/photo/1",
+              "media_key": "3_2018690852873461760",
+              "start": 155,
+              "url": "https://t.co/ZQ5OUhjByO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018692031959490665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "icloud.com/shortcuts/0002…",
+                "end": 154,
+                "expanded_url": "https://www.icloud.com/shortcuts/0002e5bd9b7842bda3c2a83ad82033c9",
+                "start": 131,
+                "url": "https://t.co/NJHtCqfl7z"
+              },
+              {
+                "display_url": "github.com/straight-tamag…",
+                "end": 564,
+                "expanded_url": "https://github.com/straight-tamago/misaka26",
+                "start": 541,
+                "url": "https://t.co/owZHP1DTdt"
+              }
+            ]
+          },
+          "text": "看外卡测速的大佬们才知道，原来这个是通过misaka26修改MobileGestalt得到的FTM完全体，仅支持iOS26.2beta1及以下版本。\n\n首先用iPhone安装捷径，并运行，根据捷径里面的指引，将MobileGestalt文件导出，传输到电脑上。\nhttps://t.co/NJHtCqfl7z\n\n然后将导出的文件，在电脑上进行修改，增加代码，参考截图。需要增加的代码如下：\n<key>Oji6HRoPi7rH7HPdWVakuw</key>\n<string>HasInternalSettingsBundle</string>\n<key>LBJfwOEzExRxzlAnSuI7eg</key>\n<string>InternalBuild</string>\n<key>EqrsVvjcYDdxHBiQmGhAWw</key>\n<string>apple-internal-install</string>\n添加完成之后保存，后缀名命名为.plist。\n\n最后到iPhone上关闭查找我的手机。将iPhone连接电脑，电脑上下载对应电脑版本的misaka26版本并运行，点击「select .plist」，选择刚刚修改好的文件。点击「Apply」，之后手机自动重启。\nhttps://t.co/owZHP1DTdt\n\n生效后就可以进入 ftm 看效果，别忘了把查找我的iPhone开回去。\n要不是iOS26.0.1有SA漫游，我也不至于苟活到现在，更新后又回到NSA 5G了😢😢😢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看外卡测速的大佬们才知道，原来这个是通过misaka26修改MobileGestalt得到的FTM完全体，仅支持iOS26.2beta1及以下版本。\n\n首先用iPhone安装捷径，并运行，根据捷径里面的指引，将MobileGestalt文件导出，传输到电脑上。\nhttps://t.co/Fw2otloJ7d https://t.co/ZQ5OUhjByO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12943,
+          "following_count": 580,
+          "like_count": 9932,
+          "listed_count": 51,
+          "media_count": 851,
+          "tweet_count": 7037
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

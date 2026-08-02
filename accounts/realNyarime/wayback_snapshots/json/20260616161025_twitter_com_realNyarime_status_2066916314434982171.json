@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066915509405442048"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2066916314434982171",
+    "created_at": "2026-06-16T16:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066916314434982171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hoeA9JDtr0",
+          "end": 127,
+          "expanded_url": "https://x.com/realNyarime/status/2066916314434982171/photo/1",
+          "media_key": "3_2066915509405442048",
+          "start": 104,
+          "url": "https://t.co/hoeA9JDtr0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066916314434982171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "想知道推友们是怎么看待iKuai这个路由系统？为什么过去评价差，曾经是做了哪些伤害用户的事？\n很多主路由其实还会选择爱快，反而有OP需求都是为了更自由度的插件及扩展性，也认可官方硬件弱想订阅企业版的软件授权\n\n路由系统仍是主打稳定性，针对DPI七层流控去做优化。甚至研发团队的同事也在这期间做了不少事，下半年我们还会丢出更多王炸，特别是在软路由这个较为发烧友的赛道上，去省下用户需要iKuai+OpenWRT的繁琐。对于HomeLab用户而言，我认为是一个较大的提升点，甚至我希望原生二进制能在路由上直接跑，就跟我在4.0系统原生适配了Mihomo（Clash Meta内核）那样\n\n我们公司属于是有一点点风险都不接受的厂商，因此最大的绊脚石还是合规问题。回顾Docker插件开发从netns到macvlan最后才发现不如直接搞native了，虽然已经实现了功能但仍需论证合规性，像华为那样有金身护体、像Surge刘总那样有主角光环的，我没这本事\n但u1s1啊，既然都是能开放原生插件，为什么执着于套壳Docker又不给特权模式。这有点像既不给牛吃草，又想牛能跑的感觉\n\n在官宣入职的帖子下也有不少佬提出了宝贵的建议，我也一一截图发给领导，也愿意去解答我能力范围内的问题，比如企业版卖多少、插件？更重要的是，无论是免费版还是企业版用户，这都是我们的用户。我觉得我们公司是非常良心的，我也不是为公司说什么好话，单纯就是那些Intel ATOM D525、J1900老设备还在更新没有EOL\n\n推友最关心的代理类插件方案，从netns到macvlan最后才发现不如直接搞native接tproxy了…… 但我们也只有单root用户，一直找不到可管控的点，因此还望万能的网友能提供一个思路让我不会那么迷茫。至于Clash插件及安装教程这类的，就别找我要了，被开除还是小事但NDA能给我赔死，咱们路由系统的能力还是很强大但还是被监管阉成孙子\n\n总之感谢各位这阵子的关心，至于能不能在爱快上跑OpenWRT的IPK/APK我的建议是在容器里跑，毕竟连运行库都不一样，具体可以见我在v2ex上给爱快适配proot/chroot的那一期，。虽然刚入职一周，还是很感慨做了很多事情，所以才会问大家上半年都做了什么。。。最后，你们的建议我都会看，而批评我也会印证后反馈给领导，谢谢了！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想知道推友们是怎么看待iKuai这个路由系统？为什么过去评价差，曾经是做了哪些伤害用户的事？\n很多主路由其实还会选择爱快，反而有OP需求都是为了更自由度的插件及扩展性，也认可官方硬件弱想订阅企业版的软件授权 https://t.co/hoeA9JDtr0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1983,
+        "media_key": "3_2066915509405442048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8otG7bYAAhYYK.jpg",
+        "width": 1914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066915509405442048"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2066916314434982171",
+        "created_at": "2026-06-16T16:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066916314434982171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoeA9JDtr0",
+              "end": 127,
+              "expanded_url": "https://x.com/realNyarime/status/2066916314434982171/photo/1",
+              "media_key": "3_2066915509405442048",
+              "start": 104,
+              "url": "https://t.co/hoeA9JDtr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066916314434982171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想知道推友们是怎么看待iKuai这个路由系统？为什么过去评价差，曾经是做了哪些伤害用户的事？\n很多主路由其实还会选择爱快，反而有OP需求都是为了更自由度的插件及扩展性，也认可官方硬件弱想订阅企业版的软件授权\n\n路由系统仍是主打稳定性，针对DPI七层流控去做优化。甚至研发团队的同事也在这期间做了不少事，下半年我们还会丢出更多王炸，特别是在软路由这个较为发烧友的赛道上，去省下用户需要iKuai+OpenWRT的繁琐。对于HomeLab用户而言，我认为是一个较大的提升点，甚至我希望原生二进制能在路由上直接跑，就跟我在4.0系统原生适配了Mihomo（Clash Meta内核）那样\n\n我们公司属于是有一点点风险都不接受的厂商，因此最大的绊脚石还是合规问题。回顾Docker插件开发从netns到macvlan最后才发现不如直接搞native了，虽然已经实现了功能但仍需论证合规性，像华为那样有金身护体、像Surge刘总那样有主角光环的，我没这本事\n但u1s1啊，既然都是能开放原生插件，为什么执着于套壳Docker又不给特权模式。这有点像既不给牛吃草，又想牛能跑的感觉\n\n在官宣入职的帖子下也有不少佬提出了宝贵的建议，我也一一截图发给领导，也愿意去解答我能力范围内的问题，比如企业版卖多少、插件？更重要的是，无论是免费版还是企业版用户，这都是我们的用户。我觉得我们公司是非常良心的，我也不是为公司说什么好话，单纯就是那些Intel ATOM D525、J1900老设备还在更新没有EOL\n\n推友最关心的代理类插件方案，从netns到macvlan最后才发现不如直接搞native接tproxy了…… 但我们也只有单root用户，一直找不到可管控的点，因此还望万能的网友能提供一个思路让我不会那么迷茫。至于Clash插件及安装教程这类的，就别找我要了，被开除还是小事但NDA能给我赔死，咱们路由系统的能力还是很强大但还是被监管阉成孙子\n\n总之感谢各位这阵子的关心，至于能不能在爱快上跑OpenWRT的IPK/APK我的建议是在容器里跑，毕竟连运行库都不一样，具体可以见我在v2ex上给爱快适配proot/chroot的那一期，。虽然刚入职一周，还是很感慨做了很多事情，所以才会问大家上半年都做了什么。。。最后，你们的建议我都会看，而批评我也会印证后反馈给领导，谢谢了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想知道推友们是怎么看待iKuai这个路由系统？为什么过去评价差，曾经是做了哪些伤害用户的事？\n很多主路由其实还会选择爱快，反而有OP需求都是为了更自由度的插件及扩展性，也认可官方硬件弱想订阅企业版的软件授权 https://t.co/hoeA9JDtr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37881,
+          "following_count": 657,
+          "like_count": 17690,
+          "listed_count": 177,
+          "media_count": 2168,
+          "tweet_count": 14650
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

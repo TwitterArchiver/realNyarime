@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060074005445705728",
+        "3_2060074247570251776",
+        "3_2060074276028612608"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2060077028913889725",
+    "created_at": "2026-05-28T19:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060077028913889725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 37,
+          "id": "874126509245476864",
+          "start": 25,
+          "username": "DarioAmodei"
+        },
+        {
+          "end": 96,
+          "id": "1943306828697550848",
+          "start": 87,
+          "username": "claudeai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/naiqyyXFcs",
+          "end": 160,
+          "expanded_url": "https://x.com/realNyarime/status/2060077028913889725/photo/1",
+          "media_key": "3_2060074005445705728",
+          "start": 137,
+          "url": "https://t.co/naiqyyXFcs"
+        },
+        {
+          "display_url": "pic.x.com/naiqyyXFcs",
+          "end": 160,
+          "expanded_url": "https://x.com/realNyarime/status/2060077028913889725/photo/1",
+          "media_key": "3_2060074247570251776",
+          "start": 137,
+          "url": "https://t.co/naiqyyXFcs"
+        },
+        {
+          "display_url": "pic.x.com/naiqyyXFcs",
+          "end": 160,
+          "expanded_url": "https://x.com/realNyarime/status/2060077028913889725/photo/1",
+          "media_key": "3_2060074276028612608",
+          "start": 137,
+          "url": "https://t.co/naiqyyXFcs"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 184,
+          "expanded_url": "https://twitter.com/realNyarime/status/2060059543820963975",
+          "start": 161,
+          "url": "https://t.co/7d5jCLhBoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060077028913889725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 37,
+            "id": "874126509245476864",
+            "start": 25,
+            "username": "DarioAmodei"
+          },
+          {
+            "end": 96,
+            "id": "1943306828697550848",
+            "start": 87,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "text": "回顾一下Anthropic的嘴脸，就知道其CEO @DarioAmodei 的道德有明显问题。不过A\\自己的文章并没有说到Qwen，可能是因为批评了别人再蒸别人不好，所以说 @claudeai 的双标反华玩的一套套的\n\n不少推友都通过Claude API复现证实了Opus 4.8蒸馏了Qwen、DeepSeek这类开源模型。测试的结果大概率是Qwen，小概率Deepseek，在没有system prompt的中文语境下会出现认知混淆\n\nA\\一直抨击的是别人蒸馏claude，但是他自己不蒸馏claude 蒸馏其他模型，那就不算双标（bushi）\n不过我比较好奇，蒸这么多Qwen中文语料有提升吗？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060059543820963975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回顾一下Anthropic的嘴脸，就知道其CEO @DarioAmodei 的道德有明显问题。不过A\\自己的文章并没有说到Qwen，可能是因为批评了别人再蒸别人不好，所以说 @claudeai 的双标反华玩的一套套的\n\n不少推友都通过Claude API复现证实了Opus https://t.co/naiqyyXFcs https://t.co/7d5jCLhBoi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1314,
+        "media_key": "3_2060074005445705728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbaZKmbgAAAA5t.jpg",
+        "width": 1530
+      },
+      {
+        "height": 785,
+        "media_key": "3_2060074247570251776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbanQla4AA9LcD.jpg",
+        "width": 1803
+      },
+      {
+        "height": 774,
+        "media_key": "3_2060074276028612608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbao6mbAAAiLEt.jpg",
+        "width": 1793
+      },
+      {
+        "height": 2457,
+        "media_key": "3_2060057133580967936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbLDGAaYAAbq9X.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2060059519628320768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbNN-uboAA4r9A.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060074005445705728",
+            "3_2060074247570251776",
+            "3_2060074276028612608"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2060077028913889725",
+        "created_at": "2026-05-28T19:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060077028913889725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "874126509245476864",
+              "start": 25,
+              "username": "DarioAmodei"
+            },
+            {
+              "end": 96,
+              "id": "1943306828697550848",
+              "start": 87,
+              "username": "claudeai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/naiqyyXFcs",
+              "end": 160,
+              "expanded_url": "https://x.com/realNyarime/status/2060077028913889725/photo/1",
+              "media_key": "3_2060074005445705728",
+              "start": 137,
+              "url": "https://t.co/naiqyyXFcs"
+            },
+            {
+              "display_url": "pic.x.com/naiqyyXFcs",
+              "end": 160,
+              "expanded_url": "https://x.com/realNyarime/status/2060077028913889725/photo/1",
+              "media_key": "3_2060074247570251776",
+              "start": 137,
+              "url": "https://t.co/naiqyyXFcs"
+            },
+            {
+              "display_url": "pic.x.com/naiqyyXFcs",
+              "end": 160,
+              "expanded_url": "https://x.com/realNyarime/status/2060077028913889725/photo/1",
+              "media_key": "3_2060074276028612608",
+              "start": 137,
+              "url": "https://t.co/naiqyyXFcs"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/realNyarime/status/2060059543820963975",
+              "start": 161,
+              "url": "https://t.co/7d5jCLhBoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060077028913889725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 37,
+                "id": "874126509245476864",
+                "start": 25,
+                "username": "DarioAmodei"
+              },
+              {
+                "end": 96,
+                "id": "1943306828697550848",
+                "start": 87,
+                "username": "claudeai"
+              }
+            ]
+          },
+          "text": "回顾一下Anthropic的嘴脸，就知道其CEO @DarioAmodei 的道德有明显问题。不过A\\自己的文章并没有说到Qwen，可能是因为批评了别人再蒸别人不好，所以说 @claudeai 的双标反华玩的一套套的\n\n不少推友都通过Claude API复现证实了Opus 4.8蒸馏了Qwen、DeepSeek这类开源模型。测试的结果大概率是Qwen，小概率Deepseek，在没有system prompt的中文语境下会出现认知混淆\n\nA\\一直抨击的是别人蒸馏claude，但是他自己不蒸馏claude 蒸馏其他模型，那就不算双标（bushi）\n不过我比较好奇，蒸这么多Qwen中文语料有提升吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060059543820963975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回顾一下Anthropic的嘴脸，就知道其CEO @DarioAmodei 的道德有明显问题。不过A\\自己的文章并没有说到Qwen，可能是因为批评了别人再蒸别人不好，所以说 @claudeai 的双标反华玩的一套套的\n\n不少推友都通过Claude API复现证实了Opus https://t.co/naiqyyXFcs https://t.co/7d5jCLhBoi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060057133580967936",
+            "3_2060059519628320768"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060059543820963975",
+        "created_at": "2026-05-28T18:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060059543820963975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFR7WCDMxJ",
+              "end": 49,
+              "expanded_url": "https://x.com/realNyarime/status/2060059543820963975/photo/1",
+              "media_key": "3_2060057133580967936",
+              "start": 26,
+              "url": "https://t.co/DFR7WCDMxJ"
+            },
+            {
+              "display_url": "pic.x.com/DFR7WCDMxJ",
+              "end": 49,
+              "expanded_url": "https://x.com/realNyarime/status/2060059543820963975/photo/1",
+              "media_key": "3_2060059519628320768",
+              "start": 26,
+              "url": "https://t.co/DFR7WCDMxJ"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/realNyarime/status/2060055041868976302",
+              "start": 50,
+              "url": "https://t.co/GNFhpgeGJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060059543820963975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 13919,
+          "like_count": 56,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060055041868976302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没绷住，你是说Opus 4.8蒸馏了一堆开源模型？ https://t.co/DFR7WCDMxJ https://t.co/GNFhpgeGJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35358,
+          "following_count": 654,
+          "like_count": 15872,
+          "listed_count": 154,
+          "media_count": 1962,
+          "tweet_count": 13026
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-12T04:49:35.000Z",
+        "description": "Anthropic CEO. https://t.co/qXHIf42jTl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "darioamodei.com",
+                "end": 38,
+                "expanded_url": "http://darioamodei.com",
+                "start": 15,
+                "url": "https://t.co/qXHIf42jTl"
+              }
+            ]
+          }
+        },
+        "id": "874126509245476864",
+        "name": "Dario Amodei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361822,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 3688,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "DarioAmodei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-10T13:50:48.000Z",
+        "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "anthropicai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 123,
+                "expanded_url": "http://claude.ai",
+                "start": 100,
+                "url": "https://t.co/ZhTwG8d1e5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 23,
+                "expanded_url": "http://claude.ai",
+                "start": 0,
+                "url": "https://t.co/ZhTwG8d1e5"
+              }
+            ]
+          }
+        },
+        "id": "1943306828697550848",
+        "name": "Claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401486,
+          "following_count": 2,
+          "like_count": 359,
+          "listed_count": 6407,
+          "media_count": 218,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/ZhTwG8d1e5",
+        "username": "claudeai",
+        "verified": true
+      }
+    ]
+  }
+}

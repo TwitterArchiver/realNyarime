@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2033173936381509886",
+    "created_at": "2026-03-15T17:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T18:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033230826767548474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "6690032",
+          "start": 0,
+          "username": "vista8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033230826767548474",
+    "in_reply_to_user_id": "6690032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033173936381509886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vista8 罗技啊… 我只用gpw和g系列，用的一样是sb软件叫G Hub（不是GitHub嗷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2033173902185369600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdI5E5akAABiZ5.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2033173936381509886",
+        "created_at": "2026-03-15T17:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033230826767548474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033230826767548474",
+        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033173936381509886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vista8 罗技啊… 我只用gpw和g系列，用的一样是sb软件叫G Hub（不是GitHub嗷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033173902185369600"
+          ]
+        },
+        "author_id": "6690032",
+        "conversation_id": "2033173936381509886",
+        "created_at": "2026-03-15T13:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033173936381509886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eAlCkpq3d2",
+              "end": 188,
+              "expanded_url": "https://x.com/vista8/status/2033173936381509886/photo/1",
+              "media_key": "3_2033173902185369600",
+              "start": 165,
+              "url": "https://t.co/eAlCkpq3d2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033173936381509886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1532,
+          "impression_count": 99477,
+          "like_count": 1433,
+          "quote_count": 19,
+          "reply_count": 66,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "如果你买了罗技的高端鼠标（如MX Master等）。\n\n结果发现要用它的全部功能，必须装一个叫 Logitech Options+ 的SB软件。\n\n这软件要联网，要账号，还会在后台偷偷收集数据。\n\n有个叫 TomBadash 的程序员受够了。\n\n他开发了一个叫 Mouser 的开源工具，用来替代罗技官方程序。\n\n开源地址见评论 https://t.co/eAlCkpq3d2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21938,
+          "following_count": 516,
+          "like_count": 10932,
+          "listed_count": 92,
+          "media_count": 1135,
+          "tweet_count": 8391
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-09T05:48:52.000Z",
+        "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qiaomu.ai",
+                "end": 39,
+                "expanded_url": "https://www.qiaomu.ai",
+                "start": 16,
+                "url": "https://t.co/vnUpLt752o"
+              }
+            ]
+          }
+        },
+        "id": "6690032",
+        "location": "Beijing",
+        "name": "向阳乔木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100512,
+          "following_count": 1511,
+          "like_count": 8959,
+          "listed_count": 1679,
+          "media_count": 2341,
+          "tweet_count": 7718
+        },
+        "username": "vista8",
+        "verified": true
+      }
+    ]
+  }
+}

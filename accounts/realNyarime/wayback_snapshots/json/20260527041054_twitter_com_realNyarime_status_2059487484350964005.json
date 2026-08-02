@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2059480973935612349",
+    "created_at": "2026-05-27T04:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059487484350964005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1927296278146260992",
+          "start": 0,
+          "username": "BoluoEye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059487484350964005",
+    "in_reply_to_user_id": "1927296278146260992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "基本就是这几个：\n众安（zabank）收别人钱用的，虚拟银行被关了也没啥损失，走邀请码注册有返佣\n汇丰（hsbc hk）想办信用卡就开卓越免管理费后续再降one或每月月底把钱转其他户，下个月转回\n中银香港（bochk）跨境支付通专用行\n然后就是天星（现在叫象象）、蚂蚁（支付宝香港）这些\n\n剩下的：\n工银亚洲，两种方式。一种口岸vtm开一个小时，另一种就是提前内地预约预审批过了再去分行线下开好。开户满半年后可存5万一个月下信用卡\n建行亚洲，App或分行开，定存5万三个月下信用卡\n\n小红书有很多攻略，慢慢看吧。基本是为了云闪付国际版，比如你推特收入，za收进来转港卡还信用卡，银联国际信用卡内地消费"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059486181126291652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoluoEye 基本就是这几个：\n众安（zabank）收别人钱用的，虚拟银行被关了也没啥损失，走邀请码注册有返佣\n汇丰（hsbc hk）想办信用卡就开卓越免管理费后续再降one或每月月底把钱转其他户，下个月转回\n中银香港（bochk）跨境支付通专用行\n然后就是天星（现在叫象象）、蚂蚁（支付宝香港）这些\n\n剩下的："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2059480973935612349",
+        "created_at": "2026-05-27T04:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059487484350964005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1927296278146260992",
+              "start": 0,
+              "username": "BoluoEye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059487484350964005",
+        "in_reply_to_user_id": "1927296278146260992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "基本就是这几个：\n众安（zabank）收别人钱用的，虚拟银行被关了也没啥损失，走邀请码注册有返佣\n汇丰（hsbc hk）想办信用卡就开卓越免管理费后续再降one或每月月底把钱转其他户，下个月转回\n中银香港（bochk）跨境支付通专用行\n然后就是天星（现在叫象象）、蚂蚁（支付宝香港）这些\n\n剩下的：\n工银亚洲，两种方式。一种口岸vtm开一个小时，另一种就是提前内地预约预审批过了再去分行线下开好。开户满半年后可存5万一个月下信用卡\n建行亚洲，App或分行开，定存5万三个月下信用卡\n\n小红书有很多攻略，慢慢看吧。基本是为了云闪付国际版，比如你推特收入，za收进来转港卡还信用卡，银联国际信用卡内地消费"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059486181126291652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoluoEye 基本就是这几个：\n众安（zabank）收别人钱用的，虚拟银行被关了也没啥损失，走邀请码注册有返佣\n汇丰（hsbc hk）想办信用卡就开卓越免管理费后续再降one或每月月底把钱转其他户，下个月转回\n中银香港（bochk）跨境支付通专用行\n然后就是天星（现在叫象象）、蚂蚁（支付宝香港）这些\n\n剩下的："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927296278146260992",
+        "conversation_id": "2059480973935612349",
+        "created_at": "2026-05-27T04:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059486181126291652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059486181126291652",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059483304064405854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 收到，谢谢🙏，我这几天做一下攻略，对，先下载app。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35228,
+          "following_count": 650,
+          "like_count": 15665,
+          "listed_count": 155,
+          "media_count": 1926,
+          "tweet_count": 12828
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-27T09:30:26.000Z",
+        "description": "包罗万象的杂货铺 🍉",
+        "id": "1927296278146260992",
+        "name": "菠萝🍍",
+        "pinned_tweet_id": "2059047525798252558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030436515474821120/ManRR0D5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 569,
+          "like_count": 5321,
+          "listed_count": 0,
+          "media_count": 1003,
+          "tweet_count": 7750
+        },
+        "username": "BoluoEye",
+        "verified": true
+      }
+    ]
+  }
+}

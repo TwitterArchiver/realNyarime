@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2073766977743819182",
+    "created_at": "2026-07-06T01:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T02:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073943185009877327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1382030386683793408",
+          "start": 0,
+          "username": "RimusTW"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "001b1f4d203740ea"
+    },
+    "id": "2073943185009877327",
+    "in_reply_to_user_id": "1382030386683793408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073766977743819182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RimusTW 我用一个最直接、最直白、最不绕弯子的说法告诉你，申诉失败啦"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [001b1f4d203740ea].",
+      "parameter": "geo.place_id",
+      "resource_id": "001b1f4d203740ea",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "001b1f4d203740ea"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_2073766966050037760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeAEX5aIAAVytI.jpg",
+        "width": 1206
+      },
+      {
+        "height": 142,
+        "media_key": "3_2073766966054309889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeAEX6bUAEruyd.jpg",
+        "width": 218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2073766977743819182",
+        "created_at": "2026-07-06T01:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073943185009877327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1382030386683793408",
+              "start": 0,
+              "username": "RimusTW"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2073943185009877327",
+        "in_reply_to_user_id": "1382030386683793408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073766977743819182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RimusTW 我用一个最直接、最直白、最不绕弯子的说法告诉你，申诉失败啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073766966050037760",
+            "3_2073766966054309889"
+          ]
+        },
+        "author_id": "1382030386683793408",
+        "conversation_id": "2073766977743819182",
+        "created_at": "2026-07-05T13:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073766977743819182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFWwwIf9AJ",
+              "end": 32,
+              "expanded_url": "https://x.com/RimusTW/status/2073766977743819182/photo/1",
+              "media_key": "3_2073766966050037760",
+              "start": 9,
+              "url": "https://t.co/fFWwwIf9AJ"
+            },
+            {
+              "display_url": "pic.x.com/fFWwwIf9AJ",
+              "end": 32,
+              "expanded_url": "https://x.com/RimusTW/status/2073766977743819182/photo/1",
+              "media_key": "3_2073766966054309889",
+              "start": 9,
+              "url": "https://t.co/fFWwwIf9AJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073766977743819182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全失败.jpg https://t.co/fFWwwIf9AJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39645,
+          "following_count": 657,
+          "like_count": 18965,
+          "listed_count": 181,
+          "media_count": 2304,
+          "tweet_count": 15938
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-13T17:58:27.000Z",
+        "description": "普普通通莱姆菌，喜欢科技产物，正在学习编程，随便捣腾摄影，爱好胡乱挖坑⚠️ 上海摸鱼🐈‍⬛｜佛系百合厨，正经双性恋，TG群组纵火犯，在迷茫和矛盾中前行｜🌌 感谢大家的陪伴 🌃 无论是今天明天还是昨天，祝你天天开心！｜ 淡推中 对象: @Lemon_Beebalm ｜我有猫了！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 117,
+                "username": "Lemon_Beebalm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimusdream",
+                "end": 23,
+                "expanded_url": "https://t.me/rimusdream",
+                "start": 0,
+                "url": "https://t.co/6v1fJC2q0i"
+              }
+            ]
+          }
+        },
+        "id": "1382030386683793408",
+        "location": "IP归属地：GN-Z11星系",
+        "name": "莱姆菌 _ 🪁 🍂 ✨",
+        "pinned_tweet_id": "1949920553810465236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668895392476581888/Ap1uwBDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 2545,
+          "like_count": 157139,
+          "listed_count": 15,
+          "media_count": 1777,
+          "tweet_count": 25908
+        },
+        "url": "https://t.co/6v1fJC2q0i",
+        "username": "RimusTW",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081671914398126080"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2081673065872973990",
+    "created_at": "2026-07-27T09:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:25:13.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081672245626511559",
+      "2081673065872973990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kPo2ulNWqX",
+          "end": 99,
+          "expanded_url": "https://x.com/realNyarime/status/2081673065872973990/photo/1",
+          "media_key": "3_2081671914398126080",
+          "start": 76,
+          "url": "https://t.co/kPo2ulNWqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081673065872973990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "O2旗下的英国保号神卡Giffgaff开始清退漫游玩家，大概意思是不允许长期在非英国地区漫游，印象里之前提醒各位推友请勿长期挂着漫游 必要接码时再切卡\n\n我们需要提醒您，在审查您的帐户使用情况后，我们已决定断开您的服务(以XXXX结尾的手机号码)。根据我们的条款和条件，我们的服务主要用于英国境一内使用，漫游仅用于短期旅行。由于您一的使用模式表明在英国境外进行扩展或永久使用，您的帐户不再符合该服务的资格要求。因此，您的服务将很快断开连接，任何相关访问将停止。\n\n请注意，这是我们对此事最后的立场。\n我们感谢您的理解，并感谢您之前的定制。\nGiffgaff团队"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "O2旗下的英国保号神卡Giffgaff开始清退漫游玩家，大概意思是不允许长期在非英国地区漫游，印象里之前提醒各位推友请勿长期挂着漫游 必要接码时再切卡 https://t.co/kPo2ulNWqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2081671914398126080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOVk7SbkAAytCv.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081671914398126080"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2081672245626511559",
+        "created_at": "2026-07-27T09:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:25:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081672245626511559",
+          "2081673065872973990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLQD619Vc0",
+              "end": 99,
+              "expanded_url": "https://x.com/realNyarime/status/2081672245626511559/photo/1",
+              "media_key": "3_2081671914398126080",
+              "start": 76,
+              "url": "https://t.co/kLQD619Vc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081672245626511559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "O2旗下的英国保号神卡Giffgaff开始清退漫游玩家，大概意思是不允许长期在非英国地区漫游，印象里之前提醒各位推友请勿长期挂着漫游 必要接码时再切卡\n\n我们需要提醒您，在审查您的帐户使用情况后，我们已决定断开您的服务(以XXXX结尾的手机号码)。根据我们的条款和条件，我们的服务主要用于英国境一内使用，漫游仅用于短期旅行。由于您一的使用模式表明在英国境外进行扩展或永久使用，您的帐户不再符合该服务的资格要求。因此，您的服务将很快断开连接，任何相关访问将停止。\n请注意，这是我们对此事最后的立场。\n我们感谢您的理解，并感谢您之前的定制。\nGiffgaff团队"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "O2旗下的英国保号神卡Giffgaff开始清退漫游玩家，大概意思是不允许长期在非英国地区漫游，印象里之前提醒各位推友请勿长期挂着漫游 必要接码时再切卡 https://t.co/kLQD619Vc0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081671914398126080"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2081673065872973990",
+        "created_at": "2026-07-27T09:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:25:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081672245626511559",
+          "2081673065872973990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPo2ulNWqX",
+              "end": 99,
+              "expanded_url": "https://x.com/realNyarime/status/2081673065872973990/photo/1",
+              "media_key": "3_2081671914398126080",
+              "start": 76,
+              "url": "https://t.co/kPo2ulNWqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081673065872973990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "O2旗下的英国保号神卡Giffgaff开始清退漫游玩家，大概意思是不允许长期在非英国地区漫游，印象里之前提醒各位推友请勿长期挂着漫游 必要接码时再切卡\n\n我们需要提醒您，在审查您的帐户使用情况后，我们已决定断开您的服务(以XXXX结尾的手机号码)。根据我们的条款和条件，我们的服务主要用于英国境一内使用，漫游仅用于短期旅行。由于您一的使用模式表明在英国境外进行扩展或永久使用，您的帐户不再符合该服务的资格要求。因此，您的服务将很快断开连接，任何相关访问将停止。\n\n请注意，这是我们对此事最后的立场。\n我们感谢您的理解，并感谢您之前的定制。\nGiffgaff团队"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "O2旗下的英国保号神卡Giffgaff开始清退漫游玩家，大概意思是不允许长期在非英国地区漫游，印象里之前提醒各位推友请勿长期挂着漫游 必要接码时再切卡 https://t.co/kPo2ulNWqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41647,
+          "following_count": 671,
+          "like_count": 20360,
+          "listed_count": 183,
+          "media_count": 2473,
+          "tweet_count": 17095
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

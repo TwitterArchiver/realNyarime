@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066691521504837632",
+        "3_2066691521517371392",
+        "3_2066691521509023745"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "NVIDIA - AI",
+          "id": "10050907860",
+          "name": "NVIDIA - AI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2066692225057296581",
+    "created_at": "2026-06-16T01:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066692225057296581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ibeJPuMcTu",
+          "end": 164,
+          "expanded_url": "https://x.com/realNyarime/status/2066692225057296581/photo/1",
+          "media_key": "3_2066691521504837632",
+          "start": 141,
+          "url": "https://t.co/ibeJPuMcTu"
+        },
+        {
+          "display_url": "pic.x.com/ibeJPuMcTu",
+          "end": 164,
+          "expanded_url": "https://x.com/realNyarime/status/2066692225057296581/photo/1",
+          "media_key": "3_2066691521517371392",
+          "start": 141,
+          "url": "https://t.co/ibeJPuMcTu"
+        },
+        {
+          "display_url": "pic.x.com/ibeJPuMcTu",
+          "end": 164,
+          "expanded_url": "https://x.com/realNyarime/status/2066692225057296581/photo/1",
+          "media_key": "3_2066691521509023745",
+          "start": 141,
+          "url": "https://t.co/ibeJPuMcTu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066692225057296581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狗招跟汇丰劈腿后找了MiniMax，可惜我不是新户，要成为新户得全销了等半年\n三选一，1个月Max顶2个月Plus，或1个月Plus+MaxClaw基础版\n\n感觉要选也就只有AI Plan 1有点用，但是MiniMax好用吗？在我印象里这一直是NVIDIA NIM中的免费模型之一 https://t.co/ibeJPuMcTu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1715,
+        "media_key": "3_2066691521504837632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5c_S-bgAAikGG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2093,
+        "media_key": "3_2066691521517371392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5c_TBawAAJHnp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2087,
+        "media_key": "3_2066691521509023745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5c_S_bYAEXfjS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066691521504837632",
+            "3_2066691521517371392",
+            "3_2066691521509023745"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "NVIDIA - AI",
+              "id": "10050907860",
+              "name": "NVIDIA - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2066692225057296581",
+        "created_at": "2026-06-16T01:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066692225057296581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibeJPuMcTu",
+              "end": 164,
+              "expanded_url": "https://x.com/realNyarime/status/2066692225057296581/photo/1",
+              "media_key": "3_2066691521504837632",
+              "start": 141,
+              "url": "https://t.co/ibeJPuMcTu"
+            },
+            {
+              "display_url": "pic.x.com/ibeJPuMcTu",
+              "end": 164,
+              "expanded_url": "https://x.com/realNyarime/status/2066692225057296581/photo/1",
+              "media_key": "3_2066691521517371392",
+              "start": 141,
+              "url": "https://t.co/ibeJPuMcTu"
+            },
+            {
+              "display_url": "pic.x.com/ibeJPuMcTu",
+              "end": 164,
+              "expanded_url": "https://x.com/realNyarime/status/2066692225057296581/photo/1",
+              "media_key": "3_2066691521509023745",
+              "start": 141,
+              "url": "https://t.co/ibeJPuMcTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066692225057296581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗招跟汇丰劈腿后找了MiniMax，可惜我不是新户，要成为新户得全销了等半年\n三选一，1个月Max顶2个月Plus，或1个月Plus+MaxClaw基础版\n\n感觉要选也就只有AI Plan 1有点用，但是MiniMax好用吗？在我印象里这一直是NVIDIA NIM中的免费模型之一 https://t.co/ibeJPuMcTu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37853,
+          "following_count": 656,
+          "like_count": 17620,
+          "listed_count": 175,
+          "media_count": 2159,
+          "tweet_count": 14581
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

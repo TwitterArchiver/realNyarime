@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2022931465542209716",
+    "created_at": "2026-02-15T10:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022987567298387988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1671111271612293120",
+          "start": 0,
+          "username": "st7evechou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022987567298387988",
+    "in_reply_to_user_id": "1671111271612293120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022931465542209716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@st7evechou 我第一台买的是13寸的Air，扬声器不好听就算了，他顶上的那个任务栏，你放东西是没地方放的。\n除非把分辨率手动改一下，也就是Windows说的降低DPI，或者干脆就是Type-C一线连到显示器。\n反正就是牺牲续航换体验，最难的就是取舍问题，别的都还好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2022931465542209716",
+        "created_at": "2026-02-15T10:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022987567298387988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671111271612293120",
+              "start": 0,
+              "username": "st7evechou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022987567298387988",
+        "in_reply_to_user_id": "1671111271612293120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022931465542209716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@st7evechou 我第一台买的是13寸的Air，扬声器不好听就算了，他顶上的那个任务栏，你放东西是没地方放的。\n除非把分辨率手动改一下，也就是Windows说的降低DPI，或者干脆就是Type-C一线连到显示器。\n反正就是牺牲续航换体验，最难的就是取舍问题，别的都还好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671111271612293120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2022931465542209716",
+        "created_at": "2026-02-15T07:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022931465542209716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yan_mind/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yan_mind/status/2022915823317459394",
+              "start": 19,
+              "url": "https://t.co/6hPifpppMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022931465542209716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3047,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022915823317459394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "16 寸 MBP 真的太重了🤦‍♂️ https://t.co/6hPifpppMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2022612268106838252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14313,
+          "following_count": 550,
+          "like_count": 10112,
+          "listed_count": 58,
+          "media_count": 909,
+          "tweet_count": 7321
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-20T11:02:37.000Z",
+        "description": "我是 Steve 。SteveWatch / SteveFans / StevePinyin 开发者 / YouTuber / 数码爱好者 / Tesla 车主 / Apple Fans / APP 安利推广者/🈲政治。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssurge.me",
+                "end": 23,
+                "expanded_url": "https://ssurge.me",
+                "start": 0,
+                "url": "https://t.co/Jy4s3ySrhy"
+              }
+            ]
+          }
+        },
+        "id": "1671111271612293120",
+        "name": "𝗦𝘁𝗲𝘃𝗲 𝕏",
+        "pinned_tweet_id": "1817727456461386036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941409364998524928/OBsW1axO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15505,
+          "following_count": 522,
+          "like_count": 5965,
+          "listed_count": 105,
+          "media_count": 2921,
+          "tweet_count": 9833
+        },
+        "url": "https://t.co/Jy4s3ySrhy",
+        "username": "st7evechou",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070095608787202295",
+    "created_at": "2026-06-25T12:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070121689321783431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "837852476929781761",
+          "start": 0,
+          "username": "cn_LittleYu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070121689321783431",
+    "in_reply_to_user_id": "837852476929781761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070121594270503170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cn_LittleYu 我不太懂，我在日本都是打车"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070095608787202295",
+        "created_at": "2026-06-25T12:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070121689321783431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "837852476929781761",
+              "start": 0,
+              "username": "cn_LittleYu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070121689321783431",
+        "in_reply_to_user_id": "837852476929781761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070121594270503170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cn_LittleYu 我不太懂，我在日本都是打车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "837852476929781761",
+        "conversation_id": "2070095608787202295",
+        "created_at": "2026-06-25T12:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070121594270503170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070121594270503170",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070095608787202295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 相铁线 山手线 延迟，影响他去成田机场吗？相铁线在南边，品川那边，成田在北边。\n去成田要么上野坐 Skyliner，要么东京坐 エクスプレス，就算 JO 坐到千叶转成田线，也和相铁线没半毛钱关系（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38413,
+          "following_count": 662,
+          "like_count": 18383,
+          "listed_count": 179,
+          "media_count": 2238,
+          "tweet_count": 15387
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-04T02:29:31.000Z",
+        "description": "只会端茶送水和电脑开关机的混子程序员 / 不肥不宅的二刺螈 / 买不起Supreme的popping dancer / 脱离高级趣味的现充 / おじさん構文 😁❗",
+        "id": "837852476929781761",
+        "location": "西安市雁塔区大雁塔701室",
+        "name": "poppinzhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950633997794529280/i4dNa0Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 195,
+          "like_count": 2977,
+          "listed_count": 22,
+          "media_count": 953,
+          "tweet_count": 4037
+        },
+        "url": "",
+        "username": "cn_LittleYu",
+        "verified": false
+      }
+    ]
+  }
+}

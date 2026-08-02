@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "1999561550458155118",
+    "created_at": "2025-12-12T19:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T20:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999563130314137868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1160910034387263489",
+          "start": 0,
+          "username": "WFW12313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999563130314137868",
+    "in_reply_to_user_id": "1160910034387263489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999561550458155118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WFW12313 好诶～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_1999561536335974401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_en4fXEAEylhU.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_1999561536344358916",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_en4hXAAQo4Wb.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_1999561536323338241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_en4cWQAEk-Oh.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2108,
+        "media_key": "3_1999561536319156226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_en4bWcAIKm6D.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "1999561550458155118",
+        "created_at": "2025-12-12T19:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T20:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999563130314137868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1160910034387263489",
+              "start": 0,
+              "username": "WFW12313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999563130314137868",
+        "in_reply_to_user_id": "1160910034387263489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999561550458155118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WFW12313 好诶～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999561536335974401",
+            "3_1999561536344358916",
+            "3_1999561536323338241",
+            "3_1999561536319156226"
+          ]
+        },
+        "author_id": "1160910034387263489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1227714833300090881",
+              "name": "Google Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1999561550458155118",
+        "created_at": "2025-12-12T19:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T20:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999561550458155118"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Google Fi",
+              "probability": 0.4423,
+              "start": 7,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1wEa2kNKcS",
+              "end": 40,
+              "expanded_url": "https://x.com/WFW12313/status/1999561550458155118/photo/1",
+              "media_key": "3_1999561536335974401",
+              "start": 17,
+              "url": "https://t.co/1wEa2kNKcS"
+            },
+            {
+              "display_url": "pic.x.com/1wEa2kNKcS",
+              "end": 40,
+              "expanded_url": "https://x.com/WFW12313/status/1999561550458155118/photo/1",
+              "media_key": "3_1999561536344358916",
+              "start": 17,
+              "url": "https://t.co/1wEa2kNKcS"
+            },
+            {
+              "display_url": "pic.x.com/1wEa2kNKcS",
+              "end": 40,
+              "expanded_url": "https://x.com/WFW12313/status/1999561550458155118/photo/1",
+              "media_key": "3_1999561536323338241",
+              "start": 17,
+              "url": "https://t.co/1wEa2kNKcS"
+            },
+            {
+              "display_url": "pic.x.com/1wEa2kNKcS",
+              "end": 40,
+              "expanded_url": "https://x.com/WFW12313/status/1999561550458155118/photo/1",
+              "media_key": "3_1999561536319156226",
+              "start": 17,
+              "url": "https://t.co/1wEa2kNKcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999561550458155118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和記3 vs Google Fi https://t.co/1wEa2kNKcS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1980325458756743246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748210295873536/pIkwHPVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3007,
+          "following_count": 756,
+          "like_count": 8165,
+          "listed_count": 8,
+          "media_count": 495,
+          "tweet_count": 4497
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-12T13:44:55.000Z",
+        "description": "亮起的星星總有熄滅嘅一天🌟被你發現白燁了w！是一隻藍色的可愛小狗耶，可能平時憨憨的兄弟設哥哥@Yih122 小短尾w設定名字（白樺）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "Yih122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/1B6BVuMv…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/1B6BVuMvC5/?mibextid=LQQJ4d",
+                "start": 0,
+                "url": "https://t.co/HSSKR74f2w"
+              }
+            ]
+          }
+        },
+        "id": "1160910034387263489",
+        "name": "白烨-BAiYEEEE",
+        "pinned_tweet_id": "1763171859145871817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999178234802634754/389zH2PV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 375,
+          "like_count": 27153,
+          "listed_count": 11,
+          "media_count": 644,
+          "tweet_count": 8358
+        },
+        "url": "https://t.co/HSSKR74f2w",
+        "username": "WFW12313",
+        "verified": false
+      }
+    ]
+  }
+}

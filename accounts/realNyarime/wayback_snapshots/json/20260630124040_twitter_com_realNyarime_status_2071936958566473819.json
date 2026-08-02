@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071936948013268992"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2071936698829914149",
+    "created_at": "2026-06-30T12:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071936958566473819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Explore this post and more from the ClaudeAI community",
+          "display_url": "reddit.com/r/ClaudeAI/com…",
+          "end": 32,
+          "expanded_url": "https://www.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/",
+          "images": [
+            {
+              "height": 584,
+              "url": "https://pbs.twimg.com/news_img/2071872708762296320/sMBB_caV?format=jpg&name=orig",
+              "width": 1120
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2071872708762296320/sMBB_caV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 9,
+          "status": 200,
+          "title": "From the ClaudeAI community on Reddit",
+          "unwound_url": "https://www.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/",
+          "url": "https://t.co/yCeLPsZx4s"
+        },
+        {
+          "display_url": "pic.x.com/4NV4oTXMoW",
+          "end": 86,
+          "expanded_url": "https://x.com/realNyarime/status/2071936958566473819/photo/1",
+          "media_key": "3_2071936948013268992",
+          "start": 63,
+          "url": "https://t.co/4NV4oTXMoW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071936958566473819",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071936698829914149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Reddit原帖：https://t.co/yCeLPsZx4s\n附上使用 Base64 + XOR91 解码的完整域名列表 https://t.co/4NV4oTXMoW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "3_2071936948013268992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD_rTdWgAA0w3z.png",
+        "width": 1124
+      },
+      {
+        "height": 710,
+        "media_key": "3_2071936064134971392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD-32wWAAAzYxT.jpg",
+        "width": 1280
+      },
+      {
+        "height": 494,
+        "media_key": "3_2071936072393596928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD-4VhWoAAAwWx.jpg",
+        "width": 1210
+      },
+      {
+        "height": 479,
+        "media_key": "3_2071936109865512960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD-6hHWsAA3Wm_.jpg",
+        "width": 1280
+      },
+      {
+        "height": 846,
+        "media_key": "3_2071936133475258369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD-75EW0AEcmyo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071936948013268992"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2071936698829914149",
+        "created_at": "2026-06-30T12:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071936958566473819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Explore this post and more from the ClaudeAI community",
+              "display_url": "reddit.com/r/ClaudeAI/com…",
+              "end": 32,
+              "expanded_url": "https://www.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/",
+              "images": [
+                {
+                  "height": 584,
+                  "url": "https://pbs.twimg.com/news_img/2071872708762296320/sMBB_caV?format=jpg&name=orig",
+                  "width": 1120
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071872708762296320/sMBB_caV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 9,
+              "status": 200,
+              "title": "From the ClaudeAI community on Reddit",
+              "unwound_url": "https://www.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/",
+              "url": "https://t.co/yCeLPsZx4s"
+            },
+            {
+              "display_url": "pic.x.com/4NV4oTXMoW",
+              "end": 86,
+              "expanded_url": "https://x.com/realNyarime/status/2071936958566473819/photo/1",
+              "media_key": "3_2071936948013268992",
+              "start": 63,
+              "url": "https://t.co/4NV4oTXMoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071936958566473819",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071936698829914149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Reddit原帖：https://t.co/yCeLPsZx4s\n附上使用 Base64 + XOR91 解码的完整域名列表 https://t.co/4NV4oTXMoW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071936064134971392",
+            "3_2071936072393596928",
+            "3_2071936109865512960",
+            "3_2071936133475258369"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2071936698829914149",
+        "created_at": "2026-06-30T12:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071936698829914149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQiIxihVOA",
+              "end": 214,
+              "expanded_url": "https://x.com/realNyarime/status/2071936698829914149/photo/1",
+              "media_key": "3_2071936064134971392",
+              "start": 191,
+              "url": "https://t.co/NQiIxihVOA"
+            },
+            {
+              "display_url": "pic.x.com/NQiIxihVOA",
+              "end": 214,
+              "expanded_url": "https://x.com/realNyarime/status/2071936698829914149/photo/1",
+              "media_key": "3_2071936072393596928",
+              "start": 191,
+              "url": "https://t.co/NQiIxihVOA"
+            },
+            {
+              "display_url": "pic.x.com/NQiIxihVOA",
+              "end": 214,
+              "expanded_url": "https://x.com/realNyarime/status/2071936698829914149/photo/1",
+              "media_key": "3_2071936109865512960",
+              "start": 191,
+              "url": "https://t.co/NQiIxihVOA"
+            },
+            {
+              "display_url": "pic.x.com/NQiIxihVOA",
+              "end": 214,
+              "expanded_url": "https://x.com/realNyarime/status/2071936698829914149/photo/1",
+              "media_key": "3_2071936133475258369",
+              "start": 191,
+              "url": "https://t.co/NQiIxihVOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071936698829914149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Claude Code 2.1.91 被指隐蔽进行遥测，暗传代理与时区信息\n一名发布逆向分析的用户称，Claude Code 自 2026 年 4 月发布的 2.1.91 起，会在启用 proxy 时检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，并判断 proxy URL 是否指向中国域名或中国 AI 实验室，再通过改写 system prompt 中的日期格式和“Today’s date is”的 Unicode 撇号，把结果编码进发往 Anthropic API 的提示词。\n\nReddit帖文还称，这段逻辑经过 XOR 密钥 91 混淆，更新日志未披露，目的在于识别中国地区的未授权转售、账号滥用或模型蒸馏。争议在于它究竟是隐蔽遥测还是越界监控：反对者指其未告知用户，支持者则认为反滥用措施可以理解，但应更透明。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Claude Code 2.1.91 被指隐蔽进行遥测，暗传代理与时区信息\n一名发布逆向分析的用户称，Claude Code 自 2026 年 4 月发布的 2.1.91 起，会在启用 proxy 时检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，并判断 proxy URL 是否指向中国域名或中国 AI 实验室，再通过改写 system prompt https://t.co/NQiIxihVOA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38751,
+          "following_count": 657,
+          "like_count": 18611,
+          "listed_count": 180,
+          "media_count": 2272,
+          "tweet_count": 15613
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068262485656850876",
+    "created_at": "2026-06-20T17:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068381697864004049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "755182414532599812",
+          "start": 0,
+          "username": "BradNobels"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "7b02fbddf4d9f2c6"
+    },
+    "id": "2068381697864004049",
+    "in_reply_to_user_id": "755182414532599812",
+    "lang": "cs",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068301982008529202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BradNobels 3RYXJWE34KD7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [7b02fbddf4d9f2c6].",
+      "parameter": "geo.place_id",
+      "resource_id": "7b02fbddf4d9f2c6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "7b02fbddf4d9f2c6"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068262485656850876",
+        "created_at": "2026-06-20T17:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068381697864004049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "755182414532599812",
+              "start": 0,
+              "username": "BradNobels"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7b02fbddf4d9f2c6"
+        },
+        "id": "2068381697864004049",
+        "in_reply_to_user_id": "755182414532599812",
+        "lang": "cs",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068301982008529202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BradNobels 3RYXJWE34KD7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "755182414532599812",
+        "conversation_id": "2068262485656850876",
+        "created_at": "2026-06-20T11:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068301982008529202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068301982008529202",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068262485656850876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 为什么前几天用了你的优惠券只减了5刀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38081,
+          "following_count": 658,
+          "like_count": 18019,
+          "listed_count": 179,
+          "media_count": 2194,
+          "tweet_count": 14968
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-18T23:28:13.000Z",
+        "description": "叫我猪哥 🐷 | 满世界溜达，分享生活里的好玩日常。\nCall me Zhuge 🐷 | Exploring the world and sharing daily laughs.",
+        "id": "755182414532599812",
+        "location": "Palau",
+        "name": "烤猪猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685603073983655936/QiNZcXwy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 793,
+          "like_count": 3694,
+          "listed_count": 6,
+          "media_count": 113,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "BradNobels",
+        "verified": false
+      }
+    ]
+  }
+}

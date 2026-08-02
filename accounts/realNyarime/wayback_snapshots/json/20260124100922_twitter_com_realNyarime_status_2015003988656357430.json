@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015000887073349632",
+        "3_2015000631384424448",
+        "3_2015000643581177856"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1227714833300090881",
+          "name": "Google Fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2015003988656357430",
+    "created_at": "2026-01-24T10:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T11:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015003988656357430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oKuNfr79xw",
+          "end": 172,
+          "expanded_url": "https://x.com/realNyarime/status/2015003988656357430/photo/1",
+          "media_key": "3_2015000887073349632",
+          "start": 149,
+          "url": "https://t.co/oKuNfr79xw"
+        },
+        {
+          "display_url": "pic.x.com/oKuNfr79xw",
+          "end": 172,
+          "expanded_url": "https://x.com/realNyarime/status/2015003988656357430/photo/1",
+          "media_key": "3_2015000631384424448",
+          "start": 149,
+          "url": "https://t.co/oKuNfr79xw"
+        },
+        {
+          "display_url": "pic.x.com/oKuNfr79xw",
+          "end": 172,
+          "expanded_url": "https://x.com/realNyarime/status/2015003988656357430/photo/1",
+          "media_key": "3_2015000643581177856",
+          "start": 149,
+          "url": "https://t.co/oKuNfr79xw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015003988656357430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "搞不懂营销号吹Pixel自带谷歌VPN 了，又不是Pixel独享搞不懂有啥好吹的，跟没见过世面一样😅\n用了那么久Google Fi这玩意从来不开，开了以后IP评分大大降低。\n\n再说了g-tun就是个VPN，非常不好用。谷歌会在你每使用1G流量的后，再次对原始IP进行检测。如果此时检测到你的 IP 不在上述地区了，就会强制断开 VPN 连接。\n自己用GCP开个免费VPS每个月200G流量也一样的，有啥稀奇的。\n\n最有用的还得是初代Pixel，还可以给你无损存图片。相比于后续Pixel提供的VPN功能锁区难用，我只觉得这个福利最香，至今我还拿着它备份图片。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "搞不懂营销号吹Pixel自带谷歌VPN 了，又不是Pixel独享搞不懂有啥好吹的，跟没见过世面一样😅\n用了那么久Google Fi这玩意从来不开，开了以后IP评分大大降低。\n\n再说了g-tun就是个VPN，非常不好用。谷歌会在你每使用1G流量的后，再次对原始IP进行检测。如果此时检测到你的 IP https://t.co/oKuNfr79xw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2015000887073349632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_a4oYAaoAArhVN.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2425,
+        "media_key": "3_2015000631384424448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_a4ZffbQAAw6Dh.jpg",
+        "width": 2248
+      },
+      {
+        "height": 2416,
+        "media_key": "3_2015000643581177856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_a4aM7W8AA_29_.jpg",
+        "width": 2244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015000887073349632",
+            "3_2015000631384424448",
+            "3_2015000643581177856"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1227714833300090881",
+              "name": "Google Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2015003988656357430",
+        "created_at": "2026-01-24T10:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015003988656357430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKuNfr79xw",
+              "end": 172,
+              "expanded_url": "https://x.com/realNyarime/status/2015003988656357430/photo/1",
+              "media_key": "3_2015000887073349632",
+              "start": 149,
+              "url": "https://t.co/oKuNfr79xw"
+            },
+            {
+              "display_url": "pic.x.com/oKuNfr79xw",
+              "end": 172,
+              "expanded_url": "https://x.com/realNyarime/status/2015003988656357430/photo/1",
+              "media_key": "3_2015000631384424448",
+              "start": 149,
+              "url": "https://t.co/oKuNfr79xw"
+            },
+            {
+              "display_url": "pic.x.com/oKuNfr79xw",
+              "end": 172,
+              "expanded_url": "https://x.com/realNyarime/status/2015003988656357430/photo/1",
+              "media_key": "3_2015000643581177856",
+              "start": 149,
+              "url": "https://t.co/oKuNfr79xw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015003988656357430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "搞不懂营销号吹Pixel自带谷歌VPN 了，又不是Pixel独享搞不懂有啥好吹的，跟没见过世面一样😅\n用了那么久Google Fi这玩意从来不开，开了以后IP评分大大降低。\n\n再说了g-tun就是个VPN，非常不好用。谷歌会在你每使用1G流量的后，再次对原始IP进行检测。如果此时检测到你的 IP 不在上述地区了，就会强制断开 VPN 连接。\n自己用GCP开个免费VPS每个月200G流量也一样的，有啥稀奇的。\n\n最有用的还得是初代Pixel，还可以给你无损存图片。相比于后续Pixel提供的VPN功能锁区难用，我只觉得这个福利最香，至今我还拿着它备份图片。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞不懂营销号吹Pixel自带谷歌VPN 了，又不是Pixel独享搞不懂有啥好吹的，跟没见过世面一样😅\n用了那么久Google Fi这玩意从来不开，开了以后IP评分大大降低。\n\n再说了g-tun就是个VPN，非常不好用。谷歌会在你每使用1G流量的后，再次对原始IP进行检测。如果此时检测到你的 IP https://t.co/oKuNfr79xw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10344,
+          "following_count": 587,
+          "like_count": 9748,
+          "listed_count": 36,
+          "media_count": 797,
+          "tweet_count": 6714
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

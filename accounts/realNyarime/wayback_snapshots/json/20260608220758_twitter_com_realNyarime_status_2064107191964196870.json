@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2064104285974278476",
+    "created_at": "2026-06-08T22:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T23:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064107191964196870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "46585371",
+          "start": 0,
+          "username": "m0d8ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064107191964196870",
+    "in_reply_to_user_id": "46585371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064104285974278476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m0d8ye 模型已经1T了啊，我还在用1M上下文，这么快……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2064104285974278476",
+        "created_at": "2026-06-08T22:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T23:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064107191964196870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "46585371",
+              "start": 0,
+              "username": "m0d8ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064107191964196870",
+        "in_reply_to_user_id": "46585371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064104285974278476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m0d8ye 模型已经1T了啊，我还在用1M上下文，这么快……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46585371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2064104285974278476",
+        "created_at": "2026-06-08T21:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064104285974278476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomimimo/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/xiaomimimo/status/2063993790587904362",
+              "start": 53,
+              "url": "https://t.co/pQ0gSkpCSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064104285974278476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063993790587904362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1T 模型跑在 8 卡系统达到 1000 tokens/sec 这不就是明牌 B300 NVL8 了吗？ https://t.co/pQ0gSkpCSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37014,
+          "following_count": 654,
+          "like_count": 17078,
+          "listed_count": 160,
+          "media_count": 2113,
+          "tweet_count": 14102
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-12T04:58:38.000Z",
+        "description": "Chip Architect (2013-Present) | Bitcoin Enthusiast since 2011. Building the future of silicon, hodling the future of finance. Views are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/madeye",
+                "end": 23,
+                "expanded_url": "https://github.com/madeye",
+                "start": 0,
+                "url": "https://t.co/v2E8btO5fS"
+              }
+            ]
+          }
+        },
+        "id": "46585371",
+        "location": "Shanghai, China",
+        "name": "Max Lv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649917814/bio_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18549,
+          "following_count": 266,
+          "like_count": 832,
+          "listed_count": 166,
+          "media_count": 175,
+          "tweet_count": 4960
+        },
+        "url": "https://t.co/v2E8btO5fS",
+        "username": "m0d8ye",
+        "verified": true
+      }
+    ]
+  }
+}

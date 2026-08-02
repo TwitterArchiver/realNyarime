@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007873053032873984"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2007873062881083575",
+    "created_at": "2026-01-04T17:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T18:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007873062881083575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0wDFJUW9kU",
+          "end": 47,
+          "expanded_url": "https://x.com/realNyarime/status/2007873062881083575/photo/1",
+          "media_key": "3_2007873053032873984",
+          "start": 24,
+          "url": "https://t.co/0wDFJUW9kU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007873062881083575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现自己又炸毛了\n好吧，是假毛，我又在幻想了😢 https://t.co/0wDFJUW9kU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007873062881083575].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007873062881083575",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007873062881083575"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007873053032873984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91l51AagAAqhnk.jpg",
+        "width": 1070
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2007661593921003936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5499,
+          "following_count": 720,
+          "like_count": 8452,
+          "listed_count": 17,
+          "media_count": 565,
+          "tweet_count": 4978
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

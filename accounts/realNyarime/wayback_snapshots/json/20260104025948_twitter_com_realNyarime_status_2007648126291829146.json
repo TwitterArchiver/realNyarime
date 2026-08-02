@@ -1,0 +1,588 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007648112819769344",
+        "3_2007648112781996036"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "GPS & Maps",
+          "id": "1037076248877395968",
+          "name": "GPS and maps"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2007648126291829146",
+    "created_at": "2026-01-04T02:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T03:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007648126291829146"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1pytKlWmEt",
+          "end": 109,
+          "expanded_url": "https://x.com/realNyarime/status/2007648126291829146/photo/1",
+          "media_key": "3_2007648112819769344",
+          "start": 86,
+          "url": "https://t.co/1pytKlWmEt"
+        },
+        {
+          "display_url": "pic.x.com/1pytKlWmEt",
+          "end": 109,
+          "expanded_url": "https://x.com/realNyarime/status/2007648126291829146/photo/1",
+          "media_key": "3_2007648112781996036",
+          "start": 86,
+          "url": "https://t.co/1pytKlWmEt"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/realNyarime/status/2007540152156205152",
+          "start": 110,
+          "url": "https://t.co/o76rDeCA9D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007648126291829146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "自iOS26开始，位置判断采用综合因素(包括但不限于GPS，周围wifi，基站等)，尾插可直接将系统判断的位置「修改」到指定地区，从而解锁vowifi限制和欧盟特供功能。\n\n市面上有2款主要的尾插，HHJ（黑）和KKlbs（金）。这是iOS外置定位硬件，和AnyGo的专业模式差不多。在奶昔论坛上也有详细的教程🤗实测位置改到对应地区后(配合本地ip)，成功开启wificalling的运营商。\n\n由于iOS可以代理vowifi流量，这样使用尾插和代理池配合链式代理基本上可以解决全球绝大多数运营商的vowifi定位限制。例如使用CTExcel UK开热点，再用尾插诱骗定位到英国，即可实现在英国境外实现WiFi通话功能。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007540152156205152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自iOS26开始，位置判断采用综合因素(包括但不限于GPS，周围wifi，基站等)，尾插可直接将系统判断的位置「修改」到指定地区，从而解锁vowifi限制和欧盟特供功能。 https://t.co/1pytKlWmEt https://t.co/o76rDeCA9D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1266,
+        "media_key": "3_2007648112819769344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9yZUlabEAAadDM.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2007648112781996036",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9yZUlRasAQsa15.jpg",
+        "width": 1219
+      },
+      {
+        "height": 900,
+        "media_key": "3_2007539248879292416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9w2T3oa0AA0Khq.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1121,
+        "media_key": "3_2007539248879312896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9w2T3obIAAnoMG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007539248879288320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9w2T3oawAADOU7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007648112819769344",
+            "3_2007648112781996036"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2007648126291829146",
+        "created_at": "2026-01-04T02:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007648126291829146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1pytKlWmEt",
+              "end": 109,
+              "expanded_url": "https://x.com/realNyarime/status/2007648126291829146/photo/1",
+              "media_key": "3_2007648112819769344",
+              "start": 86,
+              "url": "https://t.co/1pytKlWmEt"
+            },
+            {
+              "display_url": "pic.x.com/1pytKlWmEt",
+              "end": 109,
+              "expanded_url": "https://x.com/realNyarime/status/2007648126291829146/photo/1",
+              "media_key": "3_2007648112781996036",
+              "start": 86,
+              "url": "https://t.co/1pytKlWmEt"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/realNyarime/status/2007540152156205152",
+              "start": 110,
+              "url": "https://t.co/o76rDeCA9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007648126291829146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "自iOS26开始，位置判断采用综合因素(包括但不限于GPS，周围wifi，基站等)，尾插可直接将系统判断的位置「修改」到指定地区，从而解锁vowifi限制和欧盟特供功能。\n\n市面上有2款主要的尾插，HHJ（黑）和KKlbs（金）。这是iOS外置定位硬件，和AnyGo的专业模式差不多。在奶昔论坛上也有详细的教程🤗实测位置改到对应地区后(配合本地ip)，成功开启wificalling的运营商。\n\n由于iOS可以代理vowifi流量，这样使用尾插和代理池配合链式代理基本上可以解决全球绝大多数运营商的vowifi定位限制。例如使用CTExcel UK开热点，再用尾插诱骗定位到英国，即可实现在英国境外实现WiFi通话功能。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007540152156205152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自iOS26开始，位置判断采用综合因素(包括但不限于GPS，周围wifi，基站等)，尾插可直接将系统判断的位置「修改」到指定地区，从而解锁vowifi限制和欧盟特供功能。 https://t.co/1pytKlWmEt https://t.co/o76rDeCA9D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007539248879292416",
+            "3_2007539248879312896",
+            "3_2007539248879288320"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2007540152156205152",
+        "created_at": "2026-01-03T19:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T20:47:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007539267745259588",
+          "2007540152156205152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iixI1PZfg",
+              "end": 182,
+              "expanded_url": "https://x.com/realNyarime/status/2007540152156205152/photo/1",
+              "media_key": "3_2007539248879292416",
+              "start": 159,
+              "url": "https://t.co/8iixI1PZfg"
+            },
+            {
+              "display_url": "pic.x.com/8iixI1PZfg",
+              "end": 182,
+              "expanded_url": "https://x.com/realNyarime/status/2007540152156205152/photo/1",
+              "media_key": "3_2007539248879312896",
+              "start": 159,
+              "url": "https://t.co/8iixI1PZfg"
+            },
+            {
+              "display_url": "pic.x.com/8iixI1PZfg",
+              "end": 182,
+              "expanded_url": "https://x.com/realNyarime/status/2007540152156205152/photo/1",
+              "media_key": "3_2007539248879288320",
+              "start": 159,
+              "url": "https://t.co/8iixI1PZfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007540152156205152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🇬🇧英国保号神卡Giffgaff停发中国后，近期“杀号”的事在奶昔论坛上挺火的，很多小伙伴都担心长期漫游会被gg暂停服务。\n\n查阅了条款2.9，违反“欧洲及特定目的地短期旅行”是累计达到63天或更久，且无法证明主要使用地或常住地在英国，这将被视为不公平使用。另外3.9也提到suspend是针对SIM卡，而不是杀号。\n\n通常来说，Giffgaff的保号需要180天动一次余额，打个电话、发个短信或开关下“数据漫游就好了”。因此建议在需要使用Giffgaff时使用该卡，或是通过WiFi通话（需英国IP）下使用，以免长期漫游而导致SIM卡服务被终止。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 7598,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🇬🇧英国保号神卡Giffgaff停发中国后，近期“杀号”的事在奶昔论坛上挺火的，很多小伙伴都担心长期漫游会被gg暂停服务。\n\n查阅了条款2.9，违反“欧洲及特定目的地短期旅行”是累计达到63天或更久，且无法证明主要使用地或常住地在英国，这将被视为不公平使用。另外3.9也提到suspend是针对SIM卡，而不是杀号。 https://t.co/8iixI1PZfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4327,
+          "following_count": 683,
+          "like_count": 8426,
+          "listed_count": 15,
+          "media_count": 551,
+          "tweet_count": 4881
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

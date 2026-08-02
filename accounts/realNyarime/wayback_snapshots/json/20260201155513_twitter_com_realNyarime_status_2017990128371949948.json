@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2017971808939765930",
+    "created_at": "2026-02-01T15:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T16:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017990128371949948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "933314979800870913",
+          "start": 0,
+          "username": "luoluo_miaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017990128371949948",
+    "in_reply_to_user_id": "933314979800870913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017971808939765930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoluo_miaomiao 独自rle真的好勇敢。。。我也想😥"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2017971808939765930].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2017971808939765930",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2017971808939765930"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2017971808939765930",
+        "created_at": "2026-02-01T15:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017990128371949948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "933314979800870913",
+              "start": 0,
+              "username": "luoluo_miaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017990128371949948",
+        "in_reply_to_user_id": "933314979800870913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017971808939765930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoluo_miaomiao 独自rle真的好勇敢。。。我也想😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12821,
+          "following_count": 580,
+          "like_count": 9909,
+          "listed_count": 48,
+          "media_count": 842,
+          "tweet_count": 7003
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-22T12:43:26.000Z",
+        "description": "打工含糖小跨妹一只，想拥有可爱的外表和可爱的内心，想永远爱与被爱",
+        "id": "933314979800870913",
+        "location": "北京",
+        "name": "落落莓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975452678361858050/H29jN-Ut_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 183,
+          "like_count": 55,
+          "listed_count": 7,
+          "media_count": 56,
+          "tweet_count": 98
+        },
+        "username": "luoluo_miaomiao",
+        "verified": true
+      }
+    ]
+  }
+}

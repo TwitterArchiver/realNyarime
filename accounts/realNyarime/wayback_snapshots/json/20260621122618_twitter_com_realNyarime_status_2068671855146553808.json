@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068663596633256298",
+    "created_at": "2026-06-21T12:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068671855146553808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1057875718753800194",
+          "start": 0,
+          "username": "HualinXMN"
+        },
+        {
+          "end": 22,
+          "id": "877482123896037376",
+          "start": 11,
+          "username": "Barbar0ssa"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2068671855146553808",
+    "in_reply_to_user_id": "1057875718753800194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068667297565487215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HualinXMN @Barbar0ssa cdf的袋子，没卖完的要回收"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068663596633256298",
+        "created_at": "2026-06-21T12:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068671855146553808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1057875718753800194",
+              "start": 0,
+              "username": "HualinXMN"
+            },
+            {
+              "end": 22,
+              "id": "877482123896037376",
+              "start": 11,
+              "username": "Barbar0ssa"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2068671855146553808",
+        "in_reply_to_user_id": "1057875718753800194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068667297565487215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HualinXMN @Barbar0ssa cdf的袋子，没卖完的要回收"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057875718753800194",
+        "conversation_id": "2068663596633256298",
+        "created_at": "2026-06-21T12:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068667297565487215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "877482123896037376",
+              "start": 0,
+              "username": "Barbar0ssa"
+            },
+            {
+              "end": 24,
+              "id": "1165044876297134080",
+              "start": 12,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068667297565487215",
+        "in_reply_to_user_id": "877482123896037376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068665242591355084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Barbar0ssa @realNyarime 机上免税品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38123,
+          "following_count": 658,
+          "like_count": 18112,
+          "listed_count": 178,
+          "media_count": 2206,
+          "tweet_count": 15099
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-01T06:03:20.000Z",
+        "description": "維基人,學生, #BlueArchive ,NPOV (日本語學習中)\n\nBad Apple!!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 8,
+                "tag": "BlueArchive"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.wikipedia.org/zh-hk/User:Hua…",
+                "end": 23,
+                "expanded_url": "https://zh.wikipedia.org/zh-hk/User:HualinXMN",
+                "start": 0,
+                "url": "https://t.co/V6cgubeIKO"
+              }
+            ]
+          }
+        },
+        "id": "1057875718753800194",
+        "location": "星蓮船",
+        "name": "Hualin🎗️希望の星は青霄に昇る",
+        "pinned_tweet_id": "1270717731071856641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1233303840029413378/FzX9cOkq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 4573,
+          "like_count": 28061,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/V6cgubeIKO",
+        "username": "HualinXMN",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-21T11:03:35.000Z",
+        "description": "X平台的街溜子，长期投资者，唱衰加密货币，看多黄金",
+        "id": "877482123896037376",
+        "name": "建设者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025930012927614976/u1t95x07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 5649,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 2466
+        },
+        "url": "",
+        "username": "Barbar0ssa",
+        "verified": true
+      }
+    ]
+  }
+}

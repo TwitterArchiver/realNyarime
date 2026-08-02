@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2073676057677533672",
+    "created_at": "2026-07-05T17:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073814437967053209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720296579406667776",
+          "start": 0,
+          "username": "captain_kent"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "001b1f4d203740ea"
+    },
+    "id": "2073814437967053209",
+    "in_reply_to_user_id": "1720296579406667776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073676057677533672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@captain_kent 认同，但饭局文化真的是我们年轻人不喜欢的，做事情本就是效率第一还要掺杂人情世故，为什么就不能好好的把事情做好、做漂亮呢？\n我觉得实干＞理论，但大部分情况受限于关系户、人情世故等，如果不找当官的攀一脚那项目都不会成\n或者换句话说，这辈子平凡当牛马也是给资本打工，然而工永远是个工字"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [001b1f4d203740ea].",
+      "parameter": "geo.place_id",
+      "resource_id": "001b1f4d203740ea",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "001b1f4d203740ea"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1669,
+        "height": 934,
+        "media_key": "7_2073676044356509696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073676044356509696/pu/img/QdlcHUHz46IqgbiR.jpg",
+        "public_metrics": {
+          "view_count": 6769
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073676044356509696/pu/vid/avc1/320x414/_2JiQBRZ--mO7PkA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073676044356509696/pu/vid/avc1/480x622/EMPgvsPrAlbapBS8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073676044356509696/pu/vid/avc1/720x934/nHeDSfaZxjaOkQO7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073676044356509696/pu/pl/vwAuHk6m26C9n514.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2073676057677533672",
+        "created_at": "2026-07-05T17:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073814437967053209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720296579406667776",
+              "start": 0,
+              "username": "captain_kent"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2073814437967053209",
+        "in_reply_to_user_id": "1720296579406667776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073676057677533672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@captain_kent 认同，但饭局文化真的是我们年轻人不喜欢的，做事情本就是效率第一还要掺杂人情世故，为什么就不能好好的把事情做好、做漂亮呢？\n我觉得实干＞理论，但大部分情况受限于关系户、人情世故等，如果不找当官的攀一脚那项目都不会成\n或者换句话说，这辈子平凡当牛马也是给资本打工，然而工永远是个工字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073676044356509696"
+          ]
+        },
+        "author_id": "1720296579406667776",
+        "conversation_id": "2073676057677533672",
+        "created_at": "2026-07-05T07:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073676057677533672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMeHhW99k3",
+              "end": 140,
+              "expanded_url": "https://x.com/captain_kent/status/2073676057677533672/video/1",
+              "media_key": "7_2073676044356509696",
+              "start": 117,
+              "url": "https://t.co/bMeHhW99k3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073676057677533672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "BD组局的五大傻逼行为：\n\n1、不控制人数，挤的动不了筷。组局是为了来深入交流，不是来撒网的。\n\n2、感觉自己有权了，瞎喊些无关的熟人才蹭饭，嘉宾反倒成了外人。\n\n3、怕气氛不够，喊些圈外人凑数，尤其是土推的和盘总，气氛就无比诡异。\n\n4、把自己当领导，开饭前要慷慨致辞，演讲个半小时，搞的动不了筷。\n\n5、不限制他人带人，什么小孩子、老母亲都来了，变成了家庭局。\n\n总结，商务局是来识人的，通过交流，观察对方有没有合作空间，而不是吃顿饭就达成了业绩，更不是私人饭局，七大姑八大姨的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 33453,
+          "like_count": 74,
+          "quote_count": 3,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "BD组局的五大傻逼行为：\n\n1、不控制人数，挤的动不了筷。组局是为了来深入交流，不是来撒网的。\n\n2、感觉自己有权了，瞎喊些无关的熟人才蹭饭，嘉宾反倒成了外人。\n\n3、怕气氛不够，喊些圈外人凑数，尤其是土推的和盘总，气氛就无比诡异。 https://t.co/bMeHhW99k3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39547,
+          "following_count": 658,
+          "like_count": 18903,
+          "listed_count": 183,
+          "media_count": 2301,
+          "tweet_count": 15892
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T04:27:30.000Z",
+        "description": "⚓️ 体制裸辞放飞 | 以人性观百态\n👁‍🗨 Web3・AI・财经・法政・世界杯\n💼 Solar / Arbitrum / Sapien / Jupiter",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/greatkent",
+                "end": 23,
+                "expanded_url": "http://t.me/greatkent",
+                "start": 0,
+                "url": "https://t.co/Ipv9a2C25C"
+              }
+            ]
+          }
+        },
+        "id": "1720296579406667776",
+        "location": "📨 TG：",
+        "name": "Captain Kent | 肯特船长🪶",
+        "pinned_tweet_id": "2069777818142310412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056229899476815872/P6cfqeym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35081,
+          "following_count": 4611,
+          "like_count": 94490,
+          "listed_count": 193,
+          "media_count": 2687,
+          "tweet_count": 83407
+        },
+        "url": "https://t.co/Ipv9a2C25C",
+        "username": "captain_kent",
+        "verified": true
+      }
+    ]
+  }
+}

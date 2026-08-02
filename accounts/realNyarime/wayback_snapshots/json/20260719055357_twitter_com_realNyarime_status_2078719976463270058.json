@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2078718704519717207",
+    "created_at": "2026-07-19T05:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078719976463270058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4593484452",
+          "start": 0,
+          "username": "AprilNEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078719976463270058",
+    "in_reply_to_user_id": "4593484452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078718704519717207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AprilNEA chromium的锅。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_2078718691836035072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkXov7aAAArYon.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2078718704519717207",
+        "created_at": "2026-07-19T05:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078719976463270058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4593484452",
+              "start": 0,
+              "username": "AprilNEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078719976463270058",
+        "in_reply_to_user_id": "4593484452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078718704519717207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AprilNEA chromium的锅。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078718691836035072"
+          ]
+        },
+        "author_id": "4593484452",
+        "conversation_id": "2078718704519717207",
+        "created_at": "2026-07-19T05:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078718704519717207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dm4QFfYHBn",
+              "end": 175,
+              "expanded_url": "https://x.com/AprilNEA/status/2078718704519717207/photo/1",
+              "media_key": "3_2078718691836035072",
+              "start": 152,
+              "url": "https://t.co/Dm4QFfYHBn"
+            },
+            {
+              "display_url": "x.com/AprilNEA/statu…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/AprilNEA/status/2078492691638427804",
+              "start": 176,
+              "url": "https://t.co/mrShVK2EDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078718704519717207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078492691638427804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里说的是安装包一般是经过压缩的格式，打开最高压缩再配合一些手段之后确实有可能把 Electron 项目压进 100MB 以内。裸打一个 Electron 空壳大概在 80MB 左右。常规手段还有精简locales/移除WebGL/替换 ffmpeg等，还有一些邪修道路比如进一步裁剪 Chromium https://t.co/Dm4QFfYHBn https://t.co/mrShVK2EDE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40397,
+          "following_count": 665,
+          "like_count": 19663,
+          "listed_count": 184,
+          "media_count": 2397,
+          "tweet_count": 16580
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-18T12:17:37.000Z",
+        "description": "Founder of @arcboxlabs - Build better infrastructure\nFullStack Engineer / OpenSource / Serial Entrepreneur",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "arcboxlabs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aprilnea.me",
+                "end": 23,
+                "expanded_url": "https://aprilnea.me",
+                "start": 0,
+                "url": "https://t.co/6wkUYFqVED"
+              }
+            ]
+          }
+        },
+        "id": "4593484452",
+        "name": "AprilNEA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774315773969969152/UKFxxsfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 480,
+          "like_count": 21800,
+          "listed_count": 18,
+          "media_count": 325,
+          "tweet_count": 1556
+        },
+        "url": "https://t.co/6wkUYFqVED",
+        "username": "AprilNEA",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2009314412319134049",
+    "created_at": "2026-01-08T22:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T23:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009395180777189628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "Cyronanno"
+        },
+        {
+          "end": 18,
+          "id": "1735339449721016322",
+          "start": 11,
+          "username": "tpm_28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009395180777189628",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009390012840988725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyronanno @tpm_28 the same"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2009314412319134049",
+        "created_at": "2026-01-08T22:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T23:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009395180777189628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "Cyronanno"
+            },
+            {
+              "end": 18,
+              "id": "1735339449721016322",
+              "start": 11,
+              "username": "tpm_28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009395180777189628",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009390012840988725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyronanno @tpm_28 the same"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426015810472972298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2009314412319134049",
+        "created_at": "2026-01-08T22:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T23:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009390012840988725"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Windows",
+              "probability": 0.9288,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "BitLocker",
+              "probability": 0.5906,
+              "start": 97,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1735339449721016322",
+              "start": 0,
+              "username": "tpm_28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009390012840988725",
+        "in_reply_to_user_id": "1735339449721016322",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009314412319134049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tpm_28 Every time I got my new Windows laptop the first thing I do will always be disabling the BitLocker\nIt really sucks…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008425765751185868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 730,
+          "like_count": 8667,
+          "listed_count": 21,
+          "media_count": 642,
+          "tweet_count": 5403
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ﾅﾁｮ､fbk推し | ガジェット | アークナイツ(大陸情報あり)/音ゲー/maimaiDX",
+        "id": "1426015810472972298",
+        "name": "アノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000991802552377344/luZsoLn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 894,
+          "like_count": 167590,
+          "listed_count": 4,
+          "media_count": 4291,
+          "tweet_count": 18199
+        },
+        "username": "Cyronanno",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-14T16:42:40.000Z",
+        "description": "| developer (mostly C#) |\nI tweet about all kinds of topics but mostly about anything related to computing and anime | I am a robot",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tpm28.com",
+                "end": 23,
+                "expanded_url": "https://tpm28.com/",
+                "start": 0,
+                "url": "https://t.co/El15srVx9L"
+              }
+            ]
+          }
+        },
+        "id": "1735339449721016322",
+        "location": "🥖",
+        "name": "TPM-28",
+        "pinned_tweet_id": "1947332254373417288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871240758029680640/eZEhsSzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 316,
+          "like_count": 46102,
+          "listed_count": 16,
+          "media_count": 1053,
+          "tweet_count": 3175
+        },
+        "url": "https://t.co/El15srVx9L",
+        "username": "tpm_28",
+        "verified": false
+      }
+    ]
+  }
+}

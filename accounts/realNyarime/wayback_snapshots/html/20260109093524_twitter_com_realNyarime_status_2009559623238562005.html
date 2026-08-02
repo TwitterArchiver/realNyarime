@@ -1,0 +1,177 @@
+<!-- Source: https://web.archive.org/web/20260109093524if_/twitter_com_realNyarime_status_2009559623238562005 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="奶昔🥤" src="../avatar/avatar_2004236585307660288.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  奶昔🥤
+  </div>
+  <div class="tweet-author-username">
+  @realNyarime
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  小米手机(HyperOS3)第三方passkey（非Google）教程，省的金凡劫持你的Android通行密钥
+  <br/>
+  <br/>
+  以1Password或Bitwarden为例，操作其实很简单。
+  <br/>
+  先下载一个Edge浏览器或者其他不支持passkey的密码管理器作为切换备用。
+  <br/>
+  <br/>
+  然后，进设置–更多设置–语言和输入法–密码和账号，看看“首选服务”现在是不是小米智能密码管理或者Google。如果是，先改成“无”，再重启一下手机。
+  <br/>
+  <br/>
+  接下来把首选服务改成Edge，这时候返回会多出来几个第三方服务选项。把你想用来接管passkey的软件（比如1Password）打开，其他的都保持关闭。
+  <br/>
+  <br/>
+  然后把首选服务切到1Password，其他服务还是保持关闭。
+  <br/>
+  <br/>
+  重要提醒：
+  <br/>
+  调用passkey之前，记得把第三方密码管理器彻底关闭后台。不然不会拉起来，因为passkey还是要走小米密码管理器透传，不是由第三方软件直接拉起来的(Google除外)。很多人就是这步忽略了，导致passkey时灵时不灵。
+  <br/>
+  <br/>
+  如果你想用Google的passkey，其实更简单，adb把小米的服务冻结掉，首选服务直接选Google就行。
+  <img class="tweet-image" src="../image/20260109093524_pbs.twimg.com_media_G-NjzzhaoAERbju.jpg"/>
+  <img class="tweet-image" src="../image/20260109093524_pbs.twimg.com_media_G-Njz09akAASFnU.jpg"/>
+  <img class="tweet-image" src="../image/20260109093524_pbs.twimg.com_media_G-NjzzpagAAe-ZA.jpg"/>
+  <img class="tweet-image" src="../image/20260109093524_pbs.twimg.com_media_G-NjzzjakAAIlpB.jpg"/>
+  <!-- If there's a quoted tweet, embed it here!-->
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2026-01-09T09:35:24.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

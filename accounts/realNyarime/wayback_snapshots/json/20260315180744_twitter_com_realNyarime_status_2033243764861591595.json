@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+          "id": "1166857805766131714",
+          "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+        }
+      }
+    ],
+    "conversation_id": "2033081025023426716",
+    "created_at": "2026-03-15T18:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T19:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033243764861591595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1369564443961520131",
+          "start": 0,
+          "username": "kuroyei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 59,
+          "expanded_url": "https://x.com/realNyarime/status/2032750517840150790",
+          "start": 36,
+          "url": "https://t.co/ECBcDqH8GL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033243764861591595",
+    "in_reply_to_user_id": "1369564443961520131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032750517840150790",
+        "type": "quoted"
+      },
+      {
+        "id": "2033081025023426716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroyei 你不会买个SingTel吗，非得用你那CMLink？\nhttps://t.co/ECBcDqH8GL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2003,
+        "media_key": "3_2032742108566814720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXALYUagAAlSir.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1122,
+        "media_key": "3_2032742149410926597",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXANweaMAUjLIx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032742750471467010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXAwvmaMAIuHK9.jpg",
+        "width": 1040
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2033081015934369792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDb0aYpbwAAwvt3.jpg",
+        "width": 1355
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2033081025023426716",
+        "created_at": "2026-03-15T18:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T19:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033243764861591595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1369564443961520131",
+              "start": 0,
+              "username": "kuroyei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 59,
+              "expanded_url": "https://x.com/realNyarime/status/2032750517840150790",
+              "start": 36,
+              "url": "https://t.co/ECBcDqH8GL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033243764861591595",
+        "in_reply_to_user_id": "1369564443961520131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032750517840150790",
+            "type": "quoted"
+          },
+          {
+            "id": "2033081025023426716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroyei 你不会买个SingTel吗，非得用你那CMLink？\nhttps://t.co/ECBcDqH8GL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032742108566814720",
+            "3_2032742149410926597",
+            "3_2032742750471467010"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2032750517840150790",
+        "created_at": "2026-03-14T09:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:05:20.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032744878887825651",
+          "2032749806700081609",
+          "2032750406611382317",
+          "2032750517840150790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "eSIM without limits with Roamify’s affordable unlimited and fixed data plans. Covering 200+ destinations worldwide, starting at just $3.",
+              "display_url": "s.ee/getroamify",
+              "end": 112,
+              "expanded_url": "https://s.ee/getroamify",
+              "start": 89,
+              "status": 200,
+              "title": "Roamify - eSIM Call Data",
+              "unwound_url": "https://www.getroamify.com/en/?referrer=SMUPmboDdqhltPhFHHLhrqFIiRv2&utm_source=referral&utm_medium=link&utm_campaign=give3get3&utm_term=DEM9P4FOE&discount_code=DEM9P4FOE",
+              "url": "https://t.co/WeKmiA5B3H"
+            },
+            {
+              "display_url": "pic.x.com/zE6FfK3oNF",
+              "end": 188,
+              "expanded_url": "https://x.com/realNyarime/status/2032750517840150790/photo/1",
+              "media_key": "3_2032742108566814720",
+              "start": 165,
+              "url": "https://t.co/zE6FfK3oNF"
+            },
+            {
+              "display_url": "pic.x.com/zE6FfK3oNF",
+              "end": 188,
+              "expanded_url": "https://x.com/realNyarime/status/2032750517840150790/photo/1",
+              "media_key": "3_2032742149410926597",
+              "start": 165,
+              "url": "https://t.co/zE6FfK3oNF"
+            },
+            {
+              "display_url": "pic.x.com/zE6FfK3oNF",
+              "end": 188,
+              "expanded_url": "https://x.com/realNyarime/status/2032750517840150790/photo/1",
+              "media_key": "3_2032742750471467010",
+              "start": 165,
+              "url": "https://t.co/zE6FfK3oNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032750517840150790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "s.ee/getroamify",
+                "end": 112,
+                "expanded_url": "https://s.ee/getroamify",
+                "start": 89,
+                "url": "https://t.co/JKG4X5yuv6"
+              }
+            ]
+          },
+          "text": "Roamify折扣，必须大于3刀才可以优惠！正好中国大陆10天3GB的eSIM促销3.5刀，折完仅需0.5刀拿下SingTel原生🇸🇬IP，可直接用AI服务！🤗\n\n1）注册新号 https://t.co/JKG4X5yuv6 后登录；\n2）再选China，10天3GB刚好是3.5刀；\n3）应用优惠码（图3）后只需再付0.5刀；\n4）扫码下卡，开启「数据漫游」即可上网！\n\n能买多少个取决于有多少邮箱，使用Stripe可通过Apple Pay或Google Pay结算，也可以使用PayPal支付。\n* 其他地区eSIM也能买就是了，具体组合可以自行研究"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 16206,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Roamify折扣，必须大于3刀才可以优惠！正好中国大陆10天3GB的eSIM促销3.5刀，折完仅需0.5刀拿下SingTel原生🇸🇬IP，可直接用AI服务！🤗\n\n1）注册新号 https://t.co/WeKmiA5B3H 后登录；\n2）再选China，10天3GB刚好是3.5刀；\n3）应用优惠码（图3）后只需再付0.5刀； https://t.co/zE6FfK3oNF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033081015934369792"
+          ]
+        },
+        "author_id": "1369564443961520131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272636957504356352",
+              "name": "Business professions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2033081025023426716",
+        "created_at": "2026-03-15T07:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033081025023426716"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "香港",
+              "probability": 0.9233,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 61,
+              "normalized_text": "香港",
+              "probability": 0.9156,
+              "start": 60,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SnLDV8IhY6",
+              "end": 99,
+              "expanded_url": "https://x.com/kuroyei/status/2033081025023426716/photo/1",
+              "media_key": "3_2033081015934369792",
+              "start": 76,
+              "url": "https://t.co/SnLDV8IhY6"
+            },
+            {
+              "display_url": "x.com/kuroyei/status…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/kuroyei/status/2033080166612873456",
+              "start": 100,
+              "url": "https://t.co/w1j7lUHE7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033081025023426716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17152,
+          "like_count": 125,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033080166612873456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "外国人向けの中国渡航用 SIM は基本的に香港のインターネットに繋がるようになっているので\nGemini は使えないし、香港のネット広告が配信されます https://t.co/SnLDV8IhY6 https://t.co/w1j7lUHE7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21939,
+          "following_count": 516,
+          "like_count": 10934,
+          "listed_count": 92,
+          "media_count": 1136,
+          "tweet_count": 8394
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-10T08:23:17.000Z",
+        "description": "💻📱 HONOR / ✨ 中国旅行, ガジェット, サービス🇨🇳 / 💚 Suicaのペンギン🐧 / 📝 就職👨‍💻←留学🇫🇮←高専👨‍💻 / 🎨 by @motisan_info / ✈️ 旅の様子は https://t.co/WRZRT9mds0 のハイライトをご覧ください！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "motisan_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kuroyei_san",
+                "end": 125,
+                "expanded_url": "http://instagram.com/kuroyei_san",
+                "start": 102,
+                "url": "https://t.co/WRZRT9mds0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuroyei.com",
+                "end": 23,
+                "expanded_url": "http://kuroyei.com",
+                "start": 0,
+                "url": "https://t.co/gJIscY5zrM"
+              }
+            ]
+          }
+        },
+        "id": "1369564443961520131",
+        "location": "📷 in 中国深圳市南山区 on Aug 13, 2025",
+        "name": "くろえいさん🥝",
+        "pinned_tweet_id": "1993931357886562745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679851852110909440/yQS7Tv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8995,
+          "following_count": 939,
+          "like_count": 123920,
+          "listed_count": 47,
+          "media_count": 8921,
+          "tweet_count": 36952
+        },
+        "url": "https://t.co/gJIscY5zrM",
+        "username": "kuroyei",
+        "verified": true
+      }
+    ]
+  }
+}

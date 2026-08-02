@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039810100903505920",
+        "3_2039810100916060160"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "2039855400955330979",
+    "created_at": "2026-04-03T00:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039855400955330979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hVlqwC1NjC",
+          "end": 188,
+          "expanded_url": "https://x.com/realNyarime/status/2039855400955330979/photo/1",
+          "media_key": "3_2039810100903505920",
+          "start": 165,
+          "url": "https://t.co/hVlqwC1NjC"
+        },
+        {
+          "display_url": "pic.x.com/hVlqwC1NjC",
+          "end": 188,
+          "expanded_url": "https://x.com/realNyarime/status/2039855400955330979/photo/1",
+          "media_key": "3_2039810100916060160",
+          "start": 165,
+          "url": "https://t.co/hVlqwC1NjC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039855400955330979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又是早八，看到库迪这个招牌，第一反应居然是：(Cotti Coffee👉🏻Claude Code)\n大脑自动补全了CC，甚至还脑补了Claude的图标，想着今天也要喝一杯克劳德吗？\n\n我甚至想冲进去问老板：\n一杯咖啡需要多少Token？\n这里的咖啡机，是不是调用的 Claude 4.6 Opus？\n可以用代码控制温度和浓度吗？ https://t.co/hVlqwC1NjC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039810100903505920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE7cermbcAAVqys.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039810100916060160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE7cerpbAAAbAfl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039810100903505920",
+            "3_2039810100916060160"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2039855400955330979",
+        "created_at": "2026-04-03T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039855400955330979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVlqwC1NjC",
+              "end": 188,
+              "expanded_url": "https://x.com/realNyarime/status/2039855400955330979/photo/1",
+              "media_key": "3_2039810100903505920",
+              "start": 165,
+              "url": "https://t.co/hVlqwC1NjC"
+            },
+            {
+              "display_url": "pic.x.com/hVlqwC1NjC",
+              "end": 188,
+              "expanded_url": "https://x.com/realNyarime/status/2039855400955330979/photo/1",
+              "media_key": "3_2039810100916060160",
+              "start": 165,
+              "url": "https://t.co/hVlqwC1NjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039855400955330979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是早八，看到库迪这个招牌，第一反应居然是：(Cotti Coffee👉🏻Claude Code)\n大脑自动补全了CC，甚至还脑补了Claude的图标，想着今天也要喝一杯克劳德吗？\n\n我甚至想冲进去问老板：\n一杯咖啡需要多少Token？\n这里的咖啡机，是不是调用的 Claude 4.6 Opus？\n可以用代码控制温度和浓度吗？ https://t.co/hVlqwC1NjC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25384,
+          "following_count": 495,
+          "like_count": 11657,
+          "listed_count": 114,
+          "media_count": 1356,
+          "tweet_count": 9198
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

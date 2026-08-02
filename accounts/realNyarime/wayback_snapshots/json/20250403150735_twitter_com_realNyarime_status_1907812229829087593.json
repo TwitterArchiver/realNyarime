@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026302013",
+          "name": "T-Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1907739804806295577",
+    "created_at": "2025-04-03T15:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T16:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907812229829087593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "619772067",
+          "start": 0,
+          "username": "peter12ji"
+        },
+        {
+          "end": 27,
+          "id": "1138408165014364162",
+          "start": 11,
+          "username": "shiratsuyudachi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Share your VPN connection over hotspot or repeater! (root required) - Mygod/VPNHotspot",
+          "display_url": "github.com/Mygod/VPNHotsp…",
+          "end": 117,
+          "expanded_url": "https://github.com/Mygod/VPNHotspot",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1901531840365895680/wppRvoft?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1901531840365895680/wppRvoft?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 94,
+          "status": 200,
+          "title": "GitHub - Mygod/VPNHotspot: Share your VPN connection over hotspot or repeater! (root required)",
+          "unwound_url": "https://github.com/Mygod/VPNHotspot",
+          "url": "https://t.co/4VsVfBk1Ha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907812229829087593",
+    "in_reply_to_user_id": "619772067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907804222164447619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peter12ji @shiratsuyudachi QR添加的，只要不是太离谱5ber都能加。再配个root过的手机装个VPN热点，就解决了。北美那个T-Mobile好像是要改TTL\nhttps://t.co/4VsVfBk1Ha"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026302013",
+              "name": "T-Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1907739804806295577",
+        "created_at": "2025-04-03T15:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T16:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907812229829087593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "619772067",
+              "start": 0,
+              "username": "peter12ji"
+            },
+            {
+              "end": 27,
+              "id": "1138408165014364162",
+              "start": 11,
+              "username": "shiratsuyudachi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Share your VPN connection over hotspot or repeater! (root required) - Mygod/VPNHotspot",
+              "display_url": "github.com/Mygod/VPNHotsp…",
+              "end": 117,
+              "expanded_url": "https://github.com/Mygod/VPNHotspot",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1901531840365895680/wppRvoft?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1901531840365895680/wppRvoft?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 94,
+              "status": 200,
+              "title": "GitHub - Mygod/VPNHotspot: Share your VPN connection over hotspot or repeater! (root required)",
+              "unwound_url": "https://github.com/Mygod/VPNHotspot",
+              "url": "https://t.co/4VsVfBk1Ha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907812229829087593",
+        "in_reply_to_user_id": "619772067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907804222164447619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peter12ji @shiratsuyudachi QR添加的，只要不是太离谱5ber都能加。再配个root过的手机装个VPN热点，就解决了。北美那个T-Mobile好像是要改TTL\nhttps://t.co/4VsVfBk1Ha"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "619772067",
+        "conversation_id": "1907739804806295577",
+        "created_at": "2025-04-03T14:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907804222164447619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 29,
+              "id": "1138408165014364162",
+              "start": 13,
+              "username": "shiratsuyudachi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907804222164447619",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907756256443642366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @shiratsuyudachi 日本那边的运营商居然不查串号和eid绑定，这我是没想到的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Misaka Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "realYingxi"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1767109982145905132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580046332437594112/p_ttVV6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 692,
+          "like_count": 7209,
+          "listed_count": 6,
+          "media_count": 430,
+          "tweet_count": 3608
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-27T05:04:15.000Z",
+        "description": "protected static final String SexualOrientation =“gay”;",
+        "id": "619772067",
+        "name": "Peter Ji",
+        "pinned_tweet_id": "1555750575442378752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2344985280/___normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 2733,
+          "like_count": 91404,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 13378
+        },
+        "username": "peter12ji",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T11:30:31.000Z",
+        "description": "Trans-Magica｜拥有使用大语言模型程度的能力。更多信息请参阅置顶推文｜里号@shiratsuyukata｜水平偏振单推 @Cyan_0731 ｜垂直偏振单推 @Nickel_Angel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 42,
+                "username": "shiratsuyukata"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Cyan_0731"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "Nickel_Angel"
+              }
+            ]
+          }
+        },
+        "id": "1138408165014364162",
+        "location": "Sol III",
+        "name": "白露型四番艦の枝",
+        "pinned_tweet_id": "1853466452797608080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815937634252038144/a9IzEm89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2357,
+          "following_count": 1628,
+          "like_count": 49271,
+          "listed_count": 15,
+          "media_count": 1102,
+          "tweet_count": 12268
+        },
+        "username": "shiratsuyudachi",
+        "verified": false
+      }
+    ]
+  }
+}

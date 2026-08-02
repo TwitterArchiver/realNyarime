@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2073628922269647161",
+    "created_at": "2026-07-05T17:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073815138608828536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1554575293264072705",
+          "start": 0,
+          "username": "aronhouyu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "001b1f4d203740ea"
+    },
+    "id": "2073815138608828536",
+    "in_reply_to_user_id": "1554575293264072705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073628922269647161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aronhouyu 所以是雇佣AI来奴役AI干活吗哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [001b1f4d203740ea].",
+      "parameter": "geo.place_id",
+      "resource_id": "001b1f4d203740ea",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "001b1f4d203740ea"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073628905186177025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcCgLGasAEVB_2.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2073628922269647161",
+        "created_at": "2026-07-05T17:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073815138608828536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1554575293264072705",
+              "start": 0,
+              "username": "aronhouyu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2073815138608828536",
+        "in_reply_to_user_id": "1554575293264072705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073628922269647161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aronhouyu 所以是雇佣AI来奴役AI干活吗哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073628905186177025"
+          ]
+        },
+        "author_id": "1554575293264072705",
+        "conversation_id": "2073628922269647161",
+        "created_at": "2026-07-05T04:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073628922269647161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4ZjT3M6rQ",
+              "end": 218,
+              "expanded_url": "https://x.com/aronhouyu/status/2073628922269647161/photo/1",
+              "media_key": "3_2073628905186177025",
+              "start": 195,
+              "url": "https://t.co/n4ZjT3M6rQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073628922269647161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/cobusgreyling/…",
+                "end": 620,
+                "expanded_url": "https://github.com/cobusgreyling/loop-engineering",
+                "start": 597,
+                "url": "https://t.co/M89csdXSc4"
+              }
+            ]
+          },
+          "text": "Loop Engineering\n\n现在很多人用 Claude Code、Codex 或者 Cursor 的时候，\n\n还跟聊天机器人一样操作：\n\n先扔个 prompt → 等它回 → 复制出来 → 改改 bug → 再扔新 prompt……循环往复。\n\n这个 repo 直接告诉你：\n\n别再自己一直 prompt 了，\n\n你去设计一个 loop，\n\n让这个 loop 自动去给 agent 下指令、指挥它干活。\n\n里面已经帮你准备好好几种现成的 loop，比如：\n\n•  每天任务分流 loop\n•  PR 自动审查 loop\n•  CI 检查 loop\n•  依赖更新 loop\n•  写 changelog loop\n•  合并后自动清理 loop\n•  issue 分类处理 loop\n\n还附带了好几个 CLI 工具，能让你：\n\n•  把 loop 放大规模\n•  估算大概花多少 token\n•  检查你的 repo 适不适合用这套东西\n•  给 agent 加记忆/状态\n•  加人工接管环节\n•  加验证关卡\n•  还能安全地通过 GitHub Actions 跑\n\n以前 Prompt Engineering 是教你怎么写好指令，\n\n现在 Loop Engineering 是让你搭一个系统，\n让 agent 自己跑、自己检查、自己改、自己扩展，\n\n你只要在关键节点看看就行。\n\nhttps://t.co/M89csdXSc4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 7118,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Loop Engineering\n\n现在很多人用 Claude Code、Codex 或者 Cursor 的时候，\n\n还跟聊天机器人一样操作：\n\n先扔个 prompt → 等它回 → 复制出来 → 改改 bug → 再扔新 prompt……循环往复。\n\n这个 repo 直接告诉你：\n\n别再自己一直 prompt 了，\n\n你去设计一个 loop，\n\n让这个 loop 自动去给 agent https://t.co/n4ZjT3M6rQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39550,
+          "following_count": 658,
+          "like_count": 18907,
+          "listed_count": 183,
+          "media_count": 2301,
+          "tweet_count": 15894
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-02T21:10:16.000Z",
+        "description": "海外增长｜内容系统｜AI自动化\n\n频道：https://t.co/eAdfCKLmDO\nTG频道：https://t.co/ZCaENFNiFI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@aronhouyu1024",
+                "end": 43,
+                "expanded_url": "https://www.youtube.com/@aronhouyu1024",
+                "start": 20,
+                "url": "https://t.co/eAdfCKLmDO"
+              },
+              {
+                "display_url": "t.me/aronhouyu1024",
+                "end": 72,
+                "expanded_url": "http://t.me/aronhouyu1024",
+                "start": 49,
+                "url": "https://t.co/ZCaENFNiFI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aronhouyu.com",
+                "end": 23,
+                "expanded_url": "http://aronhouyu.com",
+                "start": 0,
+                "url": "https://t.co/9UCgxXEGIO"
+              }
+            ]
+          }
+        },
+        "id": "1554575293264072705",
+        "location": "哈尔滨",
+        "name": "Aron厚玉",
+        "pinned_tweet_id": "2063930443251196183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064553439850532864/a3JplYRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15894,
+          "following_count": 2434,
+          "like_count": 9442,
+          "listed_count": 106,
+          "media_count": 1858,
+          "tweet_count": 12417
+        },
+        "url": "https://t.co/9UCgxXEGIO",
+        "username": "aronhouyu",
+        "verified": true
+      }
+    ]
+  }
+}

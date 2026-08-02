@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026302013",
+          "name": "T-Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1998939071851479214",
+    "created_at": "2025-12-12T13:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T14:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999476939690770514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "250536882",
+          "start": 0,
+          "username": "xenoyariin"
+        },
+        {
+          "end": 25,
+          "id": "987508360336424961",
+          "start": 12,
+          "username": "safaricheung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999476939690770514",
+    "in_reply_to_user_id": "250536882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999401805831372972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xenoyariin @safaricheung 因为fi是tmobile的mvno啊，当成t版电话卡用了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026302013",
+              "name": "T-Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1998939071851479214",
+        "created_at": "2025-12-12T13:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999476939690770514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "250536882",
+              "start": 0,
+              "username": "xenoyariin"
+            },
+            {
+              "end": 25,
+              "id": "987508360336424961",
+              "start": 12,
+              "username": "safaricheung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999476939690770514",
+        "in_reply_to_user_id": "250536882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999401805831372972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xenoyariin @safaricheung 因为fi是tmobile的mvno啊，当成t版电话卡用了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "250536882",
+        "conversation_id": "1998939071851479214",
+        "created_at": "2025-12-12T08:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999401805831372972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 26,
+              "id": "987508360336424961",
+              "start": 13,
+              "username": "safaricheung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999401805831372972",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999161189839057195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @safaricheung 为什么不解锁也能用fi？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "http://naixi.net",
+                "start": 0,
+                "url": "https://t.co/TmYaZQkrKQ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1980325458756743246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748210295873536/pIkwHPVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2948,
+          "following_count": 807,
+          "like_count": 8140,
+          "listed_count": 8,
+          "media_count": 491,
+          "tweet_count": 4470
+        },
+        "url": "https://t.co/TmYaZQkrKQ",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-11T08:45:28.000Z",
+        "description": "Computer Graphics / Reading NKS  生活可以是求知者的一场实验",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nks.binarythink.net",
+                "end": 23,
+                "expanded_url": "http://nks.binarythink.net",
+                "start": 0,
+                "url": "https://t.co/9DAqeVd8gD"
+              }
+            ]
+          }
+        },
+        "id": "250536882",
+        "location": "Seattle, WA",
+        "name": "Riin 🧢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/463963109527261186/pzYJlSek_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 450,
+          "like_count": 2681,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/9DAqeVd8gD",
+        "username": "xenoyariin",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-21T01:48:34.000Z",
+        "description": "Editor @update4weekly ⚡. Brand Strategy Director / Designer @studiomockup 🎨.  Aviation photographer ✈️ .\n\nSometime I produce Chinese tweets.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "update4weekly"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "studiomockup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "studiomockup.ink",
+                "end": 23,
+                "expanded_url": "http://studiomockup.ink",
+                "start": 0,
+                "url": "https://t.co/mgiqx6ATeF"
+              }
+            ]
+          }
+        },
+        "id": "987508360336424961",
+        "location": "精神病院",
+        "name": "safari",
+        "pinned_tweet_id": "1925340432067662239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535513461358153728/qaYfZwAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9861,
+          "following_count": 345,
+          "like_count": 5538,
+          "listed_count": 61,
+          "media_count": 2832,
+          "tweet_count": 7306
+        },
+        "url": "https://t.co/mgiqx6ATeF",
+        "username": "safaricheung",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068290888350978250",
+    "created_at": "2026-06-20T14:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068340152162750692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1394577771381215235",
+          "start": 0,
+          "username": "libapi_"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "6b49c2b54c068a58"
+    },
+    "id": "2068340152162750692",
+    "in_reply_to_user_id": "1394577771381215235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068338676569129277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libapi_ 端午休息，节假日没事我就出国转转，习惯了哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [6b49c2b54c068a58].",
+      "parameter": "geo.place_id",
+      "resource_id": "6b49c2b54c068a58",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "6b49c2b54c068a58"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068290888350978250",
+        "created_at": "2026-06-20T14:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068340152162750692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1394577771381215235",
+              "start": 0,
+              "username": "libapi_"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "6b49c2b54c068a58"
+        },
+        "id": "2068340152162750692",
+        "in_reply_to_user_id": "1394577771381215235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068338676569129277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libapi_ 端午休息，节假日没事我就出国转转，习惯了哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394577771381215235",
+        "conversation_id": "2068290888350978250",
+        "created_at": "2026-06-20T14:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068338676569129277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068338676569129277",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068290888350978250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 到处飞呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38069,
+          "following_count": 657,
+          "like_count": 17992,
+          "listed_count": 178,
+          "media_count": 2190,
+          "tweet_count": 14940
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-18T08:57:18.000Z",
+        "description": "Hermes Studio 客户端安装即用\n无需再手动打开配置终端复杂的环境\n三端设备全面支持 macOS / Linux / Windows",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hermes-studio.ai",
+                "end": 23,
+                "expanded_url": "http://hermes-studio.ai",
+                "start": 0,
+                "url": "https://t.co/pQZgUqbCMX"
+              }
+            ]
+          }
+        },
+        "id": "1394577771381215235",
+        "location": "Mar-23-2022 11:01:53 AM +UTC",
+        "name": "libapi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890877874439393280/FEbiYX9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22193,
+          "following_count": 3448,
+          "like_count": 31684,
+          "listed_count": 216,
+          "media_count": 2703,
+          "tweet_count": 33598
+        },
+        "url": "https://t.co/pQZgUqbCMX",
+        "username": "libapi_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009348008031469568",
+        "3_2009348008023085060",
+        "3_2009348008014696449"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2009348044849090845",
+    "created_at": "2026-01-08T19:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T20:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009348044849090845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fz16ISvFxb",
+          "end": 199,
+          "expanded_url": "https://x.com/realNyarime/status/2009348044849090845/photo/1",
+          "media_key": "3_2009348008031469568",
+          "start": 176,
+          "url": "https://t.co/Fz16ISvFxb"
+        },
+        {
+          "display_url": "pic.x.com/Fz16ISvFxb",
+          "end": 199,
+          "expanded_url": "https://x.com/realNyarime/status/2009348044849090845/photo/1",
+          "media_key": "3_2009348008023085060",
+          "start": 176,
+          "url": "https://t.co/Fz16ISvFxb"
+        },
+        {
+          "display_url": "pic.x.com/Fz16ISvFxb",
+          "end": 199,
+          "expanded_url": "https://x.com/realNyarime/status/2009348044849090845/photo/1",
+          "media_key": "3_2009348008014696449",
+          "start": 176,
+          "url": "https://t.co/Fz16ISvFxb"
+        },
+        {
+          "display_url": "x.com/EvanWritesX/st…",
+          "end": 223,
+          "expanded_url": "https://twitter.com/EvanWritesX/status/2009255593882603833",
+          "start": 200,
+          "url": "https://t.co/pvyX7T2HmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009348044849090845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我也分享一个Shadowsocks（小火箭）回国VPN攻略，给各位在海外的游子支招，小火箭在海外也可以配合lua解锁国内流媒体，当然Clash也可以，结尾会说～\n\n百度直连域名为cloudnproxy[.]baidu[.]com，端口443的HTTPS代理服务器（proxy）。国内玩免流的都用它当跳板，只不过百度给代理服务器做了User-Agent (UA)校验，目前需要验证UA（useragent中包含“baiduboxapp”即可）。得益于百度服务器宽带高、遍布全国，你可以手动查询域名背后的IP地址自行解析，就能得到一堆“回国节点”🤗\n\nShadowsocks支持lua脚本，链接我会放在评论区里，也可以让Grok给你写一个，不难！\n当然Clash也是支持的，配置文件格式按照图中的写就行。\n\n只不过你要把分流给做好（你也不想解锁的时候，送个GFW给你吧～\n当然百度的IP是IDC宽带，可能在有些IP库识别会存在风险，还是别用它登社交媒体（如微博）了，不保证封号！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009255593882603833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也分享一个Shadowsocks（小火箭）回国VPN攻略，给各位在海外的游子支招，小火箭在海外也可以配合lua解锁国内流媒体，当然Clash也可以，结尾会说～\n\n百度直连域名为cloudnproxy[.]baidu[.]com，端口443的HTTPS代理服务器（proxy）。国内玩免流的都用它当跳板，只不过百度给代理服务器做了User-Agent https://t.co/Fz16ISvFxb https://t.co/pvyX7T2HmD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2009348008031469568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-KjXgjawAApndn.jpg",
+        "width": 1278
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2009348008023085060",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-KjXgha0AQAsTG.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009348008014696449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-KjXgfa0AEgLSw.jpg",
+        "width": 1043
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2009255585414287360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JPTzeWkAAeSbb.jpg",
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009348008031469568",
+            "3_2009348008023085060",
+            "3_2009348008014696449"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2009348044849090845",
+        "created_at": "2026-01-08T19:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T20:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009348044849090845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fz16ISvFxb",
+              "end": 199,
+              "expanded_url": "https://x.com/realNyarime/status/2009348044849090845/photo/1",
+              "media_key": "3_2009348008031469568",
+              "start": 176,
+              "url": "https://t.co/Fz16ISvFxb"
+            },
+            {
+              "display_url": "pic.x.com/Fz16ISvFxb",
+              "end": 199,
+              "expanded_url": "https://x.com/realNyarime/status/2009348044849090845/photo/1",
+              "media_key": "3_2009348008023085060",
+              "start": 176,
+              "url": "https://t.co/Fz16ISvFxb"
+            },
+            {
+              "display_url": "pic.x.com/Fz16ISvFxb",
+              "end": 199,
+              "expanded_url": "https://x.com/realNyarime/status/2009348044849090845/photo/1",
+              "media_key": "3_2009348008014696449",
+              "start": 176,
+              "url": "https://t.co/Fz16ISvFxb"
+            },
+            {
+              "display_url": "x.com/EvanWritesX/st…",
+              "end": 223,
+              "expanded_url": "https://twitter.com/EvanWritesX/status/2009255593882603833",
+              "start": 200,
+              "url": "https://t.co/pvyX7T2HmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009348044849090845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我也分享一个Shadowsocks（小火箭）回国VPN攻略，给各位在海外的游子支招，小火箭在海外也可以配合lua解锁国内流媒体，当然Clash也可以，结尾会说～\n\n百度直连域名为cloudnproxy[.]baidu[.]com，端口443的HTTPS代理服务器（proxy）。国内玩免流的都用它当跳板，只不过百度给代理服务器做了User-Agent (UA)校验，目前需要验证UA（useragent中包含“baiduboxapp”即可）。得益于百度服务器宽带高、遍布全国，你可以手动查询域名背后的IP地址自行解析，就能得到一堆“回国节点”🤗\n\nShadowsocks支持lua脚本，链接我会放在评论区里，也可以让Grok给你写一个，不难！\n当然Clash也是支持的，配置文件格式按照图中的写就行。\n\n只不过你要把分流给做好（你也不想解锁的时候，送个GFW给你吧～\n当然百度的IP是IDC宽带，可能在有些IP库识别会存在风险，还是别用它登社交媒体（如微博）了，不保证封号！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009255593882603833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也分享一个Shadowsocks（小火箭）回国VPN攻略，给各位在海外的游子支招，小火箭在海外也可以配合lua解锁国内流媒体，当然Clash也可以，结尾会说～\n\n百度直连域名为cloudnproxy[.]baidu[.]com，端口443的HTTPS代理服务器（proxy）。国内玩免流的都用它当跳板，只不过百度给代理服务器做了User-Agent https://t.co/Fz16ISvFxb https://t.co/pvyX7T2HmD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009255585414287360"
+          ]
+        },
+        "author_id": "3016619443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2009255593882603833",
+        "created_at": "2026-01-08T13:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009255593882603833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjAw0uuarq",
+              "end": 178,
+              "expanded_url": "https://x.com/EvanWritesX/status/2009255593882603833/photo/1",
+              "media_key": "3_2009255585414287360",
+              "start": 155,
+              "url": "https://t.co/FjAw0uuarq"
+            },
+            {
+              "display_url": "x.com/evanwritesx/st…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/evanwritesx/status/2008353091134112021",
+              "start": 179,
+              "url": "https://t.co/2LR2gBuTKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009255593882603833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/LOWERTOP/Shado…",
+                "end": 243,
+                "expanded_url": "https://github.com/LOWERTOP/Shadowrocket-First",
+                "start": 220,
+                "url": "https://t.co/1coBBBHVmo"
+              },
+              {
+                "display_url": "github.com/iab0x00/ProxyR…",
+                "end": 302,
+                "expanded_url": "https://github.com/iab0x00/ProxyRules",
+                "start": 279,
+                "url": "https://t.co/yYOdwM5IBu"
+              },
+              {
+                "display_url": "xiangwanguan.github.io/Shadowrocket/W…",
+                "end": 364,
+                "expanded_url": "https://xiangwanguan.github.io/Shadowrocket/Website/ModuleHelper.html",
+                "start": 341,
+                "url": "https://t.co/Md2KVtyqWc"
+              },
+              {
+                "display_url": "example.com",
+                "end": 685,
+                "expanded_url": "http://example.com",
+                "start": 662,
+                "url": "https://t.co/lSUBlRjOD0"
+              }
+            ]
+          },
+          "text": "Shadowrocket (小火箭) 实用模块推荐与配置指南\n\n最近折腾 VPS，尝试了 Surge 和 Quantumult X，发现配置门槛稍高。\n\n转回头研究 Shadowrocket，发现利用“模块”功能也能实现强大的分流与重写。整理了一些高质量的模块仓库和使用技巧，分享给大家。\n\n精选模块仓库资源\n\n这里推荐两个维护更新频率高、规则完善的仓库：\n\n1. LOWERTOP 仓库\n> 包含各类去广告、解锁流媒体等实用规则。\n> \nhttps://t.co/1coBBBHVmo\n\n2. iab0x00 仓库\n> 规则分类详细，适合进阶用户。\n> \nhttps://t.co/yYOdwM5IBu\n\n🛠 辅助工具：模块助手\n> 帮你快速生成模块配置链接。\n> \n * 地址：https://t.co/Md2KVtyqWc\n\n⚙️ 模块使用教程\n\n1. 如何安装远程模块\n\n操作路径非常简单：\n\n * 打开 Shadowrocket，点击下方导航栏 「模块」。\n * 点击右上角 「+」 号。\n * 将上述仓库中的 .module 链接粘贴进去，点击 「下载」 即可。\n\n2. 编写/修改模块 (进阶)\n模块的语法与配置文件基本一致。你可以通过模块调整通用设置、添加规则、Hosts、URL 重写、脚本以及 MITM（解密主机名）。\n\n特别注意：MITM (HTTPS 解密) 的写法\n\n如果你需要在模块中添加需要解密的域名，建议使用 %APPEND% 语法：\n\n[MITM]\nhostname = %APPEND% https://t.co/lSUBlRjOD0, *.google.com\n\n * 为什么要加 %APPEND%？\n   * 加 %APPEND%：表示将新的域名追加到现有的配置中，保留原有的解密列表。\n   * 不加：会覆盖配置中原有的 hostname 内容，可能导致其他模块或主配置的解密功能失效。\n\n注意事项\n\n必须开启 HTTPS 解密\n\n大部分去广告、重写类的模块，必须正确开启 HTTPS 解密才能生效：\n\n * 进入 「配置」 -> 点击当前使用的配置文件 -> 「编辑配置」。\n * 找到 「HTTPS 解密」 并开启。\n * 点击 「生成新的 CA 证书」 -> 安装证书 -> 前往手机 「设置」 -> 「关于本机」 -> 「证书信任设置」 中信任该证书。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 701,
+          "impression_count": 73626,
+          "like_count": 546,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008353091134112021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Shadowrocket (小火箭) 实用模块推荐与配置指南\n\n最近折腾 VPS，尝试了 Surge 和 Quantumult X，发现配置门槛稍高。\n\n转回头研究 Shadowrocket，发现利用“模块”功能也能实现强大的分流与重写。整理了一些高质量的模块仓库和使用技巧，分享给大家。\n\n精选模块仓库资源 https://t.co/FjAw0uuarq https://t.co/2LR2gBuTKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008425765751185868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7262,
+          "following_count": 731,
+          "like_count": 8659,
+          "listed_count": 21,
+          "media_count": 635,
+          "tweet_count": 5356
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-10T15:36:40.000Z",
+        "description": "前媒体人 联系方式：https://t.co/2wytvRVLqf 读书频道：https://t.co/0fTLS0vAOS 魔法推荐：https://t.co/w1sYMHBO96",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 33,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 10,
+                "url": "https://t.co/2wytvRVLqf"
+              },
+              {
+                "display_url": "t.me/Book_Scape",
+                "end": 62,
+                "expanded_url": "https://t.me/Book_Scape",
+                "start": 39,
+                "url": "https://t.co/0fTLS0vAOS"
+              },
+              {
+                "display_url": "my.racknerd.com/aff.php?aff=16…",
+                "end": 91,
+                "expanded_url": "https://my.racknerd.com/aff.php?aff=16843",
+                "start": 68,
+                "url": "https://t.co/w1sYMHBO96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 0,
+                "url": "https://t.co/2wytvRVLqf"
+              }
+            ]
+          }
+        },
+        "id": "3016619443",
+        "location": "WeChat ID：EvanCreates",
+        "name": "Jason",
+        "pinned_tweet_id": "2007676380423872646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993562015932334082/50xwYK4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7694,
+          "following_count": 674,
+          "like_count": 2169,
+          "listed_count": 33,
+          "media_count": 733,
+          "tweet_count": 3144
+        },
+        "url": "https://t.co/2wytvRVLqf",
+        "username": "EvanWritesX",
+        "verified": true
+      }
+    ]
+  }
+}

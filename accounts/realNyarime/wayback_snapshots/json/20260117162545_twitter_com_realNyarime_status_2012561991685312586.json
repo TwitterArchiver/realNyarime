@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2012370523888721982",
+    "created_at": "2026-01-17T16:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012561991685312586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4421941038",
+          "start": 0,
+          "username": "stevehongkong"
+        },
+        {
+          "end": 23,
+          "id": "1527743101242064896",
+          "start": 15,
+          "username": "LeeMmai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012561991685312586",
+    "in_reply_to_user_id": "4421941038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012561273322668217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stevehongkong @LeeMmai 如果你们全家都用苹果，那可以考虑用FaceTime音频。如果没有也可以考虑用Google Voice。\n至于长辈，如果只用国内卡的话也没玩苹果生态，那还是用微信吧。虽然小而美有点诟病，但是udp糟糕情况下会启用udp on tcp，有点延迟但稳定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2012370523888721982",
+        "created_at": "2026-01-17T16:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012561991685312586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4421941038",
+              "start": 0,
+              "username": "stevehongkong"
+            },
+            {
+              "end": 23,
+              "id": "1527743101242064896",
+              "start": 15,
+              "username": "LeeMmai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012561991685312586",
+        "in_reply_to_user_id": "4421941038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012561273322668217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stevehongkong @LeeMmai 如果你们全家都用苹果，那可以考虑用FaceTime音频。如果没有也可以考虑用Google Voice。\n至于长辈，如果只用国内卡的话也没玩苹果生态，那还是用微信吧。虽然小而美有点诟病，但是udp糟糕情况下会启用udp on tcp，有点延迟但稳定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4421941038",
+        "conversation_id": "2012370523888721982",
+        "created_at": "2026-01-17T16:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012561273322668217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 21,
+              "id": "1527743101242064896",
+              "start": 13,
+              "username": "LeeMmai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012561273322668217",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012533536826315257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @LeeMmai 最悲剧的一次是，我妈找不到电话，我打给她（场景是：我妈的手机号在香港漫游，我用CMHK通过001拨打她的内地手机号），听响铃找电话，然后她的号码就被限制了，要去营业厅解封"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2012553157209927938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8029,
+          "following_count": 0,
+          "like_count": 14,
+          "listed_count": 23,
+          "media_count": 728,
+          "tweet_count": 6110
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-01T16:07:07.000Z",
+        "description": "",
+        "id": "4421941038",
+        "location": "Hong Kong",
+        "name": "Steve YANG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/794733616324481025/lUuf9DYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 476,
+          "like_count": 335,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1040
+        },
+        "username": "stevehongkong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T20:08:57.000Z",
+        "description": "冬季是经不起等待的季节，我的面又坨了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onekey.so/r/UXAZBV/app",
+                "end": 23,
+                "expanded_url": "http://onekey.so/r/UXAZBV/app",
+                "start": 0,
+                "url": "https://t.co/56HwvUf03w"
+              }
+            ]
+          }
+        },
+        "id": "1527743101242064896",
+        "name": "李麦麦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18361,
+          "following_count": 1712,
+          "like_count": 46209,
+          "listed_count": 92,
+          "media_count": 2777,
+          "tweet_count": 13345
+        },
+        "url": "https://t.co/56HwvUf03w",
+        "username": "LeeMmai",
+        "verified": true
+      }
+    ]
+  }
+}

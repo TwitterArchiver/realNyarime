@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "1996970771923849336",
+    "created_at": "2025-12-05T15:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T16:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996970771923849336"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996970771923849336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "台湾以电诈封禁小红书，换个DNS就解决了，APP更是内置HTTPDNS不受影响。这个墙的难度和马来西亚禁止NSFW那样都是靠运营商DNS投毒，然而他们的墙并没有进化出DNS抢答。治标不治本，看小红书用的是腾讯云的CDN，就像GFW一样也不会屏蔽Cloudflare的IP，而是用更精准的SNI阻断。\n感叹一下ECH在未来的作用！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "1996970771923849336",
+        "created_at": "2025-12-05T15:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T16:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996970771923849336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996970771923849336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台湾以电诈封禁小红书，换个DNS就解决了，APP更是内置HTTPDNS不受影响。这个墙的难度和马来西亚禁止NSFW那样都是靠运营商DNS投毒，然而他们的墙并没有进化出DNS抢答。治标不治本，看小红书用的是腾讯云的CDN，就像GFW一样也不会屏蔽Cloudflare的IP，而是用更精准的SNI阻断。\n感叹一下ECH在未来的作用！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Naixi Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "realYingxi"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.naixi.org",
+                "end": 23,
+                "expanded_url": "http://about.naixi.org",
+                "start": 0,
+                "url": "https://t.co/8GeteJjIji"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1980325458756743246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978422573148114944/SvoZ3L_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 808,
+          "like_count": 8046,
+          "listed_count": 7,
+          "media_count": 470,
+          "tweet_count": 4350
+        },
+        "url": "https://t.co/8GeteJjIji",
+        "username": "realNyarime",
+        "verified": false
+      }
+    ]
+  }
+}

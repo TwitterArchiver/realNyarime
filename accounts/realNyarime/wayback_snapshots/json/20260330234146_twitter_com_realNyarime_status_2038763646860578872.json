@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038763611087376384"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2038687671912923312",
+    "created_at": "2026-03-30T23:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T00:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038763646860578872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "758233233527967744",
+          "start": 0,
+          "username": "imLetITFly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5IDDfMP7bK",
+          "end": 49,
+          "expanded_url": "https://x.com/realNyarime/status/2038763646860578872/photo/1",
+          "media_key": "3_2038763611087376384",
+          "start": 26,
+          "url": "https://t.co/5IDDfMP7bK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038763646860578872",
+    "in_reply_to_user_id": "758233233527967744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038698803646070948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imLetITFly 如果走主卡，副卡信号是灰的 https://t.co/5IDDfMP7bK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2038763611087376384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEsks9PbEAAaNoH.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038698798038581248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErpwV0bAAA57IC.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038763611087376384"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2038687671912923312",
+        "created_at": "2026-03-30T23:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T00:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038763646860578872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "758233233527967744",
+              "start": 0,
+              "username": "imLetITFly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5IDDfMP7bK",
+              "end": 49,
+              "expanded_url": "https://x.com/realNyarime/status/2038763646860578872/photo/1",
+              "media_key": "3_2038763611087376384",
+              "start": 26,
+              "url": "https://t.co/5IDDfMP7bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038763646860578872",
+        "in_reply_to_user_id": "758233233527967744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038698803646070948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imLetITFly 如果走主卡，副卡信号是灰的 https://t.co/5IDDfMP7bK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038698798038581248"
+          ]
+        },
+        "author_id": "758233233527967744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10023891829",
+              "name": "Verizon"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10023891829",
+              "name": "Verizon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026319207",
+              "name": "Verizon Wireless"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2038687671912923312",
+        "created_at": "2026-03-30T19:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038698803646070948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0QN026yB9b",
+              "end": 88,
+              "expanded_url": "https://x.com/imLetITFly/status/2038698803646070948/photo/1",
+              "media_key": "3_2038698798038581248",
+              "start": 65,
+              "url": "https://t.co/0QN026yB9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038698803646070948",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038690386399613299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 另一台手机是Verizon和Ultra十刀卡，同样开启WiFi Calling功能，没有出现类似状况。 https://t.co/0QN026yB9b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24756,
+          "following_count": 499,
+          "like_count": 11556,
+          "listed_count": 110,
+          "media_count": 1317,
+          "tweet_count": 9047
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T09:31:04.000Z",
+        "description": "一般叫让技术飞/喜欢所有科技相关/不喜欢搞事/注重他人体验/Telegram: https://t.co/dhHYyur1yS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/LetITFly",
+                "end": 63,
+                "expanded_url": "https://t.me/LetITFly",
+                "start": 40,
+                "url": "https://t.co/dhHYyur1yS"
+              }
+            ]
+          }
+        },
+        "id": "758233233527967744",
+        "name": "LetITFly",
+        "pinned_tweet_id": "2032959103866216765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/758234432826281984/vXXsvwZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 202,
+          "like_count": 657,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 115
+        },
+        "username": "imLetITFly",
+        "verified": false
+      }
+    ]
+  }
+}

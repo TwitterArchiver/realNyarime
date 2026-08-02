@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2044472322837647511",
+    "created_at": "2026-04-16T06:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044659151851426172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1052237947548782592",
+          "start": 0,
+          "username": "xizsam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044659151851426172",
+    "in_reply_to_user_id": "1052237947548782592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044548414327996609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xizsam 比如某公司使用阿里云，然后我也用阿里云同段去伪装，这样就可行\n不过我有项目确实是以伪装 Cisco ASA 但境外高校都有自己的 ASN 和 IP 地址，确实是难度蛮大的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2044472322837647511",
+        "created_at": "2026-04-16T06:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044659151851426172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1052237947548782592",
+              "start": 0,
+              "username": "xizsam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044659151851426172",
+        "in_reply_to_user_id": "1052237947548782592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044548414327996609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xizsam 比如某公司使用阿里云，然后我也用阿里云同段去伪装，这样就可行\n不过我有项目确实是以伪装 Cisco ASA 但境外高校都有自己的 ASN 和 IP 地址，确实是难度蛮大的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1052237947548782592",
+        "conversation_id": "2044472322837647511",
+        "created_at": "2026-04-15T22:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044548414327996609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044548414327996609",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3926,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044472322837647511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 根本性的问题在 域名 ip 映射只能伪装，sni 还是会暴露域名，大范围作 ip 域名映射关系校验就能看出相当一部分配置的破绽，不懂底层原理的人选择的伪装域名很多时候是明显牛头不对马嘴的。 如果 esni 能普及会好办很多。 那个时候 gfw 除了搞白名单通行模式，没有太多其他办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28009,
+          "following_count": 517,
+          "like_count": 12327,
+          "listed_count": 132,
+          "media_count": 1482,
+          "tweet_count": 10006
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-16T16:40:51.000Z",
+        "description": "",
+        "id": "1052237947548782592",
+        "location": "California, USA",
+        "name": "sam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1052821408558985216/RUeDpWA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 795,
+          "like_count": 4862,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1924
+        },
+        "username": "xizsam",
+        "verified": false
+      }
+    ]
+  }
+}

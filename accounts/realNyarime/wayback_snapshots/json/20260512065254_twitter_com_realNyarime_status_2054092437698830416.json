@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054092375778275328"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "2054092437698830416",
+    "created_at": "2026-05-12T06:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054092437698830416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ns4U7SeUSx",
+          "end": 56,
+          "expanded_url": "https://x.com/realNyarime/status/2054092437698830416/photo/1",
+          "media_key": "3_2054092375778275328",
+          "start": 33,
+          "url": "https://t.co/ns4U7SeUSx"
+        },
+        {
+          "display_url": "x.com/DRbitcoin36/st…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/DRbitcoin36/status/2054064508369596620",
+          "start": 57,
+          "url": "https://t.co/5q4KRALTDc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054092437698830416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054064508369596620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们都用华为，用小米，用苹果\n你用OPPO，怪不得你妈有两个老公 https://t.co/ns4U7SeUSx https://t.co/5q4KRALTDc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2054092375778275328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGaIfoaMAAWFEv.jpg",
+        "width": 960
+      },
+      {
+        "height": 871,
+        "media_key": "3_2054064499993485312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGAx6PaIAAoAPi.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054092375778275328"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2054092437698830416",
+        "created_at": "2026-05-12T06:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054092437698830416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ns4U7SeUSx",
+              "end": 56,
+              "expanded_url": "https://x.com/realNyarime/status/2054092437698830416/photo/1",
+              "media_key": "3_2054092375778275328",
+              "start": 33,
+              "url": "https://t.co/ns4U7SeUSx"
+            },
+            {
+              "display_url": "x.com/DRbitcoin36/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/DRbitcoin36/status/2054064508369596620",
+              "start": 57,
+              "url": "https://t.co/5q4KRALTDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054092437698830416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054064508369596620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们都用华为，用小米，用苹果\n你用OPPO，怪不得你妈有两个老公 https://t.co/ns4U7SeUSx https://t.co/5q4KRALTDc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054064499993485312"
+          ]
+        },
+        "author_id": "1753990410832379904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2054064508369596620",
+        "created_at": "2026-05-12T05:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054064508369596620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msy8bixV80",
+              "end": 110,
+              "expanded_url": "https://x.com/DRbitcoin36/status/2054064508369596620/photo/1",
+              "media_key": "3_2054064499993485312",
+              "start": 87,
+              "url": "https://t.co/msy8bixV80"
+            },
+            {
+              "display_url": "x.com/drbitcoin36/st…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/drbitcoin36/status/2053844081319850485",
+              "start": 111,
+              "url": "https://t.co/68J2IJNH0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054064508369596620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2471,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053844081319850485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Oppo 母亲节的闯祸文案有后续了\n其中国业务负责人 段要辉负最终的处罚，职级降两级。此次处罚是 Oppo 历史上最严厉的处罚力度….\n\n罚的好重，但没办法，舆论压力太大了 https://t.co/msy8bixV80 https://t.co/68J2IJNH0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32787,
+          "following_count": 608,
+          "like_count": 13952,
+          "listed_count": 150,
+          "media_count": 1735,
+          "tweet_count": 11360
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T03:54:42.000Z",
+        "description": "数据整理 + 数据可视化博主 | 自媒体打工人 + 00 后大学生｜梦想是成为 A8 的数字游民｜推特当作自己的炒币日记 ｜玩 Meme 就用：https://t.co/gYZuqs7P96",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AveSniperBot?s…",
+                "end": 95,
+                "expanded_url": "https://t.me/AveSniperBot?start=ref_6641008601",
+                "start": 72,
+                "url": "https://t.co/gYZuqs7P96"
+              }
+            ]
+          }
+        },
+        "id": "1753990410832379904",
+        "location": "singapore",
+        "name": "比特欧 Elvin",
+        "pinned_tweet_id": "1983500437874708833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871549554279194624/SLDJsDr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28229,
+          "following_count": 2902,
+          "like_count": 37700,
+          "listed_count": 306,
+          "media_count": 1401,
+          "tweet_count": 26267
+        },
+        "username": "DRbitcoin36",
+        "verified": true
+      }
+    ]
+  }
+}

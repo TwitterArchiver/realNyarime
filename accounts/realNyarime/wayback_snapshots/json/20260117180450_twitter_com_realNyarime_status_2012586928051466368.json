@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012586224377110529",
+        "3_2012586500509102081"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2012586928051466368",
+    "created_at": "2026-01-17T18:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T19:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012586928051466368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KAmN4MUnmh",
+          "end": 126,
+          "expanded_url": "https://x.com/realNyarime/status/2012586928051466368/photo/1",
+          "media_key": "3_2012586224377110529",
+          "start": 103,
+          "url": "https://t.co/KAmN4MUnmh"
+        },
+        {
+          "display_url": "pic.x.com/KAmN4MUnmh",
+          "end": 126,
+          "expanded_url": "https://x.com/realNyarime/status/2012586928051466368/photo/1",
+          "media_key": "3_2012586500509102081",
+          "start": 103,
+          "url": "https://t.co/KAmN4MUnmh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012586928051466368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最近我在出租屋拉了一条移动家宽，折腾光猫改桥接拿到了IPv6，顺便搭建节点来测免流。\n\n有些定向流量不能免，测试的是广东电信天翼云盘定向流量host，由于我在外省就直接5g网络+ctnet接入点是能免的。\n如果你的电话卡有其他的定向流量包（比如联通卡的钉钉定向，电信卡的爱看定向）也可以自己改适合的定向流量包host测试免不免，不过联通的APN在小米手机上可能只有IPv4，请自行补IPv6。使用v2rayN软件必须设置全局模式。\n\n我现在家宽设置每天凌晨三点自动重启，然后通过DDNS获取IPv6，已经稳定使用了两三个月（除了停电），不出什么问题的话，都不会再改动。如果是停机卡，那估计只有IPv4地址，确实只能依赖国外VPS了（不过自带翻墙也是好事？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近我在出租屋拉了一条移动家宽，折腾光猫改桥接拿到了IPv6，顺便搭建节点来测免流。\n\n有些定向流量不能免，测试的是广东电信天翼云盘定向流量host，由于我在外省就直接5g网络+ctnet接入点是能免的。 https://t.co/KAmN4MUnmh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2012586224377110529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4kggfXoAE80Tn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2012586500509102081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4kwlKXcAEBqrW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012586224377110529",
+            "3_2012586500509102081"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2012586928051466368",
+        "created_at": "2026-01-17T18:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T19:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012586928051466368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAmN4MUnmh",
+              "end": 126,
+              "expanded_url": "https://x.com/realNyarime/status/2012586928051466368/photo/1",
+              "media_key": "3_2012586224377110529",
+              "start": 103,
+              "url": "https://t.co/KAmN4MUnmh"
+            },
+            {
+              "display_url": "pic.x.com/KAmN4MUnmh",
+              "end": 126,
+              "expanded_url": "https://x.com/realNyarime/status/2012586928051466368/photo/1",
+              "media_key": "3_2012586500509102081",
+              "start": 103,
+              "url": "https://t.co/KAmN4MUnmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012586928051466368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近我在出租屋拉了一条移动家宽，折腾光猫改桥接拿到了IPv6，顺便搭建节点来测免流。\n\n有些定向流量不能免，测试的是广东电信天翼云盘定向流量host，由于我在外省就直接5g网络+ctnet接入点是能免的。\n如果你的电话卡有其他的定向流量包（比如联通卡的钉钉定向，电信卡的爱看定向）也可以自己改适合的定向流量包host测试免不免，不过联通的APN在小米手机上可能只有IPv4，请自行补IPv6。使用v2rayN软件必须设置全局模式。\n\n我现在家宽设置每天凌晨三点自动重启，然后通过DDNS获取IPv6，已经稳定使用了两三个月（除了停电），不出什么问题的话，都不会再改动。如果是停机卡，那估计只有IPv4地址，确实只能依赖国外VPS了（不过自带翻墙也是好事？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近我在出租屋拉了一条移动家宽，折腾光猫改桥接拿到了IPv6，顺便搭建节点来测免流。\n\n有些定向流量不能免，测试的是广东电信天翼云盘定向流量host，由于我在外省就直接5g网络+ctnet接入点是能免的。 https://t.co/KAmN4MUnmh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2012553157209927938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8028,
+          "following_count": 622,
+          "like_count": 9237,
+          "listed_count": 23,
+          "media_count": 730,
+          "tweet_count": 6133
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

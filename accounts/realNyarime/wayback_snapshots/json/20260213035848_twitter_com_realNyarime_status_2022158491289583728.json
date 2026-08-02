@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022156789257842689",
+        "3_2022156805384941569",
+        "3_2022156829195956224"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2022158491289583728",
+    "created_at": "2026-02-13T03:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022158491289583728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LC2Zk94dx9",
+          "end": 72,
+          "expanded_url": "https://x.com/realNyarime/status/2022158491289583728/photo/1",
+          "media_key": "3_2022156789257842689",
+          "start": 49,
+          "url": "https://t.co/LC2Zk94dx9"
+        },
+        {
+          "display_url": "pic.x.com/LC2Zk94dx9",
+          "end": 72,
+          "expanded_url": "https://x.com/realNyarime/status/2022158491289583728/photo/1",
+          "media_key": "3_2022156805384941569",
+          "start": 49,
+          "url": "https://t.co/LC2Zk94dx9"
+        },
+        {
+          "display_url": "pic.x.com/LC2Zk94dx9",
+          "end": 72,
+          "expanded_url": "https://x.com/realNyarime/status/2022158491289583728/photo/1",
+          "media_key": "3_2022156829195956224",
+          "start": 49,
+          "url": "https://t.co/LC2Zk94dx9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022158491289583728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 550,
+            "id": "534073",
+            "start": 545,
+            "username": "echo"
+          },
+          {
+            "end": 649,
+            "id": "534073",
+            "start": 644,
+            "username": "echo"
+          }
+        ]
+      },
+      "text": "小米14刷欧洲版系统没信号英国是基带文件，需要设备本身解BL锁的，在MIUI系统绑定7天即可解。\nCN版本的硬件刷入非CN版本都会出现开机没信号问题（基带不一样），在FASTBOOT下经过各种尝试，均失败告终。小米有限制，用高通的命令解除VB认证也不可以单独刷基带。就在要放弃的时候忽然想到多年以前的黑莓混刷系统的方法，决定试一试，还真成了。。。线刷软件使用的是柚坛搞机工具箱没有使用官方的miflash。\n\n1.修改国行版本的线刷包中的flash_all.bat文件，把最底下的一行删除或注释掉，让手机刷完后不自动重启。我刷的小米14国内3.0.5\n2.修改欧洲版本的线刷包中的flash_all.bat文件，在第三行下面加入：\nfastboot %* oem disable-verity\nfastboot %* oem disable-verification\nfastboot %* vbmeta_disable_verification disable\nfastboot %* erase vbmeta --disable-verification\n然后删除或注释掉：\nfastboot %* flash modem_ab %~dp0images/NON-HLOS.bin || @echo “Flash modem error“ && exit 1\nfastboot %* flash modemfirmware_ab %~dp0images/MODEM-FW.bin || @echo “Flash modem firmware error“ && exit 1\n这样刷机的时候是不会写标准基带文件和补充基带文件。\n\n刷完后，自动开机欧版系统。没有内置反诈了，也有信号了。属于是欧洲版本系统，国内版本基带。总不能在基带里内置反诈上报吧，那也太吓人了，就希望过个年别整天给我打电话，下过rustdesk的一加13已双清，求放过🙏🙏🙏"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小米14刷欧洲版系统没信号英国是基带文件，需要设备本身解BL锁的，在MIUI系统绑定7天即可解。 https://t.co/LC2Zk94dx9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_2022156789257842689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAk4s_bsAECnu_.png",
+        "width": 2328
+      },
+      {
+        "height": 1108,
+        "media_key": "3_2022156805384941569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAk5pEbsAEiyZV.png",
+        "width": 2242
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2022156829195956224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAk7Bxa8AAD2Rt.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022156789257842689",
+            "3_2022156805384941569",
+            "3_2022156829195956224"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2022158491289583728",
+        "created_at": "2026-02-13T03:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022158491289583728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LC2Zk94dx9",
+              "end": 72,
+              "expanded_url": "https://x.com/realNyarime/status/2022158491289583728/photo/1",
+              "media_key": "3_2022156789257842689",
+              "start": 49,
+              "url": "https://t.co/LC2Zk94dx9"
+            },
+            {
+              "display_url": "pic.x.com/LC2Zk94dx9",
+              "end": 72,
+              "expanded_url": "https://x.com/realNyarime/status/2022158491289583728/photo/1",
+              "media_key": "3_2022156805384941569",
+              "start": 49,
+              "url": "https://t.co/LC2Zk94dx9"
+            },
+            {
+              "display_url": "pic.x.com/LC2Zk94dx9",
+              "end": 72,
+              "expanded_url": "https://x.com/realNyarime/status/2022158491289583728/photo/1",
+              "media_key": "3_2022156829195956224",
+              "start": 49,
+              "url": "https://t.co/LC2Zk94dx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022158491289583728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 550,
+                "id": "534073",
+                "start": 545,
+                "username": "echo"
+              },
+              {
+                "end": 649,
+                "id": "534073",
+                "start": 644,
+                "username": "echo"
+              }
+            ]
+          },
+          "text": "小米14刷欧洲版系统没信号英国是基带文件，需要设备本身解BL锁的，在MIUI系统绑定7天即可解。\nCN版本的硬件刷入非CN版本都会出现开机没信号问题（基带不一样），在FASTBOOT下经过各种尝试，均失败告终。小米有限制，用高通的命令解除VB认证也不可以单独刷基带。就在要放弃的时候忽然想到多年以前的黑莓混刷系统的方法，决定试一试，还真成了。。。线刷软件使用的是柚坛搞机工具箱没有使用官方的miflash。\n\n1.修改国行版本的线刷包中的flash_all.bat文件，把最底下的一行删除或注释掉，让手机刷完后不自动重启。我刷的小米14国内3.0.5\n2.修改欧洲版本的线刷包中的flash_all.bat文件，在第三行下面加入：\nfastboot %* oem disable-verity\nfastboot %* oem disable-verification\nfastboot %* vbmeta_disable_verification disable\nfastboot %* erase vbmeta --disable-verification\n然后删除或注释掉：\nfastboot %* flash modem_ab %~dp0images/NON-HLOS.bin || @echo “Flash modem error“ && exit 1\nfastboot %* flash modemfirmware_ab %~dp0images/MODEM-FW.bin || @echo “Flash modem firmware error“ && exit 1\n这样刷机的时候是不会写标准基带文件和补充基带文件。\n\n刷完后，自动开机欧版系统。没有内置反诈了，也有信号了。属于是欧洲版本系统，国内版本基带。总不能在基带里内置反诈上报吧，那也太吓人了，就希望过个年别整天给我打电话，下过rustdesk的一加13已双清，求放过🙏🙏🙏"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小米14刷欧洲版系统没信号英国是基带文件，需要设备本身解BL锁的，在MIUI系统绑定7天即可解。 https://t.co/LC2Zk94dx9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2020984211340132415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13895,
+          "following_count": 568,
+          "like_count": 10057,
+          "listed_count": 58,
+          "media_count": 888,
+          "tweet_count": 7228
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2007-01-04T12:22:31.000Z",
+        "description": "Toiling in the code mines at @Detectify. No, you can't have my username.\n\nIf this hellsite goes read-only you'll find me at  https://t.co/UeUjNfcHvk.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "Detectify"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "infosec.town/@spiralmind",
+                "end": 148,
+                "expanded_url": "https://infosec.town/@spiralmind",
+                "start": 125,
+                "url": "https://t.co/UeUjNfcHvk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infosec.town/@spiralmind",
+                "end": 23,
+                "expanded_url": "https://infosec.town/@spiralmind",
+                "start": 0,
+                "url": "https://t.co/UeUjNfcHvk"
+              }
+            ]
+          }
+        },
+        "id": "534073",
+        "location": "Stockholm, Sweden",
+        "name": "Johan S",
+        "pinned_tweet_id": "939824138121875456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529768285478191105/DBPpnh3c_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 406,
+          "like_count": 6198,
+          "listed_count": 45,
+          "media_count": 2960,
+          "tweet_count": 87313
+        },
+        "url": "https://t.co/UeUjNfcHvk",
+        "username": "Echo",
+        "verified": false
+      }
+    ]
+  }
+}

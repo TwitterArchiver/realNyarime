@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2059332118938091682",
+    "created_at": "2026-05-26T17:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059332380058591681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "token-plan-cn.xiaomimimo.com/v1",
+          "end": 118,
+          "expanded_url": "https://token-plan-cn.xiaomimimo.com/v1",
+          "start": 95,
+          "status": 404,
+          "unwound_url": "https://token-plan-cn.xiaomimimo.com/v1",
+          "url": "https://t.co/YAJDApyqzM"
+        },
+        {
+          "display_url": "token-plan-cn.xiaomimimo.com/anthropic",
+          "end": 161,
+          "expanded_url": "https://token-plan-cn.xiaomimimo.com/anthropic",
+          "start": 138,
+          "status": 404,
+          "unwound_url": "https://token-plan-cn.xiaomimimo.com/anthropic",
+          "url": "https://t.co/HFKwJ58z2Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059332380058591681",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059332118938091682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "由于我已经用不完了，把key放出来给没申请到的朋友：\ntp-cqf6rqug5qhqbrw24ej036jyoh7b3088q6rkgxmf2deqcuqo\n兼容 OpenAI 接口协议：\nhttps://t.co/YAJDApyqzM\n兼容 Anthropic 接口协议：\nhttps://t.co/HFKwJ58z2Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1936,
+        "media_key": "3_2059331278776958976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQ24yJaAAArXuk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1806,
+        "media_key": "3_2059331278798041088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQ24yObsAAfW89.jpg",
+        "width": 1049
+      },
+      {
+        "height": 1262,
+        "media_key": "3_2059331278777061376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQ24yJbkAAYTab.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2059332118938091682",
+        "created_at": "2026-05-26T17:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059332380058591681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "token-plan-cn.xiaomimimo.com/v1",
+              "end": 118,
+              "expanded_url": "https://token-plan-cn.xiaomimimo.com/v1",
+              "start": 95,
+              "status": 404,
+              "unwound_url": "https://token-plan-cn.xiaomimimo.com/v1",
+              "url": "https://t.co/YAJDApyqzM"
+            },
+            {
+              "display_url": "token-plan-cn.xiaomimimo.com/anthropic",
+              "end": 161,
+              "expanded_url": "https://token-plan-cn.xiaomimimo.com/anthropic",
+              "start": 138,
+              "status": 404,
+              "unwound_url": "https://token-plan-cn.xiaomimimo.com/anthropic",
+              "url": "https://t.co/HFKwJ58z2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059332380058591681",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059332118938091682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由于我已经用不完了，把key放出来给没申请到的朋友：\ntp-cqf6rqug5qhqbrw24ej036jyoh7b3088q6rkgxmf2deqcuqo\n兼容 OpenAI 接口协议：\nhttps://t.co/YAJDApyqzM\n兼容 Anthropic 接口协议：\nhttps://t.co/HFKwJ58z2Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059331278776958976",
+            "3_2059331278798041088",
+            "3_2059331278777061376"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2059332118938091682",
+        "created_at": "2026-05-26T17:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059332118938091682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QzJpBdNqno",
+              "end": 194,
+              "expanded_url": "https://x.com/realNyarime/status/2059332118938091682/photo/1",
+              "media_key": "3_2059331278776958976",
+              "start": 171,
+              "url": "https://t.co/QzJpBdNqno"
+            },
+            {
+              "display_url": "pic.x.com/QzJpBdNqno",
+              "end": 194,
+              "expanded_url": "https://x.com/realNyarime/status/2059332118938091682/photo/1",
+              "media_key": "3_2059331278798041088",
+              "start": 171,
+              "url": "https://t.co/QzJpBdNqno"
+            },
+            {
+              "display_url": "pic.x.com/QzJpBdNqno",
+              "end": 194,
+              "expanded_url": "https://x.com/realNyarime/status/2059332118938091682/photo/1",
+              "media_key": "3_2059331278777061376",
+              "start": 171,
+              "url": "https://t.co/QzJpBdNqno"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 218,
+              "expanded_url": "https://twitter.com/realNyarime/status/2059312021494231350",
+              "start": 195,
+              "url": "https://t.co/FofJobG38z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059332118938091682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小米的 Token Plan 计费体系引入了 Credits 的概念，可用额度提升至原来的 5 至 8 倍，还重置了之前使用的额度\n\n之前百万亿 Token 创造者激励计划申请的 Pro 套餐用量重置，并且从原先的 7 亿提升至 380 亿，但不续有效期\n（申请入口也提前收官）\n\n所以罗福莉女士是要让我在 48 小时内，用完 380 亿的 MiMo Credits 吗？想想也是不可能的事吧！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059312021494231350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小米的 Token Plan 计费体系引入了 Credits 的概念，可用额度提升至原来的 5 至 8 倍，还重置了之前使用的额度\n\n之前百万亿 Token 创造者激励计划申请的 Pro 套餐用量重置，并且从原先的 7 亿提升至 380 亿，但不续有效期\n（申请入口也提前收官）\n\n所以罗福莉女士是要让我在 48 小时内，用完 380 亿的 https://t.co/QzJpBdNqno https://t.co/FofJobG38z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35165,
+          "following_count": 650,
+          "like_count": 15607,
+          "listed_count": 155,
+          "media_count": 1916,
+          "tweet_count": 12770
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

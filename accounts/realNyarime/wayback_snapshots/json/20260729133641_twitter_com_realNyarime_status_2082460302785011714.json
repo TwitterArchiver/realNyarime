@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2082457097233646045",
+    "created_at": "2026-07-29T13:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082460302785011714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "18689388",
+          "start": 0,
+          "username": "Ofcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082460302785011714",
+    "in_reply_to_user_id": "18689388",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Thank you for your kind reply. Giffgaff has been massively blocking overseas users in the past few days, resulting in the termination of service for our retained UK numbers. This matter has even sparked heated discussions in the Chinese community. We now want Giffgaff to provide a refund, even if it means deducting the remaining value, but customer service is currently only making excuses.\n\n1) Due to the termination of our Giffgaff SIM card service, we are unable to receive OTP SMS messages and log in to their website to export PAC data.\n\n2) Before transferring our numbers to another operator, we would like to donate to a UK charity to express our gratitude to your country.\n\n3) We hope that your regulatory authorities can investigate why Giffgaff is blocking users like us who only receive SMS messages and do not cause any loss to the company.\n\n4) Regarding the form, many people have already filled it out; please process it as soon as possible. Thank you."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082458896464015414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ofcom Thank you for your kind reply. Giffgaff has been massively blocking overseas users in the past few days, resulting in the termination of service for our retained UK numbers. This matter has even sparked heated discussions in the Chinese community. We now want Giffgaff to provide"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2082457097233646045",
+        "created_at": "2026-07-29T13:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082460302785011714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "18689388",
+              "start": 0,
+              "username": "Ofcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082460302785011714",
+        "in_reply_to_user_id": "18689388",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Thank you for your kind reply. Giffgaff has been massively blocking overseas users in the past few days, resulting in the termination of service for our retained UK numbers. This matter has even sparked heated discussions in the Chinese community. We now want Giffgaff to provide a refund, even if it means deducting the remaining value, but customer service is currently only making excuses.\n\n1) Due to the termination of our Giffgaff SIM card service, we are unable to receive OTP SMS messages and log in to their website to export PAC data.\n\n2) Before transferring our numbers to another operator, we would like to donate to a UK charity to express our gratitude to your country.\n\n3) We hope that your regulatory authorities can investigate why Giffgaff is blocking users like us who only receive SMS messages and do not cause any loss to the company.\n\n4) Regarding the form, many people have already filled it out; please process it as soon as possible. Thank you."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082458896464015414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ofcom Thank you for your kind reply. Giffgaff has been massively blocking overseas users in the past few days, resulting in the termination of service for our retained UK numbers. This matter has even sparked heated discussions in the Chinese community. We now want Giffgaff to provide"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18689388",
+        "conversation_id": "2082457097233646045",
+        "created_at": "2026-07-29T13:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082458896464015414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ofcomlive.my.salesforce-sites.com/formentry/Site…",
+              "end": 147,
+              "expanded_url": "https://ofcomlive.my.salesforce-sites.com/formentry/SitesFormCCTMonitoring",
+              "start": 124,
+              "unwound_url": "https://ofcomlive.my.salesforce-sites.com/formentry/SitesFormCCTMonitoring",
+              "url": "https://t.co/g19o27vUZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082458896464015414",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082457707102302609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime Hi there, if you wish to let us know what's happened, you can complete our online webform for monitoring here: https://t.co/g19o27vUZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42672,
+          "following_count": 670,
+          "like_count": 20585,
+          "listed_count": 186,
+          "media_count": 2493,
+          "tweet_count": 17246
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-06T18:58:29.000Z",
+        "description": "Official account for Ofcom, the UK’s independent communications regulator.  TV, radio, telecoms, video-sharing, post & more. In Welsh: @OfcomCymraeg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 135,
+                "username": "OfcomCymraeg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ofcom.org.uk",
+                "end": 23,
+                "expanded_url": "https://ofcom.org.uk",
+                "start": 0,
+                "url": "https://t.co/TNaTznjcVZ"
+              }
+            ]
+          }
+        },
+        "id": "18689388",
+        "location": "UK",
+        "name": "Ofcom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628776967846723584/Xw6761Cg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67758,
+          "following_count": 555,
+          "like_count": 1903,
+          "listed_count": 1161,
+          "media_count": 4036,
+          "tweet_count": 35705
+        },
+        "url": "https://t.co/TNaTznjcVZ",
+        "username": "Ofcom",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022099445115240448",
+        "3_2022099454523060226",
+        "3_2022099464585170944",
+        "3_2022099472071954432"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2022101153031594493",
+    "created_at": "2026-02-13T00:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T01:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022101153031594493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Omnkkop2rH",
+          "end": 195,
+          "expanded_url": "https://x.com/realNyarime/status/2022101153031594493/photo/1",
+          "media_key": "3_2022099445115240448",
+          "start": 172,
+          "url": "https://t.co/Omnkkop2rH"
+        },
+        {
+          "display_url": "pic.x.com/Omnkkop2rH",
+          "end": 195,
+          "expanded_url": "https://x.com/realNyarime/status/2022101153031594493/photo/1",
+          "media_key": "3_2022099454523060226",
+          "start": 172,
+          "url": "https://t.co/Omnkkop2rH"
+        },
+        {
+          "display_url": "pic.x.com/Omnkkop2rH",
+          "end": 195,
+          "expanded_url": "https://x.com/realNyarime/status/2022101153031594493/photo/1",
+          "media_key": "3_2022099464585170944",
+          "start": 172,
+          "url": "https://t.co/Omnkkop2rH"
+        },
+        {
+          "display_url": "pic.x.com/Omnkkop2rH",
+          "end": 195,
+          "expanded_url": "https://x.com/realNyarime/status/2022101153031594493/photo/1",
+          "media_key": "3_2022099472071954432",
+          "start": 172,
+          "url": "https://t.co/Omnkkop2rH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022101153031594493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "前阵子给手机装了个rustdesk搞的被96110反诈折磨得死去活来，对于升级HyperOS无法root的米粉来说，还可以借助adb永久禁止系统应用联网。需要用到GitHub上的两个项目：\n1）iamr0s/Dhizuku\n需要设备管理员权限激活Dhizuku\n2）BinTianqi/OwnDroid\n再用Dhizuku授权OwnDroid\n\n授权好后，打开OwnDroid，应用程序-禁用计量数据，添加需要禁用的程序，就可以禁用应用在移动数据流量下的联网权限，UID为1000的系统应用同样可以禁用。\n\n要想让在WiFi情况下也生效，需要使用adb权限修改WIFI的网络类型，把WiFi类型修改为计量数据。\n先用adb shell cmd netpolicy list wifi-networks查看已连接WiFi的信息，在获取到WiFi的SSID名称后，再用adb shell cmd netpolicy set metered-network “TP-LINK_3916“ true（引号改成自己的WiFi名称）即可把该WiFi的添加上计量数据属性。\n唯一的缺点就是，添加该属性后任务栏的WiFi图标可能就变成移动热点的那种造型。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前阵子给手机装了个rustdesk搞的被96110反诈折磨得死去活来，对于升级HyperOS无法root的米粉来说，还可以借助adb永久禁止系统应用联网。需要用到GitHub上的两个项目：\n1）iamr0s/Dhizuku\n需要设备管理员权限激活Dhizuku\n2）BinTianqi/OwnDroid\n再用Dhizuku授权OwnDroid https://t.co/Omnkkop2rH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 301,
+        "media_key": "3_2022099445115240448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_wu1abwAAVxLU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2022099454523060226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_wvYdbsAImgYg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2022099464585170944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_wv98bUAAmi7w.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2022099472071954432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_wwZ1akAAUXt5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022099445115240448",
+            "3_2022099454523060226",
+            "3_2022099464585170944",
+            "3_2022099472071954432"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2022101153031594493",
+        "created_at": "2026-02-13T00:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T01:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022101153031594493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Omnkkop2rH",
+              "end": 195,
+              "expanded_url": "https://x.com/realNyarime/status/2022101153031594493/photo/1",
+              "media_key": "3_2022099445115240448",
+              "start": 172,
+              "url": "https://t.co/Omnkkop2rH"
+            },
+            {
+              "display_url": "pic.x.com/Omnkkop2rH",
+              "end": 195,
+              "expanded_url": "https://x.com/realNyarime/status/2022101153031594493/photo/1",
+              "media_key": "3_2022099454523060226",
+              "start": 172,
+              "url": "https://t.co/Omnkkop2rH"
+            },
+            {
+              "display_url": "pic.x.com/Omnkkop2rH",
+              "end": 195,
+              "expanded_url": "https://x.com/realNyarime/status/2022101153031594493/photo/1",
+              "media_key": "3_2022099464585170944",
+              "start": 172,
+              "url": "https://t.co/Omnkkop2rH"
+            },
+            {
+              "display_url": "pic.x.com/Omnkkop2rH",
+              "end": 195,
+              "expanded_url": "https://x.com/realNyarime/status/2022101153031594493/photo/1",
+              "media_key": "3_2022099472071954432",
+              "start": 172,
+              "url": "https://t.co/Omnkkop2rH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022101153031594493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前阵子给手机装了个rustdesk搞的被96110反诈折磨得死去活来，对于升级HyperOS无法root的米粉来说，还可以借助adb永久禁止系统应用联网。需要用到GitHub上的两个项目：\n1）iamr0s/Dhizuku\n需要设备管理员权限激活Dhizuku\n2）BinTianqi/OwnDroid\n再用Dhizuku授权OwnDroid\n\n授权好后，打开OwnDroid，应用程序-禁用计量数据，添加需要禁用的程序，就可以禁用应用在移动数据流量下的联网权限，UID为1000的系统应用同样可以禁用。\n\n要想让在WiFi情况下也生效，需要使用adb权限修改WIFI的网络类型，把WiFi类型修改为计量数据。\n先用adb shell cmd netpolicy list wifi-networks查看已连接WiFi的信息，在获取到WiFi的SSID名称后，再用adb shell cmd netpolicy set metered-network “TP-LINK_3916“ true（引号改成自己的WiFi名称）即可把该WiFi的添加上计量数据属性。\n唯一的缺点就是，添加该属性后任务栏的WiFi图标可能就变成移动热点的那种造型。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前阵子给手机装了个rustdesk搞的被96110反诈折磨得死去活来，对于升级HyperOS无法root的米粉来说，还可以借助adb永久禁止系统应用联网。需要用到GitHub上的两个项目：\n1）iamr0s/Dhizuku\n需要设备管理员权限激活Dhizuku\n2）BinTianqi/OwnDroid\n再用Dhizuku授权OwnDroid https://t.co/Omnkkop2rH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2020984211340132415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13881,
+          "following_count": 568,
+          "like_count": 10053,
+          "listed_count": 58,
+          "media_count": 885,
+          "tweet_count": 7219
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

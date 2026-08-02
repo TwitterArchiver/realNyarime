@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2079996223424258486",
+    "created_at": "2026-07-23T07:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080188217924698223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "741127492614950913",
+          "start": 0,
+          "username": "Lakr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080188217924698223",
+    "in_reply_to_user_id": "741127492614950913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079996223424258486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Lakr233 是啊，我也在用 IDA MCP，效果提高了不少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2079996223424258486",
+        "created_at": "2026-07-23T07:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080188217924698223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "741127492614950913",
+              "start": 0,
+              "username": "Lakr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080188217924698223",
+        "in_reply_to_user_id": "741127492614950913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079996223424258486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Lakr233 是啊，我也在用 IDA MCP，效果提高了不少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "741127492614950913",
+        "conversation_id": "2079996223424258486",
+        "created_at": "2026-07-22T18:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:18:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079994405403148484",
+          "2079996223424258486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ilearn_it/stat…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/ilearn_it/status/2079991181920911657",
+              "start": 279,
+              "url": "https://t.co/F6a8hTtY0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079996223424258486",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "it can, right now.\n\nwe told ai to use unicorn, and setup hooks and binary patches to build a syscall logger.\n\nthe result is incredible:\nwe managed to dump the entire coruna framework within 1 day, and the next morning, by running a goal through gpt, it succeeded on sptm bypass.\n\nit's partially, because ai cheated:\nuse devicectl to lock the screen to get a pass a must have for the bypass.\n\nafter that(the next day), I told ai to use IDA mcp to analysis the system, he pulled b100.bin(gpu firmware) and some backboardd related stuff, and build me a fully working sptm bypass without cheating."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 23627,
+          "like_count": 141,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079991181920911657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "it can, right now.\n\nwe told ai to use unicorn, and setup hooks and binary patches to build a syscall logger.\n\nthe result is incredible:\nwe managed to dump the entire coruna framework within 1 day, and the next morning, by running a goal through gpt, it succeeded on sptm bypass. https://t.co/F6a8hTtY0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40596,
+          "following_count": 662,
+          "like_count": 19958,
+          "listed_count": 184,
+          "media_count": 2434,
+          "tweet_count": 16804
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-10T04:38:58.000Z",
+        "description": "我不会在个人资料里头放除了 https://t.co/kOWUWwvGx5 的链接。 #-a-different-kind-of-human.\n\nPs: 若是被认定为生成式推文账号，则会被关小黑屋。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 37,
+                "expanded_url": "http://qaq.wiki",
+                "start": 14,
+                "url": "https://t.co/kOWUWwvGx5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 23,
+                "expanded_url": "https://qaq.wiki",
+                "start": 0,
+                "url": "https://t.co/FIGSbdf6qu"
+              }
+            ]
+          }
+        },
+        "id": "741127492614950913",
+        "location": "!?(･_･;? 天方夜谭.spaceCraft",
+        "name": "砍砍.ᐟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861408647602176/R4ipccSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35347,
+          "following_count": 402,
+          "like_count": 63643,
+          "listed_count": 234,
+          "media_count": 100,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/FIGSbdf6qu",
+        "username": "Lakr233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737213220999170",
+          "name": "Revolut"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2021412970132275624",
+    "created_at": "2026-02-11T11:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T12:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021548798313734540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2279407860",
+          "start": 0,
+          "username": "bailyLU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 69,
+          "expanded_url": "https://x.com/realNyarime/status/2014245746258878946",
+          "start": 46,
+          "url": "https://t.co/QenOuz28wH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021548798313734540",
+    "in_reply_to_user_id": "2279407860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014245746258878946",
+        "type": "quoted"
+      },
+      {
+        "id": "2021412970132275624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bailyLU 第一张那个彩色的卡我也有转发过啊，但Revolut需要欧洲的居留才能开户\nhttps://t.co/QenOuz28wH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2916,
+        "height": 1440,
+        "media_key": "13_2014242451490582528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014242451490582528/img/abgfGm1ACPw-2AVZ.jpg",
+        "public_metrics": {
+          "view_count": 8458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014242451490582528/vid/avc1/320x426/RA7jArTuWqCwoEJV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014242451490582528/pl/xgrqmklAkggA-blg.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014242451490582528/vid/avc1/480x640/2Gd2_giGxlQ-Oc2O.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014242451490582528/vid/avc1/1080x1440/OekSpR3C7Zhs1T6G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014242451490582528/vid/avc1/720x960/hR9-aecPpTOiSodY.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 2833,
+        "height": 1440,
+        "media_key": "13_2014242628611764224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014242628611764224/img/16jHQCfkvPRftR2h.jpg",
+        "public_metrics": {
+          "view_count": 2435
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014242628611764224/pl/1qwIes2Qh2oE4bi3.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014242628611764224/vid/avc1/720x960/XrTSGstkZ5bAb_Nv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014242628611764224/vid/avc1/480x640/_SheJslm-KoRcFw1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014242628611764224/vid/avc1/1080x1440/CC3GvEMv9SRwHP8A.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014242628611764224/vid/avc1/320x426/P0QGElLWavlT-IW6.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2014242679455129600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QHC4haoAAimPf.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2014242677584433152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QHCxjaEAAk2Xs.jpg",
+        "width": 4032
+      },
+      {
+        "height": 1590,
+        "media_key": "3_2021412961517285376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2AYOubsAAy7CD.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2021412961479512064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2AYOlbUAAa76_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021412961416511493",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2AYOWaAAUnJu_.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021412961534038016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2AYOybUAAE88o.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213220999170",
+              "name": "Revolut"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2021412970132275624",
+        "created_at": "2026-02-11T11:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021548798313734540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2279407860",
+              "start": 0,
+              "username": "bailyLU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 69,
+              "expanded_url": "https://x.com/realNyarime/status/2014245746258878946",
+              "start": 46,
+              "url": "https://t.co/QenOuz28wH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021548798313734540",
+        "in_reply_to_user_id": "2279407860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014245746258878946",
+            "type": "quoted"
+          },
+          {
+            "id": "2021412970132275624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bailyLU 第一张那个彩色的卡我也有转发过啊，但Revolut需要欧洲的居留才能开户\nhttps://t.co/QenOuz28wH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014242451490582528",
+            "13_2014242628611764224",
+            "3_2014242679455129600",
+            "3_2014242677584433152"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213220999170",
+              "name": "Revolut"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2014245746258878946",
+        "created_at": "2026-01-22T07:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014245746258878946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/joTS8nA5Bt",
+              "end": 192,
+              "expanded_url": "https://x.com/realNyarime/status/2014245746258878946/video/1",
+              "media_key": "13_2014242451490582528",
+              "start": 169,
+              "url": "https://t.co/joTS8nA5Bt"
+            },
+            {
+              "display_url": "pic.x.com/joTS8nA5Bt",
+              "end": 192,
+              "expanded_url": "https://x.com/realNyarime/status/2014245746258878946/video/1",
+              "media_key": "13_2014242628611764224",
+              "start": 169,
+              "url": "https://t.co/joTS8nA5Bt"
+            },
+            {
+              "display_url": "pic.x.com/joTS8nA5Bt",
+              "end": 192,
+              "expanded_url": "https://x.com/realNyarime/status/2014245746258878946/video/1",
+              "media_key": "3_2014242679455129600",
+              "start": 169,
+              "url": "https://t.co/joTS8nA5Bt"
+            },
+            {
+              "display_url": "pic.x.com/joTS8nA5Bt",
+              "end": 192,
+              "expanded_url": "https://x.com/realNyarime/status/2014245746258878946/video/1",
+              "media_key": "3_2014242677584433152",
+              "start": 169,
+              "url": "https://t.co/joTS8nA5Bt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014245746258878946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 20052,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刷xhs看到博主“天空中的小精灵”开的这张Revolut Chrome卡，尤其是放在水下冲的效果真的相当哇塞！\n\n非塑料卡的缺点还是蛮多的，沾指纹、留划痕。虽说Mastercard Worldelite Debit的权益不算多，但放在卡包里挺炫酷的。\n\n想问下万能的推友，现在Revolut哪个区好开些，看评论区有人说美区没有这个卡面。 https://t.co/joTS8nA5Bt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021412961517285376",
+            "3_2021412961479512064",
+            "3_2021412961416511493",
+            "3_2021412961534038016"
+          ]
+        },
+        "author_id": "2279407860",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213220999170",
+              "name": "Revolut"
+            }
+          }
+        ],
+        "conversation_id": "2021412970132275624",
+        "created_at": "2026-02-11T02:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T03:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021412970132275624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etqLJJVaKG",
+              "end": 119,
+              "expanded_url": "https://x.com/bailyLU/status/2021412970132275624/photo/1",
+              "media_key": "3_2021412961517285376",
+              "start": 96,
+              "url": "https://t.co/etqLJJVaKG"
+            },
+            {
+              "display_url": "pic.x.com/etqLJJVaKG",
+              "end": 119,
+              "expanded_url": "https://x.com/bailyLU/status/2021412970132275624/photo/1",
+              "media_key": "3_2021412961479512064",
+              "start": 96,
+              "url": "https://t.co/etqLJJVaKG"
+            },
+            {
+              "display_url": "pic.x.com/etqLJJVaKG",
+              "end": 119,
+              "expanded_url": "https://x.com/bailyLU/status/2021412970132275624/photo/1",
+              "media_key": "3_2021412961416511493",
+              "start": 96,
+              "url": "https://t.co/etqLJJVaKG"
+            },
+            {
+              "display_url": "pic.x.com/etqLJJVaKG",
+              "end": 119,
+              "expanded_url": "https://x.com/bailyLU/status/2021412970132275624/photo/1",
+              "media_key": "3_2021412961534038016",
+              "start": 96,
+              "url": "https://t.co/etqLJJVaKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021412970132275624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "众所周知欧洲的U卡一直是最多的，选择也是最多的，颜值功能也是最好的。\n比如：\nRevolut欧区、Kraken欧区、Bybit欧区\n还有最近很火的okx的新卡。\n实话实说欧盟还是颜值都不错😌\n\n但是大家开户会遇到困难，这个时候必须要提关键的银行N26，它就是一把钥匙🔑。欧洲银行都可以合法对接交易所出入金，加密货币合法。\n\n虽然本身他没什么特别的，但是它是唯一可以用大陆的护照开的欧洲合法正规的银行卡。\n\n当你第二个月有有了账单之后，就可以利用账单开提到的U卡了\n\n怎么开通N26呢？👇评论区"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 10364,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "众所周知欧洲的U卡一直是最多的，选择也是最多的，颜值功能也是最好的。\n比如：\nRevolut欧区、Kraken欧区、Bybit欧区\n还有最近很火的okx的新卡。\n实话实说欧盟还是颜值都不错😌 https://t.co/etqLJJVaKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2020984211340132415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13759,
+          "following_count": 575,
+          "like_count": 10013,
+          "listed_count": 57,
+          "media_count": 876,
+          "tweet_count": 7175
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-06T18:00:04.000Z",
+        "description": "🎉 大家好，我是贝利 ✈️ 让我们一起花费更少，享受更好 📍 机票｜酒店｜信用卡｜数码科技 🍏 主业留学移民工作（EU）💳 研究信用卡积分、省钱玩法 & 旅行黑科技 👥 社群｜知识星球：「贝利和他的小伙伴们」 📬 联络我：bailylu@icloud.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baily.life",
+                "end": 23,
+                "expanded_url": "http://baily.life",
+                "start": 0,
+                "url": "https://t.co/uk7nmQ0UOh"
+              }
+            ]
+          }
+        },
+        "id": "2279407860",
+        "location": "Milan",
+        "name": "贝利Baily",
+        "pinned_tweet_id": "2010039548903031073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987211914146160645/NFElt4XN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5131,
+          "following_count": 737,
+          "like_count": 1254,
+          "listed_count": 26,
+          "media_count": 660,
+          "tweet_count": 2384
+        },
+        "url": "https://t.co/uk7nmQ0UOh",
+        "username": "bailyLU",
+        "verified": true
+      }
+    ]
+  }
+}

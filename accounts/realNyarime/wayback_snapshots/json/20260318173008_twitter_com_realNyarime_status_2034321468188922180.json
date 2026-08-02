@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2033969969663504746",
+    "created_at": "2026-03-18T17:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T18:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034321468188922180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1160910034387263489",
+          "start": 0,
+          "username": "WFW12313"
+        },
+        {
+          "end": 22,
+          "id": "1241983439189884928",
+          "start": 10,
+          "username": "Kazuha_1011"
+        },
+        {
+          "end": 36,
+          "id": "841149313",
+          "start": 23,
+          "username": "chenhong1566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034321468188922180",
+    "in_reply_to_user_id": "1160910034387263489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034321051094794343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WFW12313 @Kazuha_1011 @chenhong1566 只有Pixel不显示漫游，其他都会显示（iOS会显示所漫游的运营商名称，不会显示原运营商"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2033969969663504746",
+        "created_at": "2026-03-18T17:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034321468188922180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1160910034387263489",
+              "start": 0,
+              "username": "WFW12313"
+            },
+            {
+              "end": 22,
+              "id": "1241983439189884928",
+              "start": 10,
+              "username": "Kazuha_1011"
+            },
+            {
+              "end": 36,
+              "id": "841149313",
+              "start": 23,
+              "username": "chenhong1566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034321468188922180",
+        "in_reply_to_user_id": "1160910034387263489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034321051094794343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WFW12313 @Kazuha_1011 @chenhong1566 只有Pixel不显示漫游，其他都会显示（iOS会显示所漫游的运营商名称，不会显示原运营商"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1160910034387263489",
+        "conversation_id": "2033969969663504746",
+        "created_at": "2026-03-18T17:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034321051094794343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1241983439189884928",
+              "start": 0,
+              "username": "Kazuha_1011"
+            },
+            {
+              "end": 26,
+              "id": "841149313",
+              "start": 13,
+              "username": "chenhong1566"
+            },
+            {
+              "end": 39,
+              "id": "1165044876297134080",
+              "start": 27,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034321051094794343",
+        "in_reply_to_user_id": "1241983439189884928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034302485368873200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazuha_1011 @chenhong1566 @realNyarime 其實你看一下左上角放大放大看看真的有的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2034320082214724042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22621,
+          "following_count": 518,
+          "like_count": 11051,
+          "listed_count": 96,
+          "media_count": 1174,
+          "tweet_count": 8513
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-12T13:44:55.000Z",
+        "description": "亮起的星星總有熄滅嘅一天🌟被你發現白燁了w！是一隻藍色的可愛小狗耶，可能平時憨憨的兄弟設哥哥@Yih122 小短尾w設定名字（白樺）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "Yih122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/1B6BVuMv…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/1B6BVuMvC5/?mibextid=LQQJ4d",
+                "start": 0,
+                "url": "https://t.co/HSSKR74f2w"
+              }
+            ]
+          }
+        },
+        "id": "1160910034387263489",
+        "name": "白烨-BAiYEEEE",
+        "pinned_tweet_id": "1763171859145871817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999178234802634754/389zH2PV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6053,
+          "following_count": 390,
+          "like_count": 30048,
+          "listed_count": 11,
+          "media_count": 741,
+          "tweet_count": 9212
+        },
+        "url": "https://t.co/HSSKR74f2w",
+        "username": "WFW12313",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T07:01:50.000Z",
+        "description": "希望我們都能像對方一樣勇敢！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazuhahub.com",
+                "end": 23,
+                "expanded_url": "https://kazuhahub.com",
+                "start": 0,
+                "url": "https://t.co/kpYNfeHXby"
+              }
+            ]
+          }
+        },
+        "id": "1241983439189884928",
+        "name": "Kazuha Mo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993061582285553667/4SA5QeAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 47,
+          "like_count": 3040,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/kpYNfeHXby",
+        "username": "Kazuha_1011",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-23T06:33:30.000Z",
+        "description": "阴阳怪气，坚决拥护",
+        "id": "841149313",
+        "location": "Taipei City, Taiwan",
+        "name": "陈公公🇺🇦🇹🇼🍯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528287858875781120/j55zuVQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 265,
+          "like_count": 327,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 748
+        },
+        "username": "chenhong1566",
+        "verified": false
+      }
+    ]
+  }
+}

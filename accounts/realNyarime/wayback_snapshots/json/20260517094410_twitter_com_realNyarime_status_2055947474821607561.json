@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055942022960463873",
+        "3_2055942742661095424",
+        "3_2055942759597625344",
+        "3_2055946432293847040"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2055947474821607561",
+    "created_at": "2026-05-17T09:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055947474821607561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LCEeYIXAF3",
+          "end": 139,
+          "expanded_url": "https://x.com/realNyarime/status/2055947474821607561/photo/1",
+          "media_key": "3_2055942022960463873",
+          "start": 116,
+          "url": "https://t.co/LCEeYIXAF3"
+        },
+        {
+          "display_url": "pic.x.com/LCEeYIXAF3",
+          "end": 139,
+          "expanded_url": "https://x.com/realNyarime/status/2055947474821607561/photo/1",
+          "media_key": "3_2055942742661095424",
+          "start": 116,
+          "url": "https://t.co/LCEeYIXAF3"
+        },
+        {
+          "display_url": "pic.x.com/LCEeYIXAF3",
+          "end": 139,
+          "expanded_url": "https://x.com/realNyarime/status/2055947474821607561/photo/1",
+          "media_key": "3_2055942759597625344",
+          "start": 116,
+          "url": "https://t.co/LCEeYIXAF3"
+        },
+        {
+          "display_url": "pic.x.com/LCEeYIXAF3",
+          "end": 139,
+          "expanded_url": "https://x.com/realNyarime/status/2055947474821607561/photo/1",
+          "media_key": "3_2055946432293847040",
+          "start": 116,
+          "url": "https://t.co/LCEeYIXAF3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055947474821607561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "折腾过软路由的推友应该都认识爱快系统，包括之前我借助pmd适配了一些原生插件，也能让OpenWRT插件和LuCI在上面跑，总的来说有点像在做卓易通（当然因为全讯汇聚，也就是爱快官方找上门了就停止了，还好人家公司格局大不然就成被告了\n\niKuaiOS现在已经4.0Beta，不过pmd挂载方式也变了，目前只允许Docker插件。我能感觉到他们团队并不想放root权限，以及对原生（二进制）插件进行签名校验。包括在研发团队的许可尝试突破了新系统的root权限，只能说加固得很彻底，能看到爱快官方对于盗版的打击力度之大\n\n因此我比较好奇一件事，路由上跑插件是不是刚需？好像大部分人用爱快做流控然后用OpenWRT跑Clash的较多，如果说NAS是家庭娱乐网关，那将Router+NAS会不会是更好的选择？我看飞牛OS那套插件生态（原生+Docker）就很不错，甚至还有第三方应用商店支持。当然已经实测ShellClash和Mihomo内核都可以在iKuai上正常工作，其实像Apple那样做个App Store审核插件也不是件坏事\n\n如果说哪一天爱快开放root和第三方插件市场共存，那我觉得是更上一层楼的事情。此外，爱快销售那边也有小道消息说要单独卖企业版授权，除了买硬件送OEM版外，还有通过订阅获得与官方企业硬件一样的功能，我认为值得期待"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "折腾过软路由的推友应该都认识爱快系统，包括之前我借助pmd适配了一些原生插件，也能让OpenWRT插件和LuCI在上面跑，总的来说有点像在做卓易通（当然因为全讯汇聚，也就是爱快官方找上门了就停止了，还好人家公司格局大不然就成被告了 https://t.co/LCEeYIXAF3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1243,
+        "media_key": "3_2055942022960463873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgsYIVbQAEsjm0.jpg",
+        "width": 1208
+      },
+      {
+        "height": 865,
+        "media_key": "3_2055942742661095424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgtCBbbYAALsjV.jpg",
+        "width": 1363
+      },
+      {
+        "height": 915,
+        "media_key": "3_2055942759597625344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgtDAhaUAATKbh.jpg",
+        "width": 1718
+      },
+      {
+        "height": 760,
+        "media_key": "3_2055946432293847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgwYyYbQAAkiRp.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055942022960463873",
+            "3_2055942742661095424",
+            "3_2055942759597625344",
+            "3_2055946432293847040"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2055947474821607561",
+        "created_at": "2026-05-17T09:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055947474821607561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCEeYIXAF3",
+              "end": 139,
+              "expanded_url": "https://x.com/realNyarime/status/2055947474821607561/photo/1",
+              "media_key": "3_2055942022960463873",
+              "start": 116,
+              "url": "https://t.co/LCEeYIXAF3"
+            },
+            {
+              "display_url": "pic.x.com/LCEeYIXAF3",
+              "end": 139,
+              "expanded_url": "https://x.com/realNyarime/status/2055947474821607561/photo/1",
+              "media_key": "3_2055942742661095424",
+              "start": 116,
+              "url": "https://t.co/LCEeYIXAF3"
+            },
+            {
+              "display_url": "pic.x.com/LCEeYIXAF3",
+              "end": 139,
+              "expanded_url": "https://x.com/realNyarime/status/2055947474821607561/photo/1",
+              "media_key": "3_2055942759597625344",
+              "start": 116,
+              "url": "https://t.co/LCEeYIXAF3"
+            },
+            {
+              "display_url": "pic.x.com/LCEeYIXAF3",
+              "end": 139,
+              "expanded_url": "https://x.com/realNyarime/status/2055947474821607561/photo/1",
+              "media_key": "3_2055946432293847040",
+              "start": 116,
+              "url": "https://t.co/LCEeYIXAF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055947474821607561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "折腾过软路由的推友应该都认识爱快系统，包括之前我借助pmd适配了一些原生插件，也能让OpenWRT插件和LuCI在上面跑，总的来说有点像在做卓易通（当然因为全讯汇聚，也就是爱快官方找上门了就停止了，还好人家公司格局大不然就成被告了\n\niKuaiOS现在已经4.0Beta，不过pmd挂载方式也变了，目前只允许Docker插件。我能感觉到他们团队并不想放root权限，以及对原生（二进制）插件进行签名校验。包括在研发团队的许可尝试突破了新系统的root权限，只能说加固得很彻底，能看到爱快官方对于盗版的打击力度之大\n\n因此我比较好奇一件事，路由上跑插件是不是刚需？好像大部分人用爱快做流控然后用OpenWRT跑Clash的较多，如果说NAS是家庭娱乐网关，那将Router+NAS会不会是更好的选择？我看飞牛OS那套插件生态（原生+Docker）就很不错，甚至还有第三方应用商店支持。当然已经实测ShellClash和Mihomo内核都可以在iKuai上正常工作，其实像Apple那样做个App Store审核插件也不是件坏事\n\n如果说哪一天爱快开放root和第三方插件市场共存，那我觉得是更上一层楼的事情。此外，爱快销售那边也有小道消息说要单独卖企业版授权，除了买硬件送OEM版外，还有通过订阅获得与官方企业硬件一样的功能，我认为值得期待"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "折腾过软路由的推友应该都认识爱快系统，包括之前我借助pmd适配了一些原生插件，也能让OpenWRT插件和LuCI在上面跑，总的来说有点像在做卓易通（当然因为全讯汇聚，也就是爱快官方找上门了就停止了，还好人家公司格局大不然就成被告了 https://t.co/LCEeYIXAF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2055700166846599490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33153,
+          "following_count": 631,
+          "like_count": 14403,
+          "listed_count": 150,
+          "media_count": 1796,
+          "tweet_count": 11750
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

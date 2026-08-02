@@ -1,0 +1,687 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple Safari",
+          "id": "10052778503",
+          "name": "Apple Safari"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2044817999983735144",
+    "created_at": "2026-04-16T16:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044817999983735144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BeiWeiji/statu…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/BeiWeiji/status/2044799305626874140",
+          "start": 150,
+          "url": "https://t.co/Nz80kPdcEk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044817999983735144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "苹果用户可以试试，需要外区的iCloud+才有的功能\n不只是Cloudflare WARP 还有Fastly、Akamai的节点，连接成功率会比使用CF的 1.1.1.1 快很多\n\n不过在连公共WiFi如有Web认证（Captive Portal）要先关掉这个功能，通过后再启用，不然会导致无法联网\n我就是之前一直想，MacBook连了酒店的WiFi一直不跳Portal，排查了一圈发现是这个功能挂着全局哈哈哈"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044799305626874140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苹果用户可以试试，需要外区的iCloud+才有的功能\n不只是Cloudflare WARP 还有Fastly、Akamai的节点，连接成功率会比使用CF的 1.1.1.1 快很多\n\n不过在连公共WiFi如有Web认证（Captive Portal）要先关掉这个功能，通过后再启用，不然会导致无法联网 https://t.co/Nz80kPdcEk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_2044798514899873792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCVal3acAAM3ED.jpg",
+        "width": 1289
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2044798514912509953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCVal6bQAEb0SJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Safari",
+              "id": "10052778503",
+              "name": "Apple Safari"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2044817999983735144",
+        "created_at": "2026-04-16T16:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044817999983735144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BeiWeiji/statu…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/BeiWeiji/status/2044799305626874140",
+              "start": 150,
+              "url": "https://t.co/Nz80kPdcEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044817999983735144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "苹果用户可以试试，需要外区的iCloud+才有的功能\n不只是Cloudflare WARP 还有Fastly、Akamai的节点，连接成功率会比使用CF的 1.1.1.1 快很多\n\n不过在连公共WiFi如有Web认证（Captive Portal）要先关掉这个功能，通过后再启用，不然会导致无法联网\n我就是之前一直想，MacBook连了酒店的WiFi一直不跳Portal，排查了一圈发现是这个功能挂着全局哈哈哈"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044799305626874140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苹果用户可以试试，需要外区的iCloud+才有的功能\n不只是Cloudflare WARP 还有Fastly、Akamai的节点，连接成功率会比使用CF的 1.1.1.1 快很多\n\n不过在连公共WiFi如有Web认证（Captive Portal）要先关掉这个功能，通过后再启用，不然会导致无法联网 https://t.co/Nz80kPdcEk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044798514899873792",
+            "3_2044798514912509953"
+          ]
+        },
+        "author_id": "1584727841320890368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Safari",
+              "id": "10052778503",
+              "name": "Apple Safari"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2044799305626874140",
+        "created_at": "2026-04-16T15:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044799305626874140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQzgc7xSAf",
+              "end": 193,
+              "expanded_url": "https://x.com/BeiWeiji/status/2044799305626874140/photo/1",
+              "media_key": "3_2044798514899873792",
+              "start": 170,
+              "url": "https://t.co/NQzgc7xSAf"
+            },
+            {
+              "display_url": "pic.x.com/NQzgc7xSAf",
+              "end": 193,
+              "expanded_url": "https://x.com/BeiWeiji/status/2044799305626874140/photo/1",
+              "media_key": "3_2044798514912509953",
+              "start": 170,
+              "url": "https://t.co/NQzgc7xSAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044799305626874140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "使用iCloud专用代理上X的方法。\n前提：iPhone手机，外区iCloud+\n使用方法：\n1.关闭iPhone定位，\n2.使用任意非中国IP（我测试是拿非大陆手机卡最保险），多关闭打开几次iCloud专用代理就可以了。使用Safari就是经过代理，可正常访问X。IP质量很高，而且会每10分钟跳一次，虽然是中国ip但也可以访问X\n3. 经测试只要不开定位，再切换成普通中国网络（wifi或者流量）也可以继续用，维持六七个小时是没问题的，基本不跳“不支持的地区”\n4.如果觉得不保险，有人说可以把苹果服务走代理避免检测。我没用这个方法，再开一次也就几秒钟的事"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 782,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "使用iCloud专用代理上X的方法。\n前提：iPhone手机，外区iCloud+\n使用方法：\n1.关闭iPhone定位，\n2.使用任意非中国IP（我测试是拿非大陆手机卡最保险），多关闭打开几次iCloud专用代理就可以了。使用Safari就是经过代理，可正常访问X。IP质量很高，而且会每10分钟跳一次，虽然是中国ip但也可以访问X\n3. https://t.co/NQzgc7xSAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28072,
+          "following_count": 526,
+          "like_count": 12409,
+          "listed_count": 132,
+          "media_count": 1483,
+          "tweet_count": 10060
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-25T02:05:56.000Z",
+        "description": "技术/生活/投资/数码，关心一切让生活更好的资讯。\n中文, 就是sparkling turquoise lagoon",
+        "id": "1584727841320890368",
+        "name": "贝玮霁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626120909793947648/QHk0s9vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 153,
+          "like_count": 158,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 535
+        },
+        "username": "BeiWeiji",
+        "verified": true
+      }
+    ]
+  }
+}

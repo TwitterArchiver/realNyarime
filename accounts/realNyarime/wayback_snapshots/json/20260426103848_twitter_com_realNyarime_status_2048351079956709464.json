@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048339382088957952",
+        "3_2048339459863916544",
+        "3_2048339486913028096"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2048351079956709464",
+    "created_at": "2026-04-26T10:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048351079956709464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/luukwzRobF",
+          "end": 173,
+          "expanded_url": "https://x.com/realNyarime/status/2048351079956709464/video/1",
+          "media_key": "13_2048339382088957952",
+          "start": 150,
+          "url": "https://t.co/luukwzRobF"
+        },
+        {
+          "display_url": "pic.x.com/luukwzRobF",
+          "end": 173,
+          "expanded_url": "https://x.com/realNyarime/status/2048351079956709464/video/1",
+          "media_key": "3_2048339459863916544",
+          "start": 150,
+          "url": "https://t.co/luukwzRobF"
+        },
+        {
+          "display_url": "pic.x.com/luukwzRobF",
+          "end": 173,
+          "expanded_url": "https://x.com/realNyarime/status/2048351079956709464/video/1",
+          "media_key": "3_2048339486913028096",
+          "start": 150,
+          "url": "https://t.co/luukwzRobF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048351079956709464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "荣耀手机出口朝鲜，化名马头山🫣\n从赵代表行走在朝鲜的视频看，朝鲜销售的马头山2222手机与荣耀Magic V2 RSR设计如出一辙，应该是ODM代加工的折叠屏手机\n\n强盛电信莫非是京海市强盛集团控股，居然有4G网络，听说是二手华为4G基站。不过普通朝鲜老百姓要多久才能买得起2000🔪的折叠屏手机？ https://t.co/luukwzRobF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75904,
+        "height": 1920,
+        "media_key": "13_2048339382088957952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048339382088957952/img/iTp__9IwMI0EU2bK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048339382088957952/vid/avc1/720x1280/diqrPcbXl0YZJcTg.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048339382088957952/vid/avc1/320x568/eziespdCP69j_pLf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048339382088957952/vid/avc1/480x852/xCCtBUnO952UCcNp.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048339382088957952/vid/avc1/1080x1920/fDptZLZo0e3t8rxz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048339382088957952/pl/IypNxNEabmAcVVRq.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 800,
+        "media_key": "3_2048339459863916544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0p4tyasAAP18a.png",
+        "width": 800
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2048339486913028096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0p6SjbYAAREws.jpg",
+        "width": 1177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048339382088957952",
+            "3_2048339459863916544",
+            "3_2048339486913028096"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2048351079956709464",
+        "created_at": "2026-04-26T10:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048351079956709464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/luukwzRobF",
+              "end": 173,
+              "expanded_url": "https://x.com/realNyarime/status/2048351079956709464/video/1",
+              "media_key": "13_2048339382088957952",
+              "start": 150,
+              "url": "https://t.co/luukwzRobF"
+            },
+            {
+              "display_url": "pic.x.com/luukwzRobF",
+              "end": 173,
+              "expanded_url": "https://x.com/realNyarime/status/2048351079956709464/video/1",
+              "media_key": "3_2048339459863916544",
+              "start": 150,
+              "url": "https://t.co/luukwzRobF"
+            },
+            {
+              "display_url": "pic.x.com/luukwzRobF",
+              "end": 173,
+              "expanded_url": "https://x.com/realNyarime/status/2048351079956709464/video/1",
+              "media_key": "3_2048339486913028096",
+              "start": 150,
+              "url": "https://t.co/luukwzRobF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048351079956709464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "荣耀手机出口朝鲜，化名马头山🫣\n从赵代表行走在朝鲜的视频看，朝鲜销售的马头山2222手机与荣耀Magic V2 RSR设计如出一辙，应该是ODM代加工的折叠屏手机\n\n强盛电信莫非是京海市强盛集团控股，居然有4G网络，听说是二手华为4G基站。不过普通朝鲜老百姓要多久才能买得起2000🔪的折叠屏手机？ https://t.co/luukwzRobF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30707,
+          "following_count": 565,
+          "like_count": 12955,
+          "listed_count": 150,
+          "media_count": 1573,
+          "tweet_count": 10547
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

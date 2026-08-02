@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "docomo (ドコモ)",
+          "id": "1035268264916484096",
+          "name": "docomo (ドコモ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168892502176194560",
+          "name": "NTT"
+        }
+      }
+    ],
+    "conversation_id": "2027044660892336636",
+    "created_at": "2026-02-26T16:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027060816273707089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354446986611552258",
+          "start": 0,
+          "username": "bestiseth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027060816273707089",
+    "in_reply_to_user_id": "1354446986611552258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027060417156333746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bestiseth 感谢DP，国内漫游联通是sg，日本漫游ntt docomo是es"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1647,
+        "media_key": "3_2027060406808948736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGQsz4bMAAY1iQ.jpg",
+        "width": 1255
+      },
+      {
+        "height": 267,
+        "media_key": "3_2027060415012929536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGQtScaAAARlWk.jpg",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "docomo (ドコモ)",
+              "id": "1035268264916484096",
+              "name": "docomo (ドコモ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168892502176194560",
+              "name": "NTT"
+            }
+          }
+        ],
+        "conversation_id": "2027044660892336636",
+        "created_at": "2026-02-26T16:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027060816273707089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354446986611552258",
+              "start": 0,
+              "username": "bestiseth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027060816273707089",
+        "in_reply_to_user_id": "1354446986611552258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027060417156333746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bestiseth 感谢DP，国内漫游联通是sg，日本漫游ntt docomo是es"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027060406808948736",
+            "3_2027060415012929536"
+          ]
+        },
+        "author_id": "1354446986611552258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2027044660892336636",
+        "created_at": "2026-02-26T16:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027060417156333746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3uX9uv4ep",
+              "end": 69,
+              "expanded_url": "https://x.com/bestiseth/status/2027060417156333746/photo/1",
+              "media_key": "3_2027060406808948736",
+              "start": 46,
+              "url": "https://t.co/N3uX9uv4ep"
+            },
+            {
+              "display_url": "pic.x.com/N3uX9uv4ep",
+              "end": 69,
+              "expanded_url": "https://x.com/bestiseth/status/2027060417156333746/photo/1",
+              "media_key": "3_2027060415012929536",
+              "start": 46,
+              "url": "https://t.co/N3uX9uv4ep"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7b02fbddf4d9f2c6"
+        },
+        "id": "2027060417156333746",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027044660892336636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 马来西亚漫游到 u mobile，新加坡 ip。5G，速度够快。 https://t.co/N3uX9uv4ep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16677,
+          "following_count": 517,
+          "like_count": 10394,
+          "listed_count": 70,
+          "media_count": 978,
+          "tweet_count": 7655
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-27T15:11:48.000Z",
+        "description": "干过矿场挖 XMR｜第一批理想车主｜做过游戏发行产品经理｜逆向 JS 薅过羊毛｜倒卖过域名｜券商打过工｜Web3 菜鸡｜Vibe Coding 追风者｜成分复杂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rnrnr.com/blog",
+                "end": 23,
+                "expanded_url": "https://rnrnr.com/blog",
+                "start": 0,
+                "url": "https://t.co/eJGGkSrxRZ"
+              }
+            ]
+          }
+        },
+        "id": "1354446986611552258",
+        "location": "Shanghai",
+        "name": "loveisbug",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915280289972334592/QUGs6zG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 261,
+          "like_count": 1325,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 2274
+        },
+        "url": "https://t.co/eJGGkSrxRZ",
+        "username": "bestiseth",
+        "verified": true
+      }
+    ]
+  }
+}

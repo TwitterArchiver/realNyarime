@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070382966937993404",
+    "created_at": "2026-06-26T05:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070383425081704631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1394577771381215235",
+          "start": 0,
+          "username": "libapi_"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070383425081704631",
+    "in_reply_to_user_id": "1394577771381215235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070382966937993404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libapi_ 这能有啥难的，无非就是把他的分数放到1分一段表上面去，然后按照推荐的志愿去填写，如果底气不足的话，勾选服从调剂，剩下的就是看天命，等着被录取吧"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_2070382958301921281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt6VMqbwAEBN1j.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070382966937993404",
+        "created_at": "2026-06-26T05:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070383425081704631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1394577771381215235",
+              "start": 0,
+              "username": "libapi_"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070383425081704631",
+        "in_reply_to_user_id": "1394577771381215235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070382966937993404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libapi_ 这能有啥难的，无非就是把他的分数放到1分一段表上面去，然后按照推荐的志愿去填写，如果底气不足的话，勾选服从调剂，剩下的就是看天命，等着被录取吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070382958301921281"
+          ]
+        },
+        "author_id": "1394577771381215235",
+        "conversation_id": "2070382966937993404",
+        "created_at": "2026-06-26T05:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070382966937993404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEVqgZ2aDM",
+              "end": 96,
+              "expanded_url": "https://x.com/libapi_/status/2070382966937993404/photo/1",
+              "media_key": "3_2070382958301921281",
+              "start": 73,
+              "url": "https://t.co/MEVqgZ2aDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070382966937993404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天有个 X 上的朋友，高考出分数了，让我给他推荐学校\n\n我哪里敢乱推荐呀，应该要找更专业的人才\n\n可不敢误人子弟啊 ，是个巨大的因果 🙂‍↔️ https://t.co/MEVqgZ2aDM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38485,
+          "following_count": 662,
+          "like_count": 18428,
+          "listed_count": 179,
+          "media_count": 2240,
+          "tweet_count": 15432
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-18T08:57:18.000Z",
+        "description": "Hermes Studio 客户端安装即用\n无需再手动打开配置终端复杂的环境\n三端设备全面支持 macOS / Linux / Windows",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hermes-studio.ai",
+                "end": 23,
+                "expanded_url": "http://hermes-studio.ai",
+                "start": 0,
+                "url": "https://t.co/pQZgUqbCMX"
+              }
+            ]
+          }
+        },
+        "id": "1394577771381215235",
+        "location": "Mar-23-2022 11:01:53 AM +UTC",
+        "name": "libapi",
+        "pinned_tweet_id": "2069428464810426817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890877874439393280/FEbiYX9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26331,
+          "following_count": 3498,
+          "like_count": 32562,
+          "listed_count": 227,
+          "media_count": 2750,
+          "tweet_count": 34587
+        },
+        "url": "https://t.co/pQZgUqbCMX",
+        "username": "libapi_",
+        "verified": true
+      }
+    ]
+  }
+}

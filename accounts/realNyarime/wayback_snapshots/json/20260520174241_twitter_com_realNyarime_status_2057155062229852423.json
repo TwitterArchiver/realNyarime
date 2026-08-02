@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057155010371395584"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337567798169600",
+          "name": "Products - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873034",
+          "name": "AMD"
+        }
+      }
+    ],
+    "conversation_id": "2057111394798256151",
+    "created_at": "2026-05-20T17:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057155062229852423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "836224570013138944",
+          "start": 0,
+          "username": "LisaSu"
+        },
+        {
+          "end": 12,
+          "id": "14861876",
+          "start": 8,
+          "username": "AMD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G83Q0yWwmu",
+          "end": 47,
+          "expanded_url": "https://x.com/realNyarime/status/2057155062229852423/photo/1",
+          "media_key": "3_2057155010371395584",
+          "start": 24,
+          "url": "https://t.co/G83Q0yWwmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057155062229852423",
+    "in_reply_to_user_id": "836224570013138944",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057111394798256151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LisaSu @AMD AMD YES！！！ https://t.co/G83Q0yWwmu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2057155010371395584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIx7lSkaIAAofMB.jpg",
+        "width": 960
+      },
+      {
+        "height": 800,
+        "media_key": "3_2057111373281439744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxT5RvbMAAeDoM.jpg",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "media_key": "3_2057111373298212864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxT5RzbIAAA6ij.jpg",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "media_key": "3_2057111373293989888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxT5RyasAAxFFJ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "media_key": "3_2057111373323395072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxT5R5bYAA3Esk.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057155010371395584"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337567798169600",
+              "name": "Products - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873034",
+              "name": "AMD"
+            }
+          }
+        ],
+        "conversation_id": "2057111394798256151",
+        "created_at": "2026-05-20T17:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057155062229852423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "836224570013138944",
+              "start": 0,
+              "username": "LisaSu"
+            },
+            {
+              "end": 12,
+              "id": "14861876",
+              "start": 8,
+              "username": "AMD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G83Q0yWwmu",
+              "end": 47,
+              "expanded_url": "https://x.com/realNyarime/status/2057155062229852423/photo/1",
+              "media_key": "3_2057155010371395584",
+              "start": 24,
+              "url": "https://t.co/G83Q0yWwmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057155062229852423",
+        "in_reply_to_user_id": "836224570013138944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057111394798256151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LisaSu @AMD AMD YES！！！ https://t.co/G83Q0yWwmu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057111373281439744",
+            "3_2057111373298212864",
+            "3_2057111373293989888",
+            "3_2057111373323395072"
+          ]
+        },
+        "author_id": "836224570013138944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337567798169600",
+              "name": "Products - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873034",
+              "name": "AMD"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2057111394798256151",
+        "created_at": "2026-05-20T14:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057111394798256151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 81,
+              "id": "14861876",
+              "start": 77,
+              "username": "AMD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwJ1MetO68",
+              "end": 290,
+              "expanded_url": "https://x.com/LisaSu/status/2057111394798256151/photo/1",
+              "media_key": "3_2057111373281439744",
+              "start": 267,
+              "url": "https://t.co/kwJ1MetO68"
+            },
+            {
+              "display_url": "pic.x.com/kwJ1MetO68",
+              "end": 290,
+              "expanded_url": "https://x.com/LisaSu/status/2057111394798256151/photo/1",
+              "media_key": "3_2057111373298212864",
+              "start": 267,
+              "url": "https://t.co/kwJ1MetO68"
+            },
+            {
+              "display_url": "pic.x.com/kwJ1MetO68",
+              "end": 290,
+              "expanded_url": "https://x.com/LisaSu/status/2057111394798256151/photo/1",
+              "media_key": "3_2057111373293989888",
+              "start": 267,
+              "url": "https://t.co/kwJ1MetO68"
+            },
+            {
+              "display_url": "pic.x.com/kwJ1MetO68",
+              "end": 290,
+              "expanded_url": "https://x.com/LisaSu/status/2057111394798256151/photo/1",
+              "media_key": "3_2057111373323395072",
+              "start": 267,
+              "url": "https://t.co/kwJ1MetO68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057111394798256151",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 41826,
+          "like_count": 773,
+          "quote_count": 14,
+          "reply_count": 40,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "Great being in China this week with customers, partners, developers, and our @AMD teams across Beijing, Shanghai, and Suzhou.  \n\nLoved the energy at AMD DevDay in Shanghai showcasing the progress we’re making to bring AI Everywhere. Thanks to everyone who joined us. https://t.co/kwJ1MetO68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2056247533354229974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34459,
+          "following_count": 645,
+          "like_count": 14746,
+          "listed_count": 153,
+          "media_count": 1840,
+          "tweet_count": 12039
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-27T14:40:48.000Z",
+        "description": "Chair and CEO of @AMD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 17,
+                "username": "AMD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amd.com/LisaSu",
+                "end": 23,
+                "expanded_url": "http://www.amd.com/LisaSu",
+                "start": 0,
+                "url": "https://t.co/zF03dMwTeU"
+              }
+            ]
+          }
+        },
+        "id": "836224570013138944",
+        "location": "Austin, TX",
+        "name": "Lisa Su",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/836654735553777664/gWyrS-2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243087,
+          "following_count": 443,
+          "like_count": 1164,
+          "listed_count": 1193,
+          "media_count": 281,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/zF03dMwTeU",
+        "username": "LisaSu",
+        "verified": true
+      },
+      {
+        "created_at": "2008-05-21T22:14:12.000Z",
+        "description": "together we advance_",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "AMD.com",
+                "end": 23,
+                "expanded_url": "http://www.AMD.com",
+                "start": 0,
+                "url": "https://t.co/LW3JTeVrN5"
+              }
+            ]
+          }
+        },
+        "id": "14861876",
+        "location": "Austin, TX",
+        "name": "AMD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534988679076368384/In8IVKDB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273625,
+          "following_count": 395,
+          "like_count": 15386,
+          "listed_count": 4912,
+          "media_count": 2806,
+          "tweet_count": 11999
+        },
+        "url": "https://t.co/LW3JTeVrN5",
+        "username": "AMD",
+        "verified": true
+      }
+    ]
+  }
+}

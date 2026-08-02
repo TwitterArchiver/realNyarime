@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075403349839716352"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2075223852611666348",
+    "created_at": "2026-07-10T02:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075403454944887043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767869376496107520",
+          "start": 0,
+          "username": "bridgemindai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SJFp3cKvGK",
+          "end": 67,
+          "expanded_url": "https://x.com/realNyarime/status/2075403454944887043/photo/1",
+          "media_key": "3_2075403349839716352",
+          "start": 44,
+          "url": "https://t.co/SJFp3cKvGK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075403454944887043",
+    "in_reply_to_user_id": "1767869376496107520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075223852611666348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bridgemindai 看到Claude重置，Tibo也重置了，他说他闻到了恐惧😨 https://t.co/SJFp3cKvGK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2075403349839716352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1QWcjaIAAEYl6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 408,
+        "media_key": "3_2075222992049594368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMysUPbW4AAA1Wk.png",
+        "width": 606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075403349839716352"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2075223852611666348",
+        "created_at": "2026-07-10T02:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075403454944887043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767869376496107520",
+              "start": 0,
+              "username": "bridgemindai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJFp3cKvGK",
+              "end": 67,
+              "expanded_url": "https://x.com/realNyarime/status/2075403454944887043/photo/1",
+              "media_key": "3_2075403349839716352",
+              "start": 44,
+              "url": "https://t.co/SJFp3cKvGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075403454944887043",
+        "in_reply_to_user_id": "1767869376496107520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075223852611666348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bridgemindai 看到Claude重置，Tibo也重置了，他说他闻到了恐惧😨 https://t.co/SJFp3cKvGK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075222992049594368"
+          ]
+        },
+        "author_id": "1767869376496107520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1942738198360211456",
+              "name": "Grok 4"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2075223852611666348",
+        "created_at": "2026-07-09T14:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075223852611666348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DktC29I673",
+              "end": 298,
+              "expanded_url": "https://x.com/bridgemindai/status/2075223852611666348/photo/1",
+              "media_key": "3_2075222992049594368",
+              "start": 275,
+              "url": "https://t.co/DktC29I673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075223852611666348",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "One day of heavy Grok 4.5 usage: 1%.\n\nOne day of heavy Fable 5 usage: 100% of your weekly limit.\n\nI have been hammering Grok 4.5 inside Grok Build all day on a SuperGrok subscription. \n\nThe weekly meter says 1%.\n\nAt this pace I could build every single day, all week, on ONE subscription. \n\nA concept Anthropic has apparently never considered."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 111830,
+          "like_count": 2011,
+          "quote_count": 24,
+          "reply_count": 211,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "One day of heavy Grok 4.5 usage: 1%.\n\nOne day of heavy Fable 5 usage: 100% of your weekly limit.\n\nI have been hammering Grok 4.5 inside Grok Build all day on a SuperGrok subscription. \n\nThe weekly meter says 1%.\n\nAt this pace I could build every single day, all week, on ONE https://t.co/DktC29I673"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39984,
+          "following_count": 658,
+          "like_count": 19083,
+          "listed_count": 184,
+          "media_count": 2336,
+          "tweet_count": 16083
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-13T11:04:48.000Z",
+        "description": "The home of the vibe coding movement.\nFounded by @matthewmillerai. 89K+ on YouTube.\nBuilding to $1M in public. https://t.co/wRtHrQNvA8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "matthewmillerai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bridgemind.ai/discord",
+                "end": 134,
+                "expanded_url": "http://bridgemind.ai/discord",
+                "start": 111,
+                "url": "https://t.co/wRtHrQNvA8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bridgemind.ai",
+                "end": 23,
+                "expanded_url": "http://bridgemind.ai",
+                "start": 0,
+                "url": "https://t.co/ANnI8HyRyE"
+              }
+            ]
+          }
+        },
+        "id": "1767869376496107520",
+        "name": "BridgeMind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011440113071382528/e2Qscbca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44380,
+          "following_count": 5,
+          "like_count": 5380,
+          "listed_count": 300,
+          "media_count": 954,
+          "tweet_count": 5700
+        },
+        "url": "https://t.co/ANnI8HyRyE",
+        "username": "bridgemindai",
+        "verified": true
+      }
+    ]
+  }
+}

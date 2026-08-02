@@ -1,0 +1,1340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023919477868687360",
+        "3_2023920462422831113",
+        "3_2023920489828413446"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1563854962383171585",
+          "name": "Credit Cards"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1563854962383171585",
+          "name": "Credit Cards"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400506348727504906",
+          "name": "Living abroad"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597251964928",
+          "name": "Car Rental/Sharing - Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026467895",
+          "name": "Visa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040709681",
+          "name": "Uber"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041437724",
+          "name": "Apple - Apple Pay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Personal finance",
+          "id": "847888632711061504",
+          "name": "Personal finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Credit, debt and loans",
+          "id": "847894059859402753",
+          "name": "Credit, debt and loans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040709681",
+          "name": "Uber"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237094778463858688",
+          "name": "Fintech"
+        }
+      }
+    ],
+    "conversation_id": "2023920531884699745",
+    "created_at": "2026-02-18T00:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023920531884699745"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 4,
+          "normalized_text": "China",
+          "probability": 0.9797,
+          "start": 0,
+          "type": "Place"
+        },
+        {
+          "end": 89,
+          "normalized_text": "Central Plains",
+          "probability": 0.9289,
+          "start": 76,
+          "type": "Place"
+        },
+        {
+          "end": 139,
+          "normalized_text": "UberChina",
+          "probability": 0.4925,
+          "start": 131,
+          "type": "Place"
+        },
+        {
+          "end": 168,
+          "normalized_text": "Didi Chuxing",
+          "probability": 0.6745,
+          "start": 157,
+          "type": "Person"
+        },
+        {
+          "end": 233,
+          "normalized_text": "MasterCard",
+          "probability": 0.4428,
+          "start": 224,
+          "type": "Other"
+        },
+        {
+          "end": 273,
+          "normalized_text": "Southeast Asia",
+          "probability": 0.92,
+          "start": 260,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rp3hmlDTrZ",
+          "end": 303,
+          "expanded_url": "https://x.com/realNyarime/status/2023920531884699745/photo/1",
+          "media_key": "3_2023919477868687360",
+          "start": 280,
+          "url": "https://t.co/rp3hmlDTrZ"
+        },
+        {
+          "display_url": "pic.x.com/rp3hmlDTrZ",
+          "end": 303,
+          "expanded_url": "https://x.com/realNyarime/status/2023920531884699745/photo/1",
+          "media_key": "3_2023920462422831113",
+          "start": 280,
+          "url": "https://t.co/rp3hmlDTrZ"
+        },
+        {
+          "display_url": "pic.x.com/rp3hmlDTrZ",
+          "end": 303,
+          "expanded_url": "https://x.com/realNyarime/status/2023920531884699745/photo/1",
+          "media_key": "3_2023920489828413446",
+          "start": 280,
+          "url": "https://t.co/rp3hmlDTrZ"
+        },
+        {
+          "display_url": "x.com/AzFlin/status/…",
+          "end": 327,
+          "expanded_url": "https://twitter.com/AzFlin/status/2023696003728290206",
+          "start": 304,
+          "url": "https://t.co/gABdj1e8dC"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2023920531884699745",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "China is merely an Asian country, essentially an ancient battlefield in the Central Plains, and its primary focus is not tourism.\n\nUberChina was acquired by Didi Chuxing a long time ago, and it can even be linked to Visa or MasterCard cards, just like Grab in Southeast Asia.\n\nIn most first-tier cities, subway systems now support credit card payments via swipe, eliminating the need to purchase tickets. Credit cards can also be used directly at merchants that provide POS machines (usually UnionPay Merchant Services) such as Starbucks and Haidilao.\nIf you have a UnionPay credit card, you can download the \"UnionPay\"（云闪付） or \"Hello China\"（你好中国） App, and then bind it to your account for QR code payments or have it scanned by merchants.\nIf you only have Visa, MasterCard, or American Express, you can only link Alipay or WeChat Pay, because most of us are small businesses and are unwilling to pay transaction fees.\n\nJust like Japanese people speak Japanese, why do Chinese people have to speak English? Besides, can't you just buy a SIM card? You can use the \"Hello China\" or RedteaGO ($3 promo code SUJI0003) mentioned above to get an eSIM service without a VPN. Are you kidding me?🤣\n\nChina has only recently begun its visa-free transit policy, and previously, obtaining a Chinese visa was not much more difficult than obtaining a US visa.\nI don't think it's necessary to engage in pointless criticism based on differences in systems. As Premier Zhou Enlai said, \"Seek common ground while reserving differences,\" mutual understanding and world peace are essential for a better world."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023696003728290206",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "China is merely an Asian country, essentially an ancient battlefield in the Central Plains, and its primary focus is not tourism.\n\nUberChina was acquired by Didi Chuxing a long time ago, and it can even be linked to Visa or MasterCard cards, just like Grab in Southeast Asia.\n\nIn https://t.co/rp3hmlDTrZ https://t.co/gABdj1e8dC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2520,
+        "media_key": "3_2023919477868687360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZoCrxbcAAZqNa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1701,
+        "media_key": "3_2023920462422831113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZo7_hbcAkJsCr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2520,
+        "media_key": "3_2023920489828413446",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZo9lnbcAYII0V.jpg",
+        "width": 1080
+      },
+      {
+        "height": 441,
+        "media_key": "3_2023695997541789696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWcyarbsAAoApQ.jpg",
+        "width": 453
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023919477868687360",
+            "3_2023920462422831113",
+            "3_2023920489828413446"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1563854962383171585",
+              "name": "Credit Cards"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1563854962383171585",
+              "name": "Credit Cards"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400506348727504906",
+              "name": "Living abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597251964928",
+              "name": "Car Rental/Sharing - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040709681",
+              "name": "Uber"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Credit, debt and loans",
+              "id": "847894059859402753",
+              "name": "Credit, debt and loans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040709681",
+              "name": "Uber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2023920531884699745",
+        "created_at": "2026-02-18T00:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023920531884699745"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "China",
+              "probability": 0.9797,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 89,
+              "normalized_text": "Central Plains",
+              "probability": 0.9289,
+              "start": 76,
+              "type": "Place"
+            },
+            {
+              "end": 139,
+              "normalized_text": "UberChina",
+              "probability": 0.4925,
+              "start": 131,
+              "type": "Place"
+            },
+            {
+              "end": 168,
+              "normalized_text": "Didi Chuxing",
+              "probability": 0.6745,
+              "start": 157,
+              "type": "Person"
+            },
+            {
+              "end": 233,
+              "normalized_text": "MasterCard",
+              "probability": 0.4428,
+              "start": 224,
+              "type": "Other"
+            },
+            {
+              "end": 273,
+              "normalized_text": "Southeast Asia",
+              "probability": 0.92,
+              "start": 260,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rp3hmlDTrZ",
+              "end": 303,
+              "expanded_url": "https://x.com/realNyarime/status/2023920531884699745/photo/1",
+              "media_key": "3_2023919477868687360",
+              "start": 280,
+              "url": "https://t.co/rp3hmlDTrZ"
+            },
+            {
+              "display_url": "pic.x.com/rp3hmlDTrZ",
+              "end": 303,
+              "expanded_url": "https://x.com/realNyarime/status/2023920531884699745/photo/1",
+              "media_key": "3_2023920462422831113",
+              "start": 280,
+              "url": "https://t.co/rp3hmlDTrZ"
+            },
+            {
+              "display_url": "pic.x.com/rp3hmlDTrZ",
+              "end": 303,
+              "expanded_url": "https://x.com/realNyarime/status/2023920531884699745/photo/1",
+              "media_key": "3_2023920489828413446",
+              "start": 280,
+              "url": "https://t.co/rp3hmlDTrZ"
+            },
+            {
+              "display_url": "x.com/AzFlin/status/…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/AzFlin/status/2023696003728290206",
+              "start": 304,
+              "url": "https://t.co/gABdj1e8dC"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2023920531884699745",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "China is merely an Asian country, essentially an ancient battlefield in the Central Plains, and its primary focus is not tourism.\n\nUberChina was acquired by Didi Chuxing a long time ago, and it can even be linked to Visa or MasterCard cards, just like Grab in Southeast Asia.\n\nIn most first-tier cities, subway systems now support credit card payments via swipe, eliminating the need to purchase tickets. Credit cards can also be used directly at merchants that provide POS machines (usually UnionPay Merchant Services) such as Starbucks and Haidilao.\nIf you have a UnionPay credit card, you can download the \"UnionPay\"（云闪付） or \"Hello China\"（你好中国） App, and then bind it to your account for QR code payments or have it scanned by merchants.\nIf you only have Visa, MasterCard, or American Express, you can only link Alipay or WeChat Pay, because most of us are small businesses and are unwilling to pay transaction fees.\n\nJust like Japanese people speak Japanese, why do Chinese people have to speak English? Besides, can't you just buy a SIM card? You can use the \"Hello China\" or RedteaGO ($3 promo code SUJI0003) mentioned above to get an eSIM service without a VPN. Are you kidding me?🤣\n\nChina has only recently begun its visa-free transit policy, and previously, obtaining a Chinese visa was not much more difficult than obtaining a US visa.\nI don't think it's necessary to engage in pointless criticism based on differences in systems. As Premier Zhou Enlai said, \"Seek common ground while reserving differences,\" mutual understanding and world peace are essential for a better world."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023696003728290206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "China is merely an Asian country, essentially an ancient battlefield in the Central Plains, and its primary focus is not tourism.\n\nUberChina was acquired by Didi Chuxing a long time ago, and it can even be linked to Visa or MasterCard cards, just like Grab in Southeast Asia.\n\nIn https://t.co/rp3hmlDTrZ https://t.co/gABdj1e8dC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023695997541789696"
+          ]
+        },
+        "author_id": "3208751003",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1563854962383171585",
+              "name": "Credit Cards"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1563854962383171585",
+              "name": "Credit Cards"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597251964928",
+              "name": "Car Rental/Sharing - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040709681",
+              "name": "Uber"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Credit, debt and loans",
+              "id": "847894059859402753",
+              "name": "Credit, debt and loans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040709681",
+              "name": "Uber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2023696003728290206",
+        "created_at": "2026-02-17T09:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023696003728290206"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "China",
+              "probability": 0.9735,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 115,
+              "normalized_text": "Uber",
+              "probability": 0.7921,
+              "start": 112,
+              "type": "Organization"
+            },
+            {
+              "end": 153,
+              "normalized_text": "DiDi",
+              "probability": 0.5284,
+              "start": 150,
+              "type": "Other"
+            },
+            {
+              "end": 195,
+              "normalized_text": "Apple Pay",
+              "probability": 0.6294,
+              "start": 187,
+              "type": "Other"
+            },
+            {
+              "end": 238,
+              "normalized_text": "Alipay",
+              "probability": 0.5925,
+              "start": 233,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3OK9x6LjO",
+              "end": 303,
+              "expanded_url": "https://x.com/AzFlin/status/2023696003728290206/photo/1",
+              "media_key": "3_2023695997541789696",
+              "start": 280,
+              "url": "https://t.co/U3OK9x6LjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023696003728290206",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "China is the only country that gives zero fucks about tourists. You must do everything their way.\n\nWant to call Uber? Fuck you. It doesn’t exist, use DiDi.\n\nWant to pay with credit card? Apple Pay? Fuck you, doesn’t work. Go install Alipay\n\nNobody speaks any English. No signs or menus are in English. Whip out that Google Translate app. Oh wait, Google’s blocked. Go and setup your VPN 🤣\n\nBy far the hardest place to travel to, esp without native Chinese speaker. But nothing good comes easy does it!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2127,
+          "impression_count": 1338586,
+          "like_count": 9359,
+          "quote_count": 251,
+          "reply_count": 967,
+          "retweet_count": 506
+        },
+        "reply_settings": "everyone",
+        "text": "China is the only country that gives zero fucks about tourists. You must do everything their way.\n\nWant to call Uber? Fuck you. It doesn’t exist, use DiDi.\n\nWant to pay with credit card? Apple Pay? Fuck you, doesn’t work. Go install Alipay\n\nNobody speaks any English. No signs or https://t.co/U3OK9x6LjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15077,
+          "following_count": 520,
+          "like_count": 10153,
+          "listed_count": 63,
+          "media_count": 921,
+          "tweet_count": 7373
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-26T18:15:52.000Z",
+        "description": "farmer, dev, and degen 🧙 // founder @daosdotworld, @Wizard_of_Az_ // 🅰️🅱️©️ (Always Be Coding)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "daosdotworld"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Wizard_of_Az_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/azflin_ai",
+                "end": 23,
+                "expanded_url": "http://t.me/azflin_ai",
+                "start": 0,
+                "url": "https://t.co/BmgrgZitIb"
+              }
+            ]
+          }
+        },
+        "id": "3208751003",
+        "location": "daos.world",
+        "name": "AzFlin 🌎",
+        "pinned_tweet_id": "1972423642425557157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850377978171043840/u3F2Fc-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28942,
+          "following_count": 5248,
+          "like_count": 104249,
+          "listed_count": 783,
+          "media_count": 3148,
+          "tweet_count": 36861
+        },
+        "url": "https://t.co/BmgrgZitIb",
+        "username": "AzFlin",
+        "verified": true
+      }
+    ]
+  }
+}

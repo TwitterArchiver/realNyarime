@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2057229211941867738",
+    "created_at": "2026-05-21T04:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057321426219302932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1949994452845789184",
+          "start": 0,
+          "username": "mike95271314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 63,
+          "expanded_url": "https://x.com/realNyarime/status/2057300522651308441",
+          "start": 40,
+          "url": "https://t.co/KY2c0qIKER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057321426219302932",
+    "in_reply_to_user_id": "1949994452845789184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057300522651308441",
+        "type": "quoted"
+      },
+      {
+        "id": "2057229211941867738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mike95271314 实话说，我觉得能把帕金森表现在车上，这才是一年沫四溅https://t.co/KY2c0qIKER"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9914,
+        "height": 1024,
+        "media_key": "13_2057297654053564416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057297654053564416/img/lu8Z4UoST4PB3wdd.jpg",
+        "public_metrics": {
+          "view_count": 869
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057297654053564416/vid/avc1/320x568/TLrUZsE0Bi6FIqU2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057297654053564416/vid/avc1/480x852/9CB5Y_p8pG-jPmmR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057297654053564416/vid/avc1/576x1024/9NFt2hzCeHbvKwOl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057297654053564416/pl/3PKArsLapUagINo1.m3u8"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2057229208712257536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIy_EM7aIAARX0J.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2057229211941867738",
+        "created_at": "2026-05-21T04:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057321426219302932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1949994452845789184",
+              "start": 0,
+              "username": "mike95271314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 63,
+              "expanded_url": "https://x.com/realNyarime/status/2057300522651308441",
+              "start": 40,
+              "url": "https://t.co/KY2c0qIKER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057321426219302932",
+        "in_reply_to_user_id": "1949994452845789184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057300522651308441",
+            "type": "quoted"
+          },
+          {
+            "id": "2057229211941867738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mike95271314 实话说，我觉得能把帕金森表现在车上，这才是一年沫四溅https://t.co/KY2c0qIKER"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057297654053564416"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2057300522651308441",
+        "created_at": "2026-05-21T03:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:10:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057298051505778796",
+          "2057300522651308441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JG8hoEe7pp",
+              "end": 73,
+              "expanded_url": "https://x.com/realNyarime/status/2057300522651308441/video/1",
+              "media_key": "13_2057297654053564416",
+              "start": 50,
+              "url": "https://t.co/JG8hoEe7pp"
+            },
+            {
+              "display_url": "x.com/Tesla/status/2…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/Tesla/status/2057226337010745348",
+              "start": 74,
+              "url": "https://t.co/YgmaWernuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057300522651308441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2278,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057226337010745348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特斯拉官宣在中国上线FSD！\n\n说起智驾，对比下华为家的L2.9\n开了问界汽车能让司机爽到停不下来 https://t.co/JG8hoEe7pp https://t.co/YgmaWernuG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057229208712257536"
+          ]
+        },
+        "author_id": "1949994452845789184",
+        "conversation_id": "2057229211941867738",
+        "created_at": "2026-05-20T22:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057229211941867738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tydcnogxiJ",
+              "end": 43,
+              "expanded_url": "https://x.com/mike95271314/status/2057229211941867738/photo/1",
+              "media_key": "3_2057229208712257536",
+              "start": 20,
+              "url": "https://t.co/tydcnogxiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057229211941867738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1326,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掌握互联网话语权的就是牛逼，一年磨四剑 https://t.co/tydcnogxiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2056247533354229974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34524,
+          "following_count": 646,
+          "like_count": 14804,
+          "listed_count": 154,
+          "media_count": 1845,
+          "tweet_count": 12082
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-29T00:44:54.000Z",
+        "description": "比烂学大师",
+        "id": "1949994452845789184",
+        "location": "中南海",
+        "name": "麦克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956540401420275712/sshL3tqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 577,
+          "like_count": 20362,
+          "listed_count": 32,
+          "media_count": 857,
+          "tweet_count": 9929
+        },
+        "username": "mike95271314",
+        "verified": false
+      }
+    ]
+  }
+}

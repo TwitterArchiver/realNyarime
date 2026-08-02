@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022988212441120768"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2022928700250206704",
+    "created_at": "2026-02-15T10:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022988351729795248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "82021907",
+          "start": 0,
+          "username": "0xkakarot888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C38IrLnfOY",
+          "end": 147,
+          "expanded_url": "https://x.com/realNyarime/status/2022988351729795248/photo/1",
+          "media_key": "3_2022988212441120768",
+          "start": 124,
+          "url": "https://t.co/C38IrLnfOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022988351729795248",
+    "in_reply_to_user_id": "82021907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022987627293790567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xkakarot888 虽然说了不允许你滥用多个账号，但是它有一个补充的例外，“许多人拥有多个 Google 账号，例如个人账号和工作账号。这样用没有问题。”\n因此当谷歌账号被停用的时候，这一点可以作为申诉的依据，大部分情况下都是能被接受的。 https://t.co/C38IrLnfOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2022988212441120768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMZD5tbAAAN2Wy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022988212441120768"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2022928700250206704",
+        "created_at": "2026-02-15T10:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022988351729795248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "82021907",
+              "start": 0,
+              "username": "0xkakarot888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C38IrLnfOY",
+              "end": 147,
+              "expanded_url": "https://x.com/realNyarime/status/2022988351729795248/photo/1",
+              "media_key": "3_2022988212441120768",
+              "start": 124,
+              "url": "https://t.co/C38IrLnfOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022988351729795248",
+        "in_reply_to_user_id": "82021907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022987627293790567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xkakarot888 虽然说了不允许你滥用多个账号，但是它有一个补充的例外，“许多人拥有多个 Google 账号，例如个人账号和工作账号。这样用没有问题。”\n因此当谷歌账号被停用的时候，这一点可以作为申诉的依据，大部分情况下都是能被接受的。 https://t.co/C38IrLnfOY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "82021907",
+        "conversation_id": "2022928700250206704",
+        "created_at": "2026-02-15T10:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022987627293790567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022987627293790567",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022967239516016853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 对，其他没有影响，还挺公道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2022612268106838252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14313,
+          "following_count": 550,
+          "like_count": 10113,
+          "listed_count": 58,
+          "media_count": 910,
+          "tweet_count": 7322
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-13T05:43:00.000Z",
+        "description": "AI + 出海 + Web3 🎯｜ \n超级个体 增长黑客 🚀｜ \nDegen 金狗猎人 🧲 ｜ \n所有文章都不是投资建议 🚫丨 \n投资有风险请做好自己研究 #DYOR 🧐 ｜ \n莫道人间无化境，九渊深处见天机！ ⚡️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "DYOR"
+              }
+            ]
+          }
+        },
+        "id": "82021907",
+        "name": "0x卡卡撸特",
+        "pinned_tweet_id": "2020436099114651666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923980254869086208/9zCpT20R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8814,
+          "following_count": 2943,
+          "like_count": 10695,
+          "listed_count": 48,
+          "media_count": 405,
+          "tweet_count": 8885
+        },
+        "username": "0xkakarot888",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,623 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10043701964",
+          "name": "Google Cloud"
+        }
+      }
+    ],
+    "conversation_id": "2046983009421951266",
+    "created_at": "2026-04-22T16:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046983009421951266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Will_Yang_/sta…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/Will_Yang_/status/2046834615831388657",
+          "start": 144,
+          "url": "https://t.co/EZBRbgw3aS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046983009421951266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这个教程不错，有需要Google AI的创业朋友可以试试，包括国内公司也可以申请\n国内也有「亚马逊云科技」第一年免费，第二年半价，第三年75折的政策，每个公司都可以整一次，态度非常好\n\n之前也有以公司名义申请Cloufflare的25k赠金，不过有效期只有1年。在此期间除了给域名升CF Business切部分DNS（CNAME接入）还体验了不少功能，在到期前降级了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046834615831388657",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个教程不错，有需要Google AI的创业朋友可以试试，包括国内公司也可以申请\n国内也有「亚马逊云科技」第一年免费，第二年半价，第三年75折的政策，每个公司都可以整一次，态度非常好\n\n之前也有以公司名义申请Cloufflare的25k赠金，不过有效期只有1年。在此期间除了给域名升CF https://t.co/EZBRbgw3aS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2053,
+        "media_key": "3_2046833498502447104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfQOOibwAAsnfL.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043701964",
+              "name": "Google Cloud"
+            }
+          }
+        ],
+        "conversation_id": "2046983009421951266",
+        "created_at": "2026-04-22T16:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046983009421951266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Will_Yang_/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Will_Yang_/status/2046834615831388657",
+              "start": 144,
+              "url": "https://t.co/EZBRbgw3aS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046983009421951266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个教程不错，有需要Google AI的创业朋友可以试试，包括国内公司也可以申请\n国内也有「亚马逊云科技」第一年免费，第二年半价，第三年75折的政策，每个公司都可以整一次，态度非常好\n\n之前也有以公司名义申请Cloufflare的25k赠金，不过有效期只有1年。在此期间除了给域名升CF Business切部分DNS（CNAME接入）还体验了不少功能，在到期前降级了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046834615831388657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个教程不错，有需要Google AI的创业朋友可以试试，包括国内公司也可以申请\n国内也有「亚马逊云科技」第一年免费，第二年半价，第三年75折的政策，每个公司都可以整一次，态度非常好\n\n之前也有以公司名义申请Cloufflare的25k赠金，不过有效期只有1年。在此期间除了给域名升CF https://t.co/EZBRbgw3aS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046833498502447104"
+          ]
+        },
+        "author_id": "1377822864636747781",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043701964",
+              "name": "Google Cloud"
+            }
+          }
+        ],
+        "conversation_id": "2046834615831388657",
+        "created_at": "2026-04-22T06:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046834615831388657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Google Cloud Platform lets you build, deploy, and scale applications, websites, and services on the same infrastructure as Google.",
+              "display_url": "console.cloud.google.com",
+              "end": 82,
+              "expanded_url": "https://console.cloud.google.com",
+              "start": 59,
+              "status": 200,
+              "title": "Google Cloud Platform",
+              "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fconsole.cloud.google.com%2F&dsh=S-1305347178%3A1776649642366348&followup=https%3A%2F%2Fconsole.cloud.google.com%2F&osid=1&passive=1209600&service=cloudconsole&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_W-WFIwrOhY15nhdlYIq2QwDQY_sHGOfHSMboAtP98X_5adkqWWYnhxYtcrQGPnrl2S12kQfg",
+              "url": "https://t.co/2MUCgUQDbo"
+            },
+            {
+              "display_url": "pic.x.com/Z30aSb58Pn",
+              "end": 198,
+              "expanded_url": "https://x.com/Will_Yang_/status/2046834615831388657/photo/1",
+              "media_key": "3_2046833498502447104",
+              "start": 175,
+              "url": "https://t.co/Z30aSb58Pn"
+            },
+            {
+              "display_url": "x.com/Will_Yang_/sta…",
+              "end": 222,
+              "expanded_url": "https://twitter.com/Will_Yang_/status/2046784866336018924",
+              "start": 199,
+              "url": "https://t.co/kQj4HYJ4Mr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046834615831388657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "console.cloud.google.com",
+                "end": 82,
+                "expanded_url": "https://console.cloud.google.com",
+                "start": 59,
+                "url": "https://t.co/pnTDO4lnMd"
+              },
+              {
+                "display_url": "cloud.google.com/startup/ai",
+                "end": 248,
+                "expanded_url": "https://cloud.google.com/startup/ai",
+                "start": 225,
+                "url": "https://t.co/xBXaB9nI1E"
+              },
+              {
+                "display_url": "cloud.google.com/startup/apply",
+                "end": 280,
+                "expanded_url": "https://cloud.google.com/startup/apply",
+                "start": 257,
+                "url": "https://t.co/g8UoNGUNaT"
+              }
+            ]
+          },
+          "text": "很多人问怎么申请，我贴一个极简教程，没有获得VC投资的主体也可以：\n1️⃣先建 Google Cloud 账号\n打开 https://t.co/pnTDO4lnMd\n用公司邮箱登录 → 新建一个项目 → 创建 Billing Account（免费，几分钟搞定）。\n2️⃣准备好这几样\n公司官网（必须公开能访问）\nVC 投资证明（Term Sheet 或投资确认邮件，没有就不填）\n简单说一句产品怎么用（核心功能就行）\n3️⃣直接点这里申请\n打开 → https://t.co/xBXaB9nI1E\n（或者通用入口：https://t.co/g8UoNGUNaT）\n4️⃣登录 → 填表 → 提交\n选 Scale Tier / AI 计划 → 填公司信息、融资情况 → 提交就完事了。\n提交后：Google 人工审核，通常几天到两周出结果。额度批下来会直接加到你的 Billing Account 里。就这么简单！\n有 VC + AI 是核心产品的话，成功率很高。\n有渠道的可以直接联系谷歌的商务，会更快。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1108,
+          "impression_count": 102130,
+          "like_count": 631,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046784866336018924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多人问怎么申请，我贴一个极简教程，没有获得VC投资的主体也可以：\n1️⃣先建 Google Cloud 账号\n打开 https://t.co/2MUCgUQDbo\n用公司邮箱登录 → 新建一个项目 → 创建 Billing Account（免费，几分钟搞定）。\n2️⃣准备好这几样\n公司官网（必须公开能访问）\nVC 投资证明（Term Sheet https://t.co/Z30aSb58Pn https://t.co/kQj4HYJ4Mr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29619,
+          "following_count": 533,
+          "like_count": 12728,
+          "listed_count": 139,
+          "media_count": 1512,
+          "tweet_count": 10281
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-02T03:19:13.000Z",
+        "description": "📈独立韭菜｜23-24 实盘1300-1M\n🤖AI 拯救派｜ @Evose_agent\n推文记录个人投资思考",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Evose_agent"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/will0724",
+                "end": 23,
+                "expanded_url": "https://t.me/will0724",
+                "start": 0,
+                "url": "https://t.co/chqNOXoWpF"
+              }
+            ]
+          }
+        },
+        "id": "1377822864636747781",
+        "name": "Will Yang",
+        "pinned_tweet_id": "2046834615831388657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746877213197389824/M-dxwqv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16437,
+          "following_count": 873,
+          "like_count": 5622,
+          "listed_count": 223,
+          "media_count": 727,
+          "tweet_count": 3828
+        },
+        "url": "https://t.co/chqNOXoWpF",
+        "username": "Will_Yang_",
+        "verified": true
+      }
+    ]
+  }
+}

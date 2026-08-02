@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049707211631534080"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2049707224940089709",
+    "created_at": "2026-04-30T04:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049707224940089709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FpoduqVCgi",
+          "end": 123,
+          "expanded_url": "https://x.com/realNyarime/status/2049707224940089709/photo/1",
+          "media_key": "3_2049707211631534080",
+          "start": 100,
+          "url": "https://t.co/FpoduqVCgi"
+        },
+        {
+          "display_url": "x.com/__Lucas04__/st…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/__Lucas04__/status/2049657392905032081",
+          "start": 124,
+          "url": "https://t.co/weGPXqaPig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049707224940089709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "google.com",
+            "end": 188,
+            "expanded_url": "http://google.com",
+            "start": 165,
+            "url": "https://t.co/hSRzomgHUR"
+          },
+          {
+            "display_url": "doh.scholar.work",
+            "end": 231,
+            "expanded_url": "http://doh.scholar.work",
+            "start": 208,
+            "url": "https://t.co/vgl2KVwEbv"
+          },
+          {
+            "display_url": "web.archive.org/web/2026041019…",
+            "end": 522,
+            "expanded_url": "https://web.archive.org/web/20260410191456/https://rentry.co/r9frf3i4",
+            "start": 499,
+            "url": "https://t.co/MGS59VwR8t"
+          }
+        ]
+      },
+      "text": "本质上是个套壳的浏览器，通过MitM、内置的DoH和自签名根证书（Scholar Root CA v1 和 Scholar Service V2）信任劫持实现流量引导，并且有实时清理DOM元素的能力\n例如：维基百科的首页，新闻动态、你知道吗全部被动态清零，YouTube整个/watch都是被屏蔽的，只允许看指定的博主的视频，至于https://t.co/hSRzomgHUR也不是全白名单\n\n专用 DoH 服务器：https://t.co/vgl2KVwEbv（ICP 备案主体为长安通信科技有限责任公司，系 CNCERT 全资子公司）\n代理集群：劫持使用 IP 段 205.164.50.20x（AS18779, EGI Hosting, Santa Clara），物理部署于 CERNET 主干网内部\n这个DoH服务器维护着一份域名白名单，白名单外域名返回正常解析结果，白名单内域名（包括 Google、Wikipedia、GitHub、Docker Hub、YouTube 及部分学术出版商等）解析至 205.164.50.20x 段地址，另外A\\也在白名单里面\n\n更多的细节还请移步至👉 https://t.co/MGS59VwR8t"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049657392905032081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本质上是个套壳的浏览器，通过MitM、内置的DoH和自签名根证书（Scholar Root CA v1 和 Scholar Service V2）信任劫持实现流量引导，并且有实时清理DOM元素的能力 https://t.co/FpoduqVCgi https://t.co/weGPXqaPig"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2049707211631534080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIF2WLaoAAeXQK.jpg",
+        "width": 715
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2049657381261627392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHYh1lbUAA3CK7.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049707211631534080"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2049707224940089709",
+        "created_at": "2026-04-30T04:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049707224940089709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpoduqVCgi",
+              "end": 123,
+              "expanded_url": "https://x.com/realNyarime/status/2049707224940089709/photo/1",
+              "media_key": "3_2049707211631534080",
+              "start": 100,
+              "url": "https://t.co/FpoduqVCgi"
+            },
+            {
+              "display_url": "x.com/__Lucas04__/st…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/__Lucas04__/status/2049657392905032081",
+              "start": 124,
+              "url": "https://t.co/weGPXqaPig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049707224940089709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 188,
+                "expanded_url": "http://google.com",
+                "start": 165,
+                "url": "https://t.co/hSRzomgHUR"
+              },
+              {
+                "display_url": "doh.scholar.work",
+                "end": 231,
+                "expanded_url": "http://doh.scholar.work",
+                "start": 208,
+                "url": "https://t.co/vgl2KVwEbv"
+              },
+              {
+                "display_url": "web.archive.org/web/2026041019…",
+                "end": 522,
+                "expanded_url": "https://web.archive.org/web/20260410191456/https://rentry.co/r9frf3i4",
+                "start": 499,
+                "url": "https://t.co/MGS59VwR8t"
+              }
+            ]
+          },
+          "text": "本质上是个套壳的浏览器，通过MitM、内置的DoH和自签名根证书（Scholar Root CA v1 和 Scholar Service V2）信任劫持实现流量引导，并且有实时清理DOM元素的能力\n例如：维基百科的首页，新闻动态、你知道吗全部被动态清零，YouTube整个/watch都是被屏蔽的，只允许看指定的博主的视频，至于https://t.co/hSRzomgHUR也不是全白名单\n\n专用 DoH 服务器：https://t.co/vgl2KVwEbv（ICP 备案主体为长安通信科技有限责任公司，系 CNCERT 全资子公司）\n代理集群：劫持使用 IP 段 205.164.50.20x（AS18779, EGI Hosting, Santa Clara），物理部署于 CERNET 主干网内部\n这个DoH服务器维护着一份域名白名单，白名单外域名返回正常解析结果，白名单内域名（包括 Google、Wikipedia、GitHub、Docker Hub、YouTube 及部分学术出版商等）解析至 205.164.50.20x 段地址，另外A\\也在白名单里面\n\n更多的细节还请移步至👉 https://t.co/MGS59VwR8t"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049657392905032081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本质上是个套壳的浏览器，通过MitM、内置的DoH和自签名根证书（Scholar Root CA v1 和 Scholar Service V2）信任劫持实现流量引导，并且有实时清理DOM元素的能力 https://t.co/FpoduqVCgi https://t.co/weGPXqaPig"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049657381261627392"
+          ]
+        },
+        "author_id": "1556187726558515201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049657392905032081",
+        "created_at": "2026-04-30T01:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049657392905032081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCMd58ykZK",
+              "end": 89,
+              "expanded_url": "https://x.com/__Lucas04__/status/2049657392905032081/photo/1",
+              "media_key": "3_2049657381261627392",
+              "start": 66,
+              "url": "https://t.co/aCMd58ykZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049657392905032081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "部分高校向 CERNET 购买适用于校园网的国际资源访问服务，需要提交理由并由校网信办审核后下载专用浏览器进行访问，属于白名单模式 https://t.co/aCMd58ykZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31370,
+          "following_count": 585,
+          "like_count": 13262,
+          "listed_count": 152,
+          "media_count": 1615,
+          "tweet_count": 10843
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-07T07:59:28.000Z",
+        "description": "A student studying bioinformatics. | 一个学生信的废柴大学生 | Bluesky 👉 https://t.co/uIcugYtObC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lucas.…",
+                "end": 84,
+                "expanded_url": "https://bsky.app/profile/lucas.lucas04.top",
+                "start": 61,
+                "url": "https://t.co/uIcugYtObC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lucas04.top/about/",
+                "end": 23,
+                "expanded_url": "https://blog.lucas04.top/about/",
+                "start": 0,
+                "url": "https://t.co/ozwLzT6Si8"
+              }
+            ]
+          }
+        },
+        "id": "1556187726558515201",
+        "location": "Copenhagen, Denmark",
+        "name": "Lucas",
+        "pinned_tweet_id": "1987810975643553877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904211985593729027/rtm-FcDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 408,
+          "like_count": 8311,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/ozwLzT6Si8",
+        "username": "__Lucas04__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2065485431979049383",
+    "created_at": "2026-06-13T05:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065668197580423375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1844296703282925568",
+          "start": 0,
+          "username": "0xJoveXu"
+        },
+        {
+          "end": 20,
+          "id": "1914699395175432192",
+          "start": 10,
+          "username": "xStocksFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065668197580423375",
+    "in_reply_to_user_id": "1844296703282925568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065485431979049383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xJoveXu @xStocksFi 我看众安银行也可以直接买呀。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2065485390493163520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoUBO0aoAABFCx.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2065485431979049383",
+        "created_at": "2026-06-13T05:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065668197580423375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844296703282925568",
+              "start": 0,
+              "username": "0xJoveXu"
+            },
+            {
+              "end": 20,
+              "id": "1914699395175432192",
+              "start": 10,
+              "username": "xStocksFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065668197580423375",
+        "in_reply_to_user_id": "1844296703282925568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065485431979049383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xJoveXu @xStocksFi 我看众安银行也可以直接买呀。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065485390493163520"
+          ]
+        },
+        "author_id": "1844296703282925568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486467051363258370",
+              "name": "IPOs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2065485431979049383",
+        "created_at": "2026-06-12T17:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065485431979049383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 167,
+              "id": "1914699395175432192",
+              "start": 157,
+              "username": "xStocksFi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yaKXFDEoRN",
+              "end": 202,
+              "expanded_url": "https://x.com/0xJoveXu/status/2065485431979049383/photo/1",
+              "media_key": "3_2065485390493163520",
+              "start": 179,
+              "url": "https://t.co/yaKXFDEoRN"
+            },
+            {
+              "display_url": "x.com/0xjovexu/statu…",
+              "end": 226,
+              "expanded_url": "https://twitter.com/0xjovexu/status/2065442004218294740",
+              "start": 203,
+              "url": "https://t.co/1ljJZpYz5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065485431979049383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 167,
+                "id": "1914699395175432192",
+                "start": 157,
+                "username": "xStocksFi"
+              }
+            ]
+          },
+          "text": "Space X IPO 闹剧结束了\n\n整理了一下每一家交易所的情况：\n\n币安：全额退款，2 万参与者瓜分 100W U\n\n芝麻：分配 3% 额度给用户，剩下资金退款\n\nBitget：全额退款，补偿 10 U\n\nBybit：全额退款，补偿 4 天 10％年化\n\n海妖：每人 600 U 额度，多退少打满\n\n甲级战犯 @xStocksFi ，没那个能力整就别整\n\n各家交易所的方案大家满意吗？记得以后擦亮眼睛"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 36132,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065442004218294740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Space X IPO 闹剧结束了\n\n整理了一下每一家交易所的情况：\n\n币安：全额退款，2 万参与者瓜分 100W U\n\n芝麻：分配 3% 额度给用户，剩下资金退款\n\nBitget：全额退款，补偿 10 U\n\nBybit：全额退款，补偿 4 天 10％年化\n\n海妖：每人 600 U 额度，多退少打满\n\n甲级战犯 @xStocksFi ，没那个能力整就别整 https://t.co/yaKXFDEoRN https://t.co/1ljJZpYz5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37570,
+          "following_count": 655,
+          "like_count": 17384,
+          "listed_count": 170,
+          "media_count": 2143,
+          "tweet_count": 14403
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "正在探索Crypto、AI｜TG：JoveXu",
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议.DYOR",
+        "name": "Jove. 💚 💧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500747449999360/hQYLmLWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20289,
+          "following_count": 7467,
+          "like_count": 37559,
+          "listed_count": 61,
+          "media_count": 1020,
+          "tweet_count": 34926
+        },
+        "username": "0xJoveXu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-22T15:15:10.000Z",
+        "description": "Pioneering tokenized equities. Over 100 tokenized stocks and ETFs available onchain and on centralized exchanges.\n\nxStocks TG: https://t.co/g56EqinBsT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xstocksfi",
+                "end": 150,
+                "expanded_url": "https://t.me/xstocksfi",
+                "start": 127,
+                "url": "https://t.co/g56EqinBsT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xstocks.fi",
+                "end": 23,
+                "expanded_url": "http://xstocks.fi",
+                "start": 0,
+                "url": "https://t.co/eoHzpAPdpP"
+              }
+            ]
+          }
+        },
+        "id": "1914699395175432192",
+        "location": "Onchain",
+        "name": "xStocks",
+        "pinned_tweet_id": "2065462522308612328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924429945050120192/vytRzPuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75478,
+          "following_count": 78,
+          "like_count": 3746,
+          "listed_count": 508,
+          "media_count": 425,
+          "tweet_count": 1639
+        },
+        "url": "https://t.co/eoHzpAPdpP",
+        "username": "xStocksFi",
+        "verified": true
+      }
+    ]
+  }
+}

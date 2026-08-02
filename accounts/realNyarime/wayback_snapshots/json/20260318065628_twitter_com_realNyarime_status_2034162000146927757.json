@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034160214182924293",
+        "3_2034160214178664448",
+        "3_2034161747595231232",
+        "3_2034161759280631810"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2034162000146927757",
+    "created_at": "2026-03-18T06:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T07:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034162000146927757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tuc9kd3gdx",
+          "end": 166,
+          "expanded_url": "https://x.com/realNyarime/status/2034162000146927757/photo/1",
+          "media_key": "3_2034160214182924293",
+          "start": 143,
+          "url": "https://t.co/tuc9kd3gdx"
+        },
+        {
+          "display_url": "pic.x.com/tuc9kd3gdx",
+          "end": 166,
+          "expanded_url": "https://x.com/realNyarime/status/2034162000146927757/photo/1",
+          "media_key": "3_2034160214178664448",
+          "start": 143,
+          "url": "https://t.co/tuc9kd3gdx"
+        },
+        {
+          "display_url": "pic.x.com/tuc9kd3gdx",
+          "end": 166,
+          "expanded_url": "https://x.com/realNyarime/status/2034162000146927757/photo/1",
+          "media_key": "3_2034161747595231232",
+          "start": 143,
+          "url": "https://t.co/tuc9kd3gdx"
+        },
+        {
+          "display_url": "pic.x.com/tuc9kd3gdx",
+          "end": 166,
+          "expanded_url": "https://x.com/realNyarime/status/2034162000146927757/photo/1",
+          "media_key": "3_2034161759280631810",
+          "start": 143,
+          "url": "https://t.co/tuc9kd3gdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034162000146927757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/cryptomator/cr…",
+            "end": 441,
+            "expanded_url": "https://github.com/cryptomator/cryptomator",
+            "start": 418,
+            "url": "https://t.co/9nTtE5jxkh"
+          }
+        ]
+      },
+      "text": "一直在用Cherry Studio玩LLM，并且它支持多种云端备份方式，但都需要额外再多加一套云端服务，思路主要是网盘同步空间+本地备份+文件加密。\n\n于是想着借助「百度网盘」的网盘同步空间，去把Cherry Studio本地备份的文件夹设置为同步空间的文件夹。\n每次打开Cherry Studio记得从同步空间恢复一下最新的备份（云端最新的是倒数第二个，因为刚打开的时候会自动生成一个当前备份），就能多台电脑同步了。\n不过，百度网盘同步空间对敏感内容有限制，比如一些敏感图片传上去不准你下，虽然Cherry Studio备份文件是压缩包不会出现这种问题，但说明这些数据百度都是要做审查的。\n\n由于备份中有api key和一些可能的敏感信息，担心数据安全和规避审查可以再套一层文件加密。这里推荐Crptomator，一个开源的本地文件加密项目，优点是每个新增文件单独加密，不会增加一点东西就要把整个加密文件夹全部更新一般，适合云端同步：https://t.co/9nTtE5jxkh\n直接新建加密仓库到同步空间里，并设置开机自动启动。在右下角小图标unlock仓库，会挂载一个新的网络分卷，把Cherry Studio本地备份放到这个挂载的新分卷里就行，在这里改动的文件会看到在同步空间有个同步的加密文件夹同步发生改动。\n\n本质上是希望利用把百度云当云端存储用，又不想个人数据被检测和审查，搞出来的一套说不定比坚果云和WebDAV更麻烦的方案。好处是能用上百度云的超大空间，有网盘会员的话还是方便的。坏处是得一直开着网盘保持同步，这东西内存占用真不算多低…🙃"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直在用Cherry Studio玩LLM，并且它支持多种云端备份方式，但都需要额外再多加一套云端服务，思路主要是网盘同步空间+本地备份+文件加密。\n\n于是想着借助「百度网盘」的网盘同步空间，去把Cherry Studio本地备份的文件夹设置为同步空间的文件夹。\n每次打开Cherry https://t.co/tuc9kd3gdx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_2034160214182924293",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrJ7_abEAUeUn3.png",
+        "width": 883
+      },
+      {
+        "height": 1073,
+        "media_key": "3_2034160214178664448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrJ7_ZaEAAvzhD.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2034161747595231232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrLVP0aAAAvk4M.jpg",
+        "width": 1628
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034161759280631810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrLV7WbEAIp4yg.jpg",
+        "width": 1637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034160214182924293",
+            "3_2034160214178664448",
+            "3_2034161747595231232",
+            "3_2034161759280631810"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2034162000146927757",
+        "created_at": "2026-03-18T06:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034162000146927757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuc9kd3gdx",
+              "end": 166,
+              "expanded_url": "https://x.com/realNyarime/status/2034162000146927757/photo/1",
+              "media_key": "3_2034160214182924293",
+              "start": 143,
+              "url": "https://t.co/tuc9kd3gdx"
+            },
+            {
+              "display_url": "pic.x.com/tuc9kd3gdx",
+              "end": 166,
+              "expanded_url": "https://x.com/realNyarime/status/2034162000146927757/photo/1",
+              "media_key": "3_2034160214178664448",
+              "start": 143,
+              "url": "https://t.co/tuc9kd3gdx"
+            },
+            {
+              "display_url": "pic.x.com/tuc9kd3gdx",
+              "end": 166,
+              "expanded_url": "https://x.com/realNyarime/status/2034162000146927757/photo/1",
+              "media_key": "3_2034161747595231232",
+              "start": 143,
+              "url": "https://t.co/tuc9kd3gdx"
+            },
+            {
+              "display_url": "pic.x.com/tuc9kd3gdx",
+              "end": 166,
+              "expanded_url": "https://x.com/realNyarime/status/2034162000146927757/photo/1",
+              "media_key": "3_2034161759280631810",
+              "start": 143,
+              "url": "https://t.co/tuc9kd3gdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034162000146927757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/cryptomator/cr…",
+                "end": 441,
+                "expanded_url": "https://github.com/cryptomator/cryptomator",
+                "start": 418,
+                "url": "https://t.co/9nTtE5jxkh"
+              }
+            ]
+          },
+          "text": "一直在用Cherry Studio玩LLM，并且它支持多种云端备份方式，但都需要额外再多加一套云端服务，思路主要是网盘同步空间+本地备份+文件加密。\n\n于是想着借助「百度网盘」的网盘同步空间，去把Cherry Studio本地备份的文件夹设置为同步空间的文件夹。\n每次打开Cherry Studio记得从同步空间恢复一下最新的备份（云端最新的是倒数第二个，因为刚打开的时候会自动生成一个当前备份），就能多台电脑同步了。\n不过，百度网盘同步空间对敏感内容有限制，比如一些敏感图片传上去不准你下，虽然Cherry Studio备份文件是压缩包不会出现这种问题，但说明这些数据百度都是要做审查的。\n\n由于备份中有api key和一些可能的敏感信息，担心数据安全和规避审查可以再套一层文件加密。这里推荐Crptomator，一个开源的本地文件加密项目，优点是每个新增文件单独加密，不会增加一点东西就要把整个加密文件夹全部更新一般，适合云端同步：https://t.co/9nTtE5jxkh\n直接新建加密仓库到同步空间里，并设置开机自动启动。在右下角小图标unlock仓库，会挂载一个新的网络分卷，把Cherry Studio本地备份放到这个挂载的新分卷里就行，在这里改动的文件会看到在同步空间有个同步的加密文件夹同步发生改动。\n\n本质上是希望利用把百度云当云端存储用，又不想个人数据被检测和审查，搞出来的一套说不定比坚果云和WebDAV更麻烦的方案。好处是能用上百度云的超大空间，有网盘会员的话还是方便的。坏处是得一直开着网盘保持同步，这东西内存占用真不算多低…🙃"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直在用Cherry Studio玩LLM，并且它支持多种云端备份方式，但都需要额外再多加一套云端服务，思路主要是网盘同步空间+本地备份+文件加密。\n\n于是想着借助「百度网盘」的网盘同步空间，去把Cherry Studio本地备份的文件夹设置为同步空间的文件夹。\n每次打开Cherry https://t.co/tuc9kd3gdx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22552,
+          "following_count": 516,
+          "like_count": 11020,
+          "listed_count": 95,
+          "media_count": 1165,
+          "tweet_count": 8490
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

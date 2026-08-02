@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068197752467853442",
+    "created_at": "2026-06-20T06:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068216183686361580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "46585371",
+          "start": 0,
+          "username": "m0d8ye"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "7b02fbddf4d9f2c6"
+    },
+    "id": "2068216183686361580",
+    "in_reply_to_user_id": "46585371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068197752467853442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m0d8ye 一直都有，甚至跨省就qos。微信那个使用移动数据改善质量，就是用udp over tcp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [7b02fbddf4d9f2c6].",
+      "parameter": "geo.place_id",
+      "resource_id": "7b02fbddf4d9f2c6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "7b02fbddf4d9f2c6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068197743898796032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO24-paIAA-WFy.jpg",
+        "width": 1006
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068197743907258368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO24-rbQAAxVo-.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068197752467853442",
+        "created_at": "2026-06-20T06:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068216183686361580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "46585371",
+              "start": 0,
+              "username": "m0d8ye"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7b02fbddf4d9f2c6"
+        },
+        "id": "2068216183686361580",
+        "in_reply_to_user_id": "46585371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068197752467853442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m0d8ye 一直都有，甚至跨省就qos。微信那个使用移动数据改善质量，就是用udp over tcp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068197743898796032",
+            "3_2068197743907258368"
+          ]
+        },
+        "author_id": "46585371",
+        "conversation_id": "2068197752467853442",
+        "created_at": "2026-06-20T05:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068197752467853442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Native iOS client for ShadowVPN — a UDP, pre-shared-key, layer-3 tunnel using the shadowsocks AEAD UDP wire scheme (SwiftUI app + NEPacketTunnelProvider + Rust core). - madeye/shadowvpn-ios",
+              "display_url": "github.com/madeye/shadowv…",
+              "end": 53,
+              "expanded_url": "https://github.com/madeye/shadowvpn-ios",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2068197795727888384/bJLCJQmw?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068197795727888384/bJLCJQmw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "GitHub - madeye/shadowvpn-ios: Native iOS client for ShadowVPN — a UDP, pre-shared-key, layer-3 tunnel using the shadowsocks AEAD UDP wire scheme (SwiftUI app + NEPacketTunnelProvider + Rust core).",
+              "unwound_url": "https://github.com/madeye/shadowvpn-ios",
+              "url": "https://t.co/dBHPwtk3br"
+            },
+            {
+              "display_url": "pic.x.com/TDe4hZjuSl",
+              "end": 77,
+              "expanded_url": "https://x.com/m0d8ye/status/2068197752467853442/photo/1",
+              "media_key": "3_2068197743898796032",
+              "start": 54,
+              "url": "https://t.co/TDe4hZjuSl"
+            },
+            {
+              "display_url": "pic.x.com/TDe4hZjuSl",
+              "end": 77,
+              "expanded_url": "https://x.com/m0d8ye/status/2068197752467853442/photo/1",
+              "media_key": "3_2068197743907258368",
+              "start": 54,
+              "url": "https://t.co/TDe4hZjuSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068197752467853442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4426,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "似乎最近国内 ISP 针对 UDP 的 QOS 明显改善了 https://t.co/dBHPwtk3br https://t.co/TDe4hZjuSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38061,
+          "following_count": 655,
+          "like_count": 17933,
+          "listed_count": 178,
+          "media_count": 2185,
+          "tweet_count": 14871
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-12T04:58:38.000Z",
+        "description": "Chip Architect (2013-Present) | Bitcoin Enthusiast since 2011. Open source developer: https://t.co/fHv2ksd3xJ  Views are my own.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "madeye.github.io",
+                "end": 109,
+                "expanded_url": "https://madeye.github.io/",
+                "start": 86,
+                "url": "https://t.co/fHv2ksd3xJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/madeye",
+                "end": 23,
+                "expanded_url": "https://github.com/madeye",
+                "start": 0,
+                "url": "https://t.co/v2E8btO5fS"
+              }
+            ]
+          }
+        },
+        "id": "46585371",
+        "location": "Shanghai, China",
+        "name": "Max Lv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649917814/bio_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18902,
+          "following_count": 273,
+          "like_count": 990,
+          "listed_count": 170,
+          "media_count": 182,
+          "tweet_count": 5187
+        },
+        "url": "https://t.co/v2E8btO5fS",
+        "username": "m0d8ye",
+        "verified": true
+      }
+    ]
+  }
+}

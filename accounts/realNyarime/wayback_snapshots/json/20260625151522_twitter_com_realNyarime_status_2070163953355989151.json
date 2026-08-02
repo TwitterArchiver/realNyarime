@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070163507522441283",
+    "created_at": "2026-06-25T15:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070163953355989151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992255920777392128",
+          "start": 0,
+          "username": "GMWalletHK"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070163953355989151",
+    "in_reply_to_user_id": "1992255920777392128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070163839505842247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GMWalletHK 好不容易看到你正经一把"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070163507522441283",
+        "created_at": "2026-06-25T15:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070163953355989151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992255920777392128",
+              "start": 0,
+              "username": "GMWalletHK"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070163953355989151",
+        "in_reply_to_user_id": "1992255920777392128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070163839505842247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GMWalletHK 好不容易看到你正经一把"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992255920777392128",
+        "conversation_id": "2070163507522441283",
+        "created_at": "2026-06-25T15:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070163839505842247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070163839505842247",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070163507522441283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 奶昔老公我来啦🥰晚上好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38434,
+          "following_count": 659,
+          "like_count": 18394,
+          "listed_count": 179,
+          "media_count": 2239,
+          "tweet_count": 15400
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-22T15:37:19.000Z",
+        "description": "GM Wallet 全力开发中，GM Pay（EPusdt）开发者。欢迎来到开放，包容的加密世界. Eng: @GMWallet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "GMWallet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmwallet.app",
+                "end": 23,
+                "expanded_url": "https://gmwallet.app",
+                "start": 0,
+                "url": "https://t.co/5JpPjEdY2t"
+              }
+            ]
+          }
+        },
+        "id": "1992255920777392128",
+        "location": "香港",
+        "name": "GM Wallet 华语",
+        "pinned_tweet_id": "2060372840600535213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055265518660329472/d81zgfCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3938,
+          "following_count": 850,
+          "like_count": 12689,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 9384
+        },
+        "url": "https://t.co/5JpPjEdY2t",
+        "username": "GMWalletHK",
+        "verified": true
+      }
+    ]
+  }
+}

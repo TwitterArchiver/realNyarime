@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2069514771079258143",
+    "created_at": "2026-06-23T20:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T21:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069517053653045717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstra"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2069517053653045717",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069514771079258143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstra 人生的前24年都是为了读书，剩下的是出社会当牛马，最后还要被延迟退休好惨😞"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2069514771079258143",
+        "created_at": "2026-06-23T20:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069517053653045717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstra"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2069517053653045717",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069514771079258143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstra 人生的前24年都是为了读书，剩下的是出社会当牛马，最后还要被延迟退休好惨😞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775079210484436992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2069514771079258143",
+        "created_at": "2026-06-23T20:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069514771079258143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realnyarime/st…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/realnyarime/status/2069512290966311265",
+              "start": 143,
+              "url": "https://t.co/NpZ4EUkX4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069514771079258143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069512290966311265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“宁予友邦，不予家奴。”\n\n“量中华之物力，结与国之欢心”\n\n无耻！无耻！\n\n一边是爱国主义教育近代各种苦难\n一边是无底线讨好留学生\n\n外籍学生是不需要考试即可读中国大学的，而国内学生需要面对严格的高考\n\n外国学生是单间，但是很少听说中国学生也能住单间的\n\n上百年来，有些东西一直没变 https://t.co/NpZ4EUkX4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38290,
+          "following_count": 658,
+          "like_count": 18274,
+          "listed_count": 179,
+          "media_count": 2222,
+          "tweet_count": 15276
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "正在打造 @GMWallet ｜GitHub Star全球前十(加密领域) HODL @PudgyPenguins #5103 加密交易用币安：https://t.co/gCvs8cb1ga\nOKX最合规交易所：https://t.co/Spvg2Or79R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "GMWallet"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "PudgyPenguins"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 95,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 72,
+                "url": "https://t.co/gCvs8cb1ga"
+              },
+              {
+                "display_url": "okx.com/join/17846565",
+                "end": 129,
+                "expanded_url": "https://okx.com/join/17846565",
+                "start": 106,
+                "url": "https://t.co/Spvg2Or79R"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063723095492644864/wQfoPaC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8151,
+          "following_count": 937,
+          "like_count": 48587,
+          "listed_count": 36,
+          "media_count": 506,
+          "tweet_count": 10181
+        },
+        "url": "",
+        "username": "0xAstra",
+        "verified": true
+      }
+    ]
+  }
+}

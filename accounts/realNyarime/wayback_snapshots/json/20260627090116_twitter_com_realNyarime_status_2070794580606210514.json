@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070749643198374342",
+    "created_at": "2026-06-27T09:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070794580606210514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1285577648861659137",
+          "start": 0,
+          "username": "vanillaCitron"
+        },
+        {
+          "end": 24,
+          "id": "708915428454576128",
+          "start": 15,
+          "username": "NotionHQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "api.twitter.com",
+          "end": 70,
+          "expanded_url": "https://api.twitter.com",
+          "start": 47,
+          "status": 404,
+          "unwound_url": "https://api.twitter.com",
+          "url": "https://t.co/dLgGuBPbKn"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070794580606210514",
+    "in_reply_to_user_id": "1285577648861659137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070749643198374342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanillaCitron @NotionHQ 感觉没有什么好方案，因为x的login还是走https://t.co/dLgGuBPbKn这个老domain…… 当然1p的框能识别出来"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1704,
+        "media_key": "3_2070749414931800064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzHnx_boAAein7.jpg",
+        "width": 2720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070749643198374342",
+        "created_at": "2026-06-27T09:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070794580606210514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1285577648861659137",
+              "start": 0,
+              "username": "vanillaCitron"
+            },
+            {
+              "end": 24,
+              "id": "708915428454576128",
+              "start": 15,
+              "username": "NotionHQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "api.twitter.com",
+              "end": 70,
+              "expanded_url": "https://api.twitter.com",
+              "start": 47,
+              "status": 404,
+              "unwound_url": "https://api.twitter.com",
+              "url": "https://t.co/dLgGuBPbKn"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070794580606210514",
+        "in_reply_to_user_id": "1285577648861659137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070749643198374342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanillaCitron @NotionHQ 感觉没有什么好方案，因为x的login还是走https://t.co/dLgGuBPbKn这个老domain…… 当然1p的框能识别出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070749414931800064"
+          ]
+        },
+        "author_id": "1285577648861659137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045019101",
+              "name": "1Password"
+            }
+          }
+        ],
+        "conversation_id": "2070749643198374342",
+        "created_at": "2026-06-27T06:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070749643198374342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708915428454576128",
+              "start": 2,
+              "username": "NotionHQ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Build Custom Agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.",
+              "display_url": "notion.so",
+              "end": 132,
+              "expanded_url": "http://notion.so",
+              "images": [
+                {
+                  "height": 1250,
+                  "url": "https://pbs.twimg.com/news_img/2068270069495590912/gY7NPpam?format=jpg&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068270069495590912/gY7NPpam?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "The AI workspace that works for you. | Notion",
+              "unwound_url": "https://www.notion.com/",
+              "url": "https://t.co/awEgS7drvF"
+            },
+            {
+              "display_url": "pic.x.com/7krt96NhSk",
+              "end": 157,
+              "expanded_url": "https://x.com/vanillaCitron/status/2070749643198374342/photo/1",
+              "media_key": "3_2070749414931800064",
+              "start": 134,
+              "url": "https://t.co/7krt96NhSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070749643198374342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1521,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": ". @NotionHQ 买到了新的 .com 域名可喜可贺，但怎么想到把登入页面也直接迁移到新的 .com 了啊，passkey 默认是按都是按 domain 保存的，1Password 也没有登入凭据了（存在之前的 https://t.co/awEgS7drvF） https://t.co/7krt96NhSk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38568,
+          "following_count": 664,
+          "like_count": 18496,
+          "listed_count": 179,
+          "media_count": 2251,
+          "tweet_count": 15499
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design designer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "name": "citron🍢🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4757,
+          "following_count": 1132,
+          "like_count": 19765,
+          "listed_count": 24,
+          "media_count": 951,
+          "tweet_count": 7093
+        },
+        "url": "",
+        "username": "vanillaCitron",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-13T07:19:43.000Z",
+        "description": "Where teams and agents think together.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "notion.com",
+                "end": 23,
+                "expanded_url": "http://notion.com",
+                "start": 0,
+                "url": "https://t.co/qcmqe5ArMx"
+              }
+            ]
+          }
+        },
+        "id": "708915428454576128",
+        "name": "Notion",
+        "pinned_tweet_id": "2069816393395012009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903224093476077568/OCclsw4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521549,
+          "following_count": 3557,
+          "like_count": 52619,
+          "listed_count": 5123,
+          "media_count": 2866,
+          "tweet_count": 56876
+        },
+        "url": "https://t.co/qcmqe5ArMx",
+        "username": "NotionHQ",
+        "verified": true
+      }
+    ]
+  }
+}

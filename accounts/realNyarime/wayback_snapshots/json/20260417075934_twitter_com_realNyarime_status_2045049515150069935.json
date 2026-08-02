@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2044979326630891642",
+    "created_at": "2026-04-17T07:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T08:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045049515150069935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "277445029",
+          "start": 0,
+          "username": "xkajon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045049515150069935",
+    "in_reply_to_user_id": "277445029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044979326630891642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xkajon 赞一个，我之前发了个iPhone改定位的干货也被人举报，最后同意删帖只读了12小时，一样的遭遇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044979316447162368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGE52oHasAADG_T.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2044979326630891642",
+        "created_at": "2026-04-17T07:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045049515150069935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "277445029",
+              "start": 0,
+              "username": "xkajon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045049515150069935",
+        "in_reply_to_user_id": "277445029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044979326630891642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkajon 赞一个，我之前发了个iPhone改定位的干货也被人举报，最后同意删帖只读了12小时，一样的遭遇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044979316447162368"
+          ]
+        },
+        "author_id": "277445029",
+        "conversation_id": "2044979326630891642",
+        "created_at": "2026-04-17T03:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:19:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044979075559948749",
+          "2044979326630891642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/izj6XcyWMw",
+              "end": 173,
+              "expanded_url": "https://x.com/xkajon/status/2044979326630891642/photo/1",
+              "media_key": "3_2044979316447162368",
+              "start": 150,
+              "url": "https://t.co/izj6XcyWMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044979326630891642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "号刚放出来。十二个小时，帖子被删，账号被关小黑屋。\n\n就因为我把0成本GPT Plus 漏洞的技术细节写出来了。\n\n不知道是闲鱼上那些靠信息差吃饭的黄牛举的报，还是哪个中转站的既得利益者坐不住了。反正结果一样：帖子没了，号被按了十二个小时。\n\n行，那我把话说得更明白点。\n\n我为什么要发那个技术贴？\n\n因为我他妈实在看不下去 Web3 那帮博主天天在那儿制造 FOMO。手里攥着个破技术跟攥着传国玉玺似的，藏着掖着，然后转头收你二百 U 教你怎么搞代理站。二百 U 学什么？学怎么帮他拉人头。\n\n我就一个态度：开源。扔出来，大家一块儿看，一块儿研究，一块儿学。\n\n为什么非要割自己人的钱？\n\n出海去割老外不行吗？那边钱多、人傻、付费习惯好，你正大光明提供服务，他正大光明付你美金。体面钱不挣，非得窝里横，把自己人当韭菜一茬一茬割。搞 FOMO、收代理费、二百 U 卖个垃圾教程——搞来搞去，这个行业除了留下一地鸡毛和声名狼藉，还有什么进步？\n\n什么都没有。\n\n我把这些东西发出来，就是想让大家一块儿交流，一块儿把中转站和 AI 充值这个行业的底子往上抬一抬。抱团出海去收割，而不是单打独斗被人收割。\n\n看到有些博主把这些玩意儿当宝贝供着，我是真想笑。合着你藏起来别人就永远不会发现了？你一个人守着那点破烂，能有什么进步？路子是走出来的，不是捂出来的。大家一块儿往前走，一块儿琢磨新的赚钱方法，这才叫正事。\n\n不过这次被封十二个小时，确实给我提了个醒。\n\n我要是真把 Claude 的全渠道来源发出来，等着我的大概率不是讨论，是投诉、下架、甚至账号直接消失。那帮人不会坐那儿看我掀桌子。\n\n所以我得换个方式发。\n\n怎么发，我还在想。各位有什么路子，评论区支个招。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 30474,
+          "like_count": 355,
+          "quote_count": 8,
+          "reply_count": 92,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "号刚放出来。十二个小时，帖子被删，账号被关小黑屋。\n\n就因为我把0成本GPT Plus 漏洞的技术细节写出来了。\n\n不知道是闲鱼上那些靠信息差吃饭的黄牛举的报，还是哪个中转站的既得利益者坐不住了。反正结果一样：帖子没了，号被按了十二个小时。\n\n行，那我把话说得更明白点。\n\n我为什么要发那个技术贴？ https://t.co/izj6XcyWMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28341,
+          "following_count": 527,
+          "like_count": 12439,
+          "listed_count": 132,
+          "media_count": 1486,
+          "tweet_count": 10082
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-05T11:39:17.000Z",
+        "description": "🇬🇧UCL本硕｜计算机专业｜雅思7｜中转站站长-只做tob不做toc",
+        "id": "277445029",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "Kai",
+        "pinned_tweet_id": "2042944828758200368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012851255509471233/PG2nwivW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5811,
+          "following_count": 823,
+          "like_count": 3268,
+          "listed_count": 37,
+          "media_count": 11,
+          "tweet_count": 401
+        },
+        "username": "xkajon",
+        "verified": true
+      }
+    ]
+  }
+}

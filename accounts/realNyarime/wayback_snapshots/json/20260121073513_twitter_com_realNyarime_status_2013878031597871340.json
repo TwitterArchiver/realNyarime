@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2013870558317015473",
+    "created_at": "2026-01-21T07:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013878031597871340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "21985380",
+          "start": 0,
+          "username": "xFSQY"
+        },
+        {
+          "end": 18,
+          "id": "3007509396",
+          "start": 7,
+          "username": "pengchujin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013878031597871340",
+    "in_reply_to_user_id": "21985380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013875644921483370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xFSQY @pengchujin 主要是IP库分流有点折腾，不过OpenClash也还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2013870558317015473",
+        "created_at": "2026-01-21T07:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013878031597871340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "21985380",
+              "start": 0,
+              "username": "xFSQY"
+            },
+            {
+              "end": 18,
+              "id": "3007509396",
+              "start": 7,
+              "username": "pengchujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013878031597871340",
+        "in_reply_to_user_id": "21985380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013875644921483370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xFSQY @pengchujin 主要是IP库分流有点折腾，不过OpenClash也还好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "21985380",
+        "conversation_id": "2013870558317015473",
+        "created_at": "2026-01-21T07:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013875644921483370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 24,
+              "id": "3007509396",
+              "start": 13,
+              "username": "pengchujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013875644921483370",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013870558317015473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @pengchujin 我用的是闲鱼最便宜的fortigate飞塔防火墙的SDWAN策略来分流，除了可以按地区、还可以按协议、app之类来分。比如所有bt流量走直连，微软、steam走直连之类\n\n懒得自己折腾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8858,
+          "following_count": 588,
+          "like_count": 9694,
+          "listed_count": 29,
+          "media_count": 772,
+          "tweet_count": 6589
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-26T07:06:05.000Z",
+        "description": "人們活得像不會死亡，但當死的時候，又覺得自己白白地活過了這一生。人啊，你要記住，你原來是灰土，將來還要歸於灰土",
+        "id": "21985380",
+        "name": "風色 · 秋元 康",
+        "pinned_tweet_id": "2012051983038136439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/885526259534626817/bnW8iZaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1043,
+          "like_count": 755,
+          "listed_count": 16,
+          "media_count": 311,
+          "tweet_count": 8123
+        },
+        "username": "xFSQY",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-02T05:01:41.000Z",
+        "description": "ⓘ 该账号已封禁",
+        "id": "3007509396",
+        "name": "酱紫表",
+        "pinned_tweet_id": "1946905261165457594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772530812078239744/aPK5wde3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57296,
+          "following_count": 646,
+          "like_count": 1882,
+          "listed_count": 372,
+          "media_count": 892,
+          "tweet_count": 2972
+        },
+        "username": "pengchujin",
+        "verified": true
+      }
+    ]
+  }
+}

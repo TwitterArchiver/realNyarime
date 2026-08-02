@@ -1,0 +1,864 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1116767629572591616",
+          "name": "Intel Extreme Masters (IEM)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1116767692646522880",
+          "name": "ESL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291094662682271744",
+          "name": "Gaming events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1496481875497414661",
+          "name": "Intel Extreme Masters"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports league like Overwatch League",
+          "id": "149",
+          "name": "Esports League"
+        },
+        "entity": {
+          "id": "1496481875497414661",
+          "name": "Intel Extreme Masters"
+        }
+      }
+    ],
+    "conversation_id": "1985238160868290584",
+    "created_at": "2025-11-03T08:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T09:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985257924504215779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "93659369",
+          "start": 0,
+          "username": "IEM"
+        },
+        {
+          "end": 11,
+          "id": "34002876",
+          "start": 5,
+          "username": "ESLCS"
+        },
+        {
+          "end": 17,
+          "id": "506341985",
+          "start": 12,
+          "username": "ropz"
+        },
+        {
+          "end": 33,
+          "id": "1782329280363384832",
+          "start": 18,
+          "username": "TeamVitalityCS"
+        },
+        {
+          "end": 44,
+          "id": "283906817",
+          "start": 34,
+          "username": "virtuspro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985257924504215779",
+    "in_reply_to_user_id": "93659369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985238160868290584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IEM @ESLCS @ropz @TeamVitalityCS @virtuspro rnm，tq（这脸好像何老师啊）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1985237789852549120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4z7QGrXwAAJGHS.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767629572591616",
+              "name": "Intel Extreme Masters (IEM)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767692646522880",
+              "name": "ESL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1496481875497414661",
+              "name": "Intel Extreme Masters"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1496481875497414661",
+              "name": "Intel Extreme Masters"
+            }
+          }
+        ],
+        "conversation_id": "1985238160868290584",
+        "created_at": "2025-11-03T08:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985257924504215779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "93659369",
+              "start": 0,
+              "username": "IEM"
+            },
+            {
+              "end": 11,
+              "id": "34002876",
+              "start": 5,
+              "username": "ESLCS"
+            },
+            {
+              "end": 17,
+              "id": "506341985",
+              "start": 12,
+              "username": "ropz"
+            },
+            {
+              "end": 33,
+              "id": "1782329280363384832",
+              "start": 18,
+              "username": "TeamVitalityCS"
+            },
+            {
+              "end": 44,
+              "id": "283906817",
+              "start": 34,
+              "username": "virtuspro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985257924504215779",
+        "in_reply_to_user_id": "93659369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985238160868290584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IEM @ESLCS @ropz @TeamVitalityCS @virtuspro rnm，tq（这脸好像何老师啊）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985237789852549120"
+          ]
+        },
+        "author_id": "93659369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767629572591616",
+              "name": "Intel Extreme Masters (IEM)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1496481875497414661",
+              "name": "Intel Extreme Masters"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1496481875497414661",
+              "name": "Intel Extreme Masters"
+            }
+          }
+        ],
+        "conversation_id": "1985238160868290584",
+        "created_at": "2025-11-03T06:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985238160868290584"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Dust 2",
+              "probability": 0.7189,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 137,
+              "normalized_text": "IEM",
+              "probability": 0.6288,
+              "start": 135,
+              "type": "Other"
+            },
+            {
+              "end": 145,
+              "normalized_text": "Chengdu",
+              "probability": 0.4333,
+              "start": 139,
+              "type": "Other"
+            },
+            {
+              "end": 153,
+              "normalized_text": "Mirage",
+              "probability": 0.7035,
+              "start": 148,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "IEM"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 6,
+              "id": "506341985",
+              "start": 1,
+              "username": "ropz"
+            },
+            {
+              "end": 52,
+              "id": "1782329280363384832",
+              "start": 37,
+              "username": "TeamVitalityCS"
+            },
+            {
+              "end": 95,
+              "id": "283906817",
+              "start": 85,
+              "username": "virtuspro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yn8dQfyfL6",
+              "end": 199,
+              "expanded_url": "https://x.com/IEM/status/1985238160868290584/photo/1",
+              "media_key": "3_1985237789852549120",
+              "start": 176,
+              "url": "https://t.co/Yn8dQfyfL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985238160868290584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5873,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": ".@ropz makes Dust 2 a sure thing for @TeamVitalityCS as they close it out 13-11 over @virtuspro.\n\nWho will pick up their first win in #IEM Chengdu? Mirage will be our decider! https://t.co/Yn8dQfyfL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Naixi Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "realYingxi"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.naixi.org",
+                "end": 23,
+                "expanded_url": "http://about.naixi.org",
+                "start": 0,
+                "url": "https://t.co/8GeteJjIji"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1980325458756743246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978422573148114944/SvoZ3L_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 860,
+          "like_count": 8013,
+          "listed_count": 6,
+          "media_count": 465,
+          "tweet_count": 4282
+        },
+        "url": "https://t.co/8GeteJjIji",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-30T16:10:07.000Z",
+        "description": "Intel® Extreme Masters is the elite global pro gaming tour organized by ESL. The tour has been sponsored by Intel since 2006.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intelextrememasters.com",
+                "end": 23,
+                "expanded_url": "http://www.intelextrememasters.com",
+                "start": 0,
+                "url": "https://t.co/XF2VR5XDX7"
+              }
+            ]
+          }
+        },
+        "id": "93659369",
+        "location": "Worldwide",
+        "name": "Intel® Extreme Masters",
+        "pinned_tweet_id": "1981329741731725566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983917121848397825/FjGUke5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413920,
+          "following_count": 355,
+          "like_count": 806,
+          "listed_count": 986,
+          "media_count": 14800,
+          "tweet_count": 34043
+        },
+        "url": "https://t.co/XF2VR5XDX7",
+        "username": "IEM",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-21T19:06:35.000Z",
+        "description": "The Home of Counter-Strike.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "esl.com",
+                "end": 23,
+                "expanded_url": "http://esl.com",
+                "start": 0,
+                "url": "https://t.co/ctP20gWEc1"
+              }
+            ]
+          }
+        },
+        "id": "34002876",
+        "location": "Worldwide",
+        "name": "ESL Counter-Strike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984230352865374208/sgSvekY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233510,
+          "following_count": 1144,
+          "like_count": 10288,
+          "listed_count": 1764,
+          "media_count": 60184,
+          "tweet_count": 86514
+        },
+        "url": "https://t.co/ctP20gWEc1",
+        "username": "ESLCS",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-27T20:16:09.000Z",
+        "description": "Professional CS2 player for @TeamVitalityCS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "TeamVitalityCS"
+              }
+            ]
+          }
+        },
+        "id": "506341985",
+        "location": "Estonia",
+        "name": "ropz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878018568199036928/rQEIyiM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435403,
+          "following_count": 519,
+          "like_count": 8201,
+          "listed_count": 826,
+          "media_count": 343,
+          "tweet_count": 3515
+        },
+        "username": "ropz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-22T08:43:34.000Z",
+        "description": "Home of @TeamVitality Counter-Strike 23 🏆 #VforVictory\n\n@Stake - official international betting partner. Gamble responsibly 18+ I Not available in FR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 42,
+                "tag": "VforVictory"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "TeamVitality"
+              },
+              {
+                "end": 62,
+                "start": 56,
+                "username": "Stake"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitality.gg/en-eu/collecti…",
+                "end": 23,
+                "expanded_url": "https://vitality.gg/en-eu/collections",
+                "start": 0,
+                "url": "https://t.co/NmIsTWKaH2"
+              }
+            ]
+          }
+        },
+        "id": "1782329280363384832",
+        "location": "Paris",
+        "name": "Team Vitality CS",
+        "pinned_tweet_id": "1984669263056052632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984669630342864896/sUJFkkfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82566,
+          "following_count": 70,
+          "like_count": 4299,
+          "listed_count": 96,
+          "media_count": 2446,
+          "tweet_count": 4195
+        },
+        "url": "https://t.co/NmIsTWKaH2",
+        "username": "TeamVitalityCS",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-18T07:32:10.000Z",
+        "description": "Major Champions in Dota2 and CS:GO. Bear with it #GOGOVP \n\nApex - @virtuspro_apex | Warzone - @virtuspro_WZ \n\nOW2 - @virtuspro_OW2 | MR - @virtuspro__MR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 49,
+                "tag": "GOGOVP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "virtuspro_apex"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "virtuspro_WZ"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "virtuspro_OW2"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "virtuspro__MR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "virtus.pro",
+                "end": 23,
+                "expanded_url": "https://virtus.pro/",
+                "start": 0,
+                "url": "https://t.co/YYaGOK86oN"
+              }
+            ]
+          }
+        },
+        "id": "283906817",
+        "name": "Virtus.pro",
+        "pinned_tweet_id": "1967574507532485008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940010819229478912/wmRGHrCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257120,
+          "following_count": 293,
+          "like_count": 12714,
+          "listed_count": 1098,
+          "media_count": 21901,
+          "tweet_count": 47327
+        },
+        "url": "https://t.co/YYaGOK86oN",
+        "username": "virtuspro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2046343518986379724",
+    "created_at": "2026-04-20T22:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T23:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046361930982670518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814168337540435968",
+          "start": 0,
+          "username": "Balder13946731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046361930982670518",
+    "in_reply_to_user_id": "1814168337540435968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046343518986379724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Balder13946731 错了 他应该开发macOS for iPad"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1292,
+        "media_key": "3_2046343437197406208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYSg56acAAQkNN.jpg",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2046343518986379724",
+        "created_at": "2026-04-20T22:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T23:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046361930982670518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814168337540435968",
+              "start": 0,
+              "username": "Balder13946731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046361930982670518",
+        "in_reply_to_user_id": "1814168337540435968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046343518986379724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Balder13946731 错了 他应该开发macOS for iPad"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046343437197406208"
+          ]
+        },
+        "author_id": "1814168337540435968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Senior Vice President\nSoftware Engineering @ Apple",
+              "id": "1031591175797391360",
+              "name": "Craig Federighi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          }
+        ],
+        "conversation_id": "2046343518986379724",
+        "created_at": "2026-04-20T21:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T22:40:19.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046343229487132843",
+          "2046343439688868343",
+          "2046343518986379724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVtvg1Pnga",
+              "end": 192,
+              "expanded_url": "https://x.com/Balder13946731/status/2046343518986379724/photo/1",
+              "media_key": "3_2046343437197406208",
+              "start": 169,
+              "url": "https://t.co/pVtvg1Pnga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046343518986379724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "1.AI",
+                "end": 308,
+                "expanded_url": "http://1.AI",
+                "start": 285,
+                "url": "https://t.co/VnXOQEpW5S"
+              }
+            ]
+          },
+          "text": "库克的接班人 John Ternus 正式走到了聚光灯下。（斗宗强者是没有Linkedin的）\n\n他是 Mac 转型自研芯片的关键领导者。正是他推动了硬件性能的跨越，让 MacBook 彻底摆脱了“发热与降频”。\n\n他是iPad 之父： 参与了每一代 iPad 的开发。更硬核的是，他曾说服软件主管 Craig Federighi 打造 iPadOS，因为他坚信硬件的潜力不该被手机系统束缚。\n\n•硬件细节控： 从 AirPods 的微型精密组装，到 Apple Pencil 的磁吸充电方案，这些改变用户习惯的“小细节”都出自他的工程团队。\n\n特努斯时代的苹果愿景：\nhttps://t.co/VnXOQEpW5S 的“具身化”： 相比于云端对话，特努斯更看重“端侧 AI”。未来的 iPhone 和 Mac 将成为真正的 AI 算力中心，隐私保护将硬刻在晶体管里。\n2.机器人与家居： 作为一个机械工程师，他极有可能加速苹果智能机器人（如带机械臂的家用中心）的落地，将苹果的生态从指尖延伸到物理空间。\n3.空间计算的终局： Vision Pro 的减重与日常化是他的头号工程挑战。他的目标是让“空间计算”像戴一副黑框眼镜一样简单。\n\n作为一个懂物理结构、爱钻研细节的工程师 CEO，未来的苹果将更专注于产品。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2746,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "库克的接班人 John Ternus 正式走到了聚光灯下。（斗宗强者是没有Linkedin的）\n\n他是 Mac 转型自研芯片的关键领导者。正是他推动了硬件性能的跨越，让 MacBook 彻底摆脱了“发热与降频”。\n\n他是iPad 之父： 参与了每一代 iPad 的开发。更硬核的是，他曾说服软件主管 Craig Federighi 打造 https://t.co/pVtvg1Pnga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29320,
+          "following_count": 533,
+          "like_count": 12560,
+          "listed_count": 135,
+          "media_count": 1502,
+          "tweet_count": 10177
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-19T05:20:25.000Z",
+        "description": "Part-time Trader•Ph.D.｜Not Financial Advise｜Our free Community https://t.co/sQlCkImMJ7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7MDsGC6HcM",
+                "end": 86,
+                "expanded_url": "https://discord.gg/7MDsGC6HcM",
+                "start": 63,
+                "url": "https://t.co/sQlCkImMJ7"
+              }
+            ]
+          }
+        },
+        "id": "1814168337540435968",
+        "location": "Texas, USA",
+        "name": "Balder",
+        "pinned_tweet_id": "2027508734466068653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042409465748881408/7QQC60Qh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26624,
+          "following_count": 314,
+          "like_count": 4685,
+          "listed_count": 433,
+          "media_count": 1255,
+          "tweet_count": 9450
+        },
+        "username": "Balder13946731",
+        "verified": true
+      }
+    ]
+  }
+}

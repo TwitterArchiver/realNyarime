@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045347491",
+          "name": "Counter-Strike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045347491",
+          "name": "Counter-Strike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2061294684786569367",
+    "created_at": "2026-06-01T11:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061409976439177614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1451036242431262720",
+          "start": 0,
+          "username": "binancezh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061409976439177614",
+    "in_reply_to_user_id": "1451036242431262720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061294684786569367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@binancezh 小时候那会玩了csgo以后开箱拿到了一把蝴蝶刀，那把刀高中的时候缺钱就卖掉了\n最后这个游戏开始市场化，一把刀将近万把块，当时我卖掉的时候也就才1000块钱\n\n愿望很简单，就是想把那个模板的蝴蝶刀买回来，然后放在库存里面"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6687,
+        "height": 1080,
+        "media_key": "13_2061293310875246593",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061293310875246593/img/dpAAmGcvlB8PRwKD.jpg",
+        "public_metrics": {
+          "view_count": 6339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061293310875246593/vid/avc1/720x720/GwcNcUcRZ27QqEtg.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061293310875246593/vid/avc1/1080x1080/xiXV_deIp5wb9nxd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061293310875246593/pl/BfJ9JqUiBYSz-B9A.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061293310875246593/vid/avc1/320x320/VEhnfHssfYul5gnI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061293310875246593/vid/avc1/540x540/sq-4qz3tK2gMIJYl.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2061294684786569367",
+        "created_at": "2026-06-01T11:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061409976439177614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1451036242431262720",
+              "start": 0,
+              "username": "binancezh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061409976439177614",
+        "in_reply_to_user_id": "1451036242431262720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061294684786569367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binancezh 小时候那会玩了csgo以后开箱拿到了一把蝴蝶刀，那把刀高中的时候缺钱就卖掉了\n最后这个游戏开始市场化，一把刀将近万把块，当时我卖掉的时候也就才1000块钱\n\n愿望很简单，就是想把那个模板的蝴蝶刀买回来，然后放在库存里面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061293310875246593"
+          ]
+        },
+        "author_id": "1451036242431262720",
+        "conversation_id": "2061294684786569367",
+        "created_at": "2026-06-01T03:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061294684786569367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qsm8aQZfX0",
+              "end": 138,
+              "expanded_url": "https://x.com/binancezh/status/2061294684786569367/video/1",
+              "media_key": "13_2061293310875246593",
+              "start": 115,
+              "url": "https://t.co/Qsm8aQZfX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061294684786569367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 27799,
+          "like_count": 334,
+          "quote_count": 12,
+          "reply_count": 589,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "小时候，我们相信世界有无限可能🚀\n\n长大后，愿我们依然保有那份好奇、勇气与纯粹！\n\n💪在探索加密未来的路上，币安会陪你一起成长，保持初心，保持向前的力量。\n\n六一儿童节快乐💛 \n\n评论区留下你小时候的愿望，送10份儿童节礼盒⬇️ https://t.co/Qsm8aQZfX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35684,
+          "following_count": 655,
+          "like_count": 16306,
+          "listed_count": 156,
+          "media_count": 2018,
+          "tweet_count": 13392
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-21T04:03:48.000Z",
+        "description": "关注Binance华语，\n洞悉行情节奏，\n劲享币安重重好礼，\n让你的邻家小编不下岗！\n注册立拿100U：https://t.co/SLuxJUoDEi\n官方社群：https://t.co/xDE8Sn47uE\n #Binance #BNB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 106,
+                "tag": "Binance"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "BNB"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/zh-CN",
+                "end": 75,
+                "expanded_url": "https://www.binance.com/zh-CN",
+                "start": 52,
+                "url": "https://t.co/SLuxJUoDEi"
+              },
+              {
+                "display_url": "t.me/BinanceChinese",
+                "end": 104,
+                "expanded_url": "https://t.me/BinanceChinese",
+                "start": 81,
+                "url": "https://t.co/xDE8Sn47uE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com/zh-CN/download",
+                "end": 23,
+                "expanded_url": "http://binance.com/zh-CN/download",
+                "start": 0,
+                "url": "https://t.co/MuMMBD1AVs"
+              }
+            ]
+          }
+        },
+        "id": "1451036242431262720",
+        "name": "币安Binance华语",
+        "pinned_tweet_id": "2060602509769818594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815972658640740354/RySOJZ_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453766,
+          "following_count": 381,
+          "like_count": 7908,
+          "listed_count": 2583,
+          "media_count": 8600,
+          "tweet_count": 16509
+        },
+        "url": "https://t.co/MuMMBD1AVs",
+        "username": "binancezh",
+        "verified": true
+      }
+    ]
+  }
+}

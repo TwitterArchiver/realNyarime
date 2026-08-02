@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2013090828357706147",
+    "created_at": "2026-01-19T03:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T04:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013098293853823067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620500189630042112",
+          "start": 0,
+          "username": "Moelin_Moe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013098293853823067",
+    "in_reply_to_user_id": "1620500189630042112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013090828357706147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moelin_Moe 𝕏 其实不太建议多个hashtag，最好1个，最多放两个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2013090828357706147",
+        "created_at": "2026-01-19T03:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013098293853823067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620500189630042112",
+              "start": 0,
+              "username": "Moelin_Moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013098293853823067",
+        "in_reply_to_user_id": "1620500189630042112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013090828357706147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moelin_Moe 𝕏 其实不太建议多个hashtag，最好1个，最多放两个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620500189630042112",
+        "conversation_id": "2013090828357706147",
+        "created_at": "2026-01-19T03:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013090828357706147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013090828357706147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1282,
+                "start": 1278,
+                "tag": "VPS"
+              },
+              {
+                "end": 1288,
+                "start": 1284,
+                "tag": "服务器"
+              },
+              {
+                "end": 1292,
+                "start": 1289,
+                "tag": "网络"
+              }
+            ]
+          },
+          "text": "关于我的VPS玩家之路\n不知不觉中，我自己玩VPS也有七八年历史了，从小学一路玩到了高中毕业，其中踩过很多的坑，也给某些无良网站交过学费\n\n首先讲一下我玩VPS的历程，最早在Google上看了很多网站，无一例外的推荐Vultr/BWH之类的高返佣平台，最后我选择了Vultr，毕竟是有赠金的平台，但是后面的使用体验并不好，延迟高/IP容易被墙/纯净度低等等\n\n后面跟着YouTube和各种论坛知道了GCP/AWS等大厂云，恰逢疫情放假，每天上完网课就是捣鼓如何撸GCP/AWS，那也是我第一次感觉到了低延迟大带宽的爽，那时的GCP还没有动态路由，香港区域的节点用起来也很爽\n\n再后来，GCP/AWS的政策收紧，动态路由的增加，使我不得不转向了其他厂家，也慢慢学会了如何看路由，如何看线路，CMI/4837/9929/CN2 GIA/CN2 GT这些名词都是什么，那时的亚洲VPS服务商不像现在，往往是便宜的不好用，好用的不便宜，DMIT/BWH等几家厂商虽然线路很好，但是价格还是我那时无法承受的，在促销的时候体验了几个月的DMIT之后还是放弃了\n\n后面随着市场的饱和同时爆发了激烈的竞争，一大批香港/日本服务器商家涌现了出来，其中不乏便宜好用的厂家，也有滥竽充数的，那时候我也买了很多各种论坛上的服务商，像是快车道（现在的Nube），RFCHost，WAP等等\n\n但是很多厂商的产品并不是完全可持续的，在竞争之后，香港区域的网络价格也迎来了上涨，曾经的低价CMI渠道被封堵，很多产品都迎来了一波涨价，我也因此“放生”了一批机器\n\n有一段时间我手上只留了一些性价比高的机器，例如WAP/RFCHost\n\n在这段时间里，市场上也涌现了很多不错的提供商，Akile/Claw/ISIF/Lain等等，每家有不同的特色，我也都买来玩了玩\n\n随着Claw的入场，亚太地区的价格战又开始了，Claw做的香港4刀机器还是令我记忆犹新，在NodeSeek上一度炒的价格很高，但随着Claw的限速门和离开香港区域，一度风光无量的Claw也慢慢的不再被人反复提起\n\n像是后起之秀ISIF，曾经也给我带来了不少快乐的时光，我的VPS中至今也还有一台ISIF的机器\n\n但是后面渐渐的各家都在做DNS解锁，我看上了有WDA功能的RFCHost，毕竟一台机器就可以解锁多地区流媒体+AI也是很爽的，最近一段时间我的主力用机还是RFCHost的JPCO系列，每月6刀就可以体验到优化线路+WDA解锁也是很有性价比的\n\n当基本的需求被满足，我又开始寻找一些“家宽”产品\n\n一开始，看着HKT/HKBN/HiNet的独享机器几十上百刀的售价令我望而却步，后来慢慢知道了有不少商家也是在卖这些家宽的NAT机器，价格便宜也可以体验到家宽的IP，我便买了几台来玩，但是NAT机器便宜归便宜，如果用户量一旦上来往往IP也会不干净，后来我就慢慢转向了家宽拼车\n\n现在，我的常用VPS也就只剩RFCHost/ISIF/Akile这几家了，毕竟已经完成了我的网络需求，没有必要再去买其他更多的机器了\n\n#VPS  #服务器 #网络"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我的VPS玩家之路\n不知不觉中，我自己玩VPS也有七八年历史了，从小学一路玩到了高中毕业，其中踩过很多的坑，也给某些无良网站交过学费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8087,
+          "following_count": 618,
+          "like_count": 9472,
+          "listed_count": 23,
+          "media_count": 748,
+          "tweet_count": 6381
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:12:18.000Z",
+        "description": "She/Her · 07 · 快要过期的JK Product Manager 📝 · 💻Vibe Coding ·🏳️‍⚧️ HRTing · ADHD · ✨ @ElimSpace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "ElimSpace"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.moelin.co",
+                "end": 23,
+                "expanded_url": "http://blog.moelin.co",
+                "start": 0,
+                "url": "https://t.co/iaPAZTmCEt"
+              }
+            ]
+          }
+        },
+        "id": "1620500189630042112",
+        "location": "IP属地：朝鲜人民民主主义共和国",
+        "name": "Moelin雲墨 凌",
+        "pinned_tweet_id": "1992574644956913783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754830288549769216/ce5vqxUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 823,
+          "like_count": 1728,
+          "listed_count": 5,
+          "media_count": 325,
+          "tweet_count": 5166
+        },
+        "url": "https://t.co/iaPAZTmCEt",
+        "username": "Moelin_Moe",
+        "verified": true
+      }
+    ]
+  }
+}

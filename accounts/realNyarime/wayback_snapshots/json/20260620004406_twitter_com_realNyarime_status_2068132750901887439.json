@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068122937308426676",
+    "created_at": "2026-06-20T00:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T01:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068132750901887439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024518793679294464",
+          "start": 0,
+          "username": "ClaudeDevs"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "7b02fbddf4d9f2c6"
+    },
+    "id": "2068132750901887439",
+    "in_reply_to_user_id": "2024518793679294464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068122937308426676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClaudeDevs 又重置，这假又要开始赶工了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [7b02fbddf4d9f2c6].",
+      "parameter": "geo.place_id",
+      "resource_id": "7b02fbddf4d9f2c6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "7b02fbddf4d9f2c6"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068122937308426676",
+        "created_at": "2026-06-20T00:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068132750901887439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024518793679294464",
+              "start": 0,
+              "username": "ClaudeDevs"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7b02fbddf4d9f2c6"
+        },
+        "id": "2068132750901887439",
+        "in_reply_to_user_id": "2024518793679294464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068122937308426676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClaudeDevs 又重置，这假又要开始赶工了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024518793679294464",
+        "conversation_id": "2068122937308426676",
+        "created_at": "2026-06-20T00:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068122937308426676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ClaudeDevs/sta…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/ClaudeDevs/status/2067802163498352929",
+              "start": 118,
+              "url": "https://t.co/947qJVyF04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068122937308426676",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 107802,
+          "like_count": 2106,
+          "quote_count": 144,
+          "reply_count": 283,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067802163498352929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Update: we've gone ahead and reset 5-hour and weekly usage limits for everyone, across all plans. Enjoy your weekend! https://t.co/947qJVyF04"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38054,
+          "following_count": 655,
+          "like_count": 17898,
+          "listed_count": 178,
+          "media_count": 2184,
+          "tweet_count": 14840
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T16:19:46.000Z",
+        "description": "Official updates for developers building with @ClaudeAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "ClaudeAI"
+              }
+            ]
+          }
+        },
+        "id": "2024518793679294464",
+        "name": "ClaudeDevs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520562,
+          "following_count": 2,
+          "like_count": 42,
+          "listed_count": 2397,
+          "media_count": 64,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "ClaudeDevs",
+        "verified": true
+      }
+    ]
+  }
+}

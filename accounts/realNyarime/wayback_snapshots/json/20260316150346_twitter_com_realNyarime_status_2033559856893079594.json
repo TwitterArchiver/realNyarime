@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2033515612337848680",
+    "created_at": "2026-03-16T15:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033559856893079594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "529069413",
+          "start": 0,
+          "username": "imyouhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033559856893079594",
+    "in_reply_to_user_id": "529069413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033515612337848680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyouhu 奶昔：我家的梯子用不得"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2033515425888452608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDh_gX1bwAAyAmM.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2033515612337848680",
+        "created_at": "2026-03-16T15:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033559856893079594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "529069413",
+              "start": 0,
+              "username": "imyouhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033559856893079594",
+        "in_reply_to_user_id": "529069413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033515612337848680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyouhu 奶昔：我家的梯子用不得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033515425888452608"
+          ]
+        },
+        "author_id": "529069413",
+        "conversation_id": "2033515612337848680",
+        "created_at": "2026-03-16T12:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033515612337848680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lL1oPqHgqP",
+              "end": 186,
+              "expanded_url": "https://x.com/imyouhu/status/2033515612337848680/photo/1",
+              "media_key": "3_2033515425888452608",
+              "start": 163,
+              "url": "https://t.co/lL1oPqHgqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033515612337848680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近看到很多人在发 Claude 被封号，我也贡献一个样本。\n\n最开始：\n虚拟 U 卡 + 🪜（奶昔） → 连续被封 3 个号。\n后来换成：\n苹果支付订阅 Pro → 稳定用了大概 6 个月。\n结果某天在 OpenCode 登录用了一下，当天直接 GG。\n\n之后重新开了个美区 Apple ID，用美区 paypal 支付。\n🪜还是奶昔，不过专门写了规则：Claude 相关流量固定走同一个节点。\n从上周用到现在还没被封。\n\n目前我的结论：\n账号、支付方式、IP 稳定性可能都在风控里，但是支付方式应该是最大的问题，另外如果你用礼品卡支付从应用商店支付了，你要是用目前的中转，也会触发并发的风控。\n\n先继续观察，看看这个号能活多久。目前是开了一个 max20，只不过多了 50$保护费。\n\n20x 感觉用不完，下月降级 5x 了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1929,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近看到很多人在发 Claude 被封号，我也贡献一个样本。\n\n最开始：\n虚拟 U 卡 + 🪜（奶昔） → 连续被封 3 个号。\n后来换成：\n苹果支付订阅 Pro → 稳定用了大概 6 个月。\n结果某天在 OpenCode 登录用了一下，当天直接 GG。\n\n之后重新开了个美区 Apple ID，用美区 paypal 支付。 https://t.co/lL1oPqHgqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22125,
+          "following_count": 519,
+          "like_count": 10975,
+          "listed_count": 94,
+          "media_count": 1151,
+          "tweet_count": 8443
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-19T03:34:15.000Z",
+        "description": "✦Views expressed are my own \n✦Ex-Operations Manager at a developer community \n✦Passionately Curious\n✦Passionate about AI, Tech, Finance, and Society",
+        "id": "529069413",
+        "location": "Hong Kong",
+        "name": "CatFly",
+        "pinned_tweet_id": "1958749335040197099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1043851872078110721/9-3A3Jy5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 678,
+          "like_count": 1542,
+          "listed_count": 32,
+          "media_count": 241,
+          "tweet_count": 2664
+        },
+        "username": "imyouhu",
+        "verified": true
+      }
+    ]
+  }
+}

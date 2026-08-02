@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017456081933672448",
+        "3_2017456100036251649",
+        "3_2017456124728061952"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2017309021280342064",
+    "created_at": "2026-01-31T04:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T05:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017456139328184742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1771107677697122304",
+          "start": 0,
+          "username": "chengwei412384"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n0FxfxbwEL",
+          "end": 123,
+          "expanded_url": "https://x.com/realNyarime/status/2017456139328184742/photo/1",
+          "media_key": "3_2017456081933672448",
+          "start": 100,
+          "url": "https://t.co/n0FxfxbwEL"
+        },
+        {
+          "display_url": "pic.x.com/n0FxfxbwEL",
+          "end": 123,
+          "expanded_url": "https://x.com/realNyarime/status/2017456139328184742/photo/1",
+          "media_key": "3_2017456100036251649",
+          "start": 100,
+          "url": "https://t.co/n0FxfxbwEL"
+        },
+        {
+          "display_url": "pic.x.com/n0FxfxbwEL",
+          "end": 123,
+          "expanded_url": "https://x.com/realNyarime/status/2017456139328184742/photo/1",
+          "media_key": "3_2017456124728061952",
+          "start": 100,
+          "url": "https://t.co/n0FxfxbwEL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017456139328184742",
+    "in_reply_to_user_id": "1771107677697122304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "对于LINUX DO加盲水印，GreasyFork上已经有移除水印、自定义文字的油猴脚本。\n按站长Neo的说法，接下来可能会增加其他水印方法，因此上述脚本可能会失效。 \n看到信徒们在为屎黄Neo添加盲水印一事做辩解，「别的平台加水印我直接骂，因为是L站所以要先思考。虽然加盲水印会令人不适，但大方向和目的没问题」。\n\n技术论坛难道也要跟国内一样搞站队？玩立场？那跟传销组织没啥区别了。引用奶友的一句话，“说白了交钱才能打广告、交钱就能有头衔、再把骗来的钱分一部分给站长Neo（屎黄）继续循环。” 至于搬运，只能搬别人的，不能搬自己的。看来是CSDN后继有人，那么红的论坛竟然不备案（搞笑🤣"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017335797276676223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengwei412384 对于LINUX DO加盲水印，GreasyFork上已经有移除水印、自定义文字的油猴脚本。\n按站长Neo的说法，接下来可能会增加其他水印方法，因此上述脚本可能会失效。 https://t.co/n0FxfxbwEL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2017456081933672448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9xnhmboAAf0Ur.jpg",
+        "width": 1041
+      },
+      {
+        "height": 417,
+        "media_key": "3_2017456100036251649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9xolCbEAE7lh8.png",
+        "width": 539
+      },
+      {
+        "height": 573,
+        "media_key": "3_2017456124728061952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9xqBBaMAAEKhT.png",
+        "width": 539
+      },
+      {
+        "height": 1648,
+        "media_key": "3_2017335784362414081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_8ENSObEAEidxI.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017456081933672448",
+            "3_2017456100036251649",
+            "3_2017456124728061952"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2017309021280342064",
+        "created_at": "2026-01-31T04:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017456139328184742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1771107677697122304",
+              "start": 0,
+              "username": "chengwei412384"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0FxfxbwEL",
+              "end": 123,
+              "expanded_url": "https://x.com/realNyarime/status/2017456139328184742/photo/1",
+              "media_key": "3_2017456081933672448",
+              "start": 100,
+              "url": "https://t.co/n0FxfxbwEL"
+            },
+            {
+              "display_url": "pic.x.com/n0FxfxbwEL",
+              "end": 123,
+              "expanded_url": "https://x.com/realNyarime/status/2017456139328184742/photo/1",
+              "media_key": "3_2017456100036251649",
+              "start": 100,
+              "url": "https://t.co/n0FxfxbwEL"
+            },
+            {
+              "display_url": "pic.x.com/n0FxfxbwEL",
+              "end": 123,
+              "expanded_url": "https://x.com/realNyarime/status/2017456139328184742/photo/1",
+              "media_key": "3_2017456124728061952",
+              "start": 100,
+              "url": "https://t.co/n0FxfxbwEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017456139328184742",
+        "in_reply_to_user_id": "1771107677697122304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "对于LINUX DO加盲水印，GreasyFork上已经有移除水印、自定义文字的油猴脚本。\n按站长Neo的说法，接下来可能会增加其他水印方法，因此上述脚本可能会失效。 \n看到信徒们在为屎黄Neo添加盲水印一事做辩解，「别的平台加水印我直接骂，因为是L站所以要先思考。虽然加盲水印会令人不适，但大方向和目的没问题」。\n\n技术论坛难道也要跟国内一样搞站队？玩立场？那跟传销组织没啥区别了。引用奶友的一句话，“说白了交钱才能打广告、交钱就能有头衔、再把骗来的钱分一部分给站长Neo（屎黄）继续循环。” 至于搬运，只能搬别人的，不能搬自己的。看来是CSDN后继有人，那么红的论坛竟然不备案（搞笑🤣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017335797276676223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengwei412384 对于LINUX DO加盲水印，GreasyFork上已经有移除水印、自定义文字的油猴脚本。\n按站长Neo的说法，接下来可能会增加其他水印方法，因此上述脚本可能会失效。 https://t.co/n0FxfxbwEL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017335784362414081"
+          ]
+        },
+        "author_id": "1771107677697122304",
+        "conversation_id": "2017309021280342064",
+        "created_at": "2026-01-30T20:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T21:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017335797276676223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhlaGhVm2u",
+              "end": 158,
+              "expanded_url": "https://x.com/chengwei412384/status/2017335797276676223/photo/1",
+              "media_key": "3_2017335784362414081",
+              "start": 135,
+              "url": "https://t.co/UhlaGhVm2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017335797276676223",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3377,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017309021280342064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 这个论坛，从他那个逆天50字申请要求，必须重复好几次写就能看出来这个站长脑子有多逆天，整个论坛风气也是跪舔，一股牢中封建恶臭味，就差当站长当奴才了，秘密团体小站搞得跟人上人一样，有点搞笑，真有ai需求的上nodeseek交易就行，来这里纯吃史 https://t.co/UhlaGhVm2u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12474,
+          "following_count": 580,
+          "like_count": 9880,
+          "listed_count": 47,
+          "media_count": 836,
+          "tweet_count": 6974
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-22T09:32:45.000Z",
+        "description": "一个写机器人规划算法的废物",
+        "id": "1771107677697122304",
+        "name": "xx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017339682020032512/_8UgKDe2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 181,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "chengwei412384",
+        "verified": false
+      }
+    ]
+  }
+}

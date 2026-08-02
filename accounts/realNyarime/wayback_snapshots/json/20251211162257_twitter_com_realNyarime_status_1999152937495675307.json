@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999152929337688064",
+        "3_1999152929329319936"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168892502176194560",
+          "name": "NTT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1999152937495675307",
+    "created_at": "2025-12-11T16:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999152937495675307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hi0fassKZK",
+          "end": 120,
+          "expanded_url": "https://x.com/realNyarime/status/1999152937495675307/photo/1",
+          "media_key": "3_1999152929337688064",
+          "start": 97,
+          "url": "https://t.co/hi0fassKZK"
+        },
+        {
+          "display_url": "pic.x.com/hi0fassKZK",
+          "end": 120,
+          "expanded_url": "https://x.com/realNyarime/status/1999152937495675307/photo/1",
+          "media_key": "3_1999152929329319936",
+          "start": 97,
+          "url": "https://t.co/hi0fassKZK"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/realNyarime/status/1999151552507126235",
+          "start": 121,
+          "url": "https://t.co/mLmfscMD0W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999152937495675307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999151552507126235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "红茶rtg和亿点bc eSIM都有邀请，使用朋友的邀请码都可以获得3刀赠金，邀请人部分rtg为4刀、bc为3刀，详细看附图。\n不过bc有点坑，因为新用户部分国家打7折，直接用邀请码会导致冲突😂 https://t.co/hi0fassKZK https://t.co/mLmfscMD0W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1306,
+        "media_key": "3_1999152929337688064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75q_0zawAAFF4C.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1659,
+        "media_key": "3_1999152929329319936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75q_0xbEAAISYb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999151544437211136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75pvNpagAA1J-w.jpg",
+        "width": 878
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999151544743428096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75pvOybAAASCkm.jpg",
+        "width": 878
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999151545355816960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75pvREbUAA2FHC.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999152929337688064",
+            "3_1999152929329319936"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168892502176194560",
+              "name": "NTT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1999152937495675307",
+        "created_at": "2025-12-11T16:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999152937495675307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hi0fassKZK",
+              "end": 120,
+              "expanded_url": "https://x.com/realNyarime/status/1999152937495675307/photo/1",
+              "media_key": "3_1999152929337688064",
+              "start": 97,
+              "url": "https://t.co/hi0fassKZK"
+            },
+            {
+              "display_url": "pic.x.com/hi0fassKZK",
+              "end": 120,
+              "expanded_url": "https://x.com/realNyarime/status/1999152937495675307/photo/1",
+              "media_key": "3_1999152929329319936",
+              "start": 97,
+              "url": "https://t.co/hi0fassKZK"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/realNyarime/status/1999151552507126235",
+              "start": 121,
+              "url": "https://t.co/mLmfscMD0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999152937495675307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999151552507126235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "红茶rtg和亿点bc eSIM都有邀请，使用朋友的邀请码都可以获得3刀赠金，邀请人部分rtg为4刀、bc为3刀，详细看附图。\n不过bc有点坑，因为新用户部分国家打7折，直接用邀请码会导致冲突😂 https://t.co/hi0fassKZK https://t.co/mLmfscMD0W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999151544437211136",
+            "3_1999151544743428096",
+            "3_1999151545355816960"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168892502176194560",
+              "name": "NTT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1999151552507126235",
+        "created_at": "2025-12-11T16:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999151552507126235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bepWnFiW6t",
+              "end": 198,
+              "expanded_url": "https://x.com/realNyarime/status/1999151552507126235/photo/1",
+              "media_key": "3_1999151544437211136",
+              "start": 175,
+              "url": "https://t.co/bepWnFiW6t"
+            },
+            {
+              "display_url": "pic.x.com/bepWnFiW6t",
+              "end": 198,
+              "expanded_url": "https://x.com/realNyarime/status/1999151552507126235/photo/1",
+              "media_key": "3_1999151544743428096",
+              "start": 175,
+              "url": "https://t.co/bepWnFiW6t"
+            },
+            {
+              "display_url": "pic.x.com/bepWnFiW6t",
+              "end": 198,
+              "expanded_url": "https://x.com/realNyarime/status/1999151552507126235/photo/1",
+              "media_key": "3_1999151545355816960",
+              "start": 175,
+              "url": "https://t.co/bepWnFiW6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999151552507126235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总结我用过的中国大陆的长期漫游eSIM有3家。以365天100GB为例，分别是红茶移动RedteaGO、亿点连接bc eSIM和eSIMcc。价格约为49刀。\nRedteaGO目前是3(HK)可漫游内地三大运营商，其他两家都是CMHK只能漫游中国移动。\n均支持5G NSA漫游，相关评测详见奶昔论坛，亿点日本为sb，红茶为ntt，都是日本原生IP。 https://t.co/bepWnFiW6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "http://naixi.net",
+                "start": 0,
+                "url": "https://t.co/TmYaZQkrKQ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1980325458756743246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748210295873536/pIkwHPVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 806,
+          "like_count": 8103,
+          "listed_count": 7,
+          "media_count": 487,
+          "tweet_count": 4422
+        },
+        "url": "https://t.co/TmYaZQkrKQ",
+        "username": "realNyarime",
+        "verified": false
+      }
+    ]
+  }
+}

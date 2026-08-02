@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046330710588637184",
+        "3_2046331091527913472"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10028889887",
+          "name": "Google Play"
+        }
+      }
+    ],
+    "conversation_id": "2046331353671856323",
+    "created_at": "2026-04-20T20:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T21:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046331353671856323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j3lfTh35dE",
+          "end": 196,
+          "expanded_url": "https://x.com/realNyarime/status/2046331353671856323/photo/1",
+          "media_key": "3_2046330710588637184",
+          "start": 173,
+          "url": "https://t.co/j3lfTh35dE"
+        },
+        {
+          "display_url": "pic.x.com/j3lfTh35dE",
+          "end": 196,
+          "expanded_url": "https://x.com/realNyarime/status/2046331353671856323/photo/1",
+          "media_key": "3_2046331091527913472",
+          "start": 173,
+          "url": "https://t.co/j3lfTh35dE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046331353671856323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "看到Frida还能0成本激活ChatGPT Plus蛮震惊的，如果是有Pro版的免费试用那就太好玩了\n\n本质上是Frida注入替换Google Play的优惠凭证，绕过Appdome反篡改检测，在试用期内完成订阅激活，全程不产生实际费用。\n支持档位：免费1个月/3天/首月10 • 免费 6 个月 / 1 年等（offerToken 自行适配）\n\n环境要求：\nAndroid x86_64 模拟器（root） + Frida 17.x + ADB\n有试用资格的 Google Play 账号\n\n使用只需两步，脚本是从linuxdo拿的， 大概方法：\n① frida -U -n ChatGPT -l hook_1m.js \n② ChatGPT 内点击订阅 → Google Play 确认\n所以近期有看到闲鱼上低价的GPT Plus会员要注意了，很有可能会导致经济损失，建议留个心眼"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到Frida还能0成本激活ChatGPT Plus蛮震惊的，如果是有Pro版的免费试用那就太好玩了\n\n本质上是Frida注入替换Google Play的优惠凭证，绕过Appdome反篡改检测，在试用期内完成订阅激活，全程不产生实际费用。\n支持档位：免费1个月/3天/首月10 • 免费 6 个月 / 1 年等（offerToken 自行适配） https://t.co/j3lfTh35dE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1135,
+        "media_key": "3_2046330710588637184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYG8HmbwAAONEj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 650,
+        "media_key": "3_2046331091527913472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYHSStb0AAfyWr.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046330710588637184",
+            "3_2046331091527913472"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2046331353671856323",
+        "created_at": "2026-04-20T20:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T21:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046331353671856323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3lfTh35dE",
+              "end": 196,
+              "expanded_url": "https://x.com/realNyarime/status/2046331353671856323/photo/1",
+              "media_key": "3_2046330710588637184",
+              "start": 173,
+              "url": "https://t.co/j3lfTh35dE"
+            },
+            {
+              "display_url": "pic.x.com/j3lfTh35dE",
+              "end": 196,
+              "expanded_url": "https://x.com/realNyarime/status/2046331353671856323/photo/1",
+              "media_key": "3_2046331091527913472",
+              "start": 173,
+              "url": "https://t.co/j3lfTh35dE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046331353671856323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看到Frida还能0成本激活ChatGPT Plus蛮震惊的，如果是有Pro版的免费试用那就太好玩了\n\n本质上是Frida注入替换Google Play的优惠凭证，绕过Appdome反篡改检测，在试用期内完成订阅激活，全程不产生实际费用。\n支持档位：免费1个月/3天/首月10 • 免费 6 个月 / 1 年等（offerToken 自行适配）\n\n环境要求：\nAndroid x86_64 模拟器（root） + Frida 17.x + ADB\n有试用资格的 Google Play 账号\n\n使用只需两步，脚本是从linuxdo拿的， 大概方法：\n① frida -U -n ChatGPT -l hook_1m.js \n② ChatGPT 内点击订阅 → Google Play 确认\n所以近期有看到闲鱼上低价的GPT Plus会员要注意了，很有可能会导致经济损失，建议留个心眼"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到Frida还能0成本激活ChatGPT Plus蛮震惊的，如果是有Pro版的免费试用那就太好玩了\n\n本质上是Frida注入替换Google Play的优惠凭证，绕过Appdome反篡改检测，在试用期内完成订阅激活，全程不产生实际费用。\n支持档位：免费1个月/3天/首月10 • 免费 6 个月 / 1 年等（offerToken 自行适配） https://t.co/j3lfTh35dE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29304,
+          "following_count": 533,
+          "like_count": 12550,
+          "listed_count": 135,
+          "media_count": 1501,
+          "tweet_count": 10169
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

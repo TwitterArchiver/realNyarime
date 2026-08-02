@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070517142370353237",
+    "created_at": "2026-06-27T07:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070765180917584117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422560510680043523",
+          "start": 0,
+          "username": "0xchal"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070765180917584117",
+    "in_reply_to_user_id": "1422560510680043523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070529549520273787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xchal 是直接啤酒给灌进去了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070517142370353237",
+        "created_at": "2026-06-27T07:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070765180917584117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422560510680043523",
+              "start": 0,
+              "username": "0xchal"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070765180917584117",
+        "in_reply_to_user_id": "1422560510680043523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070529549520273787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xchal 是直接啤酒给灌进去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422560510680043523",
+        "conversation_id": "2070517142370353237",
+        "created_at": "2026-06-26T15:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070529549520273787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070529549520273787",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070517142370353237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 我上次喝咖啡的时候，店员盖子没盖紧撒在了 mac 上 我还记得那杯叫海盐芝士拿铁 还好目前没什么事😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38560,
+          "following_count": 664,
+          "like_count": 18485,
+          "listed_count": 179,
+          "media_count": 2248,
+          "tweet_count": 15487
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T14:10:51.000Z",
+        "description": "#Binance 广场认证创作者/联盟KOL成员 Arbitrum 华语大使 | 推文内容仅代表个人思路，不构成投资建议 商务合作DM✉️ https://t.co/4k4SB2aH2K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/0xchal",
+                "end": 93,
+                "expanded_url": "https://linktr.ee/0xchal",
+                "start": 70,
+                "url": "https://t.co/4k4SB2aH2K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TheCharlieGard…",
+                "end": 23,
+                "expanded_url": "https://t.me/TheCharlieGarden",
+                "start": 0,
+                "url": "https://t.co/IXOHwnFOuA"
+              }
+            ]
+          }
+        },
+        "id": "1422560510680043523",
+        "location": "TG群👉",
+        "name": "Charlie",
+        "pinned_tweet_id": "2063441731086082518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938806762007678976/kr4xnXUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8666,
+          "following_count": 6626,
+          "like_count": 37417,
+          "listed_count": 27,
+          "media_count": 661,
+          "tweet_count": 24411
+        },
+        "url": "https://t.co/IXOHwnFOuA",
+        "username": "0xchal",
+        "verified": true
+      }
+    ]
+  }
+}

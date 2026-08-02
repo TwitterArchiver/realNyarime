@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033256948754464768"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2033256963111555127",
+    "created_at": "2026-03-15T19:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T20:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033256963111555127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Prepaid virtual Visa cards for AI agents. Fund a card in seconds, hand the number to any AI agent via MCP, and spend anywhere Visa is accepted.",
+          "display_url": "agentcard.sh",
+          "end": 44,
+          "expanded_url": "https://agentcard.sh/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2032910593162883074/fMYMEzdp?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2032910593162883074/fMYMEzdp?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "AgentCard — Prepaid Virtual Cards for AI Agents",
+          "unwound_url": "https://agentcard.sh/",
+          "url": "https://t.co/pnxSnQMOxw"
+        },
+        {
+          "display_url": "pic.x.com/1oupUNiNRR",
+          "end": 206,
+          "expanded_url": "https://x.com/realNyarime/status/2033256963111555127/photo/1",
+          "media_key": "3_2033256948754464768",
+          "start": 183,
+          "url": "https://t.co/1oupUNiNRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033256963111555127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "agentcard.sh",
+            "end": 44,
+            "expanded_url": "https://agentcard.sh/",
+            "start": 21,
+            "url": "https://t.co/YUBN5Uxyap"
+          },
+          {
+            "display_url": "stripe.com/legal/issuing/…",
+            "end": 631,
+            "expanded_url": "https://stripe.com/legal/issuing/celtic-authorized-user-terms",
+            "start": 608,
+            "url": "https://t.co/J9JL9u7UNK"
+          }
+        ]
+      },
+      "text": "给 AI Agent 用的限额虚拟卡？: https://t.co/YUBN5Uxyap\n\n这玩意不是传统的充值卡台，它的逻辑是：\n绑你自己的付款卡 → 命令行/AI开一张限额虚拟卡 → 丢给 AI 去付款(未实现的场景估计没有支付网关会允许)。支持 MCP，所有兼容 MCP 的 Agent 都可以直接调用。\n\n官网里的流程基本是：\n1. npm install -g agent-cards\n2. agent-cards signup\n3. agent-cards setup-mcp\n\n之后 Agent 就可以做这些事：\n• 创建卡\n• 查余额\n• 列卡列表\n• 取卡详情\n• 关闭卡\n\n实测了一下：\n• 最低开卡额度 1 USD\n• 首次开卡需要填\n姓名 / 生日 / 手机号\n• 需要绑定 payment method（Stripe）\n• 卡能成功开出来(开1刀的扣了1刀)，状态 OPEN\n• 可查卡详情、余额、交易记录，也可以关闭卡。\n• 敏感操作都有邮件提醒\n• 帮大家试了，能过GPT验卡\n\n其实就是：\n不给 AI 真实的卡，而是让AI调用MCP生成可控额度的虚拟卡。\n这样未来Agent就算乱用，最多也只会花你给它的那点额度 👀\n\n目前还是 beta(暂时也没啥应用场景)：\n• 0月费\n• 0开卡费\n\n首次开卡弹的条款是《Stripe Issuing cardholder terms》\n链接：https://t.co/J9JL9u7UNK\n\n来源：群友分享，电报频道eSIMhelp实操整理"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给 AI Agent 用的限额虚拟卡？: https://t.co/pnxSnQMOxw\n\n这玩意不是传统的充值卡台，它的逻辑是：\n绑你自己的付款卡 → 命令行/AI开一张限额虚拟卡 → 丢给 AI 去付款(未实现的场景估计没有支付网关会允许)。支持 MCP，所有兼容 MCP 的 Agent 都可以直接调用。\n\n官网里的流程基本是：\n1. npm install https://t.co/1oupUNiNRR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2033256948754464768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDeUbBeawAAorht.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033256948754464768"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2033256963111555127",
+        "created_at": "2026-03-15T19:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T20:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033256963111555127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Prepaid virtual Visa cards for AI agents. Fund a card in seconds, hand the number to any AI agent via MCP, and spend anywhere Visa is accepted.",
+              "display_url": "agentcard.sh",
+              "end": 44,
+              "expanded_url": "https://agentcard.sh/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2032910593162883074/fMYMEzdp?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2032910593162883074/fMYMEzdp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "AgentCard — Prepaid Virtual Cards for AI Agents",
+              "unwound_url": "https://agentcard.sh/",
+              "url": "https://t.co/pnxSnQMOxw"
+            },
+            {
+              "display_url": "pic.x.com/1oupUNiNRR",
+              "end": 206,
+              "expanded_url": "https://x.com/realNyarime/status/2033256963111555127/photo/1",
+              "media_key": "3_2033256948754464768",
+              "start": 183,
+              "url": "https://t.co/1oupUNiNRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033256963111555127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "agentcard.sh",
+                "end": 44,
+                "expanded_url": "https://agentcard.sh/",
+                "start": 21,
+                "url": "https://t.co/YUBN5Uxyap"
+              },
+              {
+                "display_url": "stripe.com/legal/issuing/…",
+                "end": 631,
+                "expanded_url": "https://stripe.com/legal/issuing/celtic-authorized-user-terms",
+                "start": 608,
+                "url": "https://t.co/J9JL9u7UNK"
+              }
+            ]
+          },
+          "text": "给 AI Agent 用的限额虚拟卡？: https://t.co/YUBN5Uxyap\n\n这玩意不是传统的充值卡台，它的逻辑是：\n绑你自己的付款卡 → 命令行/AI开一张限额虚拟卡 → 丢给 AI 去付款(未实现的场景估计没有支付网关会允许)。支持 MCP，所有兼容 MCP 的 Agent 都可以直接调用。\n\n官网里的流程基本是：\n1. npm install -g agent-cards\n2. agent-cards signup\n3. agent-cards setup-mcp\n\n之后 Agent 就可以做这些事：\n• 创建卡\n• 查余额\n• 列卡列表\n• 取卡详情\n• 关闭卡\n\n实测了一下：\n• 最低开卡额度 1 USD\n• 首次开卡需要填\n姓名 / 生日 / 手机号\n• 需要绑定 payment method（Stripe）\n• 卡能成功开出来(开1刀的扣了1刀)，状态 OPEN\n• 可查卡详情、余额、交易记录，也可以关闭卡。\n• 敏感操作都有邮件提醒\n• 帮大家试了，能过GPT验卡\n\n其实就是：\n不给 AI 真实的卡，而是让AI调用MCP生成可控额度的虚拟卡。\n这样未来Agent就算乱用，最多也只会花你给它的那点额度 👀\n\n目前还是 beta(暂时也没啥应用场景)：\n• 0月费\n• 0开卡费\n\n首次开卡弹的条款是《Stripe Issuing cardholder terms》\n链接：https://t.co/J9JL9u7UNK\n\n来源：群友分享，电报频道eSIMhelp实操整理"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给 AI Agent 用的限额虚拟卡？: https://t.co/pnxSnQMOxw\n\n这玩意不是传统的充值卡台，它的逻辑是：\n绑你自己的付款卡 → 命令行/AI开一张限额虚拟卡 → 丢给 AI 去付款(未实现的场景估计没有支付网关会允许)。支持 MCP，所有兼容 MCP 的 Agent 都可以直接调用。\n\n官网里的流程基本是：\n1. npm install https://t.co/1oupUNiNRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21941,
+          "following_count": 516,
+          "like_count": 10939,
+          "listed_count": 92,
+          "media_count": 1137,
+          "tweet_count": 8401
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

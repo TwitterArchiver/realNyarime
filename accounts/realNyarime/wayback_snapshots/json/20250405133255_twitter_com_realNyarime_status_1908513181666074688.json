@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1908513181666074688",
+    "created_at": "2025-04-05T13:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T14:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908513181666074688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karminski3/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/karminski3/status/1908006613820027274",
+          "start": 12,
+          "url": "https://t.co/oR8NNp6Mej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908513181666074688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908006613820027274",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让AI学会，一定很震撼 https://t.co/oR8NNp6Mej"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43351,
+        "height": 1080,
+        "media_key": "7_1907969082084962306",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907969082084962306/pu/img/QDUchqiwPThKl3Om.jpg",
+        "public_metrics": {
+          "view_count": 34720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907969082084962306/pu/vid/avc1/480x270/s47rCYSfeZRg0_P6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907969082084962306/pu/vid/avc1/640x360/b2GDUpl9kQyS7DiZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907969082084962306/pu/vid/avc1/1280x720/6qTDn6N8OWX67A6O.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907969082084962306/pu/pl/FRccekgdWvfoZ6qH.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1908513181666074688",
+        "created_at": "2025-04-05T13:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T14:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908513181666074688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karminski3/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/karminski3/status/1908006613820027274",
+              "start": 12,
+              "url": "https://t.co/oR8NNp6Mej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908513181666074688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908006613820027274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让AI学会，一定很震撼 https://t.co/oR8NNp6Mej"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907969082084962306"
+          ]
+        },
+        "author_id": "1071224721046261760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1908006613820027274",
+        "created_at": "2025-04-04T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908006613820027274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Javascript animation engine",
+              "display_url": "animejs.com",
+              "end": 90,
+              "expanded_url": "http://animejs.com",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1906767373354319872/z8slnYKX?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1906767373354319872/z8slnYKX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "anime.js",
+              "unwound_url": "https://animejs.com/",
+              "url": "https://t.co/Ki1SY5oxlp"
+            },
+            {
+              "display_url": "pic.x.com/ufvS0ce8Lh",
+              "end": 114,
+              "expanded_url": "https://x.com/karminski3/status/1908006613820027274/video/1",
+              "media_key": "7_1907969082084962306",
+              "start": 91,
+              "url": "https://t.co/ufvS0ce8Lh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908006613820027274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1030,
+          "impression_count": 96547,
+          "like_count": 1208,
+          "quote_count": 13,
+          "reply_count": 28,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "Anime.js 刚发了个大版本，官网demo是真的炫酷，没错，你在这个视频看到的全都是用anime.js 这个库实现的动画\n\n地址：https://t.co/Ki1SY5oxlp https://t.co/ufvS0ce8Lh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Misaka Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "realYingxi"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1767109982145905132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580046332437594112/p_ttVV6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 692,
+          "like_count": 7221,
+          "listed_count": 6,
+          "media_count": 431,
+          "tweet_count": 3613
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-08T02:07:30.000Z",
+        "description": "A coder, road bike rider, server fortune teller, electronic waste collector, co-founder of KCORES, ex-director at IllaSoft, KingsoftOffice, Juejin.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kcores.com",
+                "end": 23,
+                "expanded_url": "https://kcores.com",
+                "start": 0,
+                "url": "https://t.co/LWSjN208w4"
+              }
+            ]
+          }
+        },
+        "id": "1071224721046261760",
+        "location": "Asia/Beijing",
+        "name": "karminski-牙医",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1071225168360427520/2tY0hY6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14883,
+          "following_count": 1088,
+          "like_count": 1375,
+          "listed_count": 191,
+          "media_count": 794,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/LWSjN208w4",
+        "username": "karminski3",
+        "verified": true
+      }
+    ]
+  }
+}

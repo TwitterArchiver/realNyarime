@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081295014999764992"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026302013",
+          "name": "T-Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2081295022771884149",
+    "created_at": "2026-07-26T08:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081295022771884149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IJfVg1zy2K",
+          "end": 184,
+          "expanded_url": "https://x.com/realNyarime/status/2081295022771884149/photo/1",
+          "media_key": "3_2081295014999764992",
+          "start": 161,
+          "url": "https://t.co/IJfVg1zy2K"
+        },
+        {
+          "display_url": "x.com/sino_go_global…",
+          "end": 208,
+          "expanded_url": "https://twitter.com/sino_go_global/status/2080551019969470709",
+          "start": 185,
+          "url": "https://t.co/xiEtnfxHgW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081295022771884149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080551019969470709",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "红包卡（美国eSIM神卡）跌落神坛，今日RedPocket Mobile对所有老用户设定，通话10分钟、短信10条、流量10MB\n\n不过老用户的用量还没重置成新的，现在30刀/年恐跟Tello一样难开国际漫游权限，只能纯WiFicall了\n\n如果是这样，除了实体美国号码的特点，不如设置转接到Google Voice得了 https://t.co/IJfVg1zy2K https://t.co/xiEtnfxHgW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2290,
+        "media_key": "3_2081295014999764992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOI-yfnaMAANlNP.jpg",
+        "width": 2160
+      },
+      {
+        "height": 600,
+        "media_key": "3_2080550637901934593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-ZyC1bcAEsNAH.png",
+        "width": 790
+      },
+      {
+        "height": 609,
+        "media_key": "3_2080550637893570560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-ZyCzb0AA4fn-.png",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081295014999764992"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026302013",
+              "name": "T-Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2081295022771884149",
+        "created_at": "2026-07-26T08:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081295022771884149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJfVg1zy2K",
+              "end": 184,
+              "expanded_url": "https://x.com/realNyarime/status/2081295022771884149/photo/1",
+              "media_key": "3_2081295014999764992",
+              "start": 161,
+              "url": "https://t.co/IJfVg1zy2K"
+            },
+            {
+              "display_url": "x.com/sino_go_global…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/sino_go_global/status/2080551019969470709",
+              "start": 185,
+              "url": "https://t.co/xiEtnfxHgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081295022771884149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080551019969470709",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "红包卡（美国eSIM神卡）跌落神坛，今日RedPocket Mobile对所有老用户设定，通话10分钟、短信10条、流量10MB\n\n不过老用户的用量还没重置成新的，现在30刀/年恐跟Tello一样难开国际漫游权限，只能纯WiFicall了\n\n如果是这样，除了实体美国号码的特点，不如设置转接到Google Voice得了 https://t.co/IJfVg1zy2K https://t.co/xiEtnfxHgW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080550637901934593",
+            "3_2080550637893570560"
+          ]
+        },
+        "author_id": "420175982",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026302013",
+              "name": "T-Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2080551019969470709",
+        "created_at": "2026-07-24T07:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080551019969470709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvGP8fdb9L",
+              "end": 170,
+              "expanded_url": "https://x.com/sino_go_global/status/2080551019969470709/photo/1",
+              "media_key": "3_2080550637901934593",
+              "start": 147,
+              "url": "https://t.co/mvGP8fdb9L"
+            },
+            {
+              "display_url": "pic.x.com/mvGP8fdb9L",
+              "end": 170,
+              "expanded_url": "https://x.com/sino_go_global/status/2080551019969470709/photo/1",
+              "media_key": "3_2080550637893570560",
+              "start": 147,
+              "url": "https://t.co/mvGP8fdb9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080551019969470709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 431,
+                "start": 427,
+                "tag": "红包卡"
+              },
+              {
+                "end": 437,
+                "start": 432,
+                "tag": "eSIM"
+              },
+              {
+                "end": 448,
+                "start": 438,
+                "tag": "RedPocket"
+              },
+              {
+                "end": 455,
+                "start": 449,
+                "tag": "美国手机号"
+              }
+            ]
+          },
+          "text": "红包卡 eSIM 神卡套餐，成为历史了。\n\n30 刀/年 = 美国实体号 + eSIM + 每月 1G 漫游流量（纯正t mobile IP）。\n\n这个价格的服务放在任何一家美国运营商都是天花板级别的性价比，圈内公认的保号全能神卡。\n\n但昨天论坛爆出消息：新开已经不再附送 1G 漫游流量了。\n\n根据目前蹲到的反馈，神卡套餐大概率凉了。\n\n对老用户来说，原套餐应该还能继续用着。不过今天又看到论坛有人反馈，部分老用户的套餐也在被悄悄更新，有的功能被砍了。\n\n一个圈内经验：千万别去官网找客服理论。​\n\n这种小众福利之所以能活这么久，就是因为关注的人少。一旦大量用户去撕，运营商只会加速下架和收紧。去年 12 月这产品刚上线的时候，我就预感活不久，没想到撑了大半年...\n\n我是红包卡实体卡 3 年老用户，经历一路涨价，后面单独写一篇完整的使用感受，以及为什么红包卡依然值得开。\n\n关注我，海外银行账户、手机 eSIM 的干货和避坑信息第一时间更新 🤝\n\n#红包卡 #eSIM #RedPocket #美国手机号"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 7952,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "红包卡 eSIM 神卡套餐，成为历史了。\n\n30 刀/年 = 美国实体号 + eSIM + 每月 1G 漫游流量（纯正t mobile IP）。\n\n这个价格的服务放在任何一家美国运营商都是天花板级别的性价比，圈内公认的保号全能神卡。\n\n但昨天论坛爆出消息：新开已经不再附送 1G 漫游流量了。 https://t.co/mvGP8fdb9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41455,
+          "following_count": 670,
+          "like_count": 20198,
+          "listed_count": 184,
+          "media_count": 2464,
+          "tweet_count": 16982
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-24T08:44:51.000Z",
+        "description": "🌏 出海基建避坑博主| 银行卡爱好者(13年)\n🇭🇰 19家港卡 🇺🇸 美卡·美股 💳 U卡📱 eSIM+AI\n🔥 关注我，获取一手实操干货，少走弯路",
+        "id": "420175982",
+        "location": "HONGKONG",
+        "name": "浪险",
+        "pinned_tweet_id": "2066135815902892099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/718712613312401408/34aMMQ9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 543,
+          "like_count": 2275,
+          "listed_count": 15,
+          "media_count": 149,
+          "tweet_count": 1429
+        },
+        "url": "",
+        "username": "sino_go_global",
+        "verified": true
+      }
+    ]
+  }
+}

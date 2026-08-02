@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2048565053641957389",
+    "created_at": "2026-04-27T02:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048592537678664005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "786662054",
+          "start": 0,
+          "username": "aiqiang888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048592537678664005",
+    "in_reply_to_user_id": "786662054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048592131145805907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiqiang888 手机的VPN处理方式挺简单暴力的，就是一个tun0接口监听上游的Proxy，你可以理解成电脑版开了虚拟网卡的TUN/TAP模式\n所以当你已经用了一个VPN应用时，另一个VPN应用就没法用了，除非你把这个tun让给下一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2048565053641957389",
+        "created_at": "2026-04-27T02:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048592537678664005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "786662054",
+              "start": 0,
+              "username": "aiqiang888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048592537678664005",
+        "in_reply_to_user_id": "786662054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048592131145805907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiqiang888 手机的VPN处理方式挺简单暴力的，就是一个tun0接口监听上游的Proxy，你可以理解成电脑版开了虚拟网卡的TUN/TAP模式\n所以当你已经用了一个VPN应用时，另一个VPN应用就没法用了，除非你把这个tun让给下一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786662054",
+        "conversation_id": "2048565053641957389",
+        "created_at": "2026-04-27T02:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048592131145805907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048592131145805907",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048565053641957389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 这个我一直没太玩明白 尤其手机和本地vpn冲突"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2048250717077455188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30859,
+          "following_count": 570,
+          "like_count": 13007,
+          "listed_count": 150,
+          "media_count": 1575,
+          "tweet_count": 10609
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-28T09:58:29.000Z",
+        "description": "我是撸毛小白，我有两只小狗，一只叫多多，一只叫元宝。 \n商务合作       TG: kas_silver      #蓝鸟会 #灯塔",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "蓝鸟会"
+              },
+              {
+                "end": 67,
+                "start": 64,
+                "tag": "灯塔"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiqiang888.com",
+                "end": 23,
+                "expanded_url": "https://aiqiang888.com/",
+                "start": 0,
+                "url": "https://t.co/9s3yqxEtzG"
+              }
+            ]
+          }
+        },
+        "id": "786662054",
+        "location": "个人网站👉",
+        "name": "记得爱强",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973882737632391168/37cVOJSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10183,
+          "following_count": 3596,
+          "like_count": 15882,
+          "listed_count": 65,
+          "media_count": 598,
+          "tweet_count": 22177
+        },
+        "url": "https://t.co/9s3yqxEtzG",
+        "username": "aiqiang888",
+        "verified": true
+      }
+    ]
+  }
+}

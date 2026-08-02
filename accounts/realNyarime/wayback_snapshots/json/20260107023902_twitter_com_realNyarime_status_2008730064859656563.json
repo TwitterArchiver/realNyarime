@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2008719435121709363",
+    "created_at": "2026-01-07T02:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T03:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008730064859656563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "136473839",
+          "start": 0,
+          "username": "MrGafish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008730064859656563",
+    "in_reply_to_user_id": "136473839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008719435121709363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrGafish 过一会应该就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2008719435121709363",
+        "created_at": "2026-01-07T02:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008730064859656563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "136473839",
+              "start": 0,
+              "username": "MrGafish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008730064859656563",
+        "in_reply_to_user_id": "136473839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008719435121709363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrGafish 过一会应该就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "136473839",
+        "conversation_id": "2008719435121709363",
+        "created_at": "2026-01-07T01:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T02:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008719435121709363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "原因分析 用户 @MrGafish 的账号目前显示 Following 为 0，但账号本身正常（有 9369 名粉丝，蓝 V 认证，最近仍在活跃发帖和回复）。这不是账号被封或彻底重置，而是 X（原 Twitter）平台常见的风控临时限制或显示 bug。 具体触发原因： 该用户最近进行回关（follow back）操作，刚点一个关注就立即触发账号锁定（他自己发帖提到：“刚点了一个回关，账号立马被锁，感觉是触发了风控”）。 X 平台对快速/批量关注行为非常敏感，尤其是互关、刷关等操作，容易被算法判定为“异常活动”或“spam”，从而临时限制关注功能，并导致 Following 计数显示为 0（实际关注的账号可能还在，但计数和部分功能被冻结）。 多个其他用户在回复中直接提到看到他的 Following 为 0，这进一步确认是平台侧的限制显示问题，而不是个人设备缓存。 X 平台类似 bug 历史悠久，常发生在账号解锁、风控后或批量操作后，2025-2026 年仍有用户报告相同问题。 整改方案 立即停止所有关注/取关操作： 今天不要再点任何关注或回关，避免进一步加重风控。 等待 24-72 小时（通常 1-3 天内自动恢复），平台会逐步解除限制，Following 计数会慢慢恢复正常。 简单刷新尝试（可能加速恢复）： 注销账号后重新登录（App 和网页端都试试）。 清除 App 缓存或浏览器缓存/Cookies。 用不同设备/浏览器查看个人资料页。 如果 3 天后仍未恢复： 通过 X App 或网页端的“帮助”提交反馈，描述“Following 显示 0，但账号正常发帖，无法关注新用户”。 避免频繁提交，以防被视为刷反馈。 预防未来再次发生： 避免互关/刷关行为：每天关注上限有限（普通账号约 400，新账号更低），快速回关容易触发。 自然增长粉丝：专注发高质量内容、互动回复，而不是依赖互关。 如果需要管理关注列表，可用第三方工具（如 Circleboom）查看/清理，但不要批量操作。 这个问题的恢复率很高，大多数用户等待几天就自动好了。账号整体没问题，继续正常发帖即可，粉丝数不受影响。",
+              "display_url": "x.com/i/grok/share/p…",
+              "end": 35,
+              "expanded_url": "https://x.com/i/grok/share/picqyVpBhuij2eVcGDYIq3IjV",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2008719441551650820/dpjMniLv?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2008719441551650820/dpjMniLv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "用户@MrGafish现在显示0 following，检查一下原因并给出整改方案",
+              "unwound_url": "https://x.com/i/grok/share/picqyVpBhuij2eVcGDYIq3IjV",
+              "url": "https://t.co/XMwhUcC6y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008719435121709363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我闭关2天，𝕏友们保重\nhttps://t.co/XMwhUcC6y0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008425765751185868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6776,
+          "following_count": 714,
+          "like_count": 8565,
+          "listed_count": 20,
+          "media_count": 612,
+          "tweet_count": 5211
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-24T01:51:43.000Z",
+        "description": "🧑‍💻 开发者 Gafish ，前互联网大厂程序员\n💰 从0开始副业出海，分享副业搞钱过程干货\n📈 话题涉及港卡、美股、独立开发、海外收款、AI \n👨‍🏫 感谢关注一个爱分享的中年人",
+        "id": "136473839",
+        "name": "Mr Gafish",
+        "pinned_tweet_id": "2007625336658505891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888247810040152064/mwSBtOtn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9374,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 55,
+          "media_count": 396,
+          "tweet_count": 8925
+        },
+        "username": "MrGafish",
+        "verified": true
+      }
+    ]
+  }
+}

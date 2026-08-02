@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070432025295954286",
+    "created_at": "2026-06-26T10:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070447680925348310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "944703434992771072",
+          "start": 0,
+          "username": "Showy005"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070447680925348310",
+    "in_reply_to_user_id": "944703434992771072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070432025295954286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Showy005 我去 刚刚误触了 又点回去了😂"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21375,
+        "height": 1920,
+        "media_key": "13_2070431931322585088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070431931322585088/img/NVbTbFgtSC8A_P2m.jpg",
+        "public_metrics": {
+          "view_count": 236
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070431931322585088/vid/avc1/480x852/OVqKofdW4TVe0uHI.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070431931322585088/vid/avc1/320x568/Vwmp3EUwMyXkTtg7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070431931322585088/pl/K6yu5Zv5z57UgDUZ.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070431931322585088/vid/avc1/1080x1920/4TFuAUeZ9ufiNqQv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070431931322585088/vid/avc1/720x1280/mtwU2Cp6H2JkSfr-.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070432025295954286",
+        "created_at": "2026-06-26T10:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070447680925348310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "944703434992771072",
+              "start": 0,
+              "username": "Showy005"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070447680925348310",
+        "in_reply_to_user_id": "944703434992771072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070432025295954286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Showy005 我去 刚刚误触了 又点回去了😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070431931322585088"
+          ]
+        },
+        "author_id": "944703434992771072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2070432025295954286",
+        "created_at": "2026-06-26T09:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070432025295954286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vZGyHCpFm",
+              "end": 94,
+              "expanded_url": "https://x.com/Showy005/status/2070432025295954286/video/1",
+              "media_key": "13_2070431931322585088",
+              "start": 71,
+              "url": "https://t.co/5vZGyHCpFm"
+            },
+            {
+              "display_url": "x.com/conso_zh/statu…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/conso_zh/status/2054080070374109499",
+              "start": 95,
+              "url": "https://t.co/QQhioY7uyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070432025295954286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1211,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054080070374109499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看我发现了什么！卧槽！\n\n原来 X 有一个快捷按键，不小心触碰就会屏蔽别人！！！\n\n多个显示器之间切换输入应该会很容易就不小心屏蔽别人吧… https://t.co/5vZGyHCpFm https://t.co/QQhioY7uyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38484,
+          "following_count": 663,
+          "like_count": 18445,
+          "listed_count": 179,
+          "media_count": 2242,
+          "tweet_count": 15448
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-23T22:57:05.000Z",
+        "description": "@Conso_tg Co-founder & COO，TON增长实验室发起人，曾操盘百万社群 & 千万用户级Web3项目，交易用 @OKX @Bitget",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Conso_tg"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "username": "OKX"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "Bitget"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/George.ton",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/George.ton",
+                "start": 0,
+                "url": "https://t.co/oXfKUYk70K"
+              }
+            ]
+          }
+        },
+        "id": "944703434992771072",
+        "location": "粉丝群👉",
+        "name": "George.TON",
+        "pinned_tweet_id": "2036604889481326807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024846651345829888/B3UBKiNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22508,
+          "following_count": 3278,
+          "like_count": 27104,
+          "listed_count": 107,
+          "media_count": 1326,
+          "tweet_count": 21998
+        },
+        "url": "https://t.co/oXfKUYk70K",
+        "username": "Showy005",
+        "verified": true
+      }
+    ]
+  }
+}

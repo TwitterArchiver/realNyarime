@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2054407640198041720",
+    "created_at": "2026-05-13T10:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054508035973021813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1558317849508122629",
+          "start": 0,
+          "username": "CuiMao"
+        },
+        {
+          "end": 19,
+          "id": "1879644163769335808",
+          "start": 8,
+          "username": "WhiteHouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054508035973021813",
+    "in_reply_to_user_id": "1558317849508122629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054407640198041720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiMao @WhiteHouse 还是萃猫会搞流量哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11586,
+        "height": 630,
+        "media_key": "13_2054407288224616448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054407288224616448/img/JvmAGtUrJHy6uIy1.jpg",
+        "public_metrics": {
+          "view_count": 231579
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054407288224616448/vid/avc1/630x270/mNazOpt6CmT4hgZX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054407288224616448/vid/avc1/840x360/CSKz2IglIbnLNX1f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054407288224616448/vid/avc1/1470x630/xBWVMB5XyL2GTRWd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054407288224616448/pl/7gOwN5n4n6p_tqPG.m3u8?v=cfc"
+          }
+        ],
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2054407640198041720",
+        "created_at": "2026-05-13T10:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054508035973021813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1558317849508122629",
+              "start": 0,
+              "username": "CuiMao"
+            },
+            {
+              "end": 19,
+              "id": "1879644163769335808",
+              "start": 8,
+              "username": "WhiteHouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054508035973021813",
+        "in_reply_to_user_id": "1558317849508122629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054407640198041720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiMao @WhiteHouse 还是萃猫会搞流量哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054407288224616448"
+          ]
+        },
+        "author_id": "1558317849508122629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2054407640198041720",
+        "created_at": "2026-05-13T03:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054407640198041720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1879644163769335808",
+              "start": 26,
+              "username": "WhiteHouse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wVuGEkc8Nz",
+              "end": 61,
+              "expanded_url": "https://x.com/CuiMao/status/2054407640198041720/video/1",
+              "media_key": "13_2054407288224616448",
+              "start": 38,
+              "url": "https://t.co/wVuGEkc8Nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054407640198041720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 286860,
+          "like_count": 1684,
+          "quote_count": 48,
+          "reply_count": 286,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "应广大网友邀请，出门前临时做了个我干爹上空军一号。 @WhiteHouse https://t.co/wVuGEkc8Nz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32847,
+          "following_count": 611,
+          "like_count": 14008,
+          "listed_count": 150,
+          "media_count": 1748,
+          "tweet_count": 11416
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI Developer   |   NVIDIA YES \n深度学习   |  不接广告\nGithub   https://t.co/CRpiUABJoL\nSuno  https://t.co/ySVC83Hl6P\n免费AI学习群  https://t.co/Ha8LFayYSN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Cuimao777",
+                "end": 78,
+                "expanded_url": "https://github.com/Cuimao777",
+                "start": 55,
+                "url": "https://t.co/CRpiUABJoL"
+              },
+              {
+                "display_url": "suno.com/@cuimao",
+                "end": 108,
+                "expanded_url": "https://suno.com/@cuimao",
+                "start": 85,
+                "url": "https://t.co/ySVC83Hl6P"
+              },
+              {
+                "display_url": "t.me/+sol4udt0WPw5M…",
+                "end": 141,
+                "expanded_url": "https://t.me/+sol4udt0WPw5MWE1",
+                "start": 118,
+                "url": "https://t.co/Ha8LFayYSN"
+              }
+            ]
+          }
+        },
+        "id": "1558317849508122629",
+        "location": "Los Angeles, CA",
+        "name": "CuiMao",
+        "pinned_tweet_id": "2051924735907504431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038094847899533312/Qm9uRPeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56540,
+          "following_count": 1252,
+          "like_count": 10360,
+          "listed_count": 316,
+          "media_count": 1598,
+          "tweet_count": 15010
+        },
+        "username": "CuiMao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u1FRp"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "location": "Washington, DC",
+        "name": "The White House",
+        "pinned_tweet_id": "2013730570065359248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4603243,
+          "following_count": 6,
+          "like_count": 263,
+          "listed_count": 8650,
+          "media_count": 5444,
+          "tweet_count": 14934
+        },
+        "url": "https://t.co/0BqS4u1FRp",
+        "username": "WhiteHouse",
+        "verified": true
+      }
+    ]
+  }
+}

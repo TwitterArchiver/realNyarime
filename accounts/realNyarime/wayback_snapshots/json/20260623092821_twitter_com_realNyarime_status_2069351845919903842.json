@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Destinations",
+          "id": "857603051657482241",
+          "name": "Destinations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1194367046898733056",
+          "name": "Asia Pacific travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308801514140360705",
+          "name": "Taiwan travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+          "id": "163",
+          "name": "Travel"
+        },
+        "entity": {
+          "id": "1308801514140360705",
+          "name": "Taiwan travel"
+        }
+      }
+    ],
+    "conversation_id": "2069337618958180640",
+    "created_at": "2026-06-23T09:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069351845919903842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "846062688090243072",
+          "start": 0,
+          "username": "tutulifestyle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069351845919903842",
+    "in_reply_to_user_id": "846062688090243072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069337618958180640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutulifestyle 我是trip买的joytel，反而是中华电信，台湾的IP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069337611643281408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfDmA5aYAA6KoO.jpg",
+        "width": 999
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069337611605540864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfDmAwagAAwwFv.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194367046898733056",
+              "name": "Asia Pacific travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308801514140360705",
+              "name": "Taiwan travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1308801514140360705",
+              "name": "Taiwan travel"
+            }
+          }
+        ],
+        "conversation_id": "2069337618958180640",
+        "created_at": "2026-06-23T09:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069351845919903842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "846062688090243072",
+              "start": 0,
+              "username": "tutulifestyle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069351845919903842",
+        "in_reply_to_user_id": "846062688090243072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069337618958180640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutulifestyle 我是trip买的joytel，反而是中华电信，台湾的IP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069337611643281408",
+            "3_2069337611605540864"
+          ]
+        },
+        "author_id": "846062688090243072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2069337618958180640",
+        "created_at": "2026-06-23T08:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069337618958180640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 122,
+              "tag": "台北旅行见闻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJSIGjAmRB",
+              "end": 153,
+              "expanded_url": "https://x.com/tutulifestyle/status/2069337618958180640/photo/1",
+              "media_key": "3_2069337611643281408",
+              "start": 130,
+              "url": "https://t.co/cJSIGjAmRB"
+            },
+            {
+              "display_url": "pic.x.com/cJSIGjAmRB",
+              "end": 153,
+              "expanded_url": "https://x.com/tutulifestyle/status/2069337618958180640/photo/1",
+              "media_key": "3_2069337611605540864",
+              "start": 130,
+              "url": "https://t.co/cJSIGjAmRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069337618958180640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1897,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在klook上买的esim卡，落地激活，7天/1G每天/22元，7天/不限流量/69元（每日超15G限速）。激活后显示的运营商是Hutchison HK，需要开启漫游才能正常使用。访问ChatGPT、Claude ✅ 在机场测速的结果如图。  #台北旅行见闻 https://t.co/cJSIGjAmRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38238,
+          "following_count": 658,
+          "like_count": 18255,
+          "listed_count": 179,
+          "media_count": 2219,
+          "tweet_count": 15247
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-26T18:13:58.000Z",
+        "description": "1.YouTuber \"TuTu生活志/tutulifestyle\"  (2018.4 - )   2.户晨风数字档案馆(https://t.co/vMaixSKolO)创办人",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "huchenfeng404.com",
+                "end": 84,
+                "expanded_url": "https://huchenfeng404.com",
+                "start": 61,
+                "url": "https://t.co/vMaixSKolO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tutulifestyle.com",
+                "end": 23,
+                "expanded_url": "https://tutulifestyle.com",
+                "start": 0,
+                "url": "https://t.co/1WL5VjzVbX"
+              }
+            ]
+          }
+        },
+        "id": "846062688090243072",
+        "name": "TuTu生活志",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641781157644881921/xS9Is_9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26238,
+          "following_count": 668,
+          "like_count": 434,
+          "listed_count": 111,
+          "media_count": 936,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/1WL5VjzVbX",
+        "username": "tutulifestyle",
+        "verified": true
+      }
+    ]
+  }
+}

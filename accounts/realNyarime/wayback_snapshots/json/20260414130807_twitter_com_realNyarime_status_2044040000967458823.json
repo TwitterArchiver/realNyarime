@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2044040000967458823",
+    "created_at": "2026-04-14T13:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044040000967458823"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044040000967458823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "vpn2fa.hku.hk",
+            "end": 555,
+            "expanded_url": "http://vpn2fa.hku.hk",
+            "start": 532,
+            "url": "https://t.co/TKeqRseJUM"
+          },
+          {
+            "display_url": "github.com/Nyarime/NekoPa…",
+            "end": 895,
+            "expanded_url": "https://github.com/Nyarime/NekoPass-Lite",
+            "start": 872,
+            "url": "https://t.co/hwja9lPxC9"
+          }
+        ]
+      },
+      "text": "在折腾自己的协议时，我有认真参考 Xray-core 的 Reality 特性（它通常搭配 VLESS 协议使用，XTLS 则是更早的 TLS 扩展，现已被 Reality 取代）。NRTP v1.4.0 实现了 Zero-Byte Reality：将 16 字节（HMAC+timestamp）knock 直接藏进 ClientHello SessionID，真正零额外字节。  \n\nNRTP（TCP）和 NRUP（UDP）都是纯应用层协议，底层只用 Go 标准库的 TCP/UDP，没任何协议栈入侵。  NekoPass 是 NRTP+NRUP 的实现，目前提供单机PSK鉴权的Lite版（Master 集群功能还在开发中）。  \n\nuTLS 原生 ClientHelloSpec 没有 SessionID 字段，要实现 zero-byte 只能深度 fork uTLS，每次 Chrome 指纹更新都要 rebase，维护成本极高。  \n我没有引入 Xray 那种 anti-replay 缓存，而是用了 ±90 秒时间窗（3 分钟轮换），安全性略逊但实现极简。  \n\n在跨境 fake-tls 场景下，NRTP 会借 Reality 拿到目标 SNI（如 https://t.co/TKeqRseJUM）的真实证书，同时伪装成 Cisco AnyConnect；NRUP 则模拟 DTLS1.2（nDTLS），在 DPI 下呈现为 Cisco ASA。  \n中国这种 QoS+UDP 受限环境，NRUP 用 Reed-Solomon FEC 恢复丢包，无法建 nDTLS 通道时自动回退 NRTP，UDP 恢复后无缝切换。  \n\n额外做了 NRTP/NRUP Bridge，两协议可独立使用，也可合体。  \n甚至可以用 NRTP 走 ws+tls（wss）或 xhttp 挂 Cloudflare（15 年自签证书），再用 NRUP 负责 UDP，把不同协议彻底拆开。不过我没写过 TUN，这部分是 Vibe 的需要再试验并修复支持：\nhttps://t.co/hwja9lPxC9"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在折腾自己的协议时，我有认真参考 Xray-core 的 Reality 特性（它通常搭配 VLESS 协议使用，XTLS 则是更早的 TLS 扩展，现已被 Reality 取代）。NRTP v1.4.0 实现了 Zero-Byte Reality：将 16 字节（HMAC+timestamp）knock 直接藏进 ClientHello SessionID，真正零额外字节。  \n\nNRTP（TCP）和"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2044040000967458823",
+        "created_at": "2026-04-14T13:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044040000967458823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044040000967458823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "vpn2fa.hku.hk",
+                "end": 555,
+                "expanded_url": "http://vpn2fa.hku.hk",
+                "start": 532,
+                "url": "https://t.co/TKeqRseJUM"
+              },
+              {
+                "display_url": "github.com/Nyarime/NekoPa…",
+                "end": 895,
+                "expanded_url": "https://github.com/Nyarime/NekoPass-Lite",
+                "start": 872,
+                "url": "https://t.co/hwja9lPxC9"
+              }
+            ]
+          },
+          "text": "在折腾自己的协议时，我有认真参考 Xray-core 的 Reality 特性（它通常搭配 VLESS 协议使用，XTLS 则是更早的 TLS 扩展，现已被 Reality 取代）。NRTP v1.4.0 实现了 Zero-Byte Reality：将 16 字节（HMAC+timestamp）knock 直接藏进 ClientHello SessionID，真正零额外字节。  \n\nNRTP（TCP）和 NRUP（UDP）都是纯应用层协议，底层只用 Go 标准库的 TCP/UDP，没任何协议栈入侵。  NekoPass 是 NRTP+NRUP 的实现，目前提供单机PSK鉴权的Lite版（Master 集群功能还在开发中）。  \n\nuTLS 原生 ClientHelloSpec 没有 SessionID 字段，要实现 zero-byte 只能深度 fork uTLS，每次 Chrome 指纹更新都要 rebase，维护成本极高。  \n我没有引入 Xray 那种 anti-replay 缓存，而是用了 ±90 秒时间窗（3 分钟轮换），安全性略逊但实现极简。  \n\n在跨境 fake-tls 场景下，NRTP 会借 Reality 拿到目标 SNI（如 https://t.co/TKeqRseJUM）的真实证书，同时伪装成 Cisco AnyConnect；NRUP 则模拟 DTLS1.2（nDTLS），在 DPI 下呈现为 Cisco ASA。  \n中国这种 QoS+UDP 受限环境，NRUP 用 Reed-Solomon FEC 恢复丢包，无法建 nDTLS 通道时自动回退 NRTP，UDP 恢复后无缝切换。  \n\n额外做了 NRTP/NRUP Bridge，两协议可独立使用，也可合体。  \n甚至可以用 NRTP 走 ws+tls（wss）或 xhttp 挂 Cloudflare（15 年自签证书），再用 NRUP 负责 UDP，把不同协议彻底拆开。不过我没写过 TUN，这部分是 Vibe 的需要再试验并修复支持：\nhttps://t.co/hwja9lPxC9"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在折腾自己的协议时，我有认真参考 Xray-core 的 Reality 特性（它通常搭配 VLESS 协议使用，XTLS 则是更早的 TLS 扩展，现已被 Reality 取代）。NRTP v1.4.0 实现了 Zero-Byte Reality：将 16 字节（HMAC+timestamp）knock 直接藏进 ClientHello SessionID，真正零额外字节。  \n\nNRTP（TCP）和"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27906,
+          "following_count": 508,
+          "like_count": 12171,
+          "listed_count": 127,
+          "media_count": 1470,
+          "tweet_count": 9860
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

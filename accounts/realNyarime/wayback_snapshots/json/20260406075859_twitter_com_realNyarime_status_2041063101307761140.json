@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041059589416968192"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2041063101307761140",
+    "created_at": "2026-04-06T07:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T08:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041063101307761140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lHy2HpNCsu",
+          "end": 185,
+          "expanded_url": "https://x.com/realNyarime/status/2041063101307761140/photo/1",
+          "media_key": "3_2041059589416968192",
+          "start": 162,
+          "url": "https://t.co/lHy2HpNCsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041063101307761140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "一个好的方式不就是绕过GFW出境吗，即使IPLC IEPL专线不过墙，可奈何不住国内入口被通报。与其研究IP透传自挂东南枝，不如寻求点正规渠道，比如走国际漫游。有人担心GTP协议明文，那你没做坏事要隐私干嘛？\n\n当然这个问题也很好解决，Cloudflare WARP会挂吧，VPN会用吧？不放心就再套一层，就像Google Fi也有提供GCP节点的VPN保护数据传输安全，不过会多消耗流量。至于漫游是全局代理了，要解锁DMM就去VPNGate上找个日本家宽，配合OpenVPN连就完事了，还不要钱。\n\n那出不了国怎么办境外电话卡？现在eSIM技术那么普及了，直接买台外版iPhone或是整个eSTK实体卡（用NAIXI打9折）写入，不就解决了？这是给洋大人专门开的洞，就像你跑到香港开汇丰信用卡，在内地当外宾搞返现，难道当局不知道你这么干吗？要动真格，那国内的监狱都不够放人的。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个好的方式不就是绕过GFW出境吗，即使IPLC IEPL专线不过墙，可奈何不住国内入口被通报。与其研究IP透传自挂东南枝，不如寻求点正规渠道，比如走国际漫游。有人担心GTP协议明文，那你没做坏事要隐私干嘛？\n\n当然这个问题也很好解决，Cloudflare WARP会挂吧，VPN会用吧？不放心就再套一层，就像Google https://t.co/lHy2HpNCsu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_2041059589416968192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNM4fCaYAAfjGo.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041059589416968192"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2041063101307761140",
+        "created_at": "2026-04-06T07:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041063101307761140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lHy2HpNCsu",
+              "end": 185,
+              "expanded_url": "https://x.com/realNyarime/status/2041063101307761140/photo/1",
+              "media_key": "3_2041059589416968192",
+              "start": 162,
+              "url": "https://t.co/lHy2HpNCsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041063101307761140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个好的方式不就是绕过GFW出境吗，即使IPLC IEPL专线不过墙，可奈何不住国内入口被通报。与其研究IP透传自挂东南枝，不如寻求点正规渠道，比如走国际漫游。有人担心GTP协议明文，那你没做坏事要隐私干嘛？\n\n当然这个问题也很好解决，Cloudflare WARP会挂吧，VPN会用吧？不放心就再套一层，就像Google Fi也有提供GCP节点的VPN保护数据传输安全，不过会多消耗流量。至于漫游是全局代理了，要解锁DMM就去VPNGate上找个日本家宽，配合OpenVPN连就完事了，还不要钱。\n\n那出不了国怎么办境外电话卡？现在eSIM技术那么普及了，直接买台外版iPhone或是整个eSTK实体卡（用NAIXI打9折）写入，不就解决了？这是给洋大人专门开的洞，就像你跑到香港开汇丰信用卡，在内地当外宾搞返现，难道当局不知道你这么干吗？要动真格，那国内的监狱都不够放人的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个好的方式不就是绕过GFW出境吗，即使IPLC IEPL专线不过墙，可奈何不住国内入口被通报。与其研究IP透传自挂东南枝，不如寻求点正规渠道，比如走国际漫游。有人担心GTP协议明文，那你没做坏事要隐私干嘛？\n\n当然这个问题也很好解决，Cloudflare WARP会挂吧，VPN会用吧？不放心就再套一层，就像Google https://t.co/lHy2HpNCsu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26209,
+          "following_count": 499,
+          "like_count": 11785,
+          "listed_count": 121,
+          "media_count": 1396,
+          "tweet_count": 9405
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

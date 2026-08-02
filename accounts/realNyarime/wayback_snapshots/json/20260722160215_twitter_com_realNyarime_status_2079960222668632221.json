@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2079960222668632221",
+    "created_at": "2026-07-22T16:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079960222668632221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shiroijusu/sta…",
+          "end": 202,
+          "expanded_url": "https://twitter.com/shiroijusu/status/2079957689912709468",
+          "start": 179,
+          "url": "https://t.co/ovzwok6PQc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079960222668632221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079957689912709468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小米路由用的MiWiFi是基于OpenWrt的！\n这款小米路由器4Pro是高通单核MIPS处理器QCA9563方案，5Ghz用的是QCA9888需要单独做适配，在小米AIoT AC2350的基础上把A9984改成QCA9888\n可惜QCA9563并不支持硬件加速，只能通过软加速到300M 以上。如果是大学百兆网用那确实是够了，但千兆环境建议还是换了比较好 https://t.co/ovzwok6PQc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_2079957276090126336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1-H11XUAAjZZh.jpg",
+        "width": 1394
+      },
+      {
+        "height": 900,
+        "media_key": "3_2079957270566236160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1-HhQXcAAFsM7.jpg",
+        "width": 1346
+      },
+      {
+        "height": 611,
+        "media_key": "3_2079957288459153408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1-Ij6XsAAe4Hv.jpg",
+        "width": 915
+      },
+      {
+        "height": 903,
+        "media_key": "3_2079957307689934848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1-JrjWIAA9XIz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2079960222668632221",
+        "created_at": "2026-07-22T16:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079960222668632221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiroijusu/sta…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/shiroijusu/status/2079957689912709468",
+              "start": 179,
+              "url": "https://t.co/ovzwok6PQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079960222668632221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079957689912709468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小米路由用的MiWiFi是基于OpenWrt的！\n这款小米路由器4Pro是高通单核MIPS处理器QCA9563方案，5Ghz用的是QCA9888需要单独做适配，在小米AIoT AC2350的基础上把A9984改成QCA9888\n可惜QCA9563并不支持硬件加速，只能通过软加速到300M 以上。如果是大学百兆网用那确实是够了，但千兆环境建议还是换了比较好 https://t.co/ovzwok6PQc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079957276090126336",
+            "3_2079957270566236160",
+            "3_2079957288459153408",
+            "3_2079957307689934848"
+          ]
+        },
+        "author_id": "1592780654",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2079957689912709468",
+        "created_at": "2026-07-22T15:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079957689912709468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1165044876297134080",
+              "start": 7,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6D4gvZdEQP",
+              "end": 191,
+              "expanded_url": "https://x.com/shiroijusu/status/2079957689912709468/photo/1",
+              "media_key": "3_2079957276090126336",
+              "start": 168,
+              "url": "https://t.co/6D4gvZdEQP"
+            },
+            {
+              "display_url": "pic.x.com/6D4gvZdEQP",
+              "end": 191,
+              "expanded_url": "https://x.com/shiroijusu/status/2079957689912709468/photo/1",
+              "media_key": "3_2079957270566236160",
+              "start": 168,
+              "url": "https://t.co/6D4gvZdEQP"
+            },
+            {
+              "display_url": "pic.x.com/6D4gvZdEQP",
+              "end": 191,
+              "expanded_url": "https://x.com/shiroijusu/status/2079957689912709468/photo/1",
+              "media_key": "3_2079957288459153408",
+              "start": 168,
+              "url": "https://t.co/6D4gvZdEQP"
+            },
+            {
+              "display_url": "pic.x.com/6D4gvZdEQP",
+              "end": 191,
+              "expanded_url": "https://x.com/shiroijusu/status/2079957689912709468/photo/1",
+              "media_key": "3_2079957307689934848",
+              "start": 168,
+              "url": "https://t.co/6D4gvZdEQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079957689912709468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的非常感谢 @realNyarime 大佬愿意来拯救我！QAQ\n大佬重新编译了这台机器的系统，并且针对5GHz WiFi和其他问题做了很长时间的排查。最终，这台原本所有人都在告诉我“不可能”的路由器，终于完美的运行上了OpenWrt(&gt;ω&lt; )\n由于我的调试条件有限，还给大佬添了许多不必要的麻烦，感谢大佬的时间与耐心🥰 https://t.co/6D4gvZdEQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40580,
+          "following_count": 662,
+          "like_count": 19935,
+          "listed_count": 185,
+          "media_count": 2432,
+          "tweet_count": 16787
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-14T07:16:22.000Z",
+        "description": "是个(伪)技术宅 / 透明属性MAX / 喜欢动漫，热爱科技 / 虽然有点怕生但想要和各位成为好朋友(⁰▿⁰) / 欢迎DM！✉️ / 是个日常推主，但内容可能会很无聊(Ｔ▽Ｔ) / 想要努力变得更加优秀！ / 不讨论政治、不搞颜色 / 还请各位多多关照( ´ ▽ ` )ノ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shiroi_messeng…",
+                "end": 23,
+                "expanded_url": "http://t.me/shiroi_messengerbot",
+                "start": 0,
+                "url": "https://t.co/Fr8Hk6l7vR"
+              }
+            ]
+          }
+        },
+        "id": "1592780654",
+        "location": "People's Republic of China",
+        "name": "纯白果汁",
+        "pinned_tweet_id": "1770263246005477531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1394322398753685509/bu_JRED2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3213,
+          "following_count": 154,
+          "like_count": 27493,
+          "listed_count": 24,
+          "media_count": 3941,
+          "tweet_count": 14222
+        },
+        "url": "https://t.co/Fr8Hk6l7vR",
+        "username": "shiroijusu",
+        "verified": false
+      }
+    ]
+  }
+}

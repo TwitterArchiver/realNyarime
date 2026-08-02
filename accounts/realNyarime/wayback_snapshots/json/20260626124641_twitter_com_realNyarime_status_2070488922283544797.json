@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070466211356266806",
+    "created_at": "2026-06-26T12:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070488922283544797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1558317849508122629",
+          "start": 0,
+          "username": "CuiMao"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070488922283544797",
+    "in_reply_to_user_id": "1558317849508122629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070473012927926564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiMao 说明翠猫是大V 向您学习！"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070466211356266806",
+        "created_at": "2026-06-26T12:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070488922283544797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1558317849508122629",
+              "start": 0,
+              "username": "CuiMao"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070488922283544797",
+        "in_reply_to_user_id": "1558317849508122629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070473012927926564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiMao 说明翠猫是大V 向您学习！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558317849508122629",
+        "conversation_id": "2070466211356266806",
+        "created_at": "2026-06-26T11:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070473012927926564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070473012927926564",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 955,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070466211356266806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 我自从自封克劳德公主之后，墙里b站，抖音一旦有那个男人的新闻，就有一堆人at我🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38493,
+          "following_count": 665,
+          "like_count": 18464,
+          "listed_count": 179,
+          "media_count": 2245,
+          "tweet_count": 15469
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI Developer   |   NVIDIA YES",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+sol4udt0WPw5M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+sol4udt0WPw5MWE1",
+                "start": 0,
+                "url": "https://t.co/Ha8LFayYSN"
+              }
+            ]
+          }
+        },
+        "id": "1558317849508122629",
+        "location": "Los Angeles, CA",
+        "name": "CuiMao",
+        "pinned_tweet_id": "2068932428044062966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061048714337345536/9ZcoPvbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64902,
+          "following_count": 1418,
+          "like_count": 12193,
+          "listed_count": 366,
+          "media_count": 1768,
+          "tweet_count": 16922
+        },
+        "url": "https://t.co/Ha8LFayYSN",
+        "username": "CuiMao",
+        "verified": true
+      }
+    ]
+  }
+}

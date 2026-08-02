@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015261620046557184"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2014957549054001528",
+    "created_at": "2026-01-25T03:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T04:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015261717098594427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624073120108920834",
+          "start": 0,
+          "username": "veexincent"
+        },
+        {
+          "end": 22,
+          "id": "1960697619497287680",
+          "start": 12,
+          "username": "T20250827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ATDBpG1NvT",
+          "end": 139,
+          "expanded_url": "https://x.com/realNyarime/status/2015261717098594427/photo/1",
+          "media_key": "3_2015261620046557184",
+          "start": 116,
+          "url": "https://t.co/ATDBpG1NvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015261717098594427",
+    "in_reply_to_user_id": "1624073120108920834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015248911599067186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@veexincent @T20250827 得看有些地区吧，有的100有的150有的给300。这个确实很多地方的省公司规划不一样，还是得看ambr的dl和up\n你看我加了5g-a现在3g 实际也就800M的样子，就是优先级高了点 https://t.co/ATDBpG1NvT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 253,
+        "media_key": "3_2015261620046557184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_elxCBacAAUUN1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1704,
+        "media_key": "3_2015248740093964289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_eaDUdasAEZVMX.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015261620046557184"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2014957549054001528",
+        "created_at": "2026-01-25T03:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015261717098594427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624073120108920834",
+              "start": 0,
+              "username": "veexincent"
+            },
+            {
+              "end": 22,
+              "id": "1960697619497287680",
+              "start": 12,
+              "username": "T20250827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATDBpG1NvT",
+              "end": 139,
+              "expanded_url": "https://x.com/realNyarime/status/2015261717098594427/photo/1",
+              "media_key": "3_2015261620046557184",
+              "start": 116,
+              "url": "https://t.co/ATDBpG1NvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015261717098594427",
+        "in_reply_to_user_id": "1624073120108920834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015248911599067186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@veexincent @T20250827 得看有些地区吧，有的100有的150有的给300。这个确实很多地方的省公司规划不一样，还是得看ambr的dl和up\n你看我加了5g-a现在3g 实际也就800M的样子，就是优先级高了点 https://t.co/ATDBpG1NvT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015248740093964289"
+          ]
+        },
+        "author_id": "1624073120108920834",
+        "conversation_id": "2014957549054001528",
+        "created_at": "2026-01-25T02:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015248911599067186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1960697619497287680",
+              "start": 0,
+              "username": "T20250827"
+            },
+            {
+              "end": 23,
+              "id": "1165044876297134080",
+              "start": 11,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLKyASv4HX",
+              "end": 98,
+              "expanded_url": "https://x.com/veexincent/status/2015248911599067186/photo/1",
+              "media_key": "3_2015248740093964289",
+              "start": 75,
+              "url": "https://t.co/YLKyASv4HX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015248911599067186",
+        "in_reply_to_user_id": "1960697619497287680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015058199884558746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T20250827 @realNyarime 奶昔说一般给的是 100，其实不是在特别密集的使用场地也不至于太差，我今天又测试了一下🙃结果又大不同 https://t.co/YLKyASv4HX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10560,
+          "following_count": 587,
+          "like_count": 9755,
+          "listed_count": 36,
+          "media_count": 802,
+          "tweet_count": 6732
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-10T15:49:49.000Z",
+        "description": "AI & Web3 探索 |港产片忠实拥趸 | 低欲望生活分享｜",
+        "id": "1624073120108920834",
+        "name": "Silver🔆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955624017098096642/Pvw48cNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 1491,
+          "like_count": 2882,
+          "listed_count": 4,
+          "media_count": 718,
+          "tweet_count": 4711
+        },
+        "username": "veexincent",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-27T13:35:32.000Z",
+        "description": "是T",
+        "id": "1960697619497287680",
+        "name": "T",
+        "pinned_tweet_id": "2006752016014651464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960699058894348289/8u4mNckt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 157,
+          "like_count": 567,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 4844
+        },
+        "username": "T20250827",
+        "verified": true
+      }
+    ]
+  }
+}

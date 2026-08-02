@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2059291980203778080",
+    "created_at": "2026-05-27T03:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059472565186466145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "14383677",
+          "start": 0,
+          "username": "V2EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059472565186466145",
+    "in_reply_to_user_id": "14383677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059291980203778080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V2EX B站把AV号（纯数字）改成BV号就是这样，避免了把数据库里面对应的字符串ID直接暴露给用户"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2059291980203778080",
+        "created_at": "2026-05-27T03:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059472565186466145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "14383677",
+              "start": 0,
+              "username": "V2EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059472565186466145",
+        "in_reply_to_user_id": "14383677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059291980203778080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V2EX B站把AV号（纯数字）改成BV号就是这样，避免了把数据库里面对应的字符串ID直接暴露给用户"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14383677",
+        "conversation_id": "2059291980203778080",
+        "created_at": "2026-05-26T15:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059291980203778080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059291980203778080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 41933,
+          "like_count": 118,
+          "quote_count": 5,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "假设有恶意程序写一个简单的循环，持续访问不存在的 topic id ，那么每次 V2EX 接收到这样的请求，还需要从数据库里查了之后，才知道是无效的 topic id ，这个查询过程就会很浪费资源。\n\n所以程序中有这样的一种机制，如果 topic id 明显大于某个值，那么就不用查任何数据库资源，直接返回 404 。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35223,
+          "following_count": 650,
+          "like_count": 15655,
+          "listed_count": 155,
+          "media_count": 1925,
+          "tweet_count": 12815
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2008-04-14T10:51:18.000Z",
+        "description": "写代码是一件充满了想象力的事情。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "V2EX.com",
+                "end": 23,
+                "expanded_url": "https://www.V2EX.com",
+                "start": 0,
+                "url": "https://t.co/BKe4Phlmqq"
+              }
+            ]
+          }
+        },
+        "id": "14383677",
+        "location": "Web",
+        "name": "V2EX",
+        "pinned_tweet_id": "1910223551019221343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1333300440297926656/_bqdluyK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13567,
+          "following_count": 8,
+          "like_count": 21,
+          "listed_count": 101,
+          "media_count": 34,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/BKe4Phlmqq",
+        "username": "V2EX",
+        "verified": false
+      }
+    ]
+  }
+}

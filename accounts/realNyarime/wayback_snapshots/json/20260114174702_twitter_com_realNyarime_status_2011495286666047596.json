@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1235998170233991168",
+          "name": "Sneakers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846810837301932032",
+          "name": "Shoes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1235998170233991168",
+          "name": "Sneakers"
+        }
+      }
+    ],
+    "conversation_id": "2011444335842324656",
+    "created_at": "2026-01-14T17:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T18:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011495286666047596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1536345878281469953",
+          "start": 0,
+          "username": "_sakunaginono_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011495286666047596",
+    "in_reply_to_user_id": "1536345878281469953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011444335842324656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sakunaginono_ 黑いタイツにスニーカーの組み合わせは確かに蒸れにくいけど、寒いから私は80デニール、できれば110デニールくらいの厚さのほうが好きww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011444324316393473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-oV9LRasAEl_pz.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846810837301932032",
+              "name": "Shoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          }
+        ],
+        "conversation_id": "2011444335842324656",
+        "created_at": "2026-01-14T17:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T18:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011495286666047596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1536345878281469953",
+              "start": 0,
+              "username": "_sakunaginono_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011495286666047596",
+        "in_reply_to_user_id": "1536345878281469953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011444335842324656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sakunaginono_ 黑いタイツにスニーカーの組み合わせは確かに蒸れにくいけど、寒いから私は80デニール、できれば110デニールくらいの厚さのほうが好きww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011444324316393473"
+          ]
+        },
+        "author_id": "1536345878281469953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2011444335842324656",
+        "created_at": "2026-01-14T14:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011444335842324656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFeTnU87Cq",
+              "end": 68,
+              "expanded_url": "https://x.com/_sakunaginono_/status/2011444335842324656/photo/1",
+              "media_key": "3_2011444324316393473",
+              "start": 45,
+              "url": "https://t.co/nFeTnU87Cq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011444335842324656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1001,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "タイツの販売💡\n黒タイツ、40デニール。\nそれを履いて運動します。\nDMお待ちしてます😘 https://t.co/nFeTnU87Cq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008425765751185868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7990,
+          "following_count": 688,
+          "like_count": 8992,
+          "listed_count": 22,
+          "media_count": 709,
+          "tweet_count": 5849
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-13T13:53:09.000Z",
+        "description": "R18💡大人なアカウント♡※たまにえっちぃの流すよ。150cm位。のんびりと活動しています☀たまに配信。喘息持ち。DDR太陽++。個人ファンティア🌱(https://t.co/4rb1BIVHrE)売り子やその他お仕事、コラボは要相談💡DMのお返事は、お仕事以外はあまり返しません。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/474856",
+                "end": 98,
+                "expanded_url": "http://fantia.jp/fanclubs/474856",
+                "start": 75,
+                "url": "https://t.co/4rb1BIVHrE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/X1UJSLX5OL45?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/Kp157UMXSx"
+              }
+            ]
+          }
+        },
+        "id": "1536345878281469953",
+        "location": "ほしい物リスト",
+        "name": "朔凪のの",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932083128975380480/oLCataRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25435,
+          "following_count": 637,
+          "like_count": 44105,
+          "listed_count": 135,
+          "media_count": 1949,
+          "tweet_count": 21498
+        },
+        "url": "https://t.co/Kp157UMXSx",
+        "username": "_sakunaginono_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2023674627206328578",
+    "created_at": "2026-02-17T12:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023736657762201725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "735087459231358976",
+          "start": 0,
+          "username": "CitronaTeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023736657762201725",
+    "in_reply_to_user_id": "735087459231358976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023674627206328578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CitronaTeo 只能说一些OTA平台确实花活多，我还是觉得这种出票方式跟闲鱼找贩子拿积分换也没太大区别，就是个差价问题。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_2023674619455303680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWJWDGbcAArvhE.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2023674627206328578",
+        "created_at": "2026-02-17T12:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023736657762201725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "735087459231358976",
+              "start": 0,
+              "username": "CitronaTeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023736657762201725",
+        "in_reply_to_user_id": "735087459231358976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023674627206328578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CitronaTeo 只能说一些OTA平台确实花活多，我还是觉得这种出票方式跟闲鱼找贩子拿积分换也没太大区别，就是个差价问题。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023674619455303680"
+          ]
+        },
+        "author_id": "735087459231358976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144668673",
+              "name": "Airline - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Japan Airlines (JAL)",
+              "id": "1038084419695738883",
+              "name": "Japan Airlines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japan Airlines (JAL)",
+              "id": "1038084419695738883",
+              "name": "Japan Airlines"
+            }
+          }
+        ],
+        "conversation_id": "2023674627206328578",
+        "created_at": "2026-02-17T08:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023674627206328578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VN71WaaHc1",
+              "end": 106,
+              "expanded_url": "https://x.com/CitronaTeo/status/2023674627206328578/photo/1",
+              "media_key": "3_2023674619455303680",
+              "start": 83,
+              "url": "https://t.co/VN71WaaHc1"
+            },
+            {
+              "display_url": "x.com/hifrey/status/…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/hifrey/status/2023644145685041435",
+              "start": 107,
+              "url": "https://t.co/nQFYOJJJND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023674627206328578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2531,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023644145685041435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作為一個資深的旅遊達人，我可以負責任的說，買出國旅遊的機票，最有套路的平台就是去哪兒網，在去哪兒網買的日本航空機票，結果是用盜刷的國泰航空哩數在🇰🇭寮國出的獎勵客票 https://t.co/VN71WaaHc1 https://t.co/nQFYOJJJND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15007,
+          "following_count": 520,
+          "like_count": 10146,
+          "listed_count": 63,
+          "media_count": 919,
+          "tweet_count": 7367
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-24T12:38:02.000Z",
+        "description": "百合中毒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hee.ink",
+                "end": 23,
+                "expanded_url": "http://hee.ink",
+                "start": 0,
+                "url": "https://t.co/CUQWfxAmuN"
+              }
+            ]
+          }
+        },
+        "id": "735087459231358976",
+        "location": "澳門",
+        "name": "⁣凍檸茶走冰走檸走茶走甜唔該",
+        "pinned_tweet_id": "1919783155479019689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816950309064704/k3DhGroa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10901,
+          "following_count": 806,
+          "like_count": 80340,
+          "listed_count": 49,
+          "media_count": 2977,
+          "tweet_count": 19072
+        },
+        "url": "https://t.co/CUQWfxAmuN",
+        "username": "CitronaTeo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2071152081772453913",
+    "created_at": "2026-06-28T19:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071315900158947645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1691289874228469761",
+          "start": 0,
+          "username": "fishjlch"
+        },
+        {
+          "end": 21,
+          "id": "1672419552666460160",
+          "start": 10,
+          "username": "lixinbao_X"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2071315900158947645",
+    "in_reply_to_user_id": "1691289874228469761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071246012656881726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishjlch @lixinbao_X 玻璃心了哈哈哈哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2071152081772453913",
+        "created_at": "2026-06-28T19:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071315900158947645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1691289874228469761",
+              "start": 0,
+              "username": "fishjlch"
+            },
+            {
+              "end": 21,
+              "id": "1672419552666460160",
+              "start": 10,
+              "username": "lixinbao_X"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2071315900158947645",
+        "in_reply_to_user_id": "1691289874228469761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071246012656881726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishjlch @lixinbao_X 玻璃心了哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691289874228469761",
+        "conversation_id": "2071152081772453913",
+        "created_at": "2026-06-28T14:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071246012656881726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1672419552666460160",
+              "start": 0,
+              "username": "lixinbao_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071246012656881726",
+        "in_reply_to_user_id": "1672419552666460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071152081772453913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixinbao_X 我不需要翻墙啊 纯粹x是我的快乐源泉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38638,
+          "following_count": 664,
+          "like_count": 18543,
+          "listed_count": 181,
+          "media_count": 2258,
+          "tweet_count": 15538
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-15T03:25:18.000Z",
+        "description": "努力活着是一种勇气\n学心理学主要为了治疗我脑子别问了\n玩推纯属于爱看八卦",
+        "id": "1691289874228469761",
+        "location": "Kuala Lumpur",
+        "name": "Fish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039784644816855040/Si0OkMZg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 924,
+          "like_count": 13708,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1308
+        },
+        "url": "",
+        "username": "fishjlch",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-24T01:41:28.000Z",
+        "description": "原金融从业者，现在基本全职自媒体人，使用AI技术赋能，2025年5月份到现在粉丝从零涨到：微信视频号 40 万，抖音25 万，B站 2 万，小红书 6 万。百度1.5万，快手及其他加总还有 2 万左右。全网粉丝数破 75 万。 我会在这里分享我作品，及相关制作经验技巧和心得。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lixinbao-yout…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@lixinbao-youtube?si=74xxuShrCBBUxpJB",
+                "start": 0,
+                "url": "https://t.co/6QPZwPd33e"
+              }
+            ]
+          }
+        },
+        "id": "1672419552666460160",
+        "location": "Hong Kong",
+        "name": "李新宝",
+        "pinned_tweet_id": "2027318413526532433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823246478170836992/JMZpWqoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20753,
+          "following_count": 11116,
+          "like_count": 59477,
+          "listed_count": 56,
+          "media_count": 3730,
+          "tweet_count": 40825
+        },
+        "url": "https://t.co/6QPZwPd33e",
+        "username": "lixinbao_X",
+        "verified": true
+      }
+    ]
+  }
+}

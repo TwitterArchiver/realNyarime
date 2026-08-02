@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2066209374629220743",
+    "created_at": "2026-06-14T19:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066249158693171618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1711302205914112000",
+          "start": 0,
+          "username": "gloridust1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066249158693171618",
+    "in_reply_to_user_id": "1711302205914112000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066209374629220743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gloridust1024 华为终端很垃圾，但是华为其他东西做的还行，这是我的看法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2066209374629220743",
+        "created_at": "2026-06-14T19:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066249158693171618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711302205914112000",
+              "start": 0,
+              "username": "gloridust1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066249158693171618",
+        "in_reply_to_user_id": "1711302205914112000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066209374629220743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gloridust1024 华为终端很垃圾，但是华为其他东西做的还行，这是我的看法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711302205914112000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2066209374629220743",
+        "created_at": "2026-06-14T17:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066209374629220743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066209374629220743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近又经常刷到华为HarmonyOS独占应用Remy的视频，给我的感觉是整个HUAWEI团队的生态、态度、开发者的激情等都在向Apple靠拢，我其实很喜欢（8年前就是花粉，第一台手机荣耀30pro+）\n但是确实就是会因为一个人而对一个企业避而远之，那种恶心debuff远远超过HW团队的buff，天天招黑，怀疑是美帝派来的商业间谍😅"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近又经常刷到华为HarmonyOS独占应用Remy的视频，给我的感觉是整个HUAWEI团队的生态、态度、开发者的激情等都在向Apple靠拢，我其实很喜欢（8年前就是花粉，第一台手机荣耀30pro+）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37738,
+          "following_count": 656,
+          "like_count": 17467,
+          "listed_count": 174,
+          "media_count": 2150,
+          "tweet_count": 14469
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-09T08:47:07.000Z",
+        "description": "🛠️Dev/PM | Gen Z | 💭infp | ⚙️React, Flutter,Python | 🏠 AI Native Builder (Half)\n👆Developer of Tikmy | 油迹 Pro｜阅迹 Pro | 摇盒AI | Augur | 云微 WOC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isethan.me",
+                "end": 23,
+                "expanded_url": "http://isethan.me",
+                "start": 0,
+                "url": "https://t.co/9Ti47dNMZy"
+              }
+            ]
+          }
+        },
+        "id": "1711302205914112000",
+        "location": "Imagination ",
+        "name": "Ethan Zou",
+        "pinned_tweet_id": "2051602467968909322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711313988783640576/p-alaTy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 467,
+          "like_count": 1291,
+          "listed_count": 9,
+          "media_count": 145,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/9Ti47dNMZy",
+        "username": "gloridust1024",
+        "verified": true
+      }
+    ]
+  }
+}

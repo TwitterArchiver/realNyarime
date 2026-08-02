@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051652307050516480"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045347491",
+          "name": "Counter-Strike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045347491",
+          "name": "Counter-Strike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2049984448725467447",
+    "created_at": "2026-05-05T13:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051652317917929757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "353780675",
+          "start": 0,
+          "username": "CounterStrike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C5cZnaJaEl",
+          "end": 84,
+          "expanded_url": "https://x.com/realNyarime/status/2051652317917929757/photo/1",
+          "media_key": "3_2051652307050516480",
+          "start": 61,
+          "url": "https://t.co/C5cZnaJaEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051652317917929757",
+    "in_reply_to_user_id": "353780675",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049984448725467447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CounterStrike plz fix this translate problem：2026 年5月月 09 日 https://t.co/C5cZnaJaEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2051652307050516480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHju5zRbUAAHVj_.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051652307050516480"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2049984448725467447",
+        "created_at": "2026-05-05T13:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051652317917929757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "353780675",
+              "start": 0,
+              "username": "CounterStrike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5cZnaJaEl",
+              "end": 84,
+              "expanded_url": "https://x.com/realNyarime/status/2051652317917929757/photo/1",
+              "media_key": "3_2051652307050516480",
+              "start": 61,
+              "url": "https://t.co/C5cZnaJaEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051652317917929757",
+        "in_reply_to_user_id": "353780675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049984448725467447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CounterStrike plz fix this translate problem：2026 年5月月 09 日 https://t.co/C5cZnaJaEl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "353780675",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2049984448725467447",
+        "created_at": "2026-04-30T22:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049984448725467447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "[ MAPS ] Cache Map-wide clipping fixes and geometry polish. Fixed some spots where bomb would be unreachable when dropped. Fixed dynamic shadows breaking in some spots. Fixed some surface sound types. [ ANIMGRAPH 2 ] Fixed hand popping when counter-strafing with a grenade equipped. [ MISC ] Limit aim punch to 90 degrees. Added secondary intersection trace for partially-occluded thirdperson weapons.",
+              "display_url": "steamcommunity.com/games/CSGO/ann…",
+              "end": 55,
+              "expanded_url": "https://steamcommunity.com/games/CSGO/announcements/detail/702141174212723292",
+              "images": [
+                {
+                  "height": 353,
+                  "url": "https://pbs.twimg.com/news_img/2049984491167621120/z1RijHry?format=jpg&name=orig",
+                  "width": 616
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049984491167621120/z1RijHry?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "Steam :: Counter-Strike 2 :: Counter-Strike 2 Update",
+              "unwound_url": "https://steamcommunity.com/games/CSGO/announcements/detail/702141174212723292",
+              "url": "https://t.co/umA8xK7a8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049984448725467447",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 381325,
+          "like_count": 3820,
+          "quote_count": 20,
+          "reply_count": 318,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "Release Notes for today are up: https://t.co/umA8xK7a8T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32230,
+          "following_count": 594,
+          "like_count": 13622,
+          "listed_count": 154,
+          "media_count": 1673,
+          "tweet_count": 11106
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-12T16:37:01.000Z",
+        "description": "Your favorite first person shooter’s favorite first person shooter.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "counter-strike.net",
+                "end": 23,
+                "expanded_url": "https://www.counter-strike.net/",
+                "start": 0,
+                "url": "https://t.co/itvI2S9r7J"
+              }
+            ]
+          }
+        },
+        "id": "353780675",
+        "location": "Bellevue, WA",
+        "name": "CS2",
+        "pinned_tweet_id": "1936425399925313719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606750479836647425/1qsSFQOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288282,
+          "following_count": 392,
+          "like_count": 3003,
+          "listed_count": 3043,
+          "media_count": 535,
+          "tweet_count": 3325
+        },
+        "url": "https://t.co/itvI2S9r7J",
+        "username": "CounterStrike",
+        "verified": true
+      }
+    ]
+  }
+}

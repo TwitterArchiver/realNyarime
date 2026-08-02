@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Travel novelty",
+          "id": "842061030951809024",
+          "name": "Travel novelty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity includes conversations about any digital media related to traveling such as travel blogs and travel social media.",
+          "id": "842062634019037184",
+          "name": "Travel media"
+        }
+      }
+    ],
+    "conversation_id": "1976976131560722607",
+    "created_at": "2025-10-11T11:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T12:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976976131560722607"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "RedteaGO",
+          "probability": 0.5561,
+          "start": 23,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/RedteaGO/statu…",
+          "end": 303,
+          "expanded_url": "https://twitter.com/RedteaGO/status/1976956785136484564",
+          "start": 280,
+          "url": "https://t.co/OBveZP9iND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976976131560722607",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976956785136484564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "+4+3 is create a first RedteaGO account, then invite your other accounts through that account and purchase a $0.52 eSIM trial and activate it with a $3 credit. And so on, for the first account, it is 4n-0.52n, and the $3 credit bonus for each sub-account can continue to be USED! https://t.co/OBveZP9iND"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1976956212429414400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-PM2pbYAAH9VD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Travel novelty",
+              "id": "842061030951809024",
+              "name": "Travel novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes conversations about any digital media related to traveling such as travel blogs and travel social media.",
+              "id": "842062634019037184",
+              "name": "Travel media"
+            }
+          }
+        ],
+        "conversation_id": "1976976131560722607",
+        "created_at": "2025-10-11T11:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T12:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976976131560722607"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "RedteaGO",
+              "probability": 0.5561,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/RedteaGO/statu…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/RedteaGO/status/1976956785136484564",
+              "start": 280,
+              "url": "https://t.co/OBveZP9iND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976976131560722607",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976956785136484564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "+4+3 is create a first RedteaGO account, then invite your other accounts through that account and purchase a $0.52 eSIM trial and activate it with a $3 credit. And so on, for the first account, it is 4n-0.52n, and the $3 credit bonus for each sub-account can continue to be USED! https://t.co/OBveZP9iND"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976956212429414400"
+          ]
+        },
+        "author_id": "1288412189926150144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Travel novelty",
+              "id": "842061030951809024",
+              "name": "Travel novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes conversations about any digital media related to traveling such as travel blogs and travel social media.",
+              "id": "842062634019037184",
+              "name": "Travel media"
+            }
+          }
+        ],
+        "conversation_id": "1976956785136484564",
+        "created_at": "2025-10-11T10:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T11:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976956785136484564"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "RedteaGO",
+              "probability": 0.7417,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 254,
+              "normalized_text": "RedteaGO",
+              "probability": 0.4637,
+              "start": 247,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 255,
+              "start": 246,
+              "tag": "RedteaGO"
+            },
+            {
+              "end": 261,
+              "start": 256,
+              "tag": "esim"
+            },
+            {
+              "end": 273,
+              "start": 262,
+              "tag": "TravelTips"
+            },
+            {
+              "end": 278,
+              "start": 274,
+              "tag": "faq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFQ4zmwX5L",
+              "end": 302,
+              "expanded_url": "https://x.com/RedteaGO/status/1976956785136484564/photo/1",
+              "media_key": "3_1976956212429414400",
+              "start": 279,
+              "url": "https://t.co/SFQ4zmwX5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976956785136484564",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "How to earn credits reward on RedteaGO?\n\nShare your referral code with friends — you’ll earn $4 credits (when your friends purchase and activate any plan), and they’ll get $3 credits too!\n\nIt’s unlimited, the more you share, the more you earn. \n\n#RedteaGO #esim #TravelTips #faq https://t.co/SFQ4zmwX5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Naixi Networks | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "realYingxi"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.naixi.org",
+                "end": 23,
+                "expanded_url": "http://about.naixi.org",
+                "start": 0,
+                "url": "https://t.co/8GeteJkg8Q"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1921821242216079872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946950491587346432/_yYHQvqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 847,
+          "like_count": 8121,
+          "listed_count": 7,
+          "media_count": 457,
+          "tweet_count": 4163
+        },
+        "url": "https://t.co/8GeteJkg8Q",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-29T09:53:09.000Z",
+        "description": "Always Connected, Always Trusted. \nYour top choice of eSIM for an enjoyable journey in 180+ destinations with affordable local rates.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "esim.redteago.com",
+                "end": 23,
+                "expanded_url": "http://esim.redteago.com",
+                "start": 0,
+                "url": "https://t.co/gz5J4prZ2P"
+              }
+            ]
+          }
+        },
+        "id": "1288412189926150144",
+        "location": "🌎 180+ Countries & Regions.",
+        "name": "RedteaGO | eSIM World's Best Travel App",
+        "pinned_tweet_id": "1803698914278986065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547425027183677441/3QrQ-DW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 150,
+          "like_count": 447,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/gz5J4prZ2P",
+        "username": "RedteaGO",
+        "verified": false
+      }
+    ]
+  }
+}

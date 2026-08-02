@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2060728624114958526",
+    "created_at": "2026-05-30T15:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060739507293692405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "27251422",
+          "start": 0,
+          "username": "Blankwonder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060739507293692405",
+    "in_reply_to_user_id": "27251422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060728624114958526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blankwonder UniFi好评，不过家里的入户箱是怎么改成小HomeLab机柜的，空间有点极限会不会有积热"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_2060720187125710848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkmF48awAAqY7-.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2060728624114958526",
+        "created_at": "2026-05-30T15:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060739507293692405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "27251422",
+              "start": 0,
+              "username": "Blankwonder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060739507293692405",
+        "in_reply_to_user_id": "27251422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060728624114958526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blankwonder UniFi好评，不过家里的入户箱是怎么改成小HomeLab机柜的，空间有点极限会不会有积热"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060720187125710848"
+          ]
+        },
+        "author_id": "27251422",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2060728624114958526",
+        "created_at": "2026-05-30T14:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060728624114958526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gH8IfXgPlR",
+              "end": 159,
+              "expanded_url": "https://x.com/Blankwonder/status/2060728624114958526/photo/1",
+              "media_key": "3_2060720187125710848",
+              "start": 136,
+              "url": "https://t.co/gH8IfXgPlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060728624114958526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小机柜折腾完毕，分享一点经验\n\n1. 今天电信师傅来更换了 2000M 套餐的光猫。各家运营商的 2000M 光猫大多都是子母猫设计，而且厂家一般默认母猫放在弱电箱里，所以通常只有子猫带 2.5G 网口。好在这次电信师傅提前预判了我的需求，专门申请了一套母猫带 2.5G 网口的型号，这样就不用额外挂一个子猫了。有类似需求的朋友记得提前和师傅沟通一下。\n\n2. 我的柜体深度是 30cm，刚好够放星维派这款机柜，这个尺寸基本算是卡着上限，差不多刚刚好。不过像 UniFi Dream Machine 这种设备就会因为机身太深而装不进去。（一开始还专门定制了一堆日线短跳线，好好整理下走线，结果发现面板加上网线尾巴之后门根本关不上……最后只能重新买了一批超小水晶头网线替代，可惜只有黑色。）\n\n3. 所有房间的吊顶检修口都预留了两根网线：一根接 AP，一根接小米网关，全部走 PoE 供电。（小米网关本身不支持 PoE，需要额外加一个分离器。）\n\n4. 工作室和客厅电视柜都预留了成品光纤，双 LC 接头，OM4 规格，最高可支持到 100Gbps。\n\n5. 主路由依然是经典的 MikroTik RB5009（没用 UniFi 主要还是因为不支持 Full Cone），不过这东西的 2.5GBase-T 协商经常会出点问题，今天换了光猫又不认，被迫用 SFP+ 去接光猫。\n\n6. Mac mini 上挂了一个 ZTE F50，作为 Surge Ponte 热备。这样不在家时如果主线路断网，还能连回去看看是什么情况。旁边的小屏幕主要用于重启时登录。\n\n7. UniFi Switch XG 6 PoE 的风扇实在太吵，被我拆掉之后又定制了一块超大散热片贴在顶部。用了很多年，目前表现一直很稳定。\n\n8. 侧边这台主机还是很多年前装的 HomeLab PC，MATX 规格。除了偶尔会死机重启之外，整体运行一直很稳定（大概每年不超过两次）。23 年买的 5 块国产 4TB SSD 到现在也全部正常（现在价格已经翻了 5 倍）。目前跑着 Proxmox VE，承载 NAS 和各种服务。\n\n9. 很多人关心散热问题。首先柜门做了百叶设计，但单靠这个确实不够，所以我又在机箱前面板加了一把高性能风扇负责进风，机箱顶部风扇向上排风，再立了一把猫扇往外吹，形成完整的散热风道，现在整体很凉爽。（还有个意外收获：隔壁鞋柜里拿出来的鞋子都是温热的，穿起来很舒服……）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3698,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小机柜折腾完毕，分享一点经验\n\n1. 今天电信师傅来更换了 2000M 套餐的光猫。各家运营商的 2000M 光猫大多都是子母猫设计，而且厂家一般默认母猫放在弱电箱里，所以通常只有子猫带 2.5G 网口。好在这次电信师傅提前预判了我的需求，专门申请了一套母猫带 2.5G https://t.co/gH8IfXgPlR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35500,
+          "following_count": 654,
+          "like_count": 16120,
+          "listed_count": 157,
+          "media_count": 1991,
+          "tweet_count": 13226
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-28T15:53:57.000Z",
+        "description": "已退休，生活、旅行、科技、投资类话题博主\n请勿抬杠，你抬杠你对，但我 Hide & Block",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yachen.com",
+                "end": 23,
+                "expanded_url": "https://yachen.com",
+                "start": 0,
+                "url": "https://t.co/fdlQZbrxcJ"
+              }
+            ]
+          }
+        },
+        "id": "27251422",
+        "name": "Yachen Liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769760069393281024/vESyD2hO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59407,
+          "following_count": 362,
+          "like_count": 2320,
+          "listed_count": 660,
+          "media_count": 564,
+          "tweet_count": 2975
+        },
+        "url": "https://t.co/fdlQZbrxcJ",
+        "username": "Blankwonder",
+        "verified": true
+      }
+    ]
+  }
+}

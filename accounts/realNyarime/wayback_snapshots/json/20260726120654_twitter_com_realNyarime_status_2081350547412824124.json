@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2081347300396552308",
+    "created_at": "2026-07-26T12:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081350547412824124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1649102667627794432",
+          "start": 0,
+          "username": "coldin04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081350547412824124",
+    "in_reply_to_user_id": "1649102667627794432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "LobeHub 其实我对他印象不差，包括 Logto 这块当时跟 Casdoor 之间做了很多取舍。不得不说，他们的 AGI 确实如日中天，就是比较不兼容第三方 API中转站\n就比如你对接我家的模型，一堆报错需要去修，反而官方就没这种问题。也确实在过程中引发了不必要的吵架，当然吵架是无意义的，还好你没跟我继续吵下去\n不过我希望你的评论能被看见，中肯的建议。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081347300396552308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldin04 LobeHub 其实我对他印象不差，包括 Logto 这块当时跟 Casdoor 之间做了很多取舍。不得不说，他们的 AGI 确实如日中天，就是比较不兼容第三方 API中转站"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2081347300396552308",
+        "created_at": "2026-07-26T12:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081350547412824124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1649102667627794432",
+              "start": 0,
+              "username": "coldin04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081350547412824124",
+        "in_reply_to_user_id": "1649102667627794432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "LobeHub 其实我对他印象不差，包括 Logto 这块当时跟 Casdoor 之间做了很多取舍。不得不说，他们的 AGI 确实如日中天，就是比较不兼容第三方 API中转站\n就比如你对接我家的模型，一堆报错需要去修，反而官方就没这种问题。也确实在过程中引发了不必要的吵架，当然吵架是无意义的，还好你没跟我继续吵下去\n不过我希望你的评论能被看见，中肯的建议。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081347300396552308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldin04 LobeHub 其实我对他印象不差，包括 Logto 这块当时跟 Casdoor 之间做了很多取舍。不得不说，他们的 AGI 确实如日中天，就是比较不兼容第三方 API中转站"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649102667627794432",
+        "conversation_id": "2081347300396552308",
+        "created_at": "2026-07-26T11:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081347300396552308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081347300396552308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吐槽下Lobehub的性能问题，24年就开始用LobeChat了，但手机端的体验一直不太行，切模型什么的很容易卡，对话记录长了也是，想切Open Webui用用了。但试了下Open WebUI在模型配置和智能体体验方面还是差了点。\n\nLobehub除了用起来卡卡的，其他方面我倒是对Lobehhb挺满意的，希望能优化性能啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41483,
+          "following_count": 670,
+          "like_count": 20245,
+          "listed_count": 183,
+          "media_count": 2466,
+          "tweet_count": 17010
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-20T17:28:32.000Z",
+        "description": "一个热爱编程与分享的计算机萌新 \n有很多胡乱想法，爱从产品角度思考\n软件/产品/开发/灵感 碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "co1d.in",
+                "end": 23,
+                "expanded_url": "https://co1d.in",
+                "start": 0,
+                "url": "https://t.co/B0kMGASf9F"
+              }
+            ]
+          }
+        },
+        "id": "1649102667627794432",
+        "location": "127.0.0.1",
+        "name": "酷丁同学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013251797234651136/oZg0wtUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 470,
+          "like_count": 1800,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/B0kMGASf9F",
+        "username": "coldin04",
+        "verified": false
+      }
+    ]
+  }
+}

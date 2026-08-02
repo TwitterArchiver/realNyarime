@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041116541",
+          "name": "LinkedIn"
+        }
+      }
+    ],
+    "conversation_id": "2059362993998340518",
+    "created_at": "2026-05-26T19:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059362993998340518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 39,
+          "id": "1689053928",
+          "start": 30,
+          "username": "telegram"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/telegram/statu…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/telegram/status/2059258256879390786",
+          "start": 68,
+          "url": "https://t.co/3fwrtzFS7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059362993998340518",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059258256879390786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "if I had to look for a job on @telegram I would fucking kill myself https://t.co/3fwrtzFS7f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          }
+        ],
+        "conversation_id": "2059362993998340518",
+        "created_at": "2026-05-26T19:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059362993998340518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1689053928",
+              "start": 30,
+              "username": "telegram"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/telegram/statu…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/telegram/status/2059258256879390786",
+              "start": 68,
+              "url": "https://t.co/3fwrtzFS7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059362993998340518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059258256879390786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "if I had to look for a job on @telegram I would fucking kill myself https://t.co/3fwrtzFS7f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689053928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          }
+        ],
+        "conversation_id": "2059258256879390786",
+        "created_at": "2026-05-26T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059258256879390786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "13058772",
+              "start": 30,
+              "username": "LinkedIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059258256879390786",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1752,
+          "impression_count": 1286082,
+          "like_count": 31218,
+          "quote_count": 308,
+          "reply_count": 831,
+          "retweet_count": 3532
+        },
+        "reply_settings": "everyone",
+        "text": "if I had to look for a job on @LinkedIn I would fucking kill myself"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35182,
+          "following_count": 650,
+          "like_count": 15634,
+          "listed_count": 155,
+          "media_count": 1921,
+          "tweet_count": 12794
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-21T19:47:05.000Z",
+        "description": "Simple, fast, secure – and synced across all your devices. One of the top 5 most-downloaded apps in the world with over 1 billion active users.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.org",
+                "end": 23,
+                "expanded_url": "http://telegram.org",
+                "start": 0,
+                "url": "https://t.co/zHAc9lS7Jy"
+              }
+            ]
+          }
+        },
+        "id": "1689053928",
+        "name": "Telegram Messenger",
+        "pinned_tweet_id": "2056790887095763337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939735,
+          "following_count": 9,
+          "like_count": 6731,
+          "listed_count": 4531,
+          "media_count": 3890,
+          "tweet_count": 50188
+        },
+        "url": "https://t.co/zHAc9lS7Jy",
+        "username": "telegram",
+        "verified": true
+      }
+    ]
+  }
+}

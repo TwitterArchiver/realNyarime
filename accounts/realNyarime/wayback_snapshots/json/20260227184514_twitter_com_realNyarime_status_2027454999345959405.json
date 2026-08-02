@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2027454999345959405",
+    "created_at": "2026-02-27T18:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027454999345959405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/antigravity/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/antigravity/status/2027435365275967591",
+          "start": 14,
+          "url": "https://t.co/7IREXj5jPb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027454999345959405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027435365275967591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关键是后面还会再封反代么？ https://t.co/7IREXj5jPb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2027454999345959405",
+        "created_at": "2026-02-27T18:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027454999345959405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/antigravity/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/antigravity/status/2027435365275967591",
+              "start": 14,
+              "url": "https://t.co/7IREXj5jPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027454999345959405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027435365275967591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关键是后面还会再封反代么？ https://t.co/7IREXj5jPb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965856473084473347",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2027435365275967591",
+        "created_at": "2026-02-27T17:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027435365275967591"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 101,
+              "normalized_text": "Google Antigravity",
+              "probability": 0.7,
+              "start": 84,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027435365275967591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "To the builders: we heard you. We're welcoming back everyone who recently had their Google Antigravity accounts restricted for use of third-party tools. Moving forward, we’ll have clear steps for users to restore  their account if it’s restricted.\n\nTo maintain the integrity of Antigravity and ensure a great user experience for everyone, using third-party tools with your Antigravity login remains against our terms. We love seeing innovation and boundary-pushing in this community, and the Antigravity team is hyper-focused on building what you need to accelerate product development.\n\nCan’t wait to see what you build!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 57313,
+          "like_count": 1103,
+          "quote_count": 44,
+          "reply_count": 157,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "To the builders: we heard you. We're welcoming back everyone who recently had their Google Antigravity accounts restricted for use of third-party tools. Moving forward, we’ll have clear steps for users to restore  their account if it’s restricted.\n\nTo maintain the integrity of"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16924,
+          "following_count": 518,
+          "like_count": 10414,
+          "listed_count": 71,
+          "media_count": 984,
+          "tweet_count": 7695
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T19:15:00.000Z",
+        "description": "An agentic development platform evolving the IDE into the agent-first era @GoogleDeepMind",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "GoogleDeepMind"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "antigravity.google",
+                "end": 23,
+                "expanded_url": "https://antigravity.google/",
+                "start": 0,
+                "url": "https://t.co/xhI6Xc2MMC"
+              }
+            ]
+          }
+        },
+        "id": "1965856473084473347",
+        "name": "Google Antigravity",
+        "pinned_tweet_id": "2018461673162408162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990585614279049216/-Zz6T2nk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127050,
+          "following_count": 13,
+          "like_count": 22,
+          "listed_count": 854,
+          "media_count": 91,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/xhI6Xc2MMC",
+        "username": "antigravity",
+        "verified": true
+      }
+    ]
+  }
+}

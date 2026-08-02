@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1553037640982638592",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1814293649485643776",
+          "name": "Dell Inspire"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1814293649485643776",
+          "name": "Dell Inspire"
+        }
+      }
+    ],
+    "conversation_id": "2043643000773837131",
+    "created_at": "2026-04-13T16:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043734592289710224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995129612888940544",
+          "start": 0,
+          "username": "Formulasearch"
+        }
+      ],
+      "urls": [
+        {
+          "description": "如何让戴尔S2725QS显示器接近Mac原色显示？本文详细拆解120Hz高刷开启方法与sRGB色彩校准步骤，助你实现Mac用户最佳外接屏体验。",
+          "display_url": "blog.moewah.com/posts/dell-s27…",
+          "end": 95,
+          "expanded_url": "https://blog.moewah.com/posts/dell-s2725qs-mac-color-calibration-120hz-guide/",
+          "start": 72,
+          "status": 200,
+          "title": "戴尔S2725QS Mac调色+120Hz高刷开启指南 - 喵斯基部落",
+          "unwound_url": "https://blog.moewah.com/posts/dell-s2725qs-mac-color-calibration-120hz-guide/",
+          "url": "https://t.co/okDqsXTWzH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043734592289710224",
+    "in_reply_to_user_id": "1995129612888940544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043732768765420011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Formulasearch 如果是学生党，最入门的是Redmi那款A27U Type C版，以及Dell S2725QS并配合这篇教程调色：\nhttps://t.co/okDqsXTWzH\n\n很多设计师都习惯 Mac + USB-C 一线连，尤其是出门当笔记本，回来插上变工作站"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1553037640982638592",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1814293649485643776",
+              "name": "Dell Inspire"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1814293649485643776",
+              "name": "Dell Inspire"
+            }
+          }
+        ],
+        "conversation_id": "2043643000773837131",
+        "created_at": "2026-04-13T16:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043734592289710224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995129612888940544",
+              "start": 0,
+              "username": "Formulasearch"
+            }
+          ],
+          "urls": [
+            {
+              "description": "如何让戴尔S2725QS显示器接近Mac原色显示？本文详细拆解120Hz高刷开启方法与sRGB色彩校准步骤，助你实现Mac用户最佳外接屏体验。",
+              "display_url": "blog.moewah.com/posts/dell-s27…",
+              "end": 95,
+              "expanded_url": "https://blog.moewah.com/posts/dell-s2725qs-mac-color-calibration-120hz-guide/",
+              "start": 72,
+              "status": 200,
+              "title": "戴尔S2725QS Mac调色+120Hz高刷开启指南 - 喵斯基部落",
+              "unwound_url": "https://blog.moewah.com/posts/dell-s2725qs-mac-color-calibration-120hz-guide/",
+              "url": "https://t.co/okDqsXTWzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043734592289710224",
+        "in_reply_to_user_id": "1995129612888940544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043732768765420011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Formulasearch 如果是学生党，最入门的是Redmi那款A27U Type C版，以及Dell S2725QS并配合这篇教程调色：\nhttps://t.co/okDqsXTWzH\n\n很多设计师都习惯 Mac + USB-C 一线连，尤其是出门当笔记本，回来插上变工作站"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995129612888940544",
+        "conversation_id": "2043643000773837131",
+        "created_at": "2026-04-13T16:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043732768765420011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043732768765420011",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043732293311967233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 好建议！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27736,
+          "following_count": 505,
+          "like_count": 12130,
+          "listed_count": 127,
+          "media_count": 1460,
+          "tweet_count": 9813
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T13:55:55.000Z",
+        "description": "👤嗨~，我是阿哲\n🏗️ 前建筑师 → AI 产品\n🧠 INTP｜跨界视角理解 AI 与系统\n🛠️ 持续更新：AI 工具教程｜工作流实战｜产品复盘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rzcthink.top",
+                "end": 23,
+                "expanded_url": "https://rzcthink.top",
+                "start": 0,
+                "url": "https://t.co/8FGtY2zMsQ"
+              }
+            ]
+          }
+        },
+        "id": "1995129612888940544",
+        "name": "Philip Van",
+        "pinned_tweet_id": "2033884676415496346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035996091796377600/AeTyGC5U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2544,
+          "following_count": 364,
+          "like_count": 4104,
+          "listed_count": 7,
+          "media_count": 77,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/8FGtY2zMsQ",
+        "username": "Formulasearch",
+        "verified": true
+      }
+    ]
+  }
+}

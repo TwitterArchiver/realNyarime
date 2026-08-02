@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2059458726604722457",
+    "created_at": "2026-05-28T12:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059981458857664795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3018975387",
+          "start": 0,
+          "username": "hanawa_hinata"
+        },
+        {
+          "end": 27,
+          "id": "1806849464386416640",
+          "start": 15,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059981458857664795",
+    "in_reply_to_user_id": "3018975387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059478189018436015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanawa_hinata @tangeorange 不喜欢CNNIC，之前找APNIC下CN的IP，结果工信部就立刻发函过来要求公司对IP资源实名制。。。傻逼来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 542,
+        "media_key": "3_2059478183167287296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS8fvpaYAALGfg.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2059458726604722457",
+        "created_at": "2026-05-28T12:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059981458857664795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3018975387",
+              "start": 0,
+              "username": "hanawa_hinata"
+            },
+            {
+              "end": 27,
+              "id": "1806849464386416640",
+              "start": 15,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059981458857664795",
+        "in_reply_to_user_id": "3018975387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059478189018436015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanawa_hinata @tangeorange 不喜欢CNNIC，之前找APNIC下CN的IP，结果工信部就立刻发函过来要求公司对IP资源实名制。。。傻逼来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059478183167287296"
+          ]
+        },
+        "author_id": "3018975387",
+        "conversation_id": "2059458726604722457",
+        "created_at": "2026-05-27T03:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059478189018436015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeKvBGFCNj",
+              "end": 193,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2059478189018436015/photo/1",
+              "media_key": "3_2059478183167287296",
+              "start": 170,
+              "url": "https://t.co/PeKvBGFCNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059478189018436015",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "就 CNNIC 那死样，但凡了解一下的人都喜欢不了一点。\n\n.cn 域名注册局强制要求实名制，即使你不备案，注册时也会强制要求使用验证过的实名信息模板。\n\n在之前，因为 whois 包含个人信息，因此域名服务商一般会有 whois 保护这种服务。后来 ICANN 要求 whois 默认不展示个人信息，whois 保护的存在没有现实意义，于是域名服务商纷纷下架了 whois 保护服务。但是 .cn 域名本身就是强制实名制，因此在域名服务商下架 whois 保护服务以后，注册人的信息实质上就是在裸奔。\n\n在这个大背景下，CNNIC 给出的解决方案是：推出CNNIC隐私保护服务，每年收取36元保护费用。\n\n（刚才去阿里云和腾讯云查证了一下，这项服务现在已经免费了。但是因为我之前付费买过，所以多少我得骂两句。）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 42159,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059458726604722457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 就 CNNIC 那死样，但凡了解一下的人都喜欢不了一点。\n\n.cn 域名注册局强制要求实名制，即使你不备案，注册时也会强制要求使用验证过的实名信息模板。\n\n在之前，因为 whois 包含个人信息，因此域名服务商一般会有 whois 保护这种服务。后来 ICANN 要求 whois 默认不展示个人信息，whois https://t.co/PeKvBGFCNj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35337,
+          "following_count": 651,
+          "like_count": 15804,
+          "listed_count": 154,
+          "media_count": 1943,
+          "tweet_count": 12957
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-04T23:58:21.000Z",
+        "description": "心弦之音，余韵寥寥。The founder of @nebula_soft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "nebula_soft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanawa.me",
+                "end": 23,
+                "expanded_url": "https://hanawa.me",
+                "start": 0,
+                "url": "https://t.co/wz4zjqKiRT"
+              }
+            ]
+          }
+        },
+        "id": "3018975387",
+        "location": "万达广场",
+        "name": "日向花和 Hanawa Hinata",
+        "pinned_tweet_id": "1967131247333044249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004354883609415681/o7a20K81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13121,
+          "following_count": 2054,
+          "like_count": 133678,
+          "listed_count": 48,
+          "media_count": 6860,
+          "tweet_count": 44224
+        },
+        "url": "https://t.co/wz4zjqKiRT",
+        "username": "hanawa_hinata",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 y.o.\n尝试不死 | \nbff @maoxianACT @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "maoxianACT"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "tangeror"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056276486991368192/tMDwIk9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3010,
+          "following_count": 2748,
+          "like_count": 8601,
+          "listed_count": 4,
+          "media_count": 1197,
+          "tweet_count": 8170
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

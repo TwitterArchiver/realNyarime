@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051794115080355840",
+        "3_2051795290727026688",
+        "3_2051795373988163584"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2051807649621328263",
+    "created_at": "2026-05-05T23:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T00:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051807649621328263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Pure Go Norton Ghost GHO disk image parser — no CGo, single binary - nyarime/gho",
+          "display_url": "github.com/nyarime/gho",
+          "end": 147,
+          "expanded_url": "https://github.com/nyarime/gho",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2051807655304560640/6DtgeXyS?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2051807655304560640/6DtgeXyS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 124,
+          "status": 200,
+          "title": "GitHub - nyarime/gho: Pure Go Norton Ghost GHO disk image parser — no CGo, single binary",
+          "unwound_url": "https://github.com/nyarime/gho",
+          "url": "https://t.co/SuB9RXWMgp"
+        },
+        {
+          "display_url": "pic.x.com/D1FwkSImp4",
+          "end": 171,
+          "expanded_url": "https://x.com/realNyarime/status/2051807649621328263/photo/1",
+          "media_key": "3_2051794115080355840",
+          "start": 148,
+          "url": "https://t.co/D1FwkSImp4"
+        },
+        {
+          "display_url": "pic.x.com/D1FwkSImp4",
+          "end": 171,
+          "expanded_url": "https://x.com/realNyarime/status/2051807649621328263/photo/1",
+          "media_key": "3_2051795290727026688",
+          "start": 148,
+          "url": "https://t.co/D1FwkSImp4"
+        },
+        {
+          "display_url": "pic.x.com/D1FwkSImp4",
+          "end": 171,
+          "expanded_url": "https://x.com/realNyarime/status/2051807649621328263/photo/1",
+          "media_key": "3_2051795373988163584",
+          "start": 148,
+          "url": "https://t.co/D1FwkSImp4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051807649621328263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/nyarime/gho",
+            "end": 147,
+            "expanded_url": "https://github.com/nyarime/gho",
+            "start": 124,
+            "url": "https://t.co/iFAbI0w6wg"
+          }
+        ]
+      },
+      "text": "最近公司也遇到了TB级GHO备份文件的问题，在网上找到了一篇《2.8TB外贸数据生死救援》\n得亏系统没格，不然也一样完蛋，顺便研究一下赛门铁克未公开的GHO文件结构\n\n按某数据恢复工程师提供的思路，完成了对GHO文件的完整解析，具体的代码已发布：\nhttps://t.co/iFAbI0w6wg\n\nGHO的压缩和解压共享着一个4096条的hash table，意味着每一步更新都必须精确同步，所以无法在系统里备份系统，只能在PE下备份扇区\n顺带一提，现在Ghost跟VMware一样都是博通的了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近公司也遇到了TB级GHO备份文件的问题，在网上找到了一篇《2.8TB外贸数据生死救援》\n得亏系统没格，不然也一样完蛋，顺便研究一下赛门铁克未公开的GHO文件结构\n\n按某数据恢复工程师提供的思路，完成了对GHO文件的完整解析，具体的代码已发布：\nhttps://t.co/SuB9RXWMgp https://t.co/D1FwkSImp4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2051794115080355840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlv4HWaAAAj9K8.png",
+        "width": 1024
+      },
+      {
+        "height": 583,
+        "media_key": "3_2051795290727026688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlw8i-akAA8HwK.png",
+        "width": 666
+      },
+      {
+        "height": 874,
+        "media_key": "3_2051795373988163584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlxBZJasAAEvm2.png",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051794115080355840",
+            "3_2051795290727026688",
+            "3_2051795373988163584"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2051807649621328263",
+        "created_at": "2026-05-05T23:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051807649621328263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Pure Go Norton Ghost GHO disk image parser — no CGo, single binary - nyarime/gho",
+              "display_url": "github.com/nyarime/gho",
+              "end": 147,
+              "expanded_url": "https://github.com/nyarime/gho",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2051807655304560640/6DtgeXyS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051807655304560640/6DtgeXyS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 124,
+              "status": 200,
+              "title": "GitHub - nyarime/gho: Pure Go Norton Ghost GHO disk image parser — no CGo, single binary",
+              "unwound_url": "https://github.com/nyarime/gho",
+              "url": "https://t.co/SuB9RXWMgp"
+            },
+            {
+              "display_url": "pic.x.com/D1FwkSImp4",
+              "end": 171,
+              "expanded_url": "https://x.com/realNyarime/status/2051807649621328263/photo/1",
+              "media_key": "3_2051794115080355840",
+              "start": 148,
+              "url": "https://t.co/D1FwkSImp4"
+            },
+            {
+              "display_url": "pic.x.com/D1FwkSImp4",
+              "end": 171,
+              "expanded_url": "https://x.com/realNyarime/status/2051807649621328263/photo/1",
+              "media_key": "3_2051795290727026688",
+              "start": 148,
+              "url": "https://t.co/D1FwkSImp4"
+            },
+            {
+              "display_url": "pic.x.com/D1FwkSImp4",
+              "end": 171,
+              "expanded_url": "https://x.com/realNyarime/status/2051807649621328263/photo/1",
+              "media_key": "3_2051795373988163584",
+              "start": 148,
+              "url": "https://t.co/D1FwkSImp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051807649621328263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/nyarime/gho",
+                "end": 147,
+                "expanded_url": "https://github.com/nyarime/gho",
+                "start": 124,
+                "url": "https://t.co/iFAbI0w6wg"
+              }
+            ]
+          },
+          "text": "最近公司也遇到了TB级GHO备份文件的问题，在网上找到了一篇《2.8TB外贸数据生死救援》\n得亏系统没格，不然也一样完蛋，顺便研究一下赛门铁克未公开的GHO文件结构\n\n按某数据恢复工程师提供的思路，完成了对GHO文件的完整解析，具体的代码已发布：\nhttps://t.co/iFAbI0w6wg\n\nGHO的压缩和解压共享着一个4096条的hash table，意味着每一步更新都必须精确同步，所以无法在系统里备份系统，只能在PE下备份扇区\n顺带一提，现在Ghost跟VMware一样都是博通的了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近公司也遇到了TB级GHO备份文件的问题，在网上找到了一篇《2.8TB外贸数据生死救援》\n得亏系统没格，不然也一样完蛋，顺便研究一下赛门铁克未公开的GHO文件结构\n\n按某数据恢复工程师提供的思路，完成了对GHO文件的完整解析，具体的代码已发布：\nhttps://t.co/SuB9RXWMgp https://t.co/D1FwkSImp4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32277,
+          "following_count": 595,
+          "like_count": 13657,
+          "listed_count": 154,
+          "media_count": 1677,
+          "tweet_count": 11125
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

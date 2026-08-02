@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063304406687510528",
+        "3_2063309870980530176",
+        "3_2063310437572296704"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2063313243112976719",
+    "created_at": "2026-06-06T17:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063313243112976719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/teu0gOehGx",
+          "end": 171,
+          "expanded_url": "https://x.com/realNyarime/status/2063313243112976719/photo/1",
+          "media_key": "3_2063304406687510528",
+          "start": 148,
+          "url": "https://t.co/teu0gOehGx"
+        },
+        {
+          "display_url": "pic.x.com/teu0gOehGx",
+          "end": 171,
+          "expanded_url": "https://x.com/realNyarime/status/2063313243112976719/photo/1",
+          "media_key": "3_2063309870980530176",
+          "start": 148,
+          "url": "https://t.co/teu0gOehGx"
+        },
+        {
+          "display_url": "pic.x.com/teu0gOehGx",
+          "end": 171,
+          "expanded_url": "https://x.com/realNyarime/status/2063313243112976719/photo/1",
+          "media_key": "3_2063310437572296704",
+          "start": 148,
+          "url": "https://t.co/teu0gOehGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063313243112976719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我挺讨厌推上高价卖giffgaff卡的，有种像在发国难财的感觉，就像疫情期间卖口罩一样😅😅😅\n\n实体卡一直是免费申请的，只是因为某些原因停止寄国内了，以前一张个位数，现在卖到45一张。吹嘘「英国神卡」实际除了保号以外毫无性价比，在国内上网除了延迟极高且费用极其高昂，每MB是0.2英镑（约2元）\n\n申请者把卡发给“朋友”，充值10英镑（约100块）后双方都会得到5英镑奖励，偶尔会有额外Payback。也就是说，你买他的卡并完成充值任务，卖家还能额外赚一笔佣金，那笔钱卖家是可以提现到PayPal后消费的。等于说，你不仅要在买卡花钱，还要再让卖家抽你佣金，一张gg实体卡所花费的钱大概是145块，也得到了15英镑的余额。保号规则也很简单，即180天内余额变动一次，发短信、打电话、数据漫游打开然后迅速关闭就完成扣话费了\n\n那我要怎么买才不会被坑？很多人手机不支持eSIM，那就去电商平台20块买个eUICC小白卡，然后安装HookEuicc模块，勾选Giffgaff App。如果Android没有root权限，那就装个元萝卜，在内置的容器里操作。最后eSIM LPA会被模块hook到剪辑版，自己再写入小白卡里就DIY完成了\n这样算下来，卡只要20块，Giffgaff eSIM最低氪10英镑，总共120块\n（如果是原生eSIM设备，如外版iPhone直接下Giffgaff App下卡，那只要10英镑的最低充值）\n\n最后，我还是建议推友别老盯着5英镑的赠金，即便是买实体卡转eSIM能充10得15，那也只够你在国内用75MB。如果有英国大流量的需求，不妨看看CTExcel或CMLink的两地月套餐，都是EE的虚商除了激活麻烦。后面不订了可以拿PAC代码转入Giffgaff，这样既不会损失号码，也能实现保号。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我挺讨厌推上高价卖giffgaff卡的，有种像在发国难财的感觉，就像疫情期间卖口罩一样😅😅😅\n\n实体卡一直是免费申请的，只是因为某些原因停止寄国内了，以前一张个位数，现在卖到45一张。吹嘘「英国神卡」实际除了保号以外毫无性价比，在国内上网除了延迟极高且费用极其高昂，每MB是0.2英镑（约2元） https://t.co/teu0gOehGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2063304406687510528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJUbRAbcAAECKo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2382,
+        "media_key": "3_2063309870980530176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJZZVFaAAAFxlF.jpg",
+        "width": 2160
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2063310437572296704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJZ6TzaQAA5p2g.jpg",
+        "width": 1896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063304406687510528",
+            "3_2063309870980530176",
+            "3_2063310437572296704"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2063313243112976719",
+        "created_at": "2026-06-06T17:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063313243112976719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/teu0gOehGx",
+              "end": 171,
+              "expanded_url": "https://x.com/realNyarime/status/2063313243112976719/photo/1",
+              "media_key": "3_2063304406687510528",
+              "start": 148,
+              "url": "https://t.co/teu0gOehGx"
+            },
+            {
+              "display_url": "pic.x.com/teu0gOehGx",
+              "end": 171,
+              "expanded_url": "https://x.com/realNyarime/status/2063313243112976719/photo/1",
+              "media_key": "3_2063309870980530176",
+              "start": 148,
+              "url": "https://t.co/teu0gOehGx"
+            },
+            {
+              "display_url": "pic.x.com/teu0gOehGx",
+              "end": 171,
+              "expanded_url": "https://x.com/realNyarime/status/2063313243112976719/photo/1",
+              "media_key": "3_2063310437572296704",
+              "start": 148,
+              "url": "https://t.co/teu0gOehGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063313243112976719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我挺讨厌推上高价卖giffgaff卡的，有种像在发国难财的感觉，就像疫情期间卖口罩一样😅😅😅\n\n实体卡一直是免费申请的，只是因为某些原因停止寄国内了，以前一张个位数，现在卖到45一张。吹嘘「英国神卡」实际除了保号以外毫无性价比，在国内上网除了延迟极高且费用极其高昂，每MB是0.2英镑（约2元）\n\n申请者把卡发给“朋友”，充值10英镑（约100块）后双方都会得到5英镑奖励，偶尔会有额外Payback。也就是说，你买他的卡并完成充值任务，卖家还能额外赚一笔佣金，那笔钱卖家是可以提现到PayPal后消费的。等于说，你不仅要在买卡花钱，还要再让卖家抽你佣金，一张gg实体卡所花费的钱大概是145块，也得到了15英镑的余额。保号规则也很简单，即180天内余额变动一次，发短信、打电话、数据漫游打开然后迅速关闭就完成扣话费了\n\n那我要怎么买才不会被坑？很多人手机不支持eSIM，那就去电商平台20块买个eUICC小白卡，然后安装HookEuicc模块，勾选Giffgaff App。如果Android没有root权限，那就装个元萝卜，在内置的容器里操作。最后eSIM LPA会被模块hook到剪辑版，自己再写入小白卡里就DIY完成了\n这样算下来，卡只要20块，Giffgaff eSIM最低氪10英镑，总共120块\n（如果是原生eSIM设备，如外版iPhone直接下Giffgaff App下卡，那只要10英镑的最低充值）\n\n最后，我还是建议推友别老盯着5英镑的赠金，即便是买实体卡转eSIM能充10得15，那也只够你在国内用75MB。如果有英国大流量的需求，不妨看看CTExcel或CMLink的两地月套餐，都是EE的虚商除了激活麻烦。后面不订了可以拿PAC代码转入Giffgaff，这样既不会损失号码，也能实现保号。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我挺讨厌推上高价卖giffgaff卡的，有种像在发国难财的感觉，就像疫情期间卖口罩一样😅😅😅\n\n实体卡一直是免费申请的，只是因为某些原因停止寄国内了，以前一张个位数，现在卖到45一张。吹嘘「英国神卡」实际除了保号以外毫无性价比，在国内上网除了延迟极高且费用极其高昂，每MB是0.2英镑（约2元） https://t.co/teu0gOehGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36252,
+          "following_count": 660,
+          "like_count": 16741,
+          "listed_count": 160,
+          "media_count": 2079,
+          "tweet_count": 13793
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

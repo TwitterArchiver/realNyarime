@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049895206108180481"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "United States Federal Communications Commission",
+          "id": "941706489546252288",
+          "name": "Federal Communications Commission"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "United States Federal Communications Commission",
+          "id": "941706489546252288",
+          "name": "Federal Communications Commission"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2049896651989614721",
+    "created_at": "2026-04-30T17:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049896651989614721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kcQHht8txo",
+          "end": 153,
+          "expanded_url": "https://x.com/realNyarime/status/2049896651989614721/photo/1",
+          "media_key": "3_2049895206108180481",
+          "start": 130,
+          "url": "https://t.co/kcQHht8txo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049896651989614721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这下不止中国大陆，连香港到美的互联也要玩烂了！\nFCC表决撤销中资运营商的一揽子授权之提议，目的是堵住 2022 年的法律漏洞：即使「中资运营商」的通信牌照被撤销，它们仍可根据一揽子授权（Blanket Authority）自动获得美国国内的州际电信服务资质\n\n会议中最激进的部分是关于禁止互联（Interconnection）的讨论，即讨论将从物理上禁止Verizon、AT&T等美资运营商与中资运营商的互联。如此一来，不仅电信、联通、移动、中信的美国电信业务被踢出局，还会连带IDC、IXP、PoP一同被赶这次行动会祭出「股权穿透」大招，即电信、联通、移动、中信的本体及其占股 >= 10% 的关联公司，都会因此连坐\n\n其中香港运营商PCCW和HKT都满足「股权穿透」条件，大概还有30-60天的公开征求意见期，以及可能的上诉法院司法审查。三大运营商＋中信的游说团和律师团虽说要出动，但翻盘的成功率很低，因为但凡涉及national security这种包装话术，即使走到美国上诉法院，都免不了支持 FCC 提案，这毕竟符合美版《总体国家安全观》"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这下不止中国大陆，连香港到美的互联也要玩烂了！\nFCC表决撤销中资运营商的一揽子授权之提议，目的是堵住 2022 年的法律漏洞：即使「中资运营商」的通信牌照被撤销，它们仍可根据一揽子授权（Blanket Authority）自动获得美国国内的州际电信服务资质 https://t.co/kcQHht8txo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1018,
+        "media_key": "3_2049895206108180481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKw1ELasAEpjvA.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049895206108180481"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Federal Communications Commission",
+              "id": "941706489546252288",
+              "name": "Federal Communications Commission"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Federal Communications Commission",
+              "id": "941706489546252288",
+              "name": "Federal Communications Commission"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2049896651989614721",
+        "created_at": "2026-04-30T17:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049896651989614721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcQHht8txo",
+              "end": 153,
+              "expanded_url": "https://x.com/realNyarime/status/2049896651989614721/photo/1",
+              "media_key": "3_2049895206108180481",
+              "start": 130,
+              "url": "https://t.co/kcQHht8txo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049896651989614721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这下不止中国大陆，连香港到美的互联也要玩烂了！\nFCC表决撤销中资运营商的一揽子授权之提议，目的是堵住 2022 年的法律漏洞：即使「中资运营商」的通信牌照被撤销，它们仍可根据一揽子授权（Blanket Authority）自动获得美国国内的州际电信服务资质\n\n会议中最激进的部分是关于禁止互联（Interconnection）的讨论，即讨论将从物理上禁止Verizon、AT&T等美资运营商与中资运营商的互联。如此一来，不仅电信、联通、移动、中信的美国电信业务被踢出局，还会连带IDC、IXP、PoP一同被赶这次行动会祭出「股权穿透」大招，即电信、联通、移动、中信的本体及其占股 >= 10% 的关联公司，都会因此连坐\n\n其中香港运营商PCCW和HKT都满足「股权穿透」条件，大概还有30-60天的公开征求意见期，以及可能的上诉法院司法审查。三大运营商＋中信的游说团和律师团虽说要出动，但翻盘的成功率很低，因为但凡涉及national security这种包装话术，即使走到美国上诉法院，都免不了支持 FCC 提案，这毕竟符合美版《总体国家安全观》"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这下不止中国大陆，连香港到美的互联也要玩烂了！\nFCC表决撤销中资运营商的一揽子授权之提议，目的是堵住 2022 年的法律漏洞：即使「中资运营商」的通信牌照被撤销，它们仍可根据一揽子授权（Blanket Authority）自动获得美国国内的州际电信服务资质 https://t.co/kcQHht8txo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31548,
+          "following_count": 586,
+          "like_count": 13321,
+          "listed_count": 154,
+          "media_count": 1627,
+          "tweet_count": 10891
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986756991432482816",
+        "3_1986756993391136768",
+        "3_1986756992824975360"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1986756996079767756",
+    "created_at": "2025-11-07T11:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986756996079767756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "install.sh",
+          "end": 123,
+          "expanded_url": "http://install.sh",
+          "start": 100,
+          "unwound_url": "http://install.sh",
+          "url": "https://t.co/c2E4LyzJVr"
+        },
+        {
+          "display_url": "pic.x.com/clmYIu9E8o",
+          "end": 204,
+          "expanded_url": "https://x.com/realNyarime/status/1986756996079767756/photo/1",
+          "media_key": "3_1986756991432482816",
+          "start": 181,
+          "url": "https://t.co/clmYIu9E8o"
+        },
+        {
+          "display_url": "pic.x.com/clmYIu9E8o",
+          "end": 204,
+          "expanded_url": "https://x.com/realNyarime/status/1986756996079767756/photo/1",
+          "media_key": "3_1986756993391136768",
+          "start": 181,
+          "url": "https://t.co/clmYIu9E8o"
+        },
+        {
+          "display_url": "pic.x.com/clmYIu9E8o",
+          "end": 204,
+          "expanded_url": "https://x.com/realNyarime/status/1986756996079767756/photo/1",
+          "media_key": "3_1986756992824975360",
+          "start": 181,
+          "url": "https://t.co/clmYIu9E8o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986756996079767756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来iKuai，也就是爱快也能装小猫咪。看奶昔论坛有个3.7.19，按帖子解锁插件环境实现无需爱快云平台装docker等插件，这玩意还有root。不过，需要改/sbin/sysinit才能开机执行那个https://t.co/c2E4LyzJVr有点像是挂载插件。另外GitHub有个iKuaiPatch/plugins插件库，也有解包教程欢迎大佬去研究一下！ https://t.co/clmYIu9E8o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_1986756991432482816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Jg9RlbYAAdXS1.jpg",
+        "width": 1258
+      },
+      {
+        "height": 2036,
+        "media_key": "3_1986756993391136768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Jg9Y4aEAA_n0y.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986756992824975360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Jg9WxbIAASsrN.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986756991432482816",
+            "3_1986756993391136768",
+            "3_1986756992824975360"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1986756996079767756",
+        "created_at": "2025-11-07T11:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986756996079767756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "install.sh",
+              "end": 123,
+              "expanded_url": "http://install.sh",
+              "start": 100,
+              "unwound_url": "http://install.sh",
+              "url": "https://t.co/c2E4LyzJVr"
+            },
+            {
+              "display_url": "pic.x.com/clmYIu9E8o",
+              "end": 204,
+              "expanded_url": "https://x.com/realNyarime/status/1986756996079767756/photo/1",
+              "media_key": "3_1986756991432482816",
+              "start": 181,
+              "url": "https://t.co/clmYIu9E8o"
+            },
+            {
+              "display_url": "pic.x.com/clmYIu9E8o",
+              "end": 204,
+              "expanded_url": "https://x.com/realNyarime/status/1986756996079767756/photo/1",
+              "media_key": "3_1986756993391136768",
+              "start": 181,
+              "url": "https://t.co/clmYIu9E8o"
+            },
+            {
+              "display_url": "pic.x.com/clmYIu9E8o",
+              "end": 204,
+              "expanded_url": "https://x.com/realNyarime/status/1986756996079767756/photo/1",
+              "media_key": "3_1986756992824975360",
+              "start": 181,
+              "url": "https://t.co/clmYIu9E8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986756996079767756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来iKuai，也就是爱快也能装小猫咪。看奶昔论坛有个3.7.19，按帖子解锁插件环境实现无需爱快云平台装docker等插件，这玩意还有root。不过，需要改/sbin/sysinit才能开机执行那个https://t.co/c2E4LyzJVr有点像是挂载插件。另外GitHub有个iKuaiPatch/plugins插件库，也有解包教程欢迎大佬去研究一下！ https://t.co/clmYIu9E8o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Naixi Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "realYingxi"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.naixi.org",
+                "end": 23,
+                "expanded_url": "http://about.naixi.org",
+                "start": 0,
+                "url": "https://t.co/8GeteJjIji"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1980325458756743246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978422573148114944/SvoZ3L_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 809,
+          "like_count": 8022,
+          "listed_count": 6,
+          "media_count": 466,
+          "tweet_count": 4298
+        },
+        "url": "https://t.co/8GeteJjIji",
+        "username": "realNyarime",
+        "verified": false
+      }
+    ]
+  }
+}

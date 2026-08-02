@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075932244628410368",
+        "3_2075932296314789888"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325474",
+          "name": "American Express "
+        }
+      }
+    ],
+    "conversation_id": "2075932526313648605",
+    "created_at": "2026-07-11T13:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075932526313648605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3UGERuVJzb",
+          "end": 69,
+          "expanded_url": "https://x.com/realNyarime/status/2075932526313648605/photo/1",
+          "media_key": "3_2075932244628410368",
+          "start": 46,
+          "url": "https://t.co/3UGERuVJzb"
+        },
+        {
+          "display_url": "pic.x.com/3UGERuVJzb",
+          "end": 69,
+          "expanded_url": "https://x.com/realNyarime/status/2075932526313648605/photo/1",
+          "media_key": "3_2075932296314789888",
+          "start": 46,
+          "url": "https://t.co/3UGERuVJzb"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/realNyarime/status/2075582180936626575",
+          "start": 70,
+          "url": "https://t.co/nlFSZXSfss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075932526313648605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075582180936626575",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "朋友在我的鼓励下办了，似乎CN版的AMEX与美国运通的差异还是蛮大的，不过权益还不错？？？ https://t.co/3UGERuVJzb https://t.co/nlFSZXSfss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2075932244628410368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8xYLLbEAA24vt.jpg",
+        "width": 1272
+      },
+      {
+        "height": 696,
+        "media_key": "3_2075932296314789888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8xbLuaoAAnw3b.png",
+        "width": 854
+      },
+      {
+        "height": 1321,
+        "media_key": "3_2075582072073428992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3y5cwbIAAlB9O.jpg",
+        "width": 900
+      },
+      {
+        "height": 906,
+        "media_key": "3_2075582072065007616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3y5cuaoAAsaxU.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075932244628410368",
+            "3_2075932296314789888"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325474",
+              "name": "American Express "
+            }
+          }
+        ],
+        "conversation_id": "2075932526313648605",
+        "created_at": "2026-07-11T13:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075932526313648605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UGERuVJzb",
+              "end": 69,
+              "expanded_url": "https://x.com/realNyarime/status/2075932526313648605/photo/1",
+              "media_key": "3_2075932244628410368",
+              "start": 46,
+              "url": "https://t.co/3UGERuVJzb"
+            },
+            {
+              "display_url": "pic.x.com/3UGERuVJzb",
+              "end": 69,
+              "expanded_url": "https://x.com/realNyarime/status/2075932526313648605/photo/1",
+              "media_key": "3_2075932296314789888",
+              "start": 46,
+              "url": "https://t.co/3UGERuVJzb"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/realNyarime/status/2075582180936626575",
+              "start": 70,
+              "url": "https://t.co/nlFSZXSfss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075932526313648605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075582180936626575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友在我的鼓励下办了，似乎CN版的AMEX与美国运通的差异还是蛮大的，不过权益还不错？？？ https://t.co/3UGERuVJzb https://t.co/nlFSZXSfss"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075582072073428992",
+            "3_2075582072065007616"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2075582180936626575",
+        "created_at": "2026-07-10T14:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075582180936626575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyTDofaewE",
+              "end": 78,
+              "expanded_url": "https://x.com/realNyarime/status/2075582180936626575/photo/1",
+              "media_key": "3_2075582072073428992",
+              "start": 55,
+              "url": "https://t.co/eyTDofaewE"
+            },
+            {
+              "display_url": "pic.x.com/eyTDofaewE",
+              "end": 78,
+              "expanded_url": "https://x.com/realNyarime/status/2075582180936626575/photo/1",
+              "media_key": "3_2075582072065007616",
+              "start": 55,
+              "url": "https://t.co/eyTDofaewE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075582180936626575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13677,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老农这是跟Kimi搞上了？？？\n低端卡，送49元会员x3\n高端卡，送199元会员x2（刚性年费880或积分） https://t.co/eyTDofaewE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40003,
+          "following_count": 663,
+          "like_count": 19174,
+          "listed_count": 184,
+          "media_count": 2349,
+          "tweet_count": 16157
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

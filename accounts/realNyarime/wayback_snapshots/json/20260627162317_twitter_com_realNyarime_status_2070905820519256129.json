@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070743216786444315",
+    "created_at": "2026-06-27T16:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070905820519256129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 19,
+          "id": "786174501427957761",
+          "start": 10,
+          "username": "amiaoapp"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070905820519256129",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070833960163443179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu @amiaoapp 确实，模拟器直接封你"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070743216786444315",
+        "created_at": "2026-06-27T16:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070905820519256129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 19,
+              "id": "786174501427957761",
+              "start": 10,
+              "username": "amiaoapp"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070905820519256129",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070833960163443179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu @amiaoapp 确实，模拟器直接封你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2070743216786444315",
+        "created_at": "2026-06-27T11:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070833960163443179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "786174501427957761",
+              "start": 0,
+              "username": "amiaoapp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070833960163443179",
+        "in_reply_to_user_id": "786174501427957761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 955,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070743216786444315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amiaoapp 你当App厂商都是傻x，自动化根本别想，会查你硬件封控你的，你猜灰产为什么都是用物理主板集群而不是虚拟化🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38602,
+          "following_count": 664,
+          "like_count": 18515,
+          "listed_count": 180,
+          "media_count": 2253,
+          "tweet_count": 15513
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 💖现实中是一个很可爱的人\n/ https://t.co/hUTrNHa19i\n/ Co-founder of https://t.co/gLiVpv8l1t https://t.co/PSLnUgusnm\n/ 🐱家里有小猫和大猫 @Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 125,
+                "username": "Dustella_Chan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 48,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 25,
+                "url": "https://t.co/hUTrNHa19i"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 88,
+                "expanded_url": "http://memoh.ai",
+                "start": 65,
+                "url": "https://t.co/gLiVpv8l1t"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 112,
+                "expanded_url": "http://felinic.ai",
+                "start": 89,
+                "url": "https://t.co/PSLnUgusnm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/acboxawa",
+                "end": 23,
+                "expanded_url": "http://t.me/acboxawa",
+                "start": 0,
+                "url": "https://t.co/ItS4Ve8jNM"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12299,
+          "following_count": 2973,
+          "like_count": 3432,
+          "listed_count": 64,
+          "media_count": 1118,
+          "tweet_count": 6340
+        },
+        "url": "https://t.co/ItS4Ve8jNM",
+        "username": "AcboxLiu",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-12T11:59:42.000Z",
+        "description": "分享软件资源，APP发烧友，AI技能技巧收集学习ING，ERP程序员\n电报频道：https://t.co/XvgNXMZzNM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/amiaoapp",
+                "end": 63,
+                "expanded_url": "https://t.me/amiaoapp",
+                "start": 40,
+                "url": "https://t.co/XvgNXMZzNM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amiao.app",
+                "end": 23,
+                "expanded_url": "https://amiao.app",
+                "start": 0,
+                "url": "https://t.co/kSncc6pe0Y"
+              }
+            ]
+          }
+        },
+        "id": "786174501427957761",
+        "location": "防失联👉🏻",
+        "name": "APP喵",
+        "pinned_tweet_id": "2056553472062107773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636188090942517249/clmLhuF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6035,
+          "following_count": 71,
+          "like_count": 351,
+          "listed_count": 30,
+          "media_count": 1431,
+          "tweet_count": 1936
+        },
+        "url": "https://t.co/kSncc6pe0Y",
+        "username": "amiaoapp",
+        "verified": true
+      }
+    ]
+  }
+}

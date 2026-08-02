@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2013155488045670410",
+    "created_at": "2026-01-20T08:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T09:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013534902474678626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4020970454",
+          "start": 0,
+          "username": "Azina7mi"
+        },
+        {
+          "end": 19,
+          "id": "703796597335822336",
+          "start": 10,
+          "username": "Kubai087"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013534902474678626",
+    "in_reply_to_user_id": "4020970454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013534601378177490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azina7mi @Kubai087 因为高通410只有Android有闭源驱动，QSDK是这样的（笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2013155488045670410",
+        "created_at": "2026-01-20T08:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013534902474678626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4020970454",
+              "start": 0,
+              "username": "Azina7mi"
+            },
+            {
+              "end": 19,
+              "id": "703796597335822336",
+              "start": 10,
+              "username": "Kubai087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013534902474678626",
+        "in_reply_to_user_id": "4020970454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013534601378177490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azina7mi @Kubai087 因为高通410只有Android有闭源驱动，QSDK是这样的（笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4020970454",
+        "conversation_id": "2013155488045670410",
+        "created_at": "2026-01-20T08:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013534601378177490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 22,
+              "id": "703796597335822336",
+              "start": 13,
+              "username": "Kubai087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013534601378177490",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013350792892223650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @Kubai087 我刷的debian13，网速慢的一，不过就收发下短信用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8243,
+          "following_count": 599,
+          "like_count": 9635,
+          "listed_count": 24,
+          "media_count": 757,
+          "tweet_count": 6519
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-26T05:12:30.000Z",
+        "description": "",
+        "id": "4020970454",
+        "location": "Taipei City, Taiwan",
+        "name": "壞孩子零號機",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763132510580645888/JSk0I4Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 439,
+          "like_count": 1440,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 240
+        },
+        "username": "Azina7mi",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-28T04:19:19.000Z",
+        "description": "Icon Designer 一个喜欢画图标的 IAAS UX｜ Booking 图标排单 https://t.co/0FNoHdC8pY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pd.kubai.design",
+                "end": 68,
+                "expanded_url": "http://pd.kubai.design",
+                "start": 45,
+                "url": "https://t.co/0FNoHdC8pY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohongshu.com/user/profile/5…",
+                "end": 23,
+                "expanded_url": "https://www.xiaohongshu.com/user/profile/5f30130300000000010006eb",
+                "start": 0,
+                "url": "https://t.co/dyaqI85ykW"
+              }
+            ]
+          }
+        },
+        "id": "703796597335822336",
+        "name": "枯白啃设计",
+        "pinned_tweet_id": "2013433134973583646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979788060905582592/pgrgS5Ep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 824,
+          "like_count": 2706,
+          "listed_count": 18,
+          "media_count": 101,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/dyaqI85ykW",
+        "username": "Kubai087",
+        "verified": true
+      }
+    ]
+  }
+}

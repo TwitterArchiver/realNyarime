@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1415728297065861123",
+          "name": "Steam Deck"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1415728297065861123",
+          "name": "Steam Deck"
+        }
+      }
+    ],
+    "conversation_id": "2012888703568355814",
+    "created_at": "2026-01-19T00:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T01:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013046316100731286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1251444237222240258",
+          "start": 0,
+          "username": "IIInoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013046316100731286",
+    "in_reply_to_user_id": "1251444237222240258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012888703568355814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIInoki 我之前玩SteamDeck也是做了双系统，另外SteamOS和Windows上的Steam客户端公用游戏库...\n一个Windows Update直接把EFI启动项覆盖了（至此我双系统用的是LTSC，也屏蔽了Windows更新，可能对于我来说它只是个游戏机\n要么就是all in Windows，那我为啥不买华硕的掌机？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2012888696970690560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-83mutWQAAPKYz.jpg",
+        "width": 1338
+      },
+      {
+        "height": 303,
+        "media_key": "3_2012888696995844096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-83muzWEAAr5fj.png",
+        "width": 406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1415728297065861123",
+              "name": "Steam Deck"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1415728297065861123",
+              "name": "Steam Deck"
+            }
+          }
+        ],
+        "conversation_id": "2012888703568355814",
+        "created_at": "2026-01-19T00:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T01:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013046316100731286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251444237222240258",
+              "start": 0,
+              "username": "IIInoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013046316100731286",
+        "in_reply_to_user_id": "1251444237222240258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012888703568355814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIInoki 我之前玩SteamDeck也是做了双系统，另外SteamOS和Windows上的Steam客户端公用游戏库...\n一个Windows Update直接把EFI启动项覆盖了（至此我双系统用的是LTSC，也屏蔽了Windows更新，可能对于我来说它只是个游戏机\n要么就是all in Windows，那我为啥不买华硕的掌机？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012888696970690560",
+            "3_2012888696995844096"
+          ]
+        },
+        "author_id": "1251444237222240258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2012888703568355814",
+        "created_at": "2026-01-18T14:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012888703568355814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Major new features Added a CLI tool, similar to RedHat bootloader team's efibootmgr to manipulate EFI entries Added EFI partition manipulations - mount, umount, open and create boot entry from...",
+              "display_url": "github.com/Inokinoki/QEFI…",
+              "end": 102,
+              "expanded_url": "https://github.com/Inokinoki/QEFIEntryManager/releases/tag/v0.5.0",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2012888710786813952/QcIftWfP?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012888710786813952/QcIftWfP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "Release Koa · Inokinoki/QEFIEntryManager",
+              "unwound_url": "https://github.com/Inokinoki/QEFIEntryManager/releases/tag/v0.5.0",
+              "url": "https://t.co/y3A4MAz8br"
+            },
+            {
+              "display_url": "pic.x.com/gG9KiHhOLH",
+              "end": 209,
+              "expanded_url": "https://x.com/IIInoki/status/2012888703568355814/photo/1",
+              "media_key": "3_2012888696970690560",
+              "start": 186,
+              "url": "https://t.co/gG9KiHhOLH"
+            },
+            {
+              "display_url": "pic.x.com/gG9KiHhOLH",
+              "end": 209,
+              "expanded_url": "https://x.com/IIInoki/status/2012888703568355814/photo/1",
+              "media_key": "3_2012888696995844096",
+              "start": 186,
+              "url": "https://t.co/gG9KiHhOLH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012888703568355814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 561,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨 Win Linux 和 FreeBSD 的 EFI 启动项管理器发 v0.5.0 了\n可以在多系统机器上快速切换系统/修复被 Win 更新覆盖的启动项了\nhttps://t.co/y3A4MAz8br\n\n支援的操作：\n- 改启动顺序\n- 一键重启到另一个操作系统-单次生效\n- 挂载/卸载系统 EFI 分区（新）\n- 从 EFI 分区文件快速创建启动项（新，不稳定） https://t.co/gG9KiHhOLH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8085,
+          "following_count": 623,
+          "like_count": 9412,
+          "listed_count": 23,
+          "media_count": 746,
+          "tweet_count": 6325
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-18T09:35:39.000Z",
+        "description": "Nobody\n“文科”博士🐶\n人间不值得 生活推\n風立ちぬ、いざ生きめやも\nOSS @kdecommunity\n背景图 by @IIInoki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "kdecommunity"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "username": "IIInoki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inoki.cc",
+                "end": 23,
+                "expanded_url": "https://www.inoki.cc",
+                "start": 0,
+                "url": "https://t.co/4mBacSf4mT"
+              }
+            ]
+          }
+        },
+        "id": "1251444237222240258",
+        "location": "距您 -18cm",
+        "name": "鹿 𝕟𝕠𝕜𝕚𝕟𝕠𝕜𝕚 祥子",
+        "pinned_tweet_id": "1854157543364301204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831914566684438528/Tjbm3SmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10322,
+          "following_count": 1749,
+          "like_count": 64405,
+          "listed_count": 81,
+          "media_count": 2381,
+          "tweet_count": 32890
+        },
+        "url": "https://t.co/4mBacSf4mT",
+        "username": "IIInoki",
+        "verified": false
+      }
+    ]
+  }
+}

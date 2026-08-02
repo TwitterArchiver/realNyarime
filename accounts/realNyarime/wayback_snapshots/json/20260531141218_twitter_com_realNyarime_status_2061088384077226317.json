@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2061081220864410079",
+    "created_at": "2026-05-31T14:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061088384077226317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1302118861995536387",
+          "start": 0,
+          "username": "Jiaxi_Cui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061088384077226317",
+    "in_reply_to_user_id": "1302118861995536387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061081220864410079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiaxi_Cui 我一直觉得4.6是pipeline，尤其是这几天4.8让我很不爽\n我在4.7和4.6fast感觉还是4.6快速模式好些"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 358,
+        "media_key": "3_2061081050634481664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpuS6RbcAAZWjl.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2061081220864410079",
+        "created_at": "2026-05-31T14:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061088384077226317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1302118861995536387",
+              "start": 0,
+              "username": "Jiaxi_Cui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061088384077226317",
+        "in_reply_to_user_id": "1302118861995536387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061081220864410079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiaxi_Cui 我一直觉得4.6是pipeline，尤其是这几天4.8让我很不爽\n我在4.7和4.6fast感觉还是4.6快速模式好些"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061081050634481664"
+          ]
+        },
+        "author_id": "1302118861995536387",
+        "conversation_id": "2061081220864410079",
+        "created_at": "2026-05-31T13:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061081220864410079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Explore this post and more from the ClaudeAI community",
+              "display_url": "reddit.com/r/ClaudeAI/com…",
+              "end": 75,
+              "expanded_url": "https://www.reddit.com/r/ClaudeAI/comments/1sshscj/fixed_the_could_not_process_image/",
+              "start": 52,
+              "status": 200,
+              "title": "From the ClaudeAI community on Reddit: Fixed the \"Could not process image\" session-poisoning bug in Claude Code 4.7 with a 160-line PreToolUse hook",
+              "unwound_url": "https://www.reddit.com/r/ClaudeAI/comments/1sshscj/fixed_the_could_not_process_image/",
+              "url": "https://t.co/SJSiGexKBG"
+            },
+            {
+              "display_url": "pic.x.com/TOBmNCQh1H",
+              "end": 99,
+              "expanded_url": "https://x.com/Jiaxi_Cui/status/2061081220864410079/photo/1",
+              "media_key": "3_2061081050634481664",
+              "start": 76,
+              "url": "https://t.co/TOBmNCQh1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061081220864410079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近 Claude Bug好多·，今天频繁遇到的这个问题，似乎是从 4.7 开始引入的，可以看这里解决：https://t.co/SJSiGexKBG https://t.co/TOBmNCQh1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35558,
+          "following_count": 656,
+          "like_count": 16226,
+          "listed_count": 157,
+          "media_count": 2000,
+          "tweet_count": 13313
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-05T05:38:34.000Z",
+        "description": "Building @cerul_hq\nI love video",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "cerul_hq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cerul.ai",
+                "end": 23,
+                "expanded_url": "https://cerul.ai",
+                "start": 0,
+                "url": "https://t.co/UIZjPHhc8D"
+              }
+            ]
+          }
+        },
+        "id": "1302118861995536387",
+        "name": "Panda",
+        "pinned_tweet_id": "2042058620729487588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677124881144770560/W6zZ-Zux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21467,
+          "following_count": 866,
+          "like_count": 3665,
+          "listed_count": 221,
+          "media_count": 622,
+          "tweet_count": 3752
+        },
+        "url": "https://t.co/UIZjPHhc8D",
+        "username": "Jiaxi_Cui",
+        "verified": true
+      }
+    ]
+  }
+}

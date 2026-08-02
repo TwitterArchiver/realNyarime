@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2044260763930636578",
+    "created_at": "2026-04-15T06:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T07:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044304276470804839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1680105152",
+          "start": 0,
+          "username": "skaas777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044304276470804839",
+    "in_reply_to_user_id": "1680105152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044260763930636578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skaas777 粗粮其实不在乎他，至于买产品应该看具体小字，而不是像华为ax路由器不支持WiFi6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1497,
+        "media_key": "3_2044260756598956032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6sU8FaIAAA_dJ.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2044260763930636578",
+        "created_at": "2026-04-15T06:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044304276470804839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1680105152",
+              "start": 0,
+              "username": "skaas777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044304276470804839",
+        "in_reply_to_user_id": "1680105152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044260763930636578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skaas777 粗粮其实不在乎他，至于买产品应该看具体小字，而不是像华为ax路由器不支持WiFi6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044260756598956032"
+          ]
+        },
+        "author_id": "1680105152",
+        "conversation_id": "2044260763930636578",
+        "created_at": "2026-04-15T03:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044260763930636578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kS4WvJjgz",
+              "end": 53,
+              "expanded_url": "https://x.com/skaas777/status/2044260763930636578/photo/1",
+              "media_key": "3_2044260756598956032",
+              "start": 30,
+              "url": "https://t.co/5kS4WvJjgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044260763930636578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得小米没发函要求卫斯理删帖，这品牌就还值得观察观察。🫣 https://t.co/5kS4WvJjgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27965,
+          "following_count": 507,
+          "like_count": 12223,
+          "listed_count": 129,
+          "media_count": 1473,
+          "tweet_count": 9919
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-18T07:24:14.000Z",
+        "description": "一人+AI做项目，持续公开从0到1全过程。\n专注：AI工具链、内容增长、自动化工作流、变现实验。\n只讲实战，不讲空话。",
+        "id": "1680105152",
+        "location": "Japan",
+        "name": "Jason Lee",
+        "pinned_tweet_id": "2034146056733397511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973376105307578369/TWS2NpAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 783,
+          "like_count": 22437,
+          "listed_count": 29,
+          "media_count": 2188,
+          "tweet_count": 7901
+        },
+        "username": "skaas777",
+        "verified": true
+      }
+    ]
+  }
+}

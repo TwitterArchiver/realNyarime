@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "1990342953710309513",
+    "created_at": "2025-11-18T01:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T02:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990598387188871560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "983979651474141184",
+          "start": 0,
+          "username": "merlinLabo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990598387188871560",
+    "in_reply_to_user_id": "983979651474141184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990342953710309513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@merlinLabo 这个应该是跟有锁机一样的那种激活策略吧，应该是属于网络锁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1990342765637693440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58eMzcacAA8zVA.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_1990342796130357249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58eOlCbkAEyd4g.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "1990342953710309513",
+        "created_at": "2025-11-18T01:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990598387188871560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "983979651474141184",
+              "start": 0,
+              "username": "merlinLabo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990598387188871560",
+        "in_reply_to_user_id": "983979651474141184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990342953710309513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@merlinLabo 这个应该是跟有锁机一样的那种激活策略吧，应该是属于网络锁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990342765637693440",
+            "3_1990342796130357249"
+          ]
+        },
+        "author_id": "983979651474141184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1990342953710309513",
+        "created_at": "2025-11-17T08:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990342953710309513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "itunesstored & bookassetd sbx escape. Contribute to khanhduytran0/bl_sbx development by creating an account on GitHub.",
+              "display_url": "github.com/khanhduytran0/…",
+              "end": 40,
+              "expanded_url": "https://github.com/khanhduytran0/bl_sbx",
+              "start": 17,
+              "status": 200,
+              "title": "GitHub - khanhduytran0/bl_sbx: itunesstored & bookassetd sbx escape",
+              "unwound_url": "https://github.com/khanhduytran0/bl_sbx",
+              "url": "https://t.co/Wjq7hjQKsP"
+            },
+            {
+              "display_url": "pic.x.com/u3sfkdisjz",
+              "end": 197,
+              "expanded_url": "https://x.com/merlinLabo/status/1990342953710309513/photo/1",
+              "media_key": "3_1990342765637693440",
+              "start": 174,
+              "url": "https://t.co/u3sfkdisjz"
+            },
+            {
+              "display_url": "pic.x.com/u3sfkdisjz",
+              "end": 197,
+              "expanded_url": "https://x.com/merlinLabo/status/1990342953710309513/photo/1",
+              "media_key": "3_1990342796130357249",
+              "start": 174,
+              "url": "https://t.co/u3sfkdisjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990342953710309513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 16117,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "最近有个 iOS 沙盒逃逸的漏洞（https://t.co/Wjq7hjQKsP）导致又能修改 MobileGestalt 从而解锁一些区域限制的功能了（例如 AI） ，但触发概率并非百分百。以我手上的国行 iPhone Air 为例，大约尝试了十次才成功。\n\n另外，实测更改销售地区并不能绕过国行 iPhone Air 的 eSIM 添加限制。 https://t.co/u3sfkdisjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "Nyarime, Founder of Naixi Network | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi | Inner @NyarimeSu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "realYingxi"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "NyarimeSu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.naixi.org",
+                "end": 23,
+                "expanded_url": "http://about.naixi.org",
+                "start": 0,
+                "url": "https://t.co/8GeteJjIji"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "1980325458756743246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978422573148114944/SvoZ3L_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2750,
+          "following_count": 810,
+          "like_count": 8034,
+          "listed_count": 7,
+          "media_count": 468,
+          "tweet_count": 4330
+        },
+        "url": "https://t.co/8GeteJjIji",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-11T08:06:45.000Z",
+        "description": "健康的屎不沾屁股",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "merlinlabo.com",
+                "end": 23,
+                "expanded_url": "http://merlinlabo.com",
+                "start": 0,
+                "url": "https://t.co/Zlrtapn5RW"
+              }
+            ]
+          }
+        },
+        "id": "983979651474141184",
+        "location": "Earth",
+        "name": "merlin🐧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976108666454712321/ZFBvevD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 218,
+          "like_count": 2562,
+          "listed_count": 4,
+          "media_count": 416,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/Zlrtapn5RW",
+        "username": "merlinLabo",
+        "verified": false
+      }
+    ]
+  }
+}

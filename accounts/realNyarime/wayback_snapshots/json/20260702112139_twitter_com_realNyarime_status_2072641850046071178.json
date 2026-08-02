@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072641840134914048",
+        "3_2072641840126509056"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2072641850046071178",
+    "created_at": "2026-07-02T11:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072641850046071178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cm1QK1QzwX",
+          "end": 165,
+          "expanded_url": "https://x.com/realNyarime/status/2072641850046071178/photo/1",
+          "media_key": "3_2072641840134914048",
+          "start": 142,
+          "url": "https://t.co/Cm1QK1QzwX"
+        },
+        {
+          "display_url": "pic.x.com/Cm1QK1QzwX",
+          "end": 165,
+          "expanded_url": "https://x.com/realNyarime/status/2072641850046071178/photo/1",
+          "media_key": "3_2072641840126509056",
+          "start": 142,
+          "url": "https://t.co/Cm1QK1QzwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072641850046071178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "给某OS适配了个OpenWrt容器，选的是飞牛OS同款QWRT，共享宿主机内核所以对容器的组件进行了定制\n\n分俩版本，经典旁路由（需改网关）、透明网关（需加端口分流）。现在内存金贵大概占个5-30M，按插件的标准存储应用数据，停止、卸载时释放容器，下次启动时再全新创建并映射配置分区\n\n如果能过审，用户就不需要再去虚拟机里创建、导镜像和复杂配网了，这套黄金组合能更高效、更省事！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给某OS适配了个OpenWrt容器，选的是飞牛OS同款QWRT，共享宿主机内核所以对容器的组件进行了定制\n\n分俩版本，经典旁路由（需改网关）、透明网关（需加端口分流）。现在内存金贵大概占个5-30M，按插件的标准存储应用数据，停止、卸载时释放容器，下次启动时再全新创建并映射配置分区 https://t.co/Cm1QK1QzwX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_2072641840134914048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOAxbPagAAMljJ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 357,
+        "media_key": "3_2072641840126509056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOAxbNaQAAdeFa.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072641840134914048",
+            "3_2072641840126509056"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2072641850046071178",
+        "created_at": "2026-07-02T11:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072641850046071178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cm1QK1QzwX",
+              "end": 165,
+              "expanded_url": "https://x.com/realNyarime/status/2072641850046071178/photo/1",
+              "media_key": "3_2072641840134914048",
+              "start": 142,
+              "url": "https://t.co/Cm1QK1QzwX"
+            },
+            {
+              "display_url": "pic.x.com/Cm1QK1QzwX",
+              "end": 165,
+              "expanded_url": "https://x.com/realNyarime/status/2072641850046071178/photo/1",
+              "media_key": "3_2072641840126509056",
+              "start": 142,
+              "url": "https://t.co/Cm1QK1QzwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072641850046071178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "给某OS适配了个OpenWrt容器，选的是飞牛OS同款QWRT，共享宿主机内核所以对容器的组件进行了定制\n\n分俩版本，经典旁路由（需改网关）、透明网关（需加端口分流）。现在内存金贵大概占个5-30M，按插件的标准存储应用数据，停止、卸载时释放容器，下次启动时再全新创建并映射配置分区\n\n如果能过审，用户就不需要再去虚拟机里创建、导镜像和复杂配网了，这套黄金组合能更高效、更省事！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给某OS适配了个OpenWrt容器，选的是飞牛OS同款QWRT，共享宿主机内核所以对容器的组件进行了定制\n\n分俩版本，经典旁路由（需改网关）、透明网关（需加端口分流）。现在内存金贵大概占个5-30M，按插件的标准存储应用数据，停止、卸载时释放容器，下次启动时再全新创建并映射配置分区 https://t.co/Cm1QK1QzwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39067,
+          "following_count": 653,
+          "like_count": 18662,
+          "listed_count": 180,
+          "media_count": 2281,
+          "tweet_count": 15672
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

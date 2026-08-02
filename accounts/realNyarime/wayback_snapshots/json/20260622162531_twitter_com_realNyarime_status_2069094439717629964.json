@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068994485263245526",
+    "created_at": "2026-06-22T16:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069094439717629964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581866233225281538",
+          "start": 0,
+          "username": "K1ta_Ikuyo"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2069094439717629964",
+    "in_reply_to_user_id": "1581866233225281538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068994485263245526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ta_Ikuyo 室内有空调其实也还好，但丝袜+小皮鞋真的好看，我也喜欢ww"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1671,
+        "media_key": "3_2068994464379719680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaLgNuaUAA-sts.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1357,
+        "media_key": "3_2068994464321024000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaLgNgasAA1Icg.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068994464367165440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaLgNrawAAufLi.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068994464337833984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaLgNkbMAAG0AI.jpg",
+        "width": 1770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068994485263245526",
+        "created_at": "2026-06-22T16:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069094439717629964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581866233225281538",
+              "start": 0,
+              "username": "K1ta_Ikuyo"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2069094439717629964",
+        "in_reply_to_user_id": "1581866233225281538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068994485263245526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ta_Ikuyo 室内有空调其实也还好，但丝袜+小皮鞋真的好看，我也喜欢ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068994464379719680",
+            "3_2068994464321024000",
+            "3_2068994464367165440",
+            "3_2068994464337833984"
+          ]
+        },
+        "author_id": "1581866233225281538",
+        "conversation_id": "2068994485263245526",
+        "created_at": "2026-06-22T09:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068994485263245526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcQus920jX",
+              "end": 43,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2068994485263245526/photo/1",
+              "media_key": "3_2068994464379719680",
+              "start": 20,
+              "url": "https://t.co/rcQus920jX"
+            },
+            {
+              "display_url": "pic.x.com/rcQus920jX",
+              "end": 43,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2068994485263245526/photo/1",
+              "media_key": "3_2068994464321024000",
+              "start": 20,
+              "url": "https://t.co/rcQus920jX"
+            },
+            {
+              "display_url": "pic.x.com/rcQus920jX",
+              "end": 43,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2068994485263245526/photo/1",
+              "media_key": "3_2068994464367165440",
+              "start": 20,
+              "url": "https://t.co/rcQus920jX"
+            },
+            {
+              "display_url": "pic.x.com/rcQus920jX",
+              "end": 43,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2068994485263245526/photo/1",
+              "media_key": "3_2068994464337833984",
+              "start": 20,
+              "url": "https://t.co/rcQus920jX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068994485263245526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 9922,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这种天气还愿意穿丝袜小皮鞋的一定是天使 https://t.co/rcQus920jX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38188,
+          "following_count": 658,
+          "like_count": 18220,
+          "listed_count": 179,
+          "media_count": 2217,
+          "tweet_count": 15211
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-17T04:34:43.000Z",
+        "description": "結束バンドのギタリスト｜❤️@N2009750000｜女子力UP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "N2009750000"
+              }
+            ]
+          }
+        },
+        "id": "1581866233225281538",
+        "location": "Tokyo Japan",
+        "name": "きた いくよ",
+        "pinned_tweet_id": "1937031572701729195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005655391951290368/i8ZUNkDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11816,
+          "following_count": 3156,
+          "like_count": 36233,
+          "listed_count": 23,
+          "media_count": 691,
+          "tweet_count": 14911
+        },
+        "url": "",
+        "username": "K1ta_Ikuyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2081315970271052213",
+    "created_at": "2026-07-26T12:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081352553024180526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1125309529145524224",
+          "start": 0,
+          "username": "wquguru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081352553024180526",
+    "in_reply_to_user_id": "1125309529145524224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081315970271052213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wquguru 不是下午，而是一周前就开始了，反正A\\也很草台就是了。6 个号已经封了 4 个，现在注册关上了，sub2api/CPA 都能反代"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081315961152655360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJR1uHa0AAGjVm.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2081315970271052213",
+        "created_at": "2026-07-26T12:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081352553024180526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1125309529145524224",
+              "start": 0,
+              "username": "wquguru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081352553024180526",
+        "in_reply_to_user_id": "1125309529145524224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081315970271052213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wquguru 不是下午，而是一周前就开始了，反正A\\也很草台就是了。6 个号已经封了 4 个，现在注册关上了，sub2api/CPA 都能反代"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081315961152655360"
+          ]
+        },
+        "author_id": "1125309529145524224",
+        "conversation_id": "2081315970271052213",
+        "created_at": "2026-07-26T09:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081315970271052213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B35IRXADix",
+              "end": 94,
+              "expanded_url": "https://x.com/wquguru/status/2081315970271052213/photo/1",
+              "media_key": "3_2081315961152655360",
+              "start": 71,
+              "url": "https://t.co/B35IRXADix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081315970271052213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天下午开始一个薅claude max20的方法在网络上流传开来：脚本负责骗前端出现SEPA 入口，假 IBAN 负责通过数学校验，SEPA 异步结算负责制造先开通、后失败的时间差，三者一起达到开空头支票套取A\\免费服务的目的。此类欺诈手法其实一直都或暗或明的存在着，代价大概率是账号、支付指纹双双黑名单，以及实打实的法律风险，不建议尝试。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4592,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天下午开始一个薅claude max20的方法在网络上流传开来：脚本负责骗前端出现SEPA 入口，假 IBAN 负责通过数学校验，SEPA https://t.co/B35IRXADix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41484,
+          "following_count": 670,
+          "like_count": 20251,
+          "listed_count": 183,
+          "media_count": 2466,
+          "tweet_count": 17014
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-06T08:01:13.000Z",
+        "description": "AI+量化+工程\nVibe Coding 12原则→https://t.co/v8fMk1VLfj\n打造Agent PoC→https://t.co/pg7QEz0fGp\n欢迎DM👋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "12factor.me",
+                "end": 49,
+                "expanded_url": "https://12factor.me",
+                "start": 26,
+                "url": "https://t.co/v8fMk1VLfj"
+              },
+              {
+                "display_url": "agentway.dev",
+                "end": 85,
+                "expanded_url": "https://agentway.dev",
+                "start": 62,
+                "url": "https://t.co/pg7QEz0fGp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wqu.guru/blog/quantopia…",
+                "end": 23,
+                "expanded_url": "https://wqu.guru/blog/quantopia-quantitative-analysis-56-lectures",
+                "start": 0,
+                "url": "https://t.co/pvsHX8lzXY"
+              }
+            ]
+          }
+        },
+        "id": "1125309529145524224",
+        "location": "imagine",
+        "name": "WquGuru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892575619298525184/q8syuBou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19313,
+          "following_count": 1663,
+          "like_count": 16383,
+          "listed_count": 379,
+          "media_count": 660,
+          "tweet_count": 4155
+        },
+        "url": "https://t.co/pvsHX8lzXY",
+        "username": "wquguru",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2063038502565282232",
+    "created_at": "2026-06-06T00:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063055776336457991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1468443406250950656",
+          "start": 0,
+          "username": "cjzafir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063055776336457991",
+    "in_reply_to_user_id": "1468443406250950656",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063038502565282232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjzafir wtf... DeepSeek 100USD??? It's impossible"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 132,
+        "media_key": "3_2063036794611105792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFhCMVbAAAp9u1.png",
+        "width": 798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2063038502565282232",
+        "created_at": "2026-06-06T00:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063055776336457991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1468443406250950656",
+              "start": 0,
+              "username": "cjzafir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063055776336457991",
+        "in_reply_to_user_id": "1468443406250950656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063038502565282232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjzafir wtf... DeepSeek 100USD??? It's impossible"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063036794611105792"
+          ]
+        },
+        "author_id": "1468443406250950656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2063038502565282232",
+        "created_at": "2026-06-05T23:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063038502565282232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8c7lIAV6M7",
+              "end": 257,
+              "expanded_url": "https://x.com/cjzafir/status/2063038502565282232/photo/1",
+              "media_key": "3_2063036794611105792",
+              "start": 234,
+              "url": "https://t.co/8c7lIAV6M7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063038502565282232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1841,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "X is paying for my fine-tuning expenses:\n&gt; Codex 20x pro $200\n&gt; Claude Code 5x pro $100\n&gt; Deepseek v4 API $100\n&gt; Kimi 2.6 API $35\n&gt; Google Colab pro $70\n&gt; Black coffee daily $100\n&gt; Youtube ad free $9\n\nSavings $54 https://t.co/8c7lIAV6M7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36059,
+          "following_count": 660,
+          "like_count": 16619,
+          "listed_count": 159,
+          "media_count": 2065,
+          "tweet_count": 13698
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-08T04:53:04.000Z",
+        "description": "I fine-tune small language models (SLMs) and beat large language models (LLMs)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeguide.dev",
+                "end": 23,
+                "expanded_url": "http://www.codeguide.dev",
+                "start": 0,
+                "url": "https://t.co/pIXoJJ9rwS"
+              }
+            ]
+          }
+        },
+        "id": "1468443406250950656",
+        "name": "CJ Zafir",
+        "pinned_tweet_id": "2015080467033395673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782802003078299648/q3bQeEyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58807,
+          "following_count": 978,
+          "like_count": 10599,
+          "listed_count": 1081,
+          "media_count": 1158,
+          "tweet_count": 9909
+        },
+        "url": "https://t.co/pIXoJJ9rwS",
+        "username": "cjzafir",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026339571",
+          "name": "Cisco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026339571",
+          "name": "Cisco"
+        }
+      }
+    ],
+    "conversation_id": "2048105653135442139",
+    "created_at": "2026-04-25T18:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048109485894602825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884558638225993729",
+          "start": 0,
+          "username": "qiqi_caijeff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 46,
+          "expanded_url": "https://x.com/realNyarime/status/2047920855024550117",
+          "start": 23,
+          "url": "https://t.co/oSQr58VwAq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048109485894602825",
+    "in_reply_to_user_id": "1884558638225993729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047920855024550117",
+        "type": "quoted"
+      },
+      {
+        "id": "2048109316431855976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqi_caijeff 但是可以拿来翻墙\nhttps://t.co/oSQr58VwAq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026339571",
+              "name": "Cisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026339571",
+              "name": "Cisco"
+            }
+          }
+        ],
+        "conversation_id": "2048105653135442139",
+        "created_at": "2026-04-25T18:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048109485894602825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884558638225993729",
+              "start": 0,
+              "username": "qiqi_caijeff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 46,
+              "expanded_url": "https://x.com/realNyarime/status/2047920855024550117",
+              "start": 23,
+              "url": "https://t.co/oSQr58VwAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048109485894602825",
+        "in_reply_to_user_id": "1884558638225993729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047920855024550117",
+            "type": "quoted"
+          },
+          {
+            "id": "2048109316431855976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqi_caijeff 但是可以拿来翻墙\nhttps://t.co/oSQr58VwAq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026339571",
+              "name": "Cisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026339571",
+              "name": "Cisco"
+            }
+          }
+        ],
+        "conversation_id": "2047920855024550117",
+        "created_at": "2026-04-25T06:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047920855024550117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "1. 下载安装 Cisco anyconnect vpn 客户端 2. 在 windows 开始菜单找到 “Cisco AnyConnect Secure Mobility Client” 快捷方式，打开客户端, 输入 “vpn.100tal.com”，点击 “connect” 例如： zhangsan@tal.com VPN 的用户名为 zhangsan 4. password 是 AD 域密码 + 未来钥匙的动态口令码组合 5. 如果不知道什么是域账户或者忘记自己的域账户密码，可以点击知音楼工作台 -- 下拉找到 IT 管理栏 -- 域密码修改，进行重置 6. 打开手机 “知音楼”，点击下方 “工作”，找到 “未来钥匙”，打开后查看 6 位数动态密码 打开桌面 “访达”，选择左边的 “应用程序”，找到 “Cisco” 文件夹下的 “Uninstall Anyconnect”，双击卸载时输入电脑的开机密码即可完成卸载 1. 下载完 vpn 客户端后，双击打开 pkg 文件，点击 “继续” 下一步 3. 只保留 “VPN” 选项，其他的选项前面的对勾全部取消，点 “继续” 4. 输入 mac",
+              "display_url": "…ps-100tal.oss-cn-beijing.aliyuncs.com/vpnuserguide/v…",
+              "end": 137,
+              "expanded_url": "https://devops-100tal.oss-cn-beijing.aliyuncs.com/vpnuserguide/vpnuserguide.htm",
+              "images": [
+                {
+                  "height": 186,
+                  "url": "https://pbs.twimg.com/news_img/2047920876289654784/RjI0quVU?format=jpg&name=orig",
+                  "width": 547
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047920876289654784/RjI0quVU?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "集团VPN用户手册",
+              "unwound_url": "https://devops-100tal.oss-cn-beijing.aliyuncs.com/vpnuserguide/vpnuserguide.htm",
+              "url": "https://t.co/bojmlp1a55"
+            },
+            {
+              "description": "AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。 - bjdgyc/anylink",
+              "display_url": "github.com/bjdgyc/anylink",
+              "end": 182,
+              "expanded_url": "https://github.com/bjdgyc/anylink",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2047920863102803968/6hueGKcT?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047920863102803968/6hueGKcT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 159,
+              "status": 200,
+              "title": "GitHub - bjdgyc/anylink: AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。",
+              "unwound_url": "https://github.com/bjdgyc/anylink",
+              "url": "https://t.co/jrQ5SrLiwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047920855024550117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 778,
+          "impression_count": 53578,
+          "like_count": 417,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "敏感时期遇阻断，可在境外服务器部署SSL VPN后使用思科Cisco AnyConnect连接，该协议已被识别但仅有干扰限速，但外企都在用！\n包括国区App Store均有提供该应用下载，其余客户端可参考《集团VPN用户手册》：https://t.co/bojmlp1a55\n\n服务端是基于ocserv二开，项目页：\nhttps://t.co/jrQ5SrLiwW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884558638225993729",
+        "conversation_id": "2048105653135442139",
+        "created_at": "2026-04-25T18:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048109316431855976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048109316431855976",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048105653135442139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 这是企业应用而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30479,
+          "following_count": 551,
+          "like_count": 12893,
+          "listed_count": 149,
+          "media_count": 1563,
+          "tweet_count": 10461
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-29T11:06:38.000Z",
+        "description": "出海公司创业者 |非严肃技术爱好者｜\nAI践行者/降临派 | IT/通信伪专家｜\n维特根斯坦研究者｜\n非理性主义/唯心主义/不可知论/有神论/保守主义者｜\nHumans seek certainty to feel safe｜\nAI seeks uncertainty to keep learning",
+        "id": "1884558638225993729",
+        "location": "California, USA",
+        "name": "白知白（蓝V互关）（科技与生活）",
+        "pinned_tweet_id": "2040820402633486811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038276957033713664/ByQsmnCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 2257,
+          "like_count": 1767,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 448
+        },
+        "username": "qiqi_caijeff",
+        "verified": true
+      }
+    ]
+  }
+}

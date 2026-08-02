@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015479599358939136"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2015489997475074189",
+    "created_at": "2026-01-25T18:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T19:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015489997475074189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e8JdfJVevF",
+          "end": 138,
+          "expanded_url": "https://x.com/realNyarime/status/2015489997475074189/photo/1",
+          "media_key": "3_2015479599358939136",
+          "start": 115,
+          "url": "https://t.co/e8JdfJVevF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015489997475074189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最近大家好像都像入国行iPhone Air的国补，我想善意的提醒各位，这玩意碰不得，除非你想写国内eSIM。\n\n苹果为了配合国家“断卡行动”煞费苦心，不惜让无卡手机沦为双卡双待，还有境内加不了GSMA国际通用eSIM的电子围栏！\n哦对了，移除国内eSIM后需要本人带着身份证、手机（人证机）亲自到营业厅办理哦～不可代办🤗问就是为你好！\n简单来说就是0+n、1+n、2+0三种组合。请让我来解释一下你就明白了：\n\n0+n，就是不写国内eSIM。\n在中国境外与外版一致，当countryd判断为CN时，将触发“电子围栏”无法添加GSMA eSIM。\n有这需求的不如买外版（如港版、美版等），就不需要跑到境外才能写卡了。\n\n1+n，就是1张国内eSIM配n张GSMA eSIM，这个讲究先来后到。\n当你在营业厅写入国内eSIM时，如果你的eSIM配置文件数量≥2，蜂窝网络中的“添加 eSIM”就会变成灰色。\n除非删到剩一张eSIM卡或参考0+n，否则你再也无法添加新的eSIM。\n\n由于iPhone用的st33的eUICC芯片最多能写8-10张eSIM profile。\n为啥叫先来后到？这其实是两种情况，我把它归类为A和B：\nA. 假设你在境外写了8张GSMA eSIM，回国后到营业厅后首次添加了国内eSIM后，虽然能禁用任意一个eSIM以启用其他eSIM，但无法再添加新的eSIM。\nB. 出境前你已经添加了一张国内eSIM，那么在境外添加一张GSMA eSIM后，一样“添加 eSIM”变灰，此时沦为双卡。除非删掉国内eSIM回到A，否则用新的GSMA eSIM之前都要先移除旧的GSMA eSIM。\n\n2+0，就是两卡都是国内eSIM。\n如果前面两种组合还能接受，那这个组合简直是王炸！\n当国行iPhone Air添加两张国内eSIM后，在无法添加新的eSIM的基础上，已有的GSMA eSIM将全被禁用、无法切卡启用。即使禁用其中一张、两张国内eSIM，那些GSMA eSIM的启用永远是灰色（不可用）状态。\n除非你删一张国内eSIM回到1+n才能切卡，除非你删两张国内eSIM回到0+n才能加卡。\n如果一张GSMA eSIM都没有，此时沦为双卡，得删任意一张国内eSIM才能在境外加卡。\n\n看完以后不知道你还觉得香不香？实话说国行没有AI就算了，5099买个iPhone 17不香吗？\n至于看到下单的，可能他们确实有国内eSIM的需求。往期我已经说过，每次都要落地后连接机场WiFi再去扫二维码加卡，真是低人一等啊🤣"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近大家好像都像入国行iPhone Air的国补，我想善意的提醒各位，这玩意碰不得，除非你想写国内eSIM。\n\n苹果为了配合国家“断卡行动”煞费苦心，不惜让无卡手机沦为双卡双待，还有境内加不了GSMA国际通用eSIM的电子围栏！ https://t.co/e8JdfJVevF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1571,
+        "media_key": "3_2015479599358939136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hsBGPWEAAzlZW.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015479599358939136"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2015489997475074189",
+        "created_at": "2026-01-25T18:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T19:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015489997475074189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8JdfJVevF",
+              "end": 138,
+              "expanded_url": "https://x.com/realNyarime/status/2015489997475074189/photo/1",
+              "media_key": "3_2015479599358939136",
+              "start": 115,
+              "url": "https://t.co/e8JdfJVevF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015489997475074189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近大家好像都像入国行iPhone Air的国补，我想善意的提醒各位，这玩意碰不得，除非你想写国内eSIM。\n\n苹果为了配合国家“断卡行动”煞费苦心，不惜让无卡手机沦为双卡双待，还有境内加不了GSMA国际通用eSIM的电子围栏！\n哦对了，移除国内eSIM后需要本人带着身份证、手机（人证机）亲自到营业厅办理哦～不可代办🤗问就是为你好！\n简单来说就是0+n、1+n、2+0三种组合。请让我来解释一下你就明白了：\n\n0+n，就是不写国内eSIM。\n在中国境外与外版一致，当countryd判断为CN时，将触发“电子围栏”无法添加GSMA eSIM。\n有这需求的不如买外版（如港版、美版等），就不需要跑到境外才能写卡了。\n\n1+n，就是1张国内eSIM配n张GSMA eSIM，这个讲究先来后到。\n当你在营业厅写入国内eSIM时，如果你的eSIM配置文件数量≥2，蜂窝网络中的“添加 eSIM”就会变成灰色。\n除非删到剩一张eSIM卡或参考0+n，否则你再也无法添加新的eSIM。\n\n由于iPhone用的st33的eUICC芯片最多能写8-10张eSIM profile。\n为啥叫先来后到？这其实是两种情况，我把它归类为A和B：\nA. 假设你在境外写了8张GSMA eSIM，回国后到营业厅后首次添加了国内eSIM后，虽然能禁用任意一个eSIM以启用其他eSIM，但无法再添加新的eSIM。\nB. 出境前你已经添加了一张国内eSIM，那么在境外添加一张GSMA eSIM后，一样“添加 eSIM”变灰，此时沦为双卡。除非删掉国内eSIM回到A，否则用新的GSMA eSIM之前都要先移除旧的GSMA eSIM。\n\n2+0，就是两卡都是国内eSIM。\n如果前面两种组合还能接受，那这个组合简直是王炸！\n当国行iPhone Air添加两张国内eSIM后，在无法添加新的eSIM的基础上，已有的GSMA eSIM将全被禁用、无法切卡启用。即使禁用其中一张、两张国内eSIM，那些GSMA eSIM的启用永远是灰色（不可用）状态。\n除非你删一张国内eSIM回到1+n才能切卡，除非你删两张国内eSIM回到0+n才能加卡。\n如果一张GSMA eSIM都没有，此时沦为双卡，得删任意一张国内eSIM才能在境外加卡。\n\n看完以后不知道你还觉得香不香？实话说国行没有AI就算了，5099买个iPhone 17不香吗？\n至于看到下单的，可能他们确实有国内eSIM的需求。往期我已经说过，每次都要落地后连接机场WiFi再去扫二维码加卡，真是低人一等啊🤣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近大家好像都像入国行iPhone Air的国补，我想善意的提醒各位，这玩意碰不得，除非你想写国内eSIM。\n\n苹果为了配合国家“断卡行动”煞费苦心，不惜让无卡手机沦为双卡双待，还有境内加不了GSMA国际通用eSIM的电子围栏！ https://t.co/e8JdfJVevF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10910,
+          "following_count": 587,
+          "like_count": 9767,
+          "listed_count": 37,
+          "media_count": 807,
+          "tweet_count": 6749
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

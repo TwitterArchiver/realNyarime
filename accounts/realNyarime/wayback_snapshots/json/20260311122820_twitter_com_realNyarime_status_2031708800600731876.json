@@ -1,0 +1,634 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031707589902516224",
+        "3_2031707591810924544"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2031708800600731876",
+    "created_at": "2026-03-11T12:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T13:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031708800600731876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GjMnK2bQAr",
+          "end": 162,
+          "expanded_url": "https://x.com/realNyarime/status/2031708800600731876/photo/1",
+          "media_key": "3_2031707589902516224",
+          "start": 139,
+          "url": "https://t.co/GjMnK2bQAr"
+        },
+        {
+          "display_url": "pic.x.com/GjMnK2bQAr",
+          "end": 162,
+          "expanded_url": "https://x.com/realNyarime/status/2031708800600731876/photo/1",
+          "media_key": "3_2031707591810924544",
+          "start": 139,
+          "url": "https://t.co/GjMnK2bQAr"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/realNyarime/status/2025541983490519356",
+          "start": 163,
+          "url": "https://t.co/NcmSy5AJvp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031708800600731876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "发推不到一个月，在xhs上的网友“Lee”收了台二手iPhone Air，原机主之前写入了一张联通的eSIM，补换实体卡后手机设备上移除了eSIM并抹掉了所有内容。\n \n他买到手后去营业厅成功写入移动号码，然后去联通准备写入第二张卡的时候提示图1（行业内该EID已超2个号码）\n图2该手机设备EID查询名下联通eSIM仍然还是存在原机主业务号码显示在用状态，但原机主月初已经补换实体卡了\n\n所以收二手国行eSIM设备的朋友一定要留个心眼，即使原机主补实体卡后，运营商那里还是有eSIM和设备EID绑定状态，这就导致下一个主人没法写新的国内eSIM。还好原机主只写了一张，要是双卡那估计这老哥只能跑境外写GSMA外卡了，还不如买外版🤣🤣🤣"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025541983490519356",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发推不到一个月，在xhs上的网友“Lee”收了台二手iPhone Air，原机主之前写入了一张联通的eSIM，补换实体卡后手机设备上移除了eSIM并抹掉了所有内容。\n \n他买到手后去营业厅成功写入移动号码，然后去联通准备写入第二张卡的时候提示图1（行业内该EID已超2个号码） https://t.co/GjMnK2bQAr https://t.co/NcmSy5AJvp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2031707589902516224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDITSd-awAAt-xk.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2031707591810924544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDITSlFawAAk93s.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2025541082163933184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwq4ehXcAAc-90.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031707589902516224",
+            "3_2031707591810924544"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2031708800600731876",
+        "created_at": "2026-03-11T12:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031708800600731876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjMnK2bQAr",
+              "end": 162,
+              "expanded_url": "https://x.com/realNyarime/status/2031708800600731876/photo/1",
+              "media_key": "3_2031707589902516224",
+              "start": 139,
+              "url": "https://t.co/GjMnK2bQAr"
+            },
+            {
+              "display_url": "pic.x.com/GjMnK2bQAr",
+              "end": 162,
+              "expanded_url": "https://x.com/realNyarime/status/2031708800600731876/photo/1",
+              "media_key": "3_2031707591810924544",
+              "start": 139,
+              "url": "https://t.co/GjMnK2bQAr"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/realNyarime/status/2025541983490519356",
+              "start": 163,
+              "url": "https://t.co/NcmSy5AJvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031708800600731876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "发推不到一个月，在xhs上的网友“Lee”收了台二手iPhone Air，原机主之前写入了一张联通的eSIM，补换实体卡后手机设备上移除了eSIM并抹掉了所有内容。\n \n他买到手后去营业厅成功写入移动号码，然后去联通准备写入第二张卡的时候提示图1（行业内该EID已超2个号码）\n图2该手机设备EID查询名下联通eSIM仍然还是存在原机主业务号码显示在用状态，但原机主月初已经补换实体卡了\n\n所以收二手国行eSIM设备的朋友一定要留个心眼，即使原机主补实体卡后，运营商那里还是有eSIM和设备EID绑定状态，这就导致下一个主人没法写新的国内eSIM。还好原机主只写了一张，要是双卡那估计这老哥只能跑境外写GSMA外卡了，还不如买外版🤣🤣🤣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025541983490519356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发推不到一个月，在xhs上的网友“Lee”收了台二手iPhone Air，原机主之前写入了一张联通的eSIM，补换实体卡后手机设备上移除了eSIM并抹掉了所有内容。\n \n他买到手后去营业厅成功写入移动号码，然后去联通准备写入第二张卡的时候提示图1（行业内该EID已超2个号码） https://t.co/GjMnK2bQAr https://t.co/NcmSy5AJvp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025541082163933184"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2025541983490519356",
+        "created_at": "2026-02-22T12:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:50:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025538571839451636",
+          "2025541983490519356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVQslGiRnh",
+              "end": 174,
+              "expanded_url": "https://x.com/realNyarime/status/2025541983490519356/photo/1",
+              "media_key": "3_2025541082163933184",
+              "start": 151,
+              "url": "https://t.co/CVQslGiRnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025541983490519356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "收二手的国行iPhone Air一定要留个心眼，看起来三大运营商的EID绑定数据是共通的，一旦该EID绑定了2个国内eSIM将出现业务拦截，无法办理业务。\n\n若上一任机主在卖手机之前，没有将eSIM转为实体卡，那这台国行Air将加不了任何国内eSIM，只有让原机主将之前绑定的号码补成实体卡才能解绑。\n有推友会问“联网移除eSIM”是否有效，运营商并没有考虑到二手机的情况，即使删卡通知发给RSP也没有解绑EID，除非补卡或销户。\n\n别忘了每个EID还有写卡次数限制（每月新开eSIM号不超过2个，补换卡次数不超过5次），如果写卡次数用完了，解绑后也得次月才能再写卡。\n最极端的情况，如果原机主不配合去补成实体卡，那它就只能写外卡eSIM，比外版iPhone多了个电子围栏。\n* 国内eSIM指的是China CI（三大运营商各自的CA，交叉信任），外卡eSIM指的是GSMA CI（国际通用证书）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 55405,
+          "like_count": 180,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "收二手的国行iPhone Air一定要留个心眼，看起来三大运营商的EID绑定数据是共通的，一旦该EID绑定了2个国内eSIM将出现业务拦截，无法办理业务。\n\n若上一任机主在卖手机之前，没有将eSIM转为实体卡，那这台国行Air将加不了任何国内eSIM，只有让原机主将之前绑定的号码补成实体卡才能解绑。 https://t.co/CVQslGiRnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21615,
+          "following_count": 516,
+          "like_count": 10781,
+          "listed_count": 88,
+          "media_count": 1096,
+          "tweet_count": 8195
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

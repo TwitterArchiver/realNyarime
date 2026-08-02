@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2056919573778292757",
+    "created_at": "2026-05-20T08:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T09:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057015936620900445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1590927428",
+          "start": 0,
+          "username": "hwwaanng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057015936620900445",
+    "in_reply_to_user_id": "1590927428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056919573778292757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hwwaanng 在想后面各家 AI 公司会不会都选择这种设计，我认为是 ChatGPT 奠定了交互方式后，其他同行觉得是可行的方案就紧跟其后"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2056919573778292757",
+        "created_at": "2026-05-20T08:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057015936620900445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590927428",
+              "start": 0,
+              "username": "hwwaanng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057015936620900445",
+        "in_reply_to_user_id": "1590927428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056919573778292757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hwwaanng 在想后面各家 AI 公司会不会都选择这种设计，我认为是 ChatGPT 奠定了交互方式后，其他同行觉得是可行的方案就紧跟其后"
+      },
+      {
+        "article": {
+          "title": "为啥 Gemini 新 UI 和 ChatGPT 几乎一模一样？"
+        },
+        "attachments": {},
+        "author_id": "1590927428",
+        "conversation_id": "2056919573778292757",
+        "created_at": "2026-05-20T02:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056919573778292757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2056730131444461569",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2056730131444461569",
+              "url": "https://t.co/xpm9LVE4Vt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056919573778292757",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 57575,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xpm9LVE4Vt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2056247533354229974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34333,
+          "following_count": 645,
+          "like_count": 14730,
+          "listed_count": 153,
+          "media_count": 1836,
+          "tweet_count": 12024
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-13T12:35:29.000Z",
+        "description": "Design/Vibe/Shape \nmacOS 💻 ► https://t.co/tbgUgsMKNk /\niOS 📱 ►  https://t.co/2bC853dFNn / https://t.co/Qc7AGBZy3C / https://t.co/62zcx3joc3 \n\nearly @bridge_surf @AFFiNEOfficial",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 148,
+                "username": "bridge_surf"
+              },
+              {
+                "end": 176,
+                "start": 161,
+                "username": "AFFiNEOfficial"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "harness.today",
+                "end": 52,
+                "expanded_url": "http://harness.today",
+                "start": 29,
+                "url": "https://t.co/tbgUgsMKNk"
+              },
+              {
+                "display_url": "handstime.app",
+                "end": 87,
+                "expanded_url": "http://handstime.app",
+                "start": 64,
+                "url": "https://t.co/2bC853dFNn"
+              },
+              {
+                "display_url": "lofidot.com",
+                "end": 113,
+                "expanded_url": "http://lofidot.com",
+                "start": 90,
+                "url": "https://t.co/Qc7AGBZy3C"
+              },
+              {
+                "display_url": "slabox.app",
+                "end": 139,
+                "expanded_url": "http://slabox.app",
+                "start": 116,
+                "url": "https://t.co/62zcx3joc3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hwang.fun",
+                "end": 23,
+                "expanded_url": "https://hwang.fun",
+                "start": 0,
+                "url": "https://t.co/J6eYfmHqS0"
+              }
+            ]
+          }
+        },
+        "id": "1590927428",
+        "location": "Shanghai",
+        "name": "Hwang",
+        "pinned_tweet_id": "2056370653486260449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361512556930600969/LBwP2_YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21385,
+          "following_count": 3868,
+          "like_count": 24243,
+          "listed_count": 242,
+          "media_count": 2301,
+          "tweet_count": 8842
+        },
+        "url": "https://t.co/J6eYfmHqS0",
+        "username": "hwwaanng",
+        "verified": true
+      }
+    ]
+  }
+}

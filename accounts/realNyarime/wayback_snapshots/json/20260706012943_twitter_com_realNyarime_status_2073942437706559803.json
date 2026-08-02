@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2073819573871423495",
+    "created_at": "2026-07-06T01:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T02:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073942437706559803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "772322000865943552",
+          "start": 0,
+          "username": "a602693793"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "001b1f4d203740ea"
+    },
+    "id": "2073942437706559803",
+    "in_reply_to_user_id": "772322000865943552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073832141839098164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a602693793 相比A/奥特曼算良心的了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [001b1f4d203740ea].",
+      "parameter": "geo.place_id",
+      "resource_id": "001b1f4d203740ea",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "001b1f4d203740ea"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_2073832128371195904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMe7VUdbgAArBzL.png",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2073819573871423495",
+        "created_at": "2026-07-06T01:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073942437706559803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "772322000865943552",
+              "start": 0,
+              "username": "a602693793"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2073942437706559803",
+        "in_reply_to_user_id": "772322000865943552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073832141839098164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a602693793 相比A/奥特曼算良心的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073832128371195904"
+          ]
+        },
+        "author_id": "772322000865943552",
+        "conversation_id": "2073819573871423495",
+        "created_at": "2026-07-05T18:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073832141839098164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQePf8cvRT",
+              "end": 77,
+              "expanded_url": "https://x.com/a602693793/status/2073832141839098164/photo/1",
+              "media_key": "3_2073832128371195904",
+              "start": 54,
+              "url": "https://t.co/LQePf8cvRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073832141839098164",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073819573871423495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 如果没有滥用（反代 web 的 5.5 pro 等）的话，随便打两个字就能通过了 https://t.co/LQePf8cvRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39644,
+          "following_count": 657,
+          "like_count": 18963,
+          "listed_count": 181,
+          "media_count": 2304,
+          "tweet_count": 15936
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-04T06:34:48.000Z",
+        "description": "I.C.A.N.\n\nI think i can\n\nhttps://t.co/HFMfIh7wOd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/zhsama",
+                "end": 48,
+                "expanded_url": "https://github.com/zhsama",
+                "start": 25,
+                "url": "https://t.co/HFMfIh7wOd"
+              }
+            ]
+          }
+        },
+        "id": "772322000865943552",
+        "location": "Otaru-shi, Hokkaidō",
+        "name": "zhcf1ess",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909459060623392769/bxGKuwij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 549,
+          "like_count": 5650,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 1849
+        },
+        "url": "",
+        "username": "a602693793",
+        "verified": true
+      }
+    ]
+  }
+}

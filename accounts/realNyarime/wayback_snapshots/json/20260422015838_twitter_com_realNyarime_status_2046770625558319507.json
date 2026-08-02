@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2046770625558319507",
+    "created_at": "2026-04-22T01:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046770625558319507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/realNyarime/status/2046141811086041449",
+          "start": 62,
+          "url": "https://t.co/pL3UCuc0on"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046770625558319507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046141811086041449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "&gt; 熬了3天夜去研究爱快软路由的固件  \n&gt; 论坛出大问题了\n\n学到的教训：永远不要在生产环境的服务器上跑测试 https://t.co/pL3UCuc0on"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2046140747687305216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVaK0paoAA7Zwc.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2046770625558319507",
+        "created_at": "2026-04-22T01:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046770625558319507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/realNyarime/status/2046141811086041449",
+              "start": 62,
+              "url": "https://t.co/pL3UCuc0on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046770625558319507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046141811086041449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "&gt; 熬了3天夜去研究爱快软路由的固件  \n&gt; 论坛出大问题了\n\n学到的教训：永远不要在生产环境的服务器上跑测试 https://t.co/pL3UCuc0on"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046140747687305216"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2046141811086041449",
+        "created_at": "2026-04-20T08:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046141811086041449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3J2hwOaJz",
+              "end": 185,
+              "expanded_url": "https://x.com/realNyarime/status/2046141811086041449/photo/1",
+              "media_key": "3_2046140747687305216",
+              "start": 162,
+              "url": "https://t.co/X3J2hwOaJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046141811086041449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 27072,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来，论坛炸了...\n\n看报错，是硬盘满了导致 Redis 无法持久化，在想到底啥玩意能把 1TB 硬盘给吃满\n\n于是我到了 /tmp 目录下看了看，最大的占用是 /tmp/ikuai_x86 — 1.3T 🤯果然是前两天分析爱快固件时残留的垃圾\n\n清理好后，论坛一下子就恢复了，连 LNMP 都不需要重启，感叹一下。 https://t.co/X3J2hwOaJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29569,
+          "following_count": 535,
+          "like_count": 12672,
+          "listed_count": 137,
+          "media_count": 1511,
+          "tweet_count": 10243
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

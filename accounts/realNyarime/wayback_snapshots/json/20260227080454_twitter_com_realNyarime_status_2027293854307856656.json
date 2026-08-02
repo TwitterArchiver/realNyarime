@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027292648076386304",
+        "3_2027292647946338304"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2027292014518386929",
+    "created_at": "2026-02-27T08:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027293854307856656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7DVxfENGB4",
+          "end": 162,
+          "expanded_url": "https://x.com/realNyarime/status/2027293854307856656/photo/1",
+          "media_key": "3_2027292648076386304",
+          "start": 139,
+          "url": "https://t.co/7DVxfENGB4"
+        },
+        {
+          "display_url": "pic.x.com/7DVxfENGB4",
+          "end": 162,
+          "expanded_url": "https://x.com/realNyarime/status/2027293854307856656/photo/1",
+          "media_key": "3_2027292647946338304",
+          "start": 139,
+          "url": "https://t.co/7DVxfENGB4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027293854307856656",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027292014518386929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果经常在马来西亚，也可以考虑155RM方案，即Postpaid 5G 120（马国双不限）+Roaming（80G）。\n* 120RM及以上套餐的Roaming为35RM\n\n实测125RM（约220RMB）和155RM（约270RMB）在漫游上速度一致，有且仅有本国的区别🤗 https://t.co/7DVxfENGB4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2027292648076386304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJj7CBaoAAhjF5.jpg",
+        "width": 832
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2027292647946338304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJj7BiaQAAdV_J.jpg",
+        "width": 589
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2027284494668189696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJcgcNa0AAkTP_.jpg",
+        "width": 589
+      },
+      {
+        "height": 1794,
+        "media_key": "3_2027290280941301760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJhxPwbsAAp58b.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2027290293733855232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJhx_aakAAbopM.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027292648076386304",
+            "3_2027292647946338304"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2027292014518386929",
+        "created_at": "2026-02-27T08:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027293854307856656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DVxfENGB4",
+              "end": 162,
+              "expanded_url": "https://x.com/realNyarime/status/2027293854307856656/photo/1",
+              "media_key": "3_2027292648076386304",
+              "start": 139,
+              "url": "https://t.co/7DVxfENGB4"
+            },
+            {
+              "display_url": "pic.x.com/7DVxfENGB4",
+              "end": 162,
+              "expanded_url": "https://x.com/realNyarime/status/2027293854307856656/photo/1",
+              "media_key": "3_2027292647946338304",
+              "start": 139,
+              "url": "https://t.co/7DVxfENGB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027293854307856656",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027292014518386929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果经常在马来西亚，也可以考虑155RM方案，即Postpaid 5G 120（马国双不限）+Roaming（80G）。\n* 120RM及以上套餐的Roaming为35RM\n\n实测125RM（约220RMB）和155RM（约270RMB）在漫游上速度一致，有且仅有本国的区别🤗 https://t.co/7DVxfENGB4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027284494668189696",
+            "3_2027290280941301760",
+            "3_2027290293733855232"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2027292014518386929",
+        "created_at": "2026-02-27T07:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027292014518386929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAfK2aj3CA",
+              "end": 205,
+              "expanded_url": "https://x.com/realNyarime/status/2027292014518386929/photo/1",
+              "media_key": "3_2027284494668189696",
+              "start": 182,
+              "url": "https://t.co/PAfK2aj3CA"
+            },
+            {
+              "display_url": "pic.x.com/PAfK2aj3CA",
+              "end": 205,
+              "expanded_url": "https://x.com/realNyarime/status/2027292014518386929/photo/1",
+              "media_key": "3_2027290280941301760",
+              "start": 182,
+              "url": "https://t.co/PAfK2aj3CA"
+            },
+            {
+              "display_url": "pic.x.com/PAfK2aj3CA",
+              "end": 205,
+              "expanded_url": "https://x.com/realNyarime/status/2027292014518386929/photo/1",
+              "media_key": "3_2027290293733855232",
+              "start": 182,
+              "url": "https://t.co/PAfK2aj3CA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027292014518386929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "之前错过了马来西亚第一大运营商Celcom的188RM 130G套餐，现在合并成CelcomDigi后125RM 80G漫游82国，即Postpaid 5G 65 SE（250G Local）+Roaming（80G）。\n\n先说缺点，需要线下上台。🇲🇾大马IP访问不了大型的开车网站，其余与🇸🇬新加坡电话卡在体验上没太大差别，每月价格125RM（约220RMB）\n优点也有，上台免押金，可自助更换eSIM，在中国内地三网漫游，直接访问AI服务。\n\n就不知道免押金什么时候取消，有这方面需求也可以考虑去马来西亚旅游时顺便办一个～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 250,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前错过了马来西亚第一大运营商Celcom的188RM 130G套餐，现在合并成CelcomDigi后125RM 80G漫游82国，即Postpaid 5G 65 SE（250G Local）+Roaming（80G）。\n\n先说缺点，需要线下上台。🇲🇾大马IP访问不了大型的开车网站，其余与🇸🇬新加坡电话卡在体验上没太大差别，每月价格125RM（约220RMB） https://t.co/PAfK2aj3CA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16824,
+          "following_count": 518,
+          "like_count": 10407,
+          "listed_count": 71,
+          "media_count": 983,
+          "tweet_count": 7676
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

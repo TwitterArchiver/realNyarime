@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2071428074785402976",
+    "created_at": "2026-06-29T13:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071587845668560935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1419907046615306242",
+          "start": 0,
+          "username": "forokora"
+        },
+        {
+          "end": 17,
+          "id": "2013724577529049088",
+          "start": 10,
+          "username": "_ropuu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2071587845668560935",
+    "in_reply_to_user_id": "1419907046615306242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071586797700911598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@forokora @_ropuu 有个钉钉或企业微信就行，甚至都不验证社保，就地铁站那个招行地推"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2071428074785402976",
+        "created_at": "2026-06-29T13:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071587845668560935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1419907046615306242",
+              "start": 0,
+              "username": "forokora"
+            },
+            {
+              "end": 17,
+              "id": "2013724577529049088",
+              "start": 10,
+              "username": "_ropuu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2071587845668560935",
+        "in_reply_to_user_id": "1419907046615306242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071586797700911598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@forokora @_ropuu 有个钉钉或企业微信就行，甚至都不验证社保，就地铁站那个招行地推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419907046615306242",
+        "conversation_id": "2071428074785402976",
+        "created_at": "2026-06-29T13:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071586797700911598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 20,
+              "id": "2013724577529049088",
+              "start": 13,
+              "username": "_ropuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071586797700911598",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071568006887493855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @_ropuu 信用卡门槛还是有点高了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38667,
+          "following_count": 665,
+          "like_count": 18568,
+          "listed_count": 181,
+          "media_count": 2264,
+          "tweet_count": 15564
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-27T06:26:55.000Z",
+        "description": "简体中文＆繁體中文＆English＆日本語\nACG・STEM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forokora.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://forokora.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/QMOZ60F541"
+              }
+            ]
+          }
+        },
+        "id": "1419907046615306242",
+        "location": "看看你後面",
+        "name": "Forokora",
+        "pinned_tweet_id": "1758610092662895003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644306591808897024/LBEX_RE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 182,
+          "like_count": 1864,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/QMOZ60F541",
+        "username": "forokora",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "|| 本垢 @_ropu || 网络一线牵珍惜这段缘 ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 6,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": "黑巧黑巧",
+        "pinned_tweet_id": "2070105891094012282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071192094417526784/8RQZBkY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 227,
+          "like_count": 666,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 470
+        },
+        "url": "",
+        "username": "_ropuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2069819427823178145",
+    "created_at": "2026-06-25T04:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069994747188613468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "730317517210550272",
+          "start": 0,
+          "username": "X_X_MAN_"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2069994747188613468",
+    "in_reply_to_user_id": "730317517210550272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069911003572359337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_X_MAN_ 国内抓贪官、打老虎，都是秋后算账"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2069819427823178145",
+        "created_at": "2026-06-25T04:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069994747188613468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "730317517210550272",
+              "start": 0,
+              "username": "X_X_MAN_"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2069994747188613468",
+        "in_reply_to_user_id": "730317517210550272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069911003572359337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_X_MAN_ 国内抓贪官、打老虎，都是秋后算账"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "730317517210550272",
+        "conversation_id": "2069819427823178145",
+        "created_at": "2026-06-24T22:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069911003572359337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069911003572359337",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2173,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069819427823178145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 合法避税的，要是不对，当时就该指出来啊，别等到秋后算账说这不行那不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38354,
+          "following_count": 659,
+          "like_count": 18308,
+          "listed_count": 179,
+          "media_count": 2230,
+          "tweet_count": 15316
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-11T08:43:59.000Z",
+        "description": "Follow me | 可以和全球各地的人吹水 ｜ 随机记录些胡思乱想和见闻 ｜ 最近在翻相册，准备全部发到X上来 ｜ 间接性关注经济政治时事 ｜ 我用Workbuddy的，和你们Codex的比不了哈哈哈哈",
+        "id": "730317517210550272",
+        "name": "Mr. X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044126484949020674/BTFo147e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 874,
+          "like_count": 2043,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 5114
+        },
+        "url": "",
+        "username": "X_X_MAN_",
+        "verified": true
+      }
+    ]
+  }
+}

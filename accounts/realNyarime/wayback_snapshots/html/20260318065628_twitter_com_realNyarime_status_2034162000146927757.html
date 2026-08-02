@@ -1,0 +1,170 @@
+<!-- Source: https://web.archive.org/web/20260318065628if_/twitter_com_realNyarime_status_2034162000146927757 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="奶昔🥤" src="../avatar/avatar_2018944290639298560.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  奶昔🥤
+  </div>
+  <div class="tweet-author-username">
+  @realNyarime
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  一直在用Cherry Studio玩LLM，并且它支持多种云端备份方式，但都需要额外再多加一套云端服务，思路主要是网盘同步空间+本地备份+文件加密。
+  <br/>
+  <br/>
+  于是想着借助「百度网盘」的网盘同步空间，去把Cherry Studio本地备份的文件夹设置为同步空间的文件夹。
+  <br/>
+  每次打开Cherry Studio记得从同步空间恢复一下最新的备份（云端最新的是倒数第二个，因为刚打开的时候会自动生成一个当前备份），就能多台电脑同步了。
+  <br/>
+  不过，百度网盘同步空间对敏感内容有限制，比如一些敏感图片传上去不准你下，虽然Cherry Studio备份文件是压缩包不会出现这种问题，但说明这些数据百度都是要做审查的。
+  <br/>
+  <br/>
+  由于备份中有api key和一些可能的敏感信息，担心数据安全和规避审查可以再套一层文件加密。这里推荐Crptomator，一个开源的本地文件加密项目，优点是每个新增文件单独加密，不会增加一点东西就要把整个加密文件夹全部更新一般，适合云端同步：https://t.co/9nTtE5jxkh
+  <br/>
+  直接新建加密仓库到同步空间里，并设置开机自动启动。在右下角小图标unlock仓库，会挂载一个新的网络分卷，把Cherry Studio本地备份放到这个挂载的新分卷里就行，在这里改动的文件会看到在同步空间有个同步的加密文件夹同步发生改动。
+  <br/>
+  <br/>
+  本质上是希望利用把百度云当云端存储用，又不想个人数据被检测和审查，搞出来的一套说不定比坚果云和WebDAV更麻烦的方案。好处是能用上百度云的超大空间，有网盘会员的话还是方便的。坏处是得一直开着网盘保持同步，这东西内存占用真不算多低…🙃
+  <img class="tweet-image" src="../image/20260318065628_pbs.twimg.com_media_HDrJ7_abEAUeUn3.png"/>
+  <img class="tweet-image" src="../image/20260318065628_pbs.twimg.com_media_HDrJ7_ZaEAAvzhD.jpg"/>
+  <img class="tweet-image" src="../image/20260318065628_pbs.twimg.com_media_HDrLVP0aAAAvk4M.jpg"/>
+  <img class="tweet-image" src="../image/20260318065628_pbs.twimg.com_media_HDrLV7WbEAIp4yg.jpg"/>
+  <!-- If there's a quoted tweet, embed it here!-->
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2026-03-18T06:56:28.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

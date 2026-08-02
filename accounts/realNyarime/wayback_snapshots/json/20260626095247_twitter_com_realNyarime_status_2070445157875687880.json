@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2070413242766405900",
+    "created_at": "2026-06-26T09:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070445157875687880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1285577648861659137",
+          "start": 0,
+          "username": "vanillaCitron"
+        },
+        {
+          "end": 25,
+          "id": "2393635568",
+          "start": 15,
+          "username": "sspai_com"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070445157875687880",
+    "in_reply_to_user_id": "1285577648861659137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070437985301184524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanillaCitron @sspai_com 对吧 红星新闻 早上我刷到就喊你了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2070413242766405900",
+        "created_at": "2026-06-26T09:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070445157875687880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1285577648861659137",
+              "start": 0,
+              "username": "vanillaCitron"
+            },
+            {
+              "end": 25,
+              "id": "2393635568",
+              "start": 15,
+              "username": "sspai_com"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070445157875687880",
+        "in_reply_to_user_id": "1285577648861659137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070437985301184524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanillaCitron @sspai_com 对吧 红星新闻 早上我刷到就喊你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285577648861659137",
+        "conversation_id": "2070413242766405900",
+        "created_at": "2026-06-26T09:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070437985301184524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2393635568",
+              "start": 0,
+              "username": "sspai_com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070437985301184524",
+        "in_reply_to_user_id": "2393635568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070413242766405900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sspai_com 哇！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38484,
+          "following_count": 662,
+          "like_count": 18443,
+          "listed_count": 179,
+          "media_count": 2242,
+          "tweet_count": 15446
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design designer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "name": "citron🍢🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4652,
+          "following_count": 1131,
+          "like_count": 19733,
+          "listed_count": 22,
+          "media_count": 947,
+          "tweet_count": 7075
+        },
+        "url": "",
+        "username": "vanillaCitron",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-17T02:53:48.000Z",
+        "description": "高效工作，品质生活。一个高质量数字生活社区，数字科技共创平台，分享各种深度思考和共创产品。 Weibo: @少数派sspai ｜ WeChat: sspaime ｜Mail: contact@sspai.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sspai.com",
+                "end": 23,
+                "expanded_url": "https://sspai.com",
+                "start": 0,
+                "url": "https://t.co/JAQacv7Ppz"
+              }
+            ]
+          }
+        },
+        "id": "2393635568",
+        "location": "Shenzhen, China",
+        "name": "少数派sspai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1133664556306190336/Ouezg12u_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52242,
+          "following_count": 73,
+          "like_count": 166,
+          "listed_count": 440,
+          "media_count": 2473,
+          "tweet_count": 14058
+        },
+        "url": "https://t.co/JAQacv7Ppz",
+        "username": "sspai_com",
+        "verified": true
+      }
+    ]
+  }
+}

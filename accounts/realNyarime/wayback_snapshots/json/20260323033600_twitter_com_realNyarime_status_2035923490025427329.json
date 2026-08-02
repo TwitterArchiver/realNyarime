@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035849815331110913",
+        "3_2035849815326896128",
+        "3_2035849815364710400"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2035923490025427329",
+    "created_at": "2026-03-23T03:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T04:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035923490025427329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UyaidprJMP",
+          "end": 115,
+          "expanded_url": "https://x.com/realNyarime/status/2035923490025427329/photo/1",
+          "media_key": "3_2035849815331110913",
+          "start": 92,
+          "url": "https://t.co/UyaidprJMP"
+        },
+        {
+          "display_url": "pic.x.com/UyaidprJMP",
+          "end": 115,
+          "expanded_url": "https://x.com/realNyarime/status/2035923490025427329/photo/1",
+          "media_key": "3_2035849815326896128",
+          "start": 92,
+          "url": "https://t.co/UyaidprJMP"
+        },
+        {
+          "display_url": "pic.x.com/UyaidprJMP",
+          "end": 115,
+          "expanded_url": "https://x.com/realNyarime/status/2035923490025427329/photo/1",
+          "media_key": "3_2035849815364710400",
+          "start": 92,
+          "url": "https://t.co/UyaidprJMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035923490025427329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "不愧是遥遥领先，拥有直接调度基站的能力，开通VIP优先通道实测比QCI6还有用！\n华为Mate80系列用户免费送10次，每次30分钟，仅支持移动和电信，赶紧用起来不然下个月就没有了😆\n\n有这个强行提速，可以破运营商的基站限速，直接走华为通道，让限1Mbps的号卡不限速（基站都用华为了，自己制定规则开后门很正常"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不愧是遥遥领先，拥有直接调度基站的能力，开通VIP优先通道实测比QCI6还有用！\n华为Mate80系列用户免费送10次，每次30分钟，仅支持移动和电信，赶紧用起来不然下个月就没有了😆 https://t.co/UyaidprJMP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2035849815331110913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDKnuLbAAE0gTI.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2035849815326896128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDKnuKasAADkFx.jpg",
+        "width": 859
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2035849815364710400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDKnuTbsAAdcXp.jpg",
+        "width": 756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035849815331110913",
+            "3_2035849815326896128",
+            "3_2035849815364710400"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2035923490025427329",
+        "created_at": "2026-03-23T03:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035923490025427329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UyaidprJMP",
+              "end": 115,
+              "expanded_url": "https://x.com/realNyarime/status/2035923490025427329/photo/1",
+              "media_key": "3_2035849815331110913",
+              "start": 92,
+              "url": "https://t.co/UyaidprJMP"
+            },
+            {
+              "display_url": "pic.x.com/UyaidprJMP",
+              "end": 115,
+              "expanded_url": "https://x.com/realNyarime/status/2035923490025427329/photo/1",
+              "media_key": "3_2035849815326896128",
+              "start": 92,
+              "url": "https://t.co/UyaidprJMP"
+            },
+            {
+              "display_url": "pic.x.com/UyaidprJMP",
+              "end": 115,
+              "expanded_url": "https://x.com/realNyarime/status/2035923490025427329/photo/1",
+              "media_key": "3_2035849815364710400",
+              "start": 92,
+              "url": "https://t.co/UyaidprJMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035923490025427329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不愧是遥遥领先，拥有直接调度基站的能力，开通VIP优先通道实测比QCI6还有用！\n华为Mate80系列用户免费送10次，每次30分钟，仅支持移动和电信，赶紧用起来不然下个月就没有了😆\n\n有这个强行提速，可以破运营商的基站限速，直接走华为通道，让限1Mbps的号卡不限速（基站都用华为了，自己制定规则开后门很正常"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不愧是遥遥领先，拥有直接调度基站的能力，开通VIP优先通道实测比QCI6还有用！\n华为Mate80系列用户免费送10次，每次30分钟，仅支持移动和电信，赶紧用起来不然下个月就没有了😆 https://t.co/UyaidprJMP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23514,
+          "following_count": 498,
+          "like_count": 11221,
+          "listed_count": 100,
+          "media_count": 1216,
+          "tweet_count": 8706
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

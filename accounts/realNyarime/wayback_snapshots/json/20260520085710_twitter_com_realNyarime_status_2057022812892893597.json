@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2056919573778292757",
+    "created_at": "2026-05-20T08:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T09:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057022812892893597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1590927428",
+          "start": 0,
+          "username": "hwwaanng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057022812892893597",
+    "in_reply_to_user_id": "1590927428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057021783421956121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hwwaanng 市面上所有AI都兼容OpenAI Completions标准，Code的都有Anthropic Messages端点支持，至于第三方工具之类的还有 MCP😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2056919573778292757",
+        "created_at": "2026-05-20T08:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057022812892893597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590927428",
+              "start": 0,
+              "username": "hwwaanng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057022812892893597",
+        "in_reply_to_user_id": "1590927428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057021783421956121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hwwaanng 市面上所有AI都兼容OpenAI Completions标准，Code的都有Anthropic Messages端点支持，至于第三方工具之类的还有 MCP😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590927428",
+        "conversation_id": "2056919573778292757",
+        "created_at": "2026-05-20T08:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057021783421956121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057021783421956121",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057015936620900445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 是这样的，就像没个 App 里面都会有一个短视频一样 😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2056247533354229974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34343,
+          "following_count": 645,
+          "like_count": 14735,
+          "listed_count": 154,
+          "media_count": 1837,
+          "tweet_count": 12029
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-13T12:35:29.000Z",
+        "description": "Design/Vibe/Shape \nmacOS 💻 ► https://t.co/tbgUgsMKNk /\niOS 📱 ►  https://t.co/2bC853dFNn / https://t.co/Qc7AGBZy3C / https://t.co/62zcx3joc3 \n\nearly @bridge_surf @AFFiNEOfficial",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 148,
+                "username": "bridge_surf"
+              },
+              {
+                "end": 176,
+                "start": 161,
+                "username": "AFFiNEOfficial"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "harness.today",
+                "end": 52,
+                "expanded_url": "http://harness.today",
+                "start": 29,
+                "url": "https://t.co/tbgUgsMKNk"
+              },
+              {
+                "display_url": "handstime.app",
+                "end": 87,
+                "expanded_url": "http://handstime.app",
+                "start": 64,
+                "url": "https://t.co/2bC853dFNn"
+              },
+              {
+                "display_url": "lofidot.com",
+                "end": 113,
+                "expanded_url": "http://lofidot.com",
+                "start": 90,
+                "url": "https://t.co/Qc7AGBZy3C"
+              },
+              {
+                "display_url": "slabox.app",
+                "end": 139,
+                "expanded_url": "http://slabox.app",
+                "start": 116,
+                "url": "https://t.co/62zcx3joc3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hwang.fun",
+                "end": 23,
+                "expanded_url": "https://hwang.fun",
+                "start": 0,
+                "url": "https://t.co/J6eYfmHqS0"
+              }
+            ]
+          }
+        },
+        "id": "1590927428",
+        "location": "Shanghai",
+        "name": "Hwang",
+        "pinned_tweet_id": "2056370653486260449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361512556930600969/LBwP2_YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21387,
+          "following_count": 3868,
+          "like_count": 24244,
+          "listed_count": 242,
+          "media_count": 2301,
+          "tweet_count": 8843
+        },
+        "url": "https://t.co/J6eYfmHqS0",
+        "username": "hwwaanng",
+        "verified": true
+      }
+    ]
+  }
+}

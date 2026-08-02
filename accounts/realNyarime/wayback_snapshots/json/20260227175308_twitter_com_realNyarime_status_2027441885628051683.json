@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027438517207633923"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2027441885628051683",
+    "created_at": "2026-02-27T17:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027441885628051683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3fESVclAS",
+          "end": 161,
+          "expanded_url": "https://x.com/realNyarime/status/2027441885628051683/photo/1",
+          "media_key": "3_2027438517207633923",
+          "start": 138,
+          "url": "https://t.co/d3fESVclAS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027441885628051683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "魅族暂时不做手机，其实还蛮难受的。至少它的Flyme是国产手机中做了VPN热点的ROM，解BL也很方便，尤其是这两年玩卡玩魔怔了，总习惯用“网络信号大师”测频段、QCI、AMBR UP/DL。\n\n说魅族21Pro是最强网优机、随身CPE也不为过，包括某位群友也是这样说的（笑\n买个解锁BootLoader的专用数据线（高通二代工程线）或手搓一根，闲鱼买资料或上meizubl论坛买3个点数98，不过需要一定的动手能力。建议是闲鱼直接买一台解锁root好的二手，或者找人解BL+root一条龙！\n\n虽然Flyme系统自带VPN热点，不过和“蓝牙、USB共享”冲突。因此在root后安装“VPN热点”App，改成160Mhz频宽，按需打开或者关闭无连接时自动关闭热点。至于Wi-Fi热点数量破解需要刷Magisk模块，可由5个改成32个。\n除此之外，这台手机还可以开启6Ghz，也是刷Magisk模块或直接拨号盘输入暗码： *#*#666539#*#*， 之后桌面会生成一个新的应用图标，WirelessMon…，打开--WIFI COUNTRY CODE SETTINGS，设置成GB即可。\n至于锁频段，请用拨号盘输入 *#*#3838664#*#*\n\n至于root后的后续工作，可参考案例解决：\n1）Google Play（谷歌商店）未认证的问题，可通过刷Magisk模块PlayIntegrityFix_v18.2解决；\n2）在开发者模式--强制停用动态刷新率，提升系统流畅性；\n3）V-AB更新助手（保留root的ota更新）、Flyme10助手（lsposed模块，去掉apk安装器联网检测）等可自行进一步系统优化。\n\n最后是玩卡测网必备的，除了Speedtest、泰尔网测等基本测速软件，测路由还有NextTraceroute\nqct modem，用来锁nsa锚点、锁pci、锁小区，很好用\n小贴士：Meizu 21Pro 小窗靠边隐藏，可以后台播放、锁屏播放，还是系统级支持。\n再说了，连小米17Pro都砍掉了N79，而魅族仍保持全频段的支持，真的不忍心看这一品牌停更...🥲"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "魅族暂时不做手机，其实还蛮难受的。至少它的Flyme是国产手机中做了VPN热点的ROM，解BL也很方便，尤其是这两年玩卡玩魔怔了，总习惯用“网络信号大师”测频段、QCI、AMBR UP/DL。\n\n说魅族21Pro是最强网优机、随身CPE也不为过，包括某位群友也是这样说的（笑 https://t.co/d3fESVclAS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2027438517207633923",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLolu4bEAML2nm.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027438517207633923"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2027441885628051683",
+        "created_at": "2026-02-27T17:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027441885628051683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3fESVclAS",
+              "end": 161,
+              "expanded_url": "https://x.com/realNyarime/status/2027441885628051683/photo/1",
+              "media_key": "3_2027438517207633923",
+              "start": 138,
+              "url": "https://t.co/d3fESVclAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027441885628051683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "魅族暂时不做手机，其实还蛮难受的。至少它的Flyme是国产手机中做了VPN热点的ROM，解BL也很方便，尤其是这两年玩卡玩魔怔了，总习惯用“网络信号大师”测频段、QCI、AMBR UP/DL。\n\n说魅族21Pro是最强网优机、随身CPE也不为过，包括某位群友也是这样说的（笑\n买个解锁BootLoader的专用数据线（高通二代工程线）或手搓一根，闲鱼买资料或上meizubl论坛买3个点数98，不过需要一定的动手能力。建议是闲鱼直接买一台解锁root好的二手，或者找人解BL+root一条龙！\n\n虽然Flyme系统自带VPN热点，不过和“蓝牙、USB共享”冲突。因此在root后安装“VPN热点”App，改成160Mhz频宽，按需打开或者关闭无连接时自动关闭热点。至于Wi-Fi热点数量破解需要刷Magisk模块，可由5个改成32个。\n除此之外，这台手机还可以开启6Ghz，也是刷Magisk模块或直接拨号盘输入暗码： *#*#666539#*#*， 之后桌面会生成一个新的应用图标，WirelessMon…，打开--WIFI COUNTRY CODE SETTINGS，设置成GB即可。\n至于锁频段，请用拨号盘输入 *#*#3838664#*#*\n\n至于root后的后续工作，可参考案例解决：\n1）Google Play（谷歌商店）未认证的问题，可通过刷Magisk模块PlayIntegrityFix_v18.2解决；\n2）在开发者模式--强制停用动态刷新率，提升系统流畅性；\n3）V-AB更新助手（保留root的ota更新）、Flyme10助手（lsposed模块，去掉apk安装器联网检测）等可自行进一步系统优化。\n\n最后是玩卡测网必备的，除了Speedtest、泰尔网测等基本测速软件，测路由还有NextTraceroute\nqct modem，用来锁nsa锚点、锁pci、锁小区，很好用\n小贴士：Meizu 21Pro 小窗靠边隐藏，可以后台播放、锁屏播放，还是系统级支持。\n再说了，连小米17Pro都砍掉了N79，而魅族仍保持全频段的支持，真的不忍心看这一品牌停更...🥲"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魅族暂时不做手机，其实还蛮难受的。至少它的Flyme是国产手机中做了VPN热点的ROM，解BL也很方便，尤其是这两年玩卡玩魔怔了，总习惯用“网络信号大师”测频段、QCI、AMBR UP/DL。\n\n说魅族21Pro是最强网优机、随身CPE也不为过，包括某位群友也是这样说的（笑 https://t.co/d3fESVclAS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16923,
+          "following_count": 518,
+          "like_count": 10412,
+          "listed_count": 71,
+          "media_count": 983,
+          "tweet_count": 7692
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

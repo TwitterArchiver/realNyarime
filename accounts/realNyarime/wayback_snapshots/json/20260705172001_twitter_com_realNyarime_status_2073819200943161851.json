@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2073669417712668987",
+    "created_at": "2026-07-05T17:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073819200943161851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "850755206040006656",
+          "start": 0,
+          "username": "moeKiwiSAMA"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "001b1f4d203740ea"
+    },
+    "id": "2073819200943161851",
+    "in_reply_to_user_id": "850755206040006656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073669417712668987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeKiwiSAMA 霜师傅你咋了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [001b1f4d203740ea].",
+      "parameter": "geo.place_id",
+      "resource_id": "001b1f4d203740ea",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "001b1f4d203740ea"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2073669410045489152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcnV3da8AA64tw.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2073669417712668987",
+        "created_at": "2026-07-05T17:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073819200943161851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "850755206040006656",
+              "start": 0,
+              "username": "moeKiwiSAMA"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2073819200943161851",
+        "in_reply_to_user_id": "850755206040006656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073669417712668987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeKiwiSAMA 霜师傅你咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073669410045489152"
+          ]
+        },
+        "author_id": "850755206040006656",
+        "conversation_id": "2073669417712668987",
+        "created_at": "2026-07-05T07:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073669417712668987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoYI6P3tLm",
+              "end": 28,
+              "expanded_url": "https://x.com/moeKiwiSAMA/status/2073669417712668987/photo/1",
+              "media_key": "3_2073669410045489152",
+              "start": 5,
+              "url": "https://t.co/WoYI6P3tLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073669417712668987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈。 https://t.co/WoYI6P3tLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39558,
+          "following_count": 658,
+          "like_count": 18914,
+          "listed_count": 183,
+          "media_count": 2301,
+          "tweet_count": 15900
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-08T17:00:22.000Z",
+        "description": "| 顺男🌈 | 日常推主 | 最大的愿望是能回到18岁 | 一切为了小男孩 | 可爱小朋友@apple_nekiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "apple_nekiii"
+              }
+            ]
+          }
+        },
+        "id": "850755206040006656",
+        "location": "Your Heart 💕",
+        "name": "Kiwi - (养生版)",
+        "pinned_tweet_id": "2064403616916709580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026907383801458689/Zwcvpevh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 977,
+          "like_count": 14663,
+          "listed_count": 11,
+          "media_count": 3191,
+          "tweet_count": 6546
+        },
+        "url": "",
+        "username": "moeKiwiSAMA",
+        "verified": false
+      }
+    ]
+  }
+}

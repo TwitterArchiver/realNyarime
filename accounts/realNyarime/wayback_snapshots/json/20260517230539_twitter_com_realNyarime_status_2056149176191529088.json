@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056147192373784576"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168892502176194560",
+          "name": "NTT"
+        }
+      }
+    ],
+    "conversation_id": "2056149176191529088",
+    "created_at": "2026-05-17T23:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056149176191529088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lv7pNYMNuT",
+          "end": 184,
+          "expanded_url": "https://x.com/realNyarime/status/2056149176191529088/photo/1",
+          "media_key": "3_2056147192373784576",
+          "start": 161,
+          "url": "https://t.co/Lv7pNYMNuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056149176191529088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这种eSIM转实体卡（eUICC）又被推友叫“小白卡”，一张包邮的情况下卖20左右，见得比较多的是420K容量的那款\n大部分都是东信和平制卡，EID89086030开头并没什么不好，像9eSIM V0、Xesim、5ber、Switch by PlanB等都是ECP方案\n\n好处在于便宜，坏处就是像美国运营商、日本NTT DOCOMO拉黑了EID，但大部分GSMA标准的运营商都能写，包括中国联通给外宾提供的eSIM临时卡。正常一个eSIM Profile（配置文件）的大小在50KB左右，420K差不多可以写6-8张eSIM，建议写个1-3张就够了省得哪天切卡突然爆炸\n\n当然像iPhone这种原生eUICC也容易炸卡，随着Apple在LPA上写了边界保护后，一旦容量要超出将会触发保护减少炸卡的可能。如果写一堆eSIM配置文件，那还是建议整1.5M的9eSIM V3或eSTK Max，使用NAIXI可以打9折就是了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种eSIM转实体卡（eUICC）又被推友叫“小白卡”，一张包邮的情况下卖20左右，见得比较多的是420K容量的那款\n大部分都是东信和平制卡，EID89086030开头并没什么不好，像9eSIM V0、Xesim、5ber、Switch by PlanB等都是ECP方案\n\n好处在于便宜，坏处就是像美国运营商、日本NTT https://t.co/Lv7pNYMNuT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2056147192373784576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjm-j9bMAA1BPs.png",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056147192373784576"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168892502176194560",
+              "name": "NTT"
+            }
+          }
+        ],
+        "conversation_id": "2056149176191529088",
+        "created_at": "2026-05-17T23:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056149176191529088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lv7pNYMNuT",
+              "end": 184,
+              "expanded_url": "https://x.com/realNyarime/status/2056149176191529088/photo/1",
+              "media_key": "3_2056147192373784576",
+              "start": 161,
+              "url": "https://t.co/Lv7pNYMNuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056149176191529088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这种eSIM转实体卡（eUICC）又被推友叫“小白卡”，一张包邮的情况下卖20左右，见得比较多的是420K容量的那款\n大部分都是东信和平制卡，EID89086030开头并没什么不好，像9eSIM V0、Xesim、5ber、Switch by PlanB等都是ECP方案\n\n好处在于便宜，坏处就是像美国运营商、日本NTT DOCOMO拉黑了EID，但大部分GSMA标准的运营商都能写，包括中国联通给外宾提供的eSIM临时卡。正常一个eSIM Profile（配置文件）的大小在50KB左右，420K差不多可以写6-8张eSIM，建议写个1-3张就够了省得哪天切卡突然爆炸\n\n当然像iPhone这种原生eUICC也容易炸卡，随着Apple在LPA上写了边界保护后，一旦容量要超出将会触发保护减少炸卡的可能。如果写一堆eSIM配置文件，那还是建议整1.5M的9eSIM V3或eSTK Max，使用NAIXI可以打9折就是了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种eSIM转实体卡（eUICC）又被推友叫“小白卡”，一张包邮的情况下卖20左右，见得比较多的是420K容量的那款\n大部分都是东信和平制卡，EID89086030开头并没什么不好，像9eSIM V0、Xesim、5ber、Switch by PlanB等都是ECP方案\n\n好处在于便宜，坏处就是像美国运营商、日本NTT https://t.co/Lv7pNYMNuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2055700166846599490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33373,
+          "following_count": 637,
+          "like_count": 14455,
+          "listed_count": 150,
+          "media_count": 1799,
+          "tweet_count": 11795
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

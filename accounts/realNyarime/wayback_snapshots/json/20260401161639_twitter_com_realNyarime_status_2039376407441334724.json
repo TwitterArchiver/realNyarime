@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039375413932380160"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2039376407441334724",
+    "created_at": "2026-04-01T16:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039376407441334724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nk0c1AmcTW",
+          "end": 154,
+          "expanded_url": "https://x.com/realNyarime/status/2039376407441334724/video/1",
+          "media_key": "13_2039375413932380160",
+          "start": 131,
+          "url": "https://t.co/nk0c1AmcTW"
+        },
+        {
+          "display_url": "x.com/__Lucas04__/st…",
+          "end": 178,
+          "expanded_url": "https://twitter.com/__Lucas04__/status/2039361133140910500",
+          "start": 155,
+          "url": "https://t.co/cpDWWQPu0F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039376407441334724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "com.android",
+            "end": 196,
+            "expanded_url": "http://com.android",
+            "start": 173,
+            "url": "https://t.co/MwE2RJupfD"
+          }
+        ]
+      },
+      "text": "其实，不止eSTK存在此问题，9eSIM等实体eSIM卡在安卓上都有这个问题，别手欠去停用。\n比如我把放eSIM实体卡的卡槽关闭了，那么我就没办法启动它了，换其他的卡又正常了。不用去恢复出厂设置，而且我觉得每个人的手机上都有重要数据，为了一张卡去重置，疯了吧🫠\n\n这个时候，你该做的是用ADB连接电脑，输入「adb shell pm clear https://t.co/MwE2RJupfD.providers.telephony」就好了，不用谢。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039361133140910500",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实，不止eSTK存在此问题，9eSIM等实体eSIM卡在安卓上都有这个问题，别手欠去停用。\n比如我把放eSIM实体卡的卡槽关闭了，那么我就没办法启动它了，换其他的卡又正常了。不用去恢复出厂设置，而且我觉得每个人的手机上都有重要数据，为了一张卡去重置，疯了吧🫠 https://t.co/nk0c1AmcTW https://t.co/cpDWWQPu0F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45737,
+        "height": 1280,
+        "media_key": "13_2039375413932380160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039375413932380160/img/LGnEjscgW1qBLmiH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039375413932380160/vid/avc1/320x710/2loZ_S7dMtCT5ab0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039375413932380160/vid/avc1/480x1066/6rmRTt0_4EvUHloW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039375413932380160/vid/avc1/576x1280/b28z8xZ9ercCoBw-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039375413932380160/pl/Atwn8krOlV32haiP.m3u8"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2039361123041054721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1EIuuakAECFOj.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039375413932380160"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2039376407441334724",
+        "created_at": "2026-04-01T16:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039376407441334724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nk0c1AmcTW",
+              "end": 154,
+              "expanded_url": "https://x.com/realNyarime/status/2039376407441334724/video/1",
+              "media_key": "13_2039375413932380160",
+              "start": 131,
+              "url": "https://t.co/nk0c1AmcTW"
+            },
+            {
+              "display_url": "x.com/__Lucas04__/st…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/__Lucas04__/status/2039361133140910500",
+              "start": 155,
+              "url": "https://t.co/cpDWWQPu0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039376407441334724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "com.android",
+                "end": 196,
+                "expanded_url": "http://com.android",
+                "start": 173,
+                "url": "https://t.co/MwE2RJupfD"
+              }
+            ]
+          },
+          "text": "其实，不止eSTK存在此问题，9eSIM等实体eSIM卡在安卓上都有这个问题，别手欠去停用。\n比如我把放eSIM实体卡的卡槽关闭了，那么我就没办法启动它了，换其他的卡又正常了。不用去恢复出厂设置，而且我觉得每个人的手机上都有重要数据，为了一张卡去重置，疯了吧🫠\n\n这个时候，你该做的是用ADB连接电脑，输入「adb shell pm clear https://t.co/MwE2RJupfD.providers.telephony」就好了，不用谢。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039361133140910500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实，不止eSTK存在此问题，9eSIM等实体eSIM卡在安卓上都有这个问题，别手欠去停用。\n比如我把放eSIM实体卡的卡槽关闭了，那么我就没办法启动它了，换其他的卡又正常了。不用去恢复出厂设置，而且我觉得每个人的手机上都有重要数据，为了一张卡去重置，疯了吧🫠 https://t.co/nk0c1AmcTW https://t.co/cpDWWQPu0F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039361123041054721"
+          ]
+        },
+        "author_id": "1556187726558515201",
+        "conversation_id": "2039361133140910500",
+        "created_at": "2026-04-01T15:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:12:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039360141389434934",
+          "2039361133140910500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/In33ILKVs1",
+              "end": 163,
+              "expanded_url": "https://x.com/__Lucas04__/status/2039361133140910500/photo/1",
+              "media_key": "3_2039361123041054721",
+              "start": 140,
+              "url": "https://t.co/In33ILKVs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039361133140910500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位用 ESTK 实体 eSIM 卡的千万别手欠在设置里关闭那个卡槽，否则那个配置文件将会永远无法重新启用，即使把它删除后重新下载也不能解决……\n\n目前暂不清楚是 HyperOS 的 bug 还是实体 eSIM 的 bug。系统疑似是通过 ICCID 进行区分不同 SIM 的。 https://t.co/In33ILKVs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25112,
+          "following_count": 496,
+          "like_count": 11608,
+          "listed_count": 113,
+          "media_count": 1338,
+          "tweet_count": 9124
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-07T07:59:28.000Z",
+        "description": "A student studying bioinformatics. | 一个学生信的废柴大学生 | Bluesky 👉 https://t.co/uIcugYtObC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lucas.…",
+                "end": 84,
+                "expanded_url": "https://bsky.app/profile/lucas.lucas04.top",
+                "start": 61,
+                "url": "https://t.co/uIcugYtObC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lucas04.top/about/",
+                "end": 23,
+                "expanded_url": "https://blog.lucas04.top/about/",
+                "start": 0,
+                "url": "https://t.co/ozwLzT6Si8"
+              }
+            ]
+          }
+        },
+        "id": "1556187726558515201",
+        "location": "Copenhagen, Denmark",
+        "name": "Lucas",
+        "pinned_tweet_id": "1987810975643553877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904211985593729027/rtm-FcDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 371,
+          "like_count": 6704,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/ozwLzT6Si8",
+        "username": "__Lucas04__",
+        "verified": true
+      }
+    ]
+  }
+}

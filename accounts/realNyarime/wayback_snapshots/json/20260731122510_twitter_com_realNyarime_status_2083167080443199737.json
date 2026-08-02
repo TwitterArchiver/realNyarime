@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083166904827699200",
+        "3_2083166913216299008",
+        "3_2083166927699292160"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2083167080443199737",
+    "created_at": "2026-07-31T12:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083167080443199737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fWYsaLFkWy",
+          "end": 160,
+          "expanded_url": "https://x.com/realNyarime/status/2083167080443199737/photo/1",
+          "media_key": "3_2083166904827699200",
+          "start": 137,
+          "url": "https://t.co/fWYsaLFkWy"
+        },
+        {
+          "display_url": "pic.x.com/fWYsaLFkWy",
+          "end": 160,
+          "expanded_url": "https://x.com/realNyarime/status/2083167080443199737/photo/1",
+          "media_key": "3_2083166913216299008",
+          "start": 137,
+          "url": "https://t.co/fWYsaLFkWy"
+        },
+        {
+          "display_url": "pic.x.com/fWYsaLFkWy",
+          "end": 160,
+          "expanded_url": "https://x.com/realNyarime/status/2083167080443199737/photo/1",
+          "media_key": "3_2083166927699292160",
+          "start": 137,
+          "url": "https://t.co/fWYsaLFkWy"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 184,
+          "expanded_url": "https://twitter.com/realNyarime/status/2083142479566758236",
+          "start": 161,
+          "url": "https://t.co/nPJrgDkbhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083167080443199737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083142479566758236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "继相关贴吧被关停，运营商集体发布停卡公告\n\n2026年7月31日19点，三家运营商在月末最后几小时同步发布公告，从8月1日起停止所有互联网发卡渠道，将所有业务收归自有\n\n同时与运营商有关的贴吧正在被逐步关停，运营商资费讨论将成为小众\n明明就是为了抬价，非要找个正当借口停卡 https://t.co/fWYsaLFkWy https://t.co/nPJrgDkbhe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2083166904827699200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjlQ0oa4AAbvtW.jpg",
+        "width": 1982
+      },
+      {
+        "height": 702,
+        "media_key": "3_2083166913216299008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjlRT4awAAZ0PK.jpg",
+        "width": 1741
+      },
+      {
+        "height": 1222,
+        "media_key": "3_2083166927699292160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjlSJ1bsAAriYB.jpg",
+        "width": 1790
+      },
+      {
+        "height": 638,
+        "media_key": "3_2083142440899493888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjPA1ZawAA2PxJ.png",
+        "width": 881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083166904827699200",
+            "3_2083166913216299008",
+            "3_2083166927699292160"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2083167080443199737",
+        "created_at": "2026-07-31T12:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083167080443199737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWYsaLFkWy",
+              "end": 160,
+              "expanded_url": "https://x.com/realNyarime/status/2083167080443199737/photo/1",
+              "media_key": "3_2083166904827699200",
+              "start": 137,
+              "url": "https://t.co/fWYsaLFkWy"
+            },
+            {
+              "display_url": "pic.x.com/fWYsaLFkWy",
+              "end": 160,
+              "expanded_url": "https://x.com/realNyarime/status/2083167080443199737/photo/1",
+              "media_key": "3_2083166913216299008",
+              "start": 137,
+              "url": "https://t.co/fWYsaLFkWy"
+            },
+            {
+              "display_url": "pic.x.com/fWYsaLFkWy",
+              "end": 160,
+              "expanded_url": "https://x.com/realNyarime/status/2083167080443199737/photo/1",
+              "media_key": "3_2083166927699292160",
+              "start": 137,
+              "url": "https://t.co/fWYsaLFkWy"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/realNyarime/status/2083142479566758236",
+              "start": 161,
+              "url": "https://t.co/nPJrgDkbhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083167080443199737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083142479566758236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继相关贴吧被关停，运营商集体发布停卡公告\n\n2026年7月31日19点，三家运营商在月末最后几小时同步发布公告，从8月1日起停止所有互联网发卡渠道，将所有业务收归自有\n\n同时与运营商有关的贴吧正在被逐步关停，运营商资费讨论将成为小众\n明明就是为了抬价，非要找个正当借口停卡 https://t.co/fWYsaLFkWy https://t.co/nPJrgDkbhe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083142440899493888"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2083142479566758236",
+        "created_at": "2026-07-31T10:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083142479566758236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YI61EopkN",
+              "end": 56,
+              "expanded_url": "https://x.com/realNyarime/status/2083142479566758236/photo/1",
+              "media_key": "3_2083142440899493888",
+              "start": 33,
+              "url": "https://t.co/0YI61EopkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083142479566758236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6875,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "据悉，百度贴吧多个联通吧、电信吧已关闭，但是各地区联通电信吧还在 https://t.co/0YI61EopkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43171,
+          "following_count": 664,
+          "like_count": 20731,
+          "listed_count": 187,
+          "media_count": 2507,
+          "tweet_count": 17348
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

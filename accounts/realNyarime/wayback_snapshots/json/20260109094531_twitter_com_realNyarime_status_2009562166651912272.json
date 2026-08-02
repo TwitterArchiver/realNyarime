@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2009562166651912272",
+    "created_at": "2026-01-09T09:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T10:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009562166651912272"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 70,
+          "normalized_text": "EU",
+          "probability": 0.9615,
+          "start": 69,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Mee19538/statu…",
+          "end": 294,
+          "expanded_url": "https://twitter.com/Mee19538/status/2009547327003049989",
+          "start": 271,
+          "url": "https://t.co/ntcTC0Po29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009562166651912272",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 2736,
+            "id": "29484376",
+            "start": 2727,
+            "username": "giffgaff"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "giffgaff.com/terms#giffgaff…",
+            "end": 466,
+            "expanded_url": "https://www.giffgaff.com/terms#giffgaff-fair-usage-policy",
+            "start": 443,
+            "url": "https://t.co/mC9ZaF30Ka"
+          }
+        ]
+      },
+      "text": "关于giffgaff ToS中的2.9条款\n\n原文是\n2.9. You may only use our services in the EU and selected destinations for periodic travel, like holidays or short breaks. If you’re not genuinely using our services for periodic travel we may have to charge you for, or suspend you from, using our services in the EU and selected destinations.\n实际上仔细看2.9为什么一直强调欧盟(EU)，什么又叫genuinely using our services还有为什么charge和suspend会用or并列？\n\n原来giffgaff为欧盟区提供了免费的漫游服务， 并且附带了公平使用条款: https://t.co/mC9ZaF30Ka\nYour plan’s calls and texts allowance can be used in the EU and selected destinations (we call this the EU zone) just like at home and at no extra cost.\n\nThere’s a fair use limit on data of 5GB. If you go over it’ll cost 10p/MB. If you need more data you can buy a travel data add-on (more info below), or start a new plan early which will give you another 5GB allowance\n\n这里的EU and selected destinations和2.9的描述恰好一致。所以说2.9实际上是用来规范EU and selected destinations免费漫游的合理使用的(旅游用途)。\n\n关于这点giffgaff母公司O2的TOS里也说的很明白:\nYou can only use our services for periodic travel (like holidays or short breaks) in our Europe Zone (excluding the UK). Otherwise we may charge you or have to suspend you from using our services in our Europe Zone (excluding the UK). If this has happened to you and you think it might be a mistake, call 202 from your mobile or 0344 809 0202 from any other Phone.\nYou can use your O2 Pay As You Go phone in our Europe Zone at no extra cost for periodic travel – such as holidays or short breaks. Otherwise, we may charge you or have to suspend you from using our services in our Europe Zone (excluding the UK\n\n不过话又说回来按公平使用条款的说法: \nWhat to avoid:\nUsing our services for the first time outside of the UK, using a large volume of your allowance (be that text, calls or data) in the EU and our other selected destinations (excluding the UK), or using our services and travelling within the EU and our other selected destinations (excluding the UK) for prolonged periods which don’t follow reasonable consumer holiday and travel patterns and behaviour. If you use our services outside the UK in the EU and our other selected destinations for 63 or more days in any four-month period and you cannot demonstrate prevailing use or presence in the UK this is likely to be deemed to be an unfair use of our services.\n首次不在英国激活或者漫超过63天即触犯条款。\nWe also we reserve the right to; (i) investigate your usage, (ii) impose Network protection controls (which may reduce your speed of connection) (iii) suspend you from using our services, (iv) disconnect your SIM card at any time (v) transfer you to a plan with a reduced data allowance and/or (vi) prevent you from purchasing further plans.\n\n但是实际上正如上文所说，大部分云开都会违反ToS，要想避开ToS没有任何意义(想要封号总有一款适合你)。合规使用还是老老实实用当地的服务吧。\n\n最后有问题欢迎问 @giffgaff ，他们回复都好勤快的！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009547327003049989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于giffgaff ToS中的2.9条款\n\n原文是\n2.9. You may only use our services in the EU and selected destinations for periodic travel, like holidays or short breaks. If you’re not genuinely using our services for periodic travel we may have to charge you for, or suspend you from, using https://t.co/ntcTC0Po29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2009547315342880768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-NYouJaMAAc7xt.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2009562166651912272",
+        "created_at": "2026-01-09T09:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009562166651912272"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "EU",
+              "probability": 0.9615,
+              "start": 69,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Mee19538/statu…",
+              "end": 294,
+              "expanded_url": "https://twitter.com/Mee19538/status/2009547327003049989",
+              "start": 271,
+              "url": "https://t.co/ntcTC0Po29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009562166651912272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 2736,
+                "id": "29484376",
+                "start": 2727,
+                "username": "giffgaff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "giffgaff.com/terms#giffgaff…",
+                "end": 466,
+                "expanded_url": "https://www.giffgaff.com/terms#giffgaff-fair-usage-policy",
+                "start": 443,
+                "url": "https://t.co/mC9ZaF30Ka"
+              }
+            ]
+          },
+          "text": "关于giffgaff ToS中的2.9条款\n\n原文是\n2.9. You may only use our services in the EU and selected destinations for periodic travel, like holidays or short breaks. If you’re not genuinely using our services for periodic travel we may have to charge you for, or suspend you from, using our services in the EU and selected destinations.\n实际上仔细看2.9为什么一直强调欧盟(EU)，什么又叫genuinely using our services还有为什么charge和suspend会用or并列？\n\n原来giffgaff为欧盟区提供了免费的漫游服务， 并且附带了公平使用条款: https://t.co/mC9ZaF30Ka\nYour plan’s calls and texts allowance can be used in the EU and selected destinations (we call this the EU zone) just like at home and at no extra cost.\n\nThere’s a fair use limit on data of 5GB. If you go over it’ll cost 10p/MB. If you need more data you can buy a travel data add-on (more info below), or start a new plan early which will give you another 5GB allowance\n\n这里的EU and selected destinations和2.9的描述恰好一致。所以说2.9实际上是用来规范EU and selected destinations免费漫游的合理使用的(旅游用途)。\n\n关于这点giffgaff母公司O2的TOS里也说的很明白:\nYou can only use our services for periodic travel (like holidays or short breaks) in our Europe Zone (excluding the UK). Otherwise we may charge you or have to suspend you from using our services in our Europe Zone (excluding the UK). If this has happened to you and you think it might be a mistake, call 202 from your mobile or 0344 809 0202 from any other Phone.\nYou can use your O2 Pay As You Go phone in our Europe Zone at no extra cost for periodic travel – such as holidays or short breaks. Otherwise, we may charge you or have to suspend you from using our services in our Europe Zone (excluding the UK\n\n不过话又说回来按公平使用条款的说法: \nWhat to avoid:\nUsing our services for the first time outside of the UK, using a large volume of your allowance (be that text, calls or data) in the EU and our other selected destinations (excluding the UK), or using our services and travelling within the EU and our other selected destinations (excluding the UK) for prolonged periods which don’t follow reasonable consumer holiday and travel patterns and behaviour. If you use our services outside the UK in the EU and our other selected destinations for 63 or more days in any four-month period and you cannot demonstrate prevailing use or presence in the UK this is likely to be deemed to be an unfair use of our services.\n首次不在英国激活或者漫超过63天即触犯条款。\nWe also we reserve the right to; (i) investigate your usage, (ii) impose Network protection controls (which may reduce your speed of connection) (iii) suspend you from using our services, (iv) disconnect your SIM card at any time (v) transfer you to a plan with a reduced data allowance and/or (vi) prevent you from purchasing further plans.\n\n但是实际上正如上文所说，大部分云开都会违反ToS，要想避开ToS没有任何意义(想要封号总有一款适合你)。合规使用还是老老实实用当地的服务吧。\n\n最后有问题欢迎问 @giffgaff ，他们回复都好勤快的！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009547327003049989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于giffgaff ToS中的2.9条款\n\n原文是\n2.9. You may only use our services in the EU and selected destinations for periodic travel, like holidays or short breaks. If you’re not genuinely using our services for periodic travel we may have to charge you for, or suspend you from, using https://t.co/ntcTC0Po29"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009547315342880768"
+          ]
+        },
+        "author_id": "1171915865899642880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2009547327003049989",
+        "created_at": "2026-01-09T08:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009547327003049989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xpSeBswfT",
+              "end": 146,
+              "expanded_url": "https://x.com/Mee19538/status/2009547327003049989/photo/1",
+              "media_key": "3_2009547315342880768",
+              "start": 123,
+              "url": "https://t.co/4xpSeBswfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009547327003049989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近期关于giffgaff电话卡在中国遭遇大规模封号的传言，其实是谣言。giffgaff官方目前只是停止向中国（包括香港地区）邮寄实体卡片，但是在淘宝等平台依然可以买到。只要遵守官方的180天规则，号码依然长期有效。当然违规违法使用被封号的除外。 https://t.co/4xpSeBswfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008425765751185868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7321,
+          "following_count": 737,
+          "like_count": 8675,
+          "listed_count": 21,
+          "media_count": 645,
+          "tweet_count": 5413
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-07T16:37:32.000Z",
+        "description": "Need a hand? Our friendly agents are here daily 8am-10pm. You can also check out https://t.co/QpHLd4vqdB or ask our community. For account queries, DM us",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "giffgaff.com/help",
+                "end": 104,
+                "expanded_url": "http://giffgaff.com/help",
+                "start": 81,
+                "url": "https://t.co/QpHLd4vqdB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/giffgaff",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/giffgaff",
+                "start": 0,
+                "url": "https://t.co/O3gdkVQlRG"
+              }
+            ]
+          }
+        },
+        "id": "29484376",
+        "name": "giffgaff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600790821917319169/1q6BB125_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63740,
+          "following_count": 3210,
+          "like_count": 10905,
+          "listed_count": 446,
+          "media_count": 9596,
+          "tweet_count": 146154
+        },
+        "url": "https://t.co/O3gdkVQlRG",
+        "username": "giffgaff",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-11T22:38:24.000Z",
+        "description": "自说自话，记录生活。",
+        "id": "1171915865899642880",
+        "name": "M#19538",
+        "pinned_tweet_id": "1885704255324971054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009299933325873156/8id3Ddg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 119,
+          "like_count": 880,
+          "listed_count": 4,
+          "media_count": 23,
+          "tweet_count": 188
+        },
+        "username": "Mee19538",
+        "verified": true
+      }
+    ]
+  }
+}

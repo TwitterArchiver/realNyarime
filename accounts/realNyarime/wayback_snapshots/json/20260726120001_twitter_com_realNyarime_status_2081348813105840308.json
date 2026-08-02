@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2081208400059486519",
+    "created_at": "2026-07-26T12:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081348813105840308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081348813105840308",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我对余承东这个人，除了夸夸其谈以外并没有什么不好的印象，也是他的演讲说服我买华为 Mate60 以及后面的系列\n在我初中时期，我是一个追求配置的人。比如蓝绿都在搞高通骁龙 660 卖 3k，加上腾讯 py 的调教，我坚持粗粮家的骁龙 835、845 等旗舰 SoC，老了以后发现不在乎这些了\n对我来说，曲面屏甚至不如直屏手机，什么特调、云控其实也跟我没太大关系。不喜欢就叫转转回收，然后换台新的就好了，有的时候心态很重要，我觉得我自己的转变了。华为也好，小米也罢，都是中国品牌只是法务傻逼吧，小米从上市后也跟华为一样有强硬的法务了，搞得跟个河豚一样"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081208400059486519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@RainEngine2024m 我对余承东这个人，除了夸夸其谈以外并没有什么不好的印象，也是他的演讲说服我买华为 Mate60 以及后面的系列\n在我初中时期，我是一个追求配置的人。比如蓝绿都在搞高通骁龙 660 卖 3k，加上腾讯 py 的调教，我坚持粗粮家的骁龙 835、845 等旗舰 SoC，老了以后发现不在乎这些了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2081208393327579136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHwAcvaEAA9UzW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2081208400059486519",
+        "created_at": "2026-07-26T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081348813105840308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081348813105840308",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我对余承东这个人，除了夸夸其谈以外并没有什么不好的印象，也是他的演讲说服我买华为 Mate60 以及后面的系列\n在我初中时期，我是一个追求配置的人。比如蓝绿都在搞高通骁龙 660 卖 3k，加上腾讯 py 的调教，我坚持粗粮家的骁龙 835、845 等旗舰 SoC，老了以后发现不在乎这些了\n对我来说，曲面屏甚至不如直屏手机，什么特调、云控其实也跟我没太大关系。不喜欢就叫转转回收，然后换台新的就好了，有的时候心态很重要，我觉得我自己的转变了。华为也好，小米也罢，都是中国品牌只是法务傻逼吧，小米从上市后也跟华为一样有强硬的法务了，搞得跟个河豚一样"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081208400059486519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@RainEngine2024m 我对余承东这个人，除了夸夸其谈以外并没有什么不好的印象，也是他的演讲说服我买华为 Mate60 以及后面的系列\n在我初中时期，我是一个追求配置的人。比如蓝绿都在搞高通骁龙 660 卖 3k，加上腾讯 py 的调教，我坚持粗粮家的骁龙 835、845 等旗舰 SoC，老了以后发现不在乎这些了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081208393327579136"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "conversation_id": "2081208400059486519",
+        "created_at": "2026-07-26T02:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081208400059486519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FxRZKnr65",
+              "end": 46,
+              "expanded_url": "https://x.com/RainEngine2024m/status/2081208400059486519/photo/1",
+              "media_key": "3_2081208393327579136",
+              "start": 23,
+              "url": "https://t.co/4FxRZKnr65"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2081208400059486519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1199,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "难绷，啊这个这个我这个这个啊，啊这个这个是吧 https://t.co/4FxRZKnr65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41482,
+          "following_count": 670,
+          "like_count": 20243,
+          "listed_count": 183,
+          "media_count": 2466,
+          "tweet_count": 17008
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "不知名数码爱好者、米粉/欧粉/花粉、社民/民社、INFP、摄影、ACG、Galgame\n爱人：@wxb_nb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "wxb_nb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/gbsnx2009",
+                "end": 23,
+                "expanded_url": "http://telegram.me/gbsnx2009",
+                "start": 0,
+                "url": "https://t.co/zF8pJloxVl"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "JiLin Republic of China",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2077399541406630389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069668562675859456/CCsU4ILA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 1598,
+          "like_count": 6264,
+          "listed_count": 10,
+          "media_count": 1119,
+          "tweet_count": 3476
+        },
+        "url": "https://t.co/zF8pJloxVl",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

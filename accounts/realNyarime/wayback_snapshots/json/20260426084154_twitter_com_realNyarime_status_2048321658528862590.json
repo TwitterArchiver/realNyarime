@@ -1,0 +1,609 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459270",
+          "name": "Vodafone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2047963190999548257",
+    "created_at": "2026-04-26T08:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048321658528862590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753293214826848256",
+          "start": 0,
+          "username": "tatanakots"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 124,
+          "expanded_url": "https://x.com/realNyarime/status/2048320809417261211",
+          "start": 101,
+          "url": "https://t.co/Y8Eo5Cqcx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048321658528862590",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048320809417261211",
+        "type": "quoted"
+      },
+      {
+        "id": "2048314911118565574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatanakots 中东佬那个才是真头疼，不过内存里dump出来了\n他相当于是Kotlin中嵌入了Go环境的XTLS/Xray-Core，总之里面本身就是个标准的代理协议，因此能在通用客户端上使用\nhttps://t.co/Y8Eo5Cqcx3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_2048316521072807936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0VBgIb0AAGis5.png",
+        "width": 816
+      },
+      {
+        "height": 716,
+        "media_key": "3_2048317096308953088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0Vi_Da0AAj5Mz.jpg",
+        "width": 1057
+      },
+      {
+        "height": 592,
+        "media_key": "3_2048318306655023104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0Wpb8aMAABiBl.png",
+        "width": 1919
+      },
+      {
+        "height": 812,
+        "media_key": "3_2048318397616971776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0WuuzbYAA_wKP.jpg",
+        "width": 2012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459270",
+              "name": "Vodafone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2047963190999548257",
+        "created_at": "2026-04-26T08:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048321658528862590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 124,
+              "expanded_url": "https://x.com/realNyarime/status/2048320809417261211",
+              "start": 101,
+              "url": "https://t.co/Y8Eo5Cqcx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048321658528862590",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048320809417261211",
+            "type": "quoted"
+          },
+          {
+            "id": "2048314911118565574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 中东佬那个才是真头疼，不过内存里dump出来了\n他相当于是Kotlin中嵌入了Go环境的XTLS/Xray-Core，总之里面本身就是个标准的代理协议，因此能在通用客户端上使用\nhttps://t.co/Y8Eo5Cqcx3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048316521072807936",
+            "3_2048317096308953088",
+            "3_2048318306655023104",
+            "3_2048318397616971776"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459270",
+              "name": "Vodafone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2048320809417261211",
+        "created_at": "2026-04-26T08:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:35:54.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048320150076895374",
+          "2048320399470133431",
+          "2048320809417261211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51O2iKh6QP",
+              "end": 200,
+              "expanded_url": "https://x.com/realNyarime/status/2048320809417261211/photo/1",
+              "media_key": "3_2048316521072807936",
+              "start": 177,
+              "url": "https://t.co/51O2iKh6QP"
+            },
+            {
+              "display_url": "pic.x.com/51O2iKh6QP",
+              "end": 200,
+              "expanded_url": "https://x.com/realNyarime/status/2048320809417261211/photo/1",
+              "media_key": "3_2048317096308953088",
+              "start": 177,
+              "url": "https://t.co/51O2iKh6QP"
+            },
+            {
+              "display_url": "pic.x.com/51O2iKh6QP",
+              "end": 200,
+              "expanded_url": "https://x.com/realNyarime/status/2048320809417261211/photo/1",
+              "media_key": "3_2048318306655023104",
+              "start": 177,
+              "url": "https://t.co/51O2iKh6QP"
+            },
+            {
+              "display_url": "pic.x.com/51O2iKh6QP",
+              "end": 200,
+              "expanded_url": "https://x.com/realNyarime/status/2048320809417261211/photo/1",
+              "media_key": "3_2048318397616971776",
+              "start": 177,
+              "url": "https://t.co/51O2iKh6QP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048320809417261211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "研究了一下中东地区流行的免流工具Npv Tunnel，文件格式是 .npvt 基于V2Ray和SSH Tunnel的一个加密代理，长期以来对O2（Lebara、Giffgaff）、Vodafone、3UK等运营商绕过计费，进行所谓的漫游免流行为\n\n该程序引用了XTLS/Xray-Core外，本质是滥用Cloudflare Workers转发vmess websocket+tls协议，并以推特的 help[.]twitter[.]com[.]cdn[.]cloudflare[.]net 为服务器地址做了CF优选。最后通过IDA处理，发现了其db用的是白盒AES加密，包括该程序会识别LSPosed注入情况给予警报，并附带是否为数据流量、是否越狱、是否从Play Store下载，在导入配置文件时进行判断\n\n此外还有hc等自命名协议，并不是标准协议，虽然电报上有中东佬的群提供了解密bot但都做了广告植入，无法按照解密的内容跟实际db文件做比较逆算出AES密钥。不过已经有了它们的v2ray配置了，实测支持vmess协议的代理软件也可以正常连接到它们服务器，就跟某些机场的专属客户端一样，加密了防止泄露但都是无用功"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "研究了一下中东地区流行的免流工具Npv Tunnel，文件格式是 .npvt 基于V2Ray和SSH Tunnel的一个加密代理，长期以来对O2（Lebara、Giffgaff）、Vodafone、3UK等运营商绕过计费，进行所谓的漫游免流行为\n\n该程序引用了XTLS/Xray-Core外，本质是滥用Cloudflare Workers转发vmess https://t.co/51O2iKh6QP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2047963190999548257",
+        "created_at": "2026-04-26T08:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048314911118565574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048314911118565574",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048314202016923707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 抓到的是mihomo的配置文件，里面有节点信息，没有去抓订阅链接，但是每次更新的时候手动重新获取一遍配置文件再转一下我感觉也行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2048250717077455188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30672,
+          "following_count": 561,
+          "like_count": 12937,
+          "listed_count": 150,
+          "media_count": 1570,
+          "tweet_count": 10529
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 405,
+          "like_count": 27539,
+          "listed_count": 7,
+          "media_count": 1678,
+          "tweet_count": 12297
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      }
+    ]
+  }
+}

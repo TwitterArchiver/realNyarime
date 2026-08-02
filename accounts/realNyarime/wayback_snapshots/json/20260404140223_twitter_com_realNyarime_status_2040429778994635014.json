@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2040427842295533975",
+    "created_at": "2026-04-04T14:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T15:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040429778994635014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1104341133281452034",
+          "start": 0,
+          "username": "handsomeshuor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040429778994635014",
+    "in_reply_to_user_id": "1104341133281452034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "收集指纹并无什么不妥，可以合理的用作反爬啊等等，但是要看目的。\n结合这个接口上传的数据来看，很难让人向善意方面去想。\n\n如果只是单纯防同一人多次访问，用浏览器指纹（Canvas、WebGL、字体、音频上下文等）已经能做得很好了，不一定非要挖真实 IP。\n而且，他是在页面创建初期静默上传的，并且使用了 WebRTC 探查真实 IP，没有征得任何人的同意，甚至你都看不到用户许可协议来允许他来这么干。\n\n搜集指纹并不怎么样，重要的是在没有征得用户同意下尝试通过 WebRTC 去拿你的真实 IP，还上传到了后端服务器进行关联。\n\n作为用户端，我们应当对自己负责。\n作为服务端，应当对用户负责，对用户的隐私负责\n\n有没有一种可能是因为ping0需要排除同一个人多次用同一个IP访问而对IP造成的误判\n\n如果真是这样，那 ping0 不就真的越查越黑了么，那要他还有什么用（"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040429344796152147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@handsomeshuor 收集指纹并无什么不妥，可以合理的用作反爬啊等等，但是要看目的。\n结合这个接口上传的数据来看，很难让人向善意方面去想。\n\n如果只是单纯防同一人多次访问，用浏览器指纹（Canvas、WebGL、字体、音频上下文等）已经能做得很好了，不一定非要挖真实 IP。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2040427842295533975",
+        "created_at": "2026-04-04T14:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040429778994635014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1104341133281452034",
+              "start": 0,
+              "username": "handsomeshuor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040429778994635014",
+        "in_reply_to_user_id": "1104341133281452034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "收集指纹并无什么不妥，可以合理的用作反爬啊等等，但是要看目的。\n结合这个接口上传的数据来看，很难让人向善意方面去想。\n\n如果只是单纯防同一人多次访问，用浏览器指纹（Canvas、WebGL、字体、音频上下文等）已经能做得很好了，不一定非要挖真实 IP。\n而且，他是在页面创建初期静默上传的，并且使用了 WebRTC 探查真实 IP，没有征得任何人的同意，甚至你都看不到用户许可协议来允许他来这么干。\n\n搜集指纹并不怎么样，重要的是在没有征得用户同意下尝试通过 WebRTC 去拿你的真实 IP，还上传到了后端服务器进行关联。\n\n作为用户端，我们应当对自己负责。\n作为服务端，应当对用户负责，对用户的隐私负责\n\n有没有一种可能是因为ping0需要排除同一个人多次用同一个IP访问而对IP造成的误判\n\n如果真是这样，那 ping0 不就真的越查越黑了么，那要他还有什么用（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040429344796152147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@handsomeshuor 收集指纹并无什么不妥，可以合理的用作反爬啊等等，但是要看目的。\n结合这个接口上传的数据来看，很难让人向善意方面去想。\n\n如果只是单纯防同一人多次访问，用浏览器指纹（Canvas、WebGL、字体、音频上下文等）已经能做得很好了，不一定非要挖真实 IP。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1104341133281452034",
+        "conversation_id": "2040427842295533975",
+        "created_at": "2026-04-04T14:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040429344796152147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040429344796152147",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040427842295533975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 给好几家澳洲家宽标成ISP我是真没绷住……还是老老实实看ipinfo吧😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25811,
+          "following_count": 498,
+          "like_count": 11747,
+          "listed_count": 116,
+          "media_count": 1380,
+          "tweet_count": 9328
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-09T11:20:18.000Z",
+        "description": "❤️ @maxxam8997 | 23 yo | Student of UQ | Master of IT | Subscribe for my daily Nonsense | 🏳️‍🌈 | My English acc: @imKevinLiu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "maxxam8997"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "imKevinLiu_"
+              }
+            ]
+          }
+        },
+        "id": "1104341133281452034",
+        "location": "Brisbane, Queensland",
+        "name": "Kevin Liiert 𝕏",
+        "pinned_tweet_id": "2011707707766739257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874099390794915844/aCrKl55c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 804,
+          "like_count": 22419,
+          "listed_count": 13,
+          "media_count": 2559,
+          "tweet_count": 12054
+        },
+        "username": "handsomeshuor",
+        "verified": false
+      }
+    ]
+  }
+}

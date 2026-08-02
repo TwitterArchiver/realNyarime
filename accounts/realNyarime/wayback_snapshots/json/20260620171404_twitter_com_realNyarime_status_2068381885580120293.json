@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068262485656850876",
+    "created_at": "2026-06-20T17:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068381885580120293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2709622716",
+          "start": 0,
+          "username": "zzy19960514"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "7b02fbddf4d9f2c6"
+    },
+    "id": "2068381885580120293",
+    "in_reply_to_user_id": "2709622716",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068299035883253895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzy19960514 3JVHKADRMDKW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [7b02fbddf4d9f2c6].",
+      "parameter": "geo.place_id",
+      "resource_id": "7b02fbddf4d9f2c6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "7b02fbddf4d9f2c6"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068262485656850876",
+        "created_at": "2026-06-20T17:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068381885580120293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2709622716",
+              "start": 0,
+              "username": "zzy19960514"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7b02fbddf4d9f2c6"
+        },
+        "id": "2068381885580120293",
+        "in_reply_to_user_id": "2709622716",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299035883253895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzy19960514 3JVHKADRMDKW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2709622716",
+        "conversation_id": "2068262485656850876",
+        "created_at": "2026-06-20T11:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068299035883253895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068299035883253895",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068262485656850876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 明年还会有吗我的红茶还没用完"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38081,
+          "following_count": 658,
+          "like_count": 18019,
+          "listed_count": 179,
+          "media_count": 2194,
+          "tweet_count": 14972
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-05T15:43:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/zzy19960514",
+                "end": 23,
+                "expanded_url": "https://twitter.com/zzy19960514",
+                "start": 0,
+                "url": "https://t.co/QMiZ7xTbZc"
+              }
+            ]
+          }
+        },
+        "id": "2709622716",
+        "location": "中国广东",
+        "name": "zzy1996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512378884159057929/Ku3CnW6h_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1812,
+          "like_count": 8142,
+          "listed_count": 6,
+          "media_count": 57,
+          "tweet_count": 9458
+        },
+        "url": "https://t.co/QMiZ7xTbZc",
+        "username": "zzy19960514",
+        "verified": false
+      }
+    ]
+  }
+}

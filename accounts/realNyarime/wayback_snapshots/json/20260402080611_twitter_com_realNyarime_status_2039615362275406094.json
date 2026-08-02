@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039615350585851904",
+        "3_2039614093552975872",
+        "3_2039614093510991872"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2039615362275406094",
+    "created_at": "2026-04-02T08:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039615362275406094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t4zCWO5Saz",
+          "end": 165,
+          "expanded_url": "https://x.com/realNyarime/status/2039615362275406094/photo/1",
+          "media_key": "3_2039615350585851904",
+          "start": 142,
+          "url": "https://t.co/t4zCWO5Saz"
+        },
+        {
+          "display_url": "pic.x.com/t4zCWO5Saz",
+          "end": 165,
+          "expanded_url": "https://x.com/realNyarime/status/2039615362275406094/photo/1",
+          "media_key": "3_2039614093552975872",
+          "start": 142,
+          "url": "https://t.co/t4zCWO5Saz"
+        },
+        {
+          "display_url": "pic.x.com/t4zCWO5Saz",
+          "end": 165,
+          "expanded_url": "https://x.com/realNyarime/status/2039615362275406094/photo/1",
+          "media_key": "3_2039614093510991872",
+          "start": 142,
+          "url": "https://t.co/t4zCWO5Saz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039615362275406094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "刚刚用*#*#869434#*#*把小米的VoWiFi运营商检测禁用掉了，把WiFi通话打开后，连接家里的联通网就激活了，即使是开着飞行模式也能打电话。\n不过之前电信也是直接激活，需要连接本省电信的WiFi才能连上省公司的epdg服务器，每个省的解析记录还不一样，也不允许省外访问？\n\n好家伙，中国的运营商一直都是联邦制吗？不过也可以MitM联通APP开通功能，具体的奶昔论坛上又教学就不赘述了。\n虽然业务上叫「Wi-Fi通话（APP模式）」，但又不是原生的。除了GPS定位要在国内，只需人脸或者短信验证码只要认证一次，后面即使划掉APP再打开也不会再要求验证。\n打电话：即使原联通号在线也能直接打\n接电话：原联通号在线，只有插SIM卡的手机能接电话。原联通号不在线，即使把联通APP进程杀掉，也能接到电话。\n\n不过该功能仅有部分省份可用，有些省份可能会出现“该用户订购的产品包未找到相应服务”的报错，最有用的地方应该是跟移动无忧行一样，在境外时省国际漫游费，随身备个尾插改定位就行。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚用*#*#869434#*#*把小米的VoWiFi运营商检测禁用掉了，把WiFi通话打开后，连接家里的联通网就激活了，即使是开着飞行模式也能打电话。\n不过之前电信也是直接激活，需要连接本省电信的WiFi才能连上省公司的epdg服务器，每个省的解析记录还不一样，也不允许省外访问？ https://t.co/t4zCWO5Saz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2039615350585851904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4rWuIagAAbxE0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 980,
+        "media_key": "3_2039614093552975872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4qNjUbAAA2CQ8.jpg",
+        "width": 470
+      },
+      {
+        "height": 292,
+        "media_key": "3_2039614093510991872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4qNjKaYAA_ag0.png",
+        "width": 490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039615350585851904",
+            "3_2039614093552975872",
+            "3_2039614093510991872"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2039615362275406094",
+        "created_at": "2026-04-02T08:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039615362275406094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4zCWO5Saz",
+              "end": 165,
+              "expanded_url": "https://x.com/realNyarime/status/2039615362275406094/photo/1",
+              "media_key": "3_2039615350585851904",
+              "start": 142,
+              "url": "https://t.co/t4zCWO5Saz"
+            },
+            {
+              "display_url": "pic.x.com/t4zCWO5Saz",
+              "end": 165,
+              "expanded_url": "https://x.com/realNyarime/status/2039615362275406094/photo/1",
+              "media_key": "3_2039614093552975872",
+              "start": 142,
+              "url": "https://t.co/t4zCWO5Saz"
+            },
+            {
+              "display_url": "pic.x.com/t4zCWO5Saz",
+              "end": 165,
+              "expanded_url": "https://x.com/realNyarime/status/2039615362275406094/photo/1",
+              "media_key": "3_2039614093510991872",
+              "start": 142,
+              "url": "https://t.co/t4zCWO5Saz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039615362275406094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚刚用*#*#869434#*#*把小米的VoWiFi运营商检测禁用掉了，把WiFi通话打开后，连接家里的联通网就激活了，即使是开着飞行模式也能打电话。\n不过之前电信也是直接激活，需要连接本省电信的WiFi才能连上省公司的epdg服务器，每个省的解析记录还不一样，也不允许省外访问？\n\n好家伙，中国的运营商一直都是联邦制吗？不过也可以MitM联通APP开通功能，具体的奶昔论坛上又教学就不赘述了。\n虽然业务上叫「Wi-Fi通话（APP模式）」，但又不是原生的。除了GPS定位要在国内，只需人脸或者短信验证码只要认证一次，后面即使划掉APP再打开也不会再要求验证。\n打电话：即使原联通号在线也能直接打\n接电话：原联通号在线，只有插SIM卡的手机能接电话。原联通号不在线，即使把联通APP进程杀掉，也能接到电话。\n\n不过该功能仅有部分省份可用，有些省份可能会出现“该用户订购的产品包未找到相应服务”的报错，最有用的地方应该是跟移动无忧行一样，在境外时省国际漫游费，随身备个尾插改定位就行。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚用*#*#869434#*#*把小米的VoWiFi运营商检测禁用掉了，把WiFi通话打开后，连接家里的联通网就激活了，即使是开着飞行模式也能打电话。\n不过之前电信也是直接激活，需要连接本省电信的WiFi才能连上省公司的epdg服务器，每个省的解析记录还不一样，也不允许省外访问？ https://t.co/t4zCWO5Saz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25181,
+          "following_count": 496,
+          "like_count": 11628,
+          "listed_count": 114,
+          "media_count": 1344,
+          "tweet_count": 9147
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

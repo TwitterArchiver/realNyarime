@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2073696045134168312",
+    "created_at": "2026-07-05T18:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073830364838310320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstra"
+        },
+        {
+          "end": 23,
+          "id": "1817986808787124230",
+          "start": 9,
+          "username": "predictdotfun"
+        },
+        {
+          "end": 35,
+          "id": "1214781942337392640",
+          "start": 24,
+          "username": "ricardogee"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "001b1f4d203740ea"
+    },
+    "id": "2073830364838310320",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073696045134168312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstra @predictdotfun @ricardogee Astra哥哥我也想踢球"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [001b1f4d203740ea].",
+      "parameter": "geo.place_id",
+      "resource_id": "001b1f4d203740ea",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "001b1f4d203740ea"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073696038205227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc_j1FbgAAmoD6.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2073696045134168312",
+        "created_at": "2026-07-05T18:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073830364838310320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstra"
+            },
+            {
+              "end": 23,
+              "id": "1817986808787124230",
+              "start": 9,
+              "username": "predictdotfun"
+            },
+            {
+              "end": 35,
+              "id": "1214781942337392640",
+              "start": 24,
+              "username": "ricardogee"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2073830364838310320",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073696045134168312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstra @predictdotfun @ricardogee Astra哥哥我也想踢球"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073696038205227008"
+          ]
+        },
+        "author_id": "1775079210484436992",
+        "conversation_id": "2073696045134168312",
+        "created_at": "2026-07-05T09:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073696045134168312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817986808787124230",
+              "start": 2,
+              "username": "predictdotfun"
+            },
+            {
+              "end": 53,
+              "id": "1214781942337392640",
+              "start": 42,
+              "username": "ricardogee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rbk9bLE5Fl",
+              "end": 81,
+              "expanded_url": "https://x.com/0xAstra/status/2073696045134168312/photo/1",
+              "media_key": "3_2073696038205227008",
+              "start": 58,
+              "url": "https://t.co/Rbk9bLE5Fl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073696045134168312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1118,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@predictdotfun 的周边，第一次收到项目方周边很高兴很激动🫡\n谢谢 @ricardogee 好哥哥 https://t.co/Rbk9bLE5Fl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39573,
+          "following_count": 658,
+          "like_count": 18929,
+          "listed_count": 181,
+          "media_count": 2302,
+          "tweet_count": 15914
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "正在打造 @GMWallet ｜GitHub Star全球前十(加密领域) HODL @PudgyPenguins #5103 加密交易用币安：https://t.co/gCvs8cb1ga\nOKX最合规交易所：https://t.co/Spvg2Or79R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "GMWallet"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "PudgyPenguins"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 95,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 72,
+                "url": "https://t.co/gCvs8cb1ga"
+              },
+              {
+                "display_url": "okx.com/join/17846565",
+                "end": 129,
+                "expanded_url": "https://okx.com/join/17846565",
+                "start": 106,
+                "url": "https://t.co/Spvg2Or79R"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063723095492644864/wQfoPaC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8261,
+          "following_count": 930,
+          "like_count": 52715,
+          "listed_count": 36,
+          "media_count": 561,
+          "tweet_count": 10952
+        },
+        "url": "",
+        "username": "0xAstra",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-29T18:13:32.000Z",
+        "description": "Powering prediction markets on @binance.\n🔮https://t.co/ViMEgZbdh7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/predictdotfun",
+                "end": 65,
+                "expanded_url": "http://discord.gg/predictdotfun",
+                "start": 42,
+                "url": "https://t.co/ViMEgZbdh7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "predict.fun",
+                "end": 23,
+                "expanded_url": "https://predict.fun/",
+                "start": 0,
+                "url": "https://t.co/WergU2jNuD"
+              }
+            ]
+          }
+        },
+        "id": "1817986808787124230",
+        "location": "Loading...",
+        "name": "predict.fun",
+        "pinned_tweet_id": "2042198911449022498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829543621059862530/1b8ti3xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58021,
+          "following_count": 106,
+          "like_count": 1874,
+          "listed_count": 339,
+          "media_count": 282,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/WergU2jNuD",
+        "username": "predictdotfun",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-08T05:32:48.000Z",
+        "description": "APAC BD Lead @Predictdotfun | Degen | Alumni @Cornell",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Predictdotfun"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Cornell"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+xUxzkSwu_H1hZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+xUxzkSwu_H1hZTM1",
+                "start": 0,
+                "url": "https://t.co/R4qo0ifYmP"
+              }
+            ]
+          }
+        },
+        "id": "1214781942337392640",
+        "location": "United States",
+        "name": "Ricardo阿黄",
+        "pinned_tweet_id": "2033435180468429061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888103626674937856/jYKAu7tG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13797,
+          "following_count": 1775,
+          "like_count": 16074,
+          "listed_count": 150,
+          "media_count": 242,
+          "tweet_count": 3824
+        },
+        "url": "https://t.co/R4qo0ifYmP",
+        "username": "ricardogee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2049292595067752527",
+    "created_at": "2026-04-29T01:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T02:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049296745738486006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "24313912",
+          "start": 0,
+          "username": "wey_gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049296745738486006",
+    "in_reply_to_user_id": "24313912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049292595067752527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wey_gu 我现在是claude vibe，然后codex审计，也在尝试接触一些国产llm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2049292595067752527",
+        "created_at": "2026-04-29T01:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049296745738486006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "24313912",
+              "start": 0,
+              "username": "wey_gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049296745738486006",
+        "in_reply_to_user_id": "24313912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049292595067752527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wey_gu 我现在是claude vibe，然后codex审计，也在尝试接触一些国产llm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "24313912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2049292595067752527",
+        "created_at": "2026-04-29T01:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049292595067752527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049292595067752527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我同时订阅 claude 和 openai 的原因，除了他们各有擅长、各有 sota 的时间段（而且越来越频繁交换位置）之外，就是因为可用性。\n我不能承受因为 ai 提供商挂掉终止我的开发、研究工作。\n线上服务的可用性在 ai 发展初期被大家无限降低接受程度和期待，不过也要一点点回归正常了。\n\nGitHub 作为生产协作的核心，可用性出现问题的关键时刻作为用户组织确实太无助了。\n\nGitHub 作为中心化的存在，同时慷慨地提供曾经大家不敢奢求的各种免费能力给开源、甚至闭源项目，是开发者、用户的一大幸运，然而这种公益性质的投入产出的定位和从此出发的激励模式可能造就了它的可用性问题。\n\n希望 GitHub 团队可以从这次，有机会把可用性这件事儿重新看待"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我同时订阅 claude 和 openai 的原因，除了他们各有擅长、各有 sota 的时间段（而且越来越频繁交换位置）之外，就是因为可用性。\n我不能承受因为 ai 提供商挂掉终止我的开发、研究工作。\n线上服务的可用性在 ai 发展初期被大家无限降低接受程度和期待，不过也要一点点回归正常了。\n\nGitHub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31241,
+          "following_count": 582,
+          "like_count": 13145,
+          "listed_count": 153,
+          "media_count": 1604,
+          "tweet_count": 10755
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-14T02:46:34.000Z",
+        "description": "Build things, troubleshoot& sing.\nCo-Founder @NowledgeLabs, build @NowledgeMem& https://t.co/RVZI2oX9pr\nMicrosoft MVP. Feminist. Prev @NebulaGraph, @Ericsson Cloud",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "NowledgeLabs"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "NowledgeMem"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "NebulaGraph"
+              },
+              {
+                "end": 157,
+                "start": 148,
+                "username": "Ericsson"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nowled.ge/kl",
+                "end": 103,
+                "expanded_url": "https://nowled.ge/kl",
+                "start": 80,
+                "url": "https://t.co/RVZI2oX9pr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "siwei.io/en/",
+                "end": 23,
+                "expanded_url": "https://siwei.io/en/",
+                "start": 0,
+                "url": "https://t.co/rQ8z4IElIi"
+              }
+            ]
+          }
+        },
+        "id": "24313912",
+        "location": "@siwei@mas.to",
+        "name": "Wey Gu 古思为",
+        "pinned_tweet_id": "1952559537703342350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275624368618397697/kZ6PZRqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17554,
+          "following_count": 3808,
+          "like_count": 35325,
+          "listed_count": 245,
+          "media_count": 938,
+          "tweet_count": 20249
+        },
+        "url": "https://t.co/rQ8z4IElIi",
+        "username": "wey_gu",
+        "verified": true
+      }
+    ]
+  }
+}

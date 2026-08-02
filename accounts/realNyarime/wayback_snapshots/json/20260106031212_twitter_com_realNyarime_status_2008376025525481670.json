@@ -1,0 +1,681 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008375322862051329",
+        "3_2008375857531035649",
+        "3_2008375857535217671",
+        "3_2008375857531006976"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Cheddar",
+          "id": "788929372342263808",
+          "name": "Cheddar"
+        }
+      }
+    ],
+    "conversation_id": "2008376025525481670",
+    "created_at": "2026-01-06T03:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008376025525481670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pJ18wjpaqy",
+          "end": 202,
+          "expanded_url": "https://x.com/realNyarime/status/2008376025525481670/photo/1",
+          "media_key": "3_2008375322862051329",
+          "start": 179,
+          "url": "https://t.co/pJ18wjpaqy"
+        },
+        {
+          "display_url": "pic.x.com/pJ18wjpaqy",
+          "end": 202,
+          "expanded_url": "https://x.com/realNyarime/status/2008376025525481670/photo/1",
+          "media_key": "3_2008375857531035649",
+          "start": 179,
+          "url": "https://t.co/pJ18wjpaqy"
+        },
+        {
+          "display_url": "pic.x.com/pJ18wjpaqy",
+          "end": 202,
+          "expanded_url": "https://x.com/realNyarime/status/2008376025525481670/photo/1",
+          "media_key": "3_2008375857535217671",
+          "start": 179,
+          "url": "https://t.co/pJ18wjpaqy"
+        },
+        {
+          "display_url": "pic.x.com/pJ18wjpaqy",
+          "end": 202,
+          "expanded_url": "https://x.com/realNyarime/status/2008376025525481670/photo/1",
+          "media_key": "3_2008375857531006976",
+          "start": 179,
+          "url": "https://t.co/pJ18wjpaqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008376025525481670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "eSTKme最厉害的还得是AAPL LPA MODE，可以让改双卡的外版iPhone恢复eSIM原生管理。这是 2025 新款 eSTK 小众黑科技：让改过双卡的 iPhone 外版机型重新启用 eSIM 功能，堪比断臂重生😂\n\n趁着新年优惠，我去eSTK的新官网购买了新年套装，用优惠码『naixi』还可以接着打折哦。实测开启 APPL LPA Mode 后恢复了所有原生 eSIM 功能，已测试原生扫描二维码下卡，APP 内跳转下卡，点击链接下卡，长按二维码下卡，设置内切卡，捷径切卡均正常工作。\n\n实测 iPhone 专属的 eSIM 功能也恢复正常工作：可将 SIM1 识别为实体卡并支持转换为 eSIM 的配置转移到 eSTK 内，如 AIS、DTAC、RedPocket 支持从别的 iPhone 通过 Quick Transfer 转移配置到eSTK内。\n\n简单说就是eSTK可以代替原本内置但是被因为一些原因人为去除的 eUICC 芯片的工作（暂不支持本来就没有 eSIM 功能的 iPhone），实现可拔插的 iPhone 原生 eSIM。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "eSTKme最厉害的还得是AAPL LPA MODE，可以让改双卡的外版iPhone恢复eSIM原生管理。这是 2025 新款 eSTK 小众黑科技：让改过双卡的 iPhone 外版机型重新启用 eSIM 功能，堪比断臂重生😂\n\n趁着新年优惠，我去eSTK的新官网购买了新年套装，用优惠码『naixi』还可以接着打折哦。实测开启 APPL LPA Mode https://t.co/pJ18wjpaqy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_2008375322862051329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98utx7aYAEgeA-.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008375857531035649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98vM5uboAELpjf.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008375857535217671",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98vM5vbcAcEn0S.jpg",
+        "width": 1874
+      },
+      {
+        "height": 1062,
+        "media_key": "3_2008375857531006976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98vM5ubMAARoum.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008375322862051329",
+            "3_2008375857531035649",
+            "3_2008375857535217671",
+            "3_2008375857531006976"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Cheddar",
+              "id": "788929372342263808",
+              "name": "Cheddar"
+            }
+          }
+        ],
+        "conversation_id": "2008376025525481670",
+        "created_at": "2026-01-06T03:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008376025525481670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJ18wjpaqy",
+              "end": 202,
+              "expanded_url": "https://x.com/realNyarime/status/2008376025525481670/photo/1",
+              "media_key": "3_2008375322862051329",
+              "start": 179,
+              "url": "https://t.co/pJ18wjpaqy"
+            },
+            {
+              "display_url": "pic.x.com/pJ18wjpaqy",
+              "end": 202,
+              "expanded_url": "https://x.com/realNyarime/status/2008376025525481670/photo/1",
+              "media_key": "3_2008375857531035649",
+              "start": 179,
+              "url": "https://t.co/pJ18wjpaqy"
+            },
+            {
+              "display_url": "pic.x.com/pJ18wjpaqy",
+              "end": 202,
+              "expanded_url": "https://x.com/realNyarime/status/2008376025525481670/photo/1",
+              "media_key": "3_2008375857535217671",
+              "start": 179,
+              "url": "https://t.co/pJ18wjpaqy"
+            },
+            {
+              "display_url": "pic.x.com/pJ18wjpaqy",
+              "end": 202,
+              "expanded_url": "https://x.com/realNyarime/status/2008376025525481670/photo/1",
+              "media_key": "3_2008375857531006976",
+              "start": 179,
+              "url": "https://t.co/pJ18wjpaqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008376025525481670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "eSTKme最厉害的还得是AAPL LPA MODE，可以让改双卡的外版iPhone恢复eSIM原生管理。这是 2025 新款 eSTK 小众黑科技：让改过双卡的 iPhone 外版机型重新启用 eSIM 功能，堪比断臂重生😂\n\n趁着新年优惠，我去eSTK的新官网购买了新年套装，用优惠码『naixi』还可以接着打折哦。实测开启 APPL LPA Mode 后恢复了所有原生 eSIM 功能，已测试原生扫描二维码下卡，APP 内跳转下卡，点击链接下卡，长按二维码下卡，设置内切卡，捷径切卡均正常工作。\n\n实测 iPhone 专属的 eSIM 功能也恢复正常工作：可将 SIM1 识别为实体卡并支持转换为 eSIM 的配置转移到 eSTK 内，如 AIS、DTAC、RedPocket 支持从别的 iPhone 通过 Quick Transfer 转移配置到eSTK内。\n\n简单说就是eSTK可以代替原本内置但是被因为一些原因人为去除的 eUICC 芯片的工作（暂不支持本来就没有 eSIM 功能的 iPhone），实现可拔插的 iPhone 原生 eSIM。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "eSTKme最厉害的还得是AAPL LPA MODE，可以让改双卡的外版iPhone恢复eSIM原生管理。这是 2025 新款 eSTK 小众黑科技：让改过双卡的 iPhone 外版机型重新启用 eSIM 功能，堪比断臂重生😂\n\n趁着新年优惠，我去eSTK的新官网购买了新年套装，用优惠码『naixi』还可以接着打折哦。实测开启 APPL LPA Mode https://t.co/pJ18wjpaqy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2008110291205161093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6343,
+          "following_count": 699,
+          "like_count": 8515,
+          "listed_count": 17,
+          "media_count": 584,
+          "tweet_count": 5068
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

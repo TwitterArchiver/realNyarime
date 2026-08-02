@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2072192313976308003",
+    "created_at": "2026-07-01T22:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T23:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072451210326823232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676132765098741762",
+          "start": 0,
+          "username": "luoling8192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072451210326823232",
+    "in_reply_to_user_id": "1676132765098741762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072192313976308003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoling8192 不过我记得微信的sqlite是有开源的，叫啥来着我忘了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072192305231228928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHn7DOa8AAGtDN.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2072192313976308003",
+        "created_at": "2026-07-01T22:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072451210326823232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676132765098741762",
+              "start": 0,
+              "username": "luoling8192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072451210326823232",
+        "in_reply_to_user_id": "1676132765098741762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072192313976308003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoling8192 不过我记得微信的sqlite是有开源的，叫啥来着我忘了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072192305231228928"
+          ]
+        },
+        "author_id": "1676132765098741762",
+        "conversation_id": "2072192313976308003",
+        "created_at": "2026-07-01T05:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072192313976308003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B89DnlvuTo",
+              "end": 63,
+              "expanded_url": "https://x.com/luoling8192/status/2072192313976308003/photo/1",
+              "media_key": "3_2072192305231228928",
+              "start": 40,
+              "url": "https://t.co/B89DnlvuTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072192313976308003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4553,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一打开推特，满屏都是 sqlite 的辩论\n好久没有看到这么纯粹的技术讨论了🥺 https://t.co/B89DnlvuTo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39050,
+          "following_count": 653,
+          "like_count": 18640,
+          "listed_count": 180,
+          "media_count": 2279,
+          "tweet_count": 15644
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-04T07:36:21.000Z",
+        "description": "👩‍💻 数字游民 / 独立开发者 / 生活 & 技术分享 / 努力成为 Vibe code cleanup specialist 😎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luoling8192",
+                "end": 23,
+                "expanded_url": "http://github.com/luoling8192",
+                "start": 0,
+                "url": "https://t.co/PWOvpp6inw"
+              }
+            ]
+          }
+        },
+        "id": "1676132765098741762",
+        "location": "Shanghai, China",
+        "name": "RainbowBird | 洛灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740286835249786880/DwrVM8h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6553,
+          "following_count": 1057,
+          "like_count": 9788,
+          "listed_count": 46,
+          "media_count": 543,
+          "tweet_count": 2257
+        },
+        "url": "https://t.co/PWOvpp6inw",
+        "username": "luoling8192",
+        "verified": true
+      }
+    ]
+  }
+}

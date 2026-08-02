@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025647009412308992"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2025647212991316061",
+    "created_at": "2026-02-22T19:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T20:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025647212991316061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uJaWTYYeEx",
+          "end": 168,
+          "expanded_url": "https://x.com/realNyarime/status/2025647212991316061/photo/1",
+          "media_key": "3_2025647009412308992",
+          "start": 145,
+          "url": "https://t.co/uJaWTYYeEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025647212991316061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在Vibe Coding领域，Anthropic（简称A÷）之外，同行的模型没一个能打的。这家公司长期以来都带着一股傲慢劲儿，甚至对国人用户表现出明显的区别对待。眼看着那么多付费中转站跑路、变脸、掉链子，实在忍无可忍，我最终选择了自己开 Claude Max 20x。除了奶昔论坛的New API还偶尔能提供有限可用渠道外，我就彻底告别其他中转站了。\n一句话总结：自力更生，研究如何优雅地使用Claude。\n\n想要长期稳定地自己开Max账号，很多大佬都提到“养号”——得让A÷觉得你不是国人。\n诚然，简体中文不是风控的主要依据（新加坡等海外地区也用简体中文），地区我也没死磕US，SG区用到现在都没事。\n准备一个纯净的家庭双ISP节点就足够了。和常规平台风控一样，新号风控远比老号敏感。老号活得久确实更耐造。甚至A÷还会看邮箱域名后缀、Gmail是否新注册之类的（这部分确实有玄学）。\n但我认为最致命的还是行为风控：带有明显目的性的开户、开套餐，一上来就直接订阅往最贵的Max 20x开\n而且这些用户从来不用Web端，全挂在Claude Code上使用，行为太规律、太诡异…… 和正常用户逻辑差别巨大。\n\n关掉隐私策略能防止Claude收集设备信息、地理位置等数据，避免辅助风控：\nSettings → Privacy → Location metadata 和 Help improve Claude 两个选项全部关闭。\n常用Web端（不是让你直接用浏览器）： 而是用指纹浏览器 + 代理，模拟真实指纹、地理位置、纯英文环境。\n因为我们母语是中文，默认浏览器会暴露语言、国家码等信息，容易翻车。做到这些，再考虑订阅Max Plan。支付方式： 很多虚拟卡的BIN已经烂大街，容易封号。\n建议用对应地区的实体卡，或者用礼品卡（更容易搞到，部分支持退款，但需要写小作文申请）。到这一步，基本就能正常使用了。A÷讨厌高频刷（比如5小时80刀）。一个Max账号用到80-90%额度就够了，别冲满周/月限。\n\n基础概念：上下文与缓存计费（最容易被忽略的部分）上下文（Context）： 200k上下文 = 模型能记住约20万token的内容，超了就记不住，表现会开始“注意力分散”、效果变差。 1M上下文 = 能处理更多内容，模型整体会显得更聪明、更连贯。缓存计费请参考Claude官方API规则，下面是我昨天的真实使用数据（按5分钟缓存写入 + 标准定价，基于Opus 4.6规则计算，实际会混用Sonnet等，略有差异，但规则一致）：输入输出量少、价格贵，但占比不高；缓存部分量大、单价低，却占据了大头。\n真正的API计费里，缓存处理非常关键——既影响价格，也影响模型智力。\n缓存命中：你创建了多少缓存，本来的输入输出有多少在有效时间内命中了缓存，命中的部分就走低价缓存计费。\n缓存时间：官方默认5分钟，5分钟内没命中就释放、重新算新建缓存。目前支持1小时缓存的使用体验最佳。\n\n为什么中转经常贵得离谱？\n很多中转几乎没有缓存（或缓存时间极短），每次请求都在新建缓存 → 计费直接翻倍 + 上下文不连贯 → 模型“降智”。而官方Max账号因为缓存命中率高，用起来反而“很耐用、很便宜”。这就是差距。市面常见渠道区别总结（经验之谈，仅供参考）：\n逆向渠道（Kiro、反重力等） \n优势：便宜。 缺点：表现力极差、严重降智。 \n原因：逆向API自带软件专属提示词（上下文污染），几乎无缓存（轮询随机池），计费贵、思考不连贯。属于“吃糟糠”的级别。\nAWS Bedrock / Azure / GCP 自部署模型\n本质是Anthropic允许在大厂云上部署正品模型，按API Key计费。\n一对一专属部署：团队永远用同一个模型，完整上下文 + 1h缓存，表现和官方几乎无差别。\n缺点：贵（企业大户能谈到1¥≈1$，普通购入3.5¥+）。体验最好。\n多对多API Key池：用多个IAM账号轮询，正品模型、支持1M上下文，但几乎无缓存 → 略微降智 + 计费翻倍。价格便宜（0.1~0.3毛一刀）。 还有openrouter、zenmux等类似产品，原理相近，我还没全试。\n自开Max账号\n效果最好，但不支持1M上下文、价格贵、有随机封号风险。如果做号池，也要注意多账号路由导致的缓存问题（原理同上）。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在Vibe Coding领域，Anthropic（简称A÷）之外，同行的模型没一个能打的。这家公司长期以来都带着一股傲慢劲儿，甚至对国人用户表现出明显的区别对待。眼看着那么多付费中转站跑路、变脸、掉链子，实在忍无可忍，我最终选择了自己开 Claude Max 20x。除了奶昔论坛的New https://t.co/uJaWTYYeEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2025647009412308992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByLOQRaYAAQ4AY.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025647009412308992"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2025647212991316061",
+        "created_at": "2026-02-22T19:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T20:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025647212991316061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJaWTYYeEx",
+              "end": 168,
+              "expanded_url": "https://x.com/realNyarime/status/2025647212991316061/photo/1",
+              "media_key": "3_2025647009412308992",
+              "start": 145,
+              "url": "https://t.co/uJaWTYYeEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025647212991316061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在Vibe Coding领域，Anthropic（简称A÷）之外，同行的模型没一个能打的。这家公司长期以来都带着一股傲慢劲儿，甚至对国人用户表现出明显的区别对待。眼看着那么多付费中转站跑路、变脸、掉链子，实在忍无可忍，我最终选择了自己开 Claude Max 20x。除了奶昔论坛的New API还偶尔能提供有限可用渠道外，我就彻底告别其他中转站了。\n一句话总结：自力更生，研究如何优雅地使用Claude。\n\n想要长期稳定地自己开Max账号，很多大佬都提到“养号”——得让A÷觉得你不是国人。\n诚然，简体中文不是风控的主要依据（新加坡等海外地区也用简体中文），地区我也没死磕US，SG区用到现在都没事。\n准备一个纯净的家庭双ISP节点就足够了。和常规平台风控一样，新号风控远比老号敏感。老号活得久确实更耐造。甚至A÷还会看邮箱域名后缀、Gmail是否新注册之类的（这部分确实有玄学）。\n但我认为最致命的还是行为风控：带有明显目的性的开户、开套餐，一上来就直接订阅往最贵的Max 20x开\n而且这些用户从来不用Web端，全挂在Claude Code上使用，行为太规律、太诡异…… 和正常用户逻辑差别巨大。\n\n关掉隐私策略能防止Claude收集设备信息、地理位置等数据，避免辅助风控：\nSettings → Privacy → Location metadata 和 Help improve Claude 两个选项全部关闭。\n常用Web端（不是让你直接用浏览器）： 而是用指纹浏览器 + 代理，模拟真实指纹、地理位置、纯英文环境。\n因为我们母语是中文，默认浏览器会暴露语言、国家码等信息，容易翻车。做到这些，再考虑订阅Max Plan。支付方式： 很多虚拟卡的BIN已经烂大街，容易封号。\n建议用对应地区的实体卡，或者用礼品卡（更容易搞到，部分支持退款，但需要写小作文申请）。到这一步，基本就能正常使用了。A÷讨厌高频刷（比如5小时80刀）。一个Max账号用到80-90%额度就够了，别冲满周/月限。\n\n基础概念：上下文与缓存计费（最容易被忽略的部分）上下文（Context）： 200k上下文 = 模型能记住约20万token的内容，超了就记不住，表现会开始“注意力分散”、效果变差。 1M上下文 = 能处理更多内容，模型整体会显得更聪明、更连贯。缓存计费请参考Claude官方API规则，下面是我昨天的真实使用数据（按5分钟缓存写入 + 标准定价，基于Opus 4.6规则计算，实际会混用Sonnet等，略有差异，但规则一致）：输入输出量少、价格贵，但占比不高；缓存部分量大、单价低，却占据了大头。\n真正的API计费里，缓存处理非常关键——既影响价格，也影响模型智力。\n缓存命中：你创建了多少缓存，本来的输入输出有多少在有效时间内命中了缓存，命中的部分就走低价缓存计费。\n缓存时间：官方默认5分钟，5分钟内没命中就释放、重新算新建缓存。目前支持1小时缓存的使用体验最佳。\n\n为什么中转经常贵得离谱？\n很多中转几乎没有缓存（或缓存时间极短），每次请求都在新建缓存 → 计费直接翻倍 + 上下文不连贯 → 模型“降智”。而官方Max账号因为缓存命中率高，用起来反而“很耐用、很便宜”。这就是差距。市面常见渠道区别总结（经验之谈，仅供参考）：\n逆向渠道（Kiro、反重力等） \n优势：便宜。 缺点：表现力极差、严重降智。 \n原因：逆向API自带软件专属提示词（上下文污染），几乎无缓存（轮询随机池），计费贵、思考不连贯。属于“吃糟糠”的级别。\nAWS Bedrock / Azure / GCP 自部署模型\n本质是Anthropic允许在大厂云上部署正品模型，按API Key计费。\n一对一专属部署：团队永远用同一个模型，完整上下文 + 1h缓存，表现和官方几乎无差别。\n缺点：贵（企业大户能谈到1¥≈1$，普通购入3.5¥+）。体验最好。\n多对多API Key池：用多个IAM账号轮询，正品模型、支持1M上下文，但几乎无缓存 → 略微降智 + 计费翻倍。价格便宜（0.1~0.3毛一刀）。 还有openrouter、zenmux等类似产品，原理相近，我还没全试。\n自开Max账号\n效果最好，但不支持1M上下文、价格贵、有随机封号风险。如果做号池，也要注意多账号路由导致的缓存问题（原理同上）。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在Vibe Coding领域，Anthropic（简称A÷）之外，同行的模型没一个能打的。这家公司长期以来都带着一股傲慢劲儿，甚至对国人用户表现出明显的区别对待。眼看着那么多付费中转站跑路、变脸、掉链子，实在忍无可忍，我最终选择了自己开 Claude Max 20x。除了奶昔论坛的New https://t.co/uJaWTYYeEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16160,
+          "following_count": 520,
+          "like_count": 10295,
+          "listed_count": 67,
+          "media_count": 955,
+          "tweet_count": 7555
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

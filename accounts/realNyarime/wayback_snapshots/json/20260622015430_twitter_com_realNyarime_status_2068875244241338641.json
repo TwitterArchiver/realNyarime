@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2068874862295404848",
+    "created_at": "2026-06-22T01:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068875244241338641"
+    ],
+    "entities": {},
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2068875244241338641",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068874862295404848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "英文短信说30分钟，支付宝消息队列中文说15分钟，所以到底是15分钟还是30分钟。\n要不要反思一下产品是怎么做的，有这么风控恶心用户的吗，真TM支"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_2068873022317232128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYdDWybgAA2_Nl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 727,
+        "media_key": "3_2068873022300389376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYdDWuagAA9ZbC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2208,
+        "media_key": "3_2068873660769964033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYdohNbEAErA8e.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068874862295404848",
+        "created_at": "2026-06-22T01:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068875244241338641"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2068875244241338641",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068874862295404848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "英文短信说30分钟，支付宝消息队列中文说15分钟，所以到底是15分钟还是30分钟。\n要不要反思一下产品是怎么做的，有这么风控恶心用户的吗，真TM支"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068873022317232128",
+            "3_2068873022300389376",
+            "3_2068873660769964033"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2068874862295404848",
+        "created_at": "2026-06-22T01:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068874862295404848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "13712792",
+              "start": 31,
+              "username": "Alipay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VI5WmZkljR",
+              "end": 181,
+              "expanded_url": "https://x.com/realNyarime/status/2068874862295404848/photo/1",
+              "media_key": "3_2068873022317232128",
+              "start": 158,
+              "url": "https://t.co/VI5WmZkljR"
+            },
+            {
+              "display_url": "pic.x.com/VI5WmZkljR",
+              "end": 181,
+              "expanded_url": "https://x.com/realNyarime/status/2068874862295404848/photo/1",
+              "media_key": "3_2068873022300389376",
+              "start": 158,
+              "url": "https://t.co/VI5WmZkljR"
+            },
+            {
+              "display_url": "pic.x.com/VI5WmZkljR",
+              "end": 181,
+              "expanded_url": "https://x.com/realNyarime/status/2068874862295404848/photo/1",
+              "media_key": "3_2068873660769964033",
+              "start": 158,
+              "url": "https://t.co/VI5WmZkljR"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 205,
+              "expanded_url": "https://twitter.com/realNyarime/status/2068687430392377785",
+              "start": 182,
+              "url": "https://t.co/qlx5Mld5CZ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2068874862295404848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068687430392377785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "预计需要2小时，结果审了将近12小时，你们团队是干什么吃的？ @Alipay\n\n即使系统、软件语言都是简中，专门拿英文推送，我国籍是被你支付宝除了吗？大家都是用Apple Pay的谁用实体卡？\n\n不会做支付就别做，我从来没有找银行Dispute你们，甚至是3%手续费让你们赚。建议支付宝把员工都裁了让AI来审，省钱 https://t.co/VI5WmZkljR https://t.co/qlx5Mld5CZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38148,
+          "following_count": 660,
+          "like_count": 18140,
+          "listed_count": 179,
+          "media_count": 2209,
+          "tweet_count": 15136
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

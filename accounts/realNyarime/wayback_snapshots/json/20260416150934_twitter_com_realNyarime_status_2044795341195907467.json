@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2044792595445121220",
+    "created_at": "2026-04-16T15:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044795341195907467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2236309118",
+          "start": 0,
+          "username": "UkiyoAceMK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044795341195907467",
+    "in_reply_to_user_id": "2236309118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044794283467878465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UkiyoAceMK9 弄个小龙虾 给它SSH信息 让他帮你搞\n现在OpenClaw那么方便了，没有模型就去找NVIDIA搞个MiniMax应该是OK的，就是思考慢了点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2044792595445121220",
+        "created_at": "2026-04-16T15:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044795341195907467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2236309118",
+              "start": 0,
+              "username": "UkiyoAceMK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044795341195907467",
+        "in_reply_to_user_id": "2236309118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044794283467878465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UkiyoAceMK9 弄个小龙虾 给它SSH信息 让他帮你搞\n现在OpenClaw那么方便了，没有模型就去找NVIDIA搞个MiniMax应该是OK的，就是思考慢了点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2236309118",
+        "conversation_id": "2044792595445121220",
+        "created_at": "2026-04-16T15:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044794283467878465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044794283467878465",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044792595445121220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 感觉自建VPS太难了。前段时间买了个日本的VPS结果把电脑给弄死机了。现在都不敢搞了。白花了10美金🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28036,
+          "following_count": 522,
+          "like_count": 12402,
+          "listed_count": 131,
+          "media_count": 1482,
+          "tweet_count": 10051
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-08T17:01:18.000Z",
+        "description": "",
+        "id": "2236309118",
+        "location": "AGP",
+        "name": "うきよ ひでとし🍫💚🫧",
+        "pinned_tweet_id": "1785972982193803713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956308451426238464/Vkpnmo6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 4510,
+          "like_count": 438259,
+          "listed_count": 26,
+          "media_count": 2623,
+          "tweet_count": 116790
+        },
+        "username": "UkiyoAceMK9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "JavaScript",
+          "id": "898659750950207489",
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "conversation_id": "2049047146146754812",
+    "created_at": "2026-04-28T08:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049047146146754812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ErikSombroek/s…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/ErikSombroek/status/2047734181149450626",
+          "start": 77,
+          "url": "https://t.co/r1csrRvpR3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049047146146754812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我最遗憾的是，帝国时代Online为什么下掉了，最怀念的是AOE2那会跟同学拿着U盘拷副本，然后在电脑课教室的局域网里面联机，回家后还用浩方周末组队\n记得我最喜欢的是拜占庭，我的发小会选哥特跟我联盟，至于其他小伙伴就是按照他们的习惯选择。不过后面就都各奔东西，唯独我的世界、幻兽帕鲁这类的联机游戏又齐聚一堂\n\n如果可以的话，还是希望这辈子能看到微软把帝国时代Online给重新上架，总感觉后来重制版、Steam联机这些都不是很好玩，反而觉得最老的DX9是最舒服的（可能就是活在那个年代的人"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047734181149450626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我最遗憾的是，帝国时代Online为什么下掉了，最怀念的是AOE2那会跟同学拿着U盘拷副本，然后在电脑课教室的局域网里面联机，回家后还用浩方周末组队 https://t.co/r1csrRvpR3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95593,
+        "height": 1484,
+        "media_key": "13_2047733680752205824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047733680752205824/img/MXo_eGOna8LYXUA2.jpg",
+        "public_metrics": {
+          "view_count": 113130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047733680752205824/pl/EOkrNoTPjaCMMGaM.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047733680752205824/vid/avc1/1920x1484/kWUH8bSWFb9x5HWM.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047733680752205824/vid/avc1/348x270/uYfUJrLFeH_AbetW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047733680752205824/vid/avc1/464x360/l1eN6P0kxx10VCtb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047733680752205824/vid/avc1/930x720/TNy7HSw9lgyliQ-D.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "2049047146146754812",
+        "created_at": "2026-04-28T08:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049047146146754812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ErikSombroek/s…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/ErikSombroek/status/2047734181149450626",
+              "start": 77,
+              "url": "https://t.co/r1csrRvpR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049047146146754812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我最遗憾的是，帝国时代Online为什么下掉了，最怀念的是AOE2那会跟同学拿着U盘拷副本，然后在电脑课教室的局域网里面联机，回家后还用浩方周末组队\n记得我最喜欢的是拜占庭，我的发小会选哥特跟我联盟，至于其他小伙伴就是按照他们的习惯选择。不过后面就都各奔东西，唯独我的世界、幻兽帕鲁这类的联机游戏又齐聚一堂\n\n如果可以的话，还是希望这辈子能看到微软把帝国时代Online给重新上架，总感觉后来重制版、Steam联机这些都不是很好玩，反而觉得最老的DX9是最舒服的（可能就是活在那个年代的人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047734181149450626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我最遗憾的是，帝国时代Online为什么下掉了，最怀念的是AOE2那会跟同学拿着U盘拷副本，然后在电脑课教室的局域网里面联机，回家后还用浩方周末组队 https://t.co/r1csrRvpR3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047733680752205824"
+          ]
+        },
+        "author_id": "189054734",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "2047734181149450626",
+        "created_at": "2026-04-24T17:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047734181149450626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IfzOeoT8we",
+              "end": 300,
+              "expanded_url": "https://x.com/ErikSombroek/status/2047734181149450626/video/1",
+              "media_key": "13_2047733680752205824",
+              "start": 277,
+              "url": "https://t.co/IfzOeoT8we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047734181149450626",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 351,
+                "start": 341,
+                "tag": "Warcraft3"
+              },
+              {
+                "end": 364,
+                "start": 352,
+                "tag": "RetroGaming"
+              },
+              {
+                "end": 373,
+                "start": 365,
+                "tag": "Gamedev"
+              },
+              {
+                "end": 380,
+                "start": 374,
+                "tag": "TeaVM"
+              },
+              {
+                "end": 388,
+                "start": 381,
+                "tag": "LibGDX"
+              },
+              {
+                "end": 395,
+                "start": 389,
+                "tag": "WebGL"
+              },
+              {
+                "end": 401,
+                "start": 396,
+                "tag": "Java"
+              },
+              {
+                "end": 413,
+                "start": 402,
+                "tag": "OpenSource"
+              },
+              {
+                "end": 428,
+                "start": 414,
+                "tag": "BrowserGaming"
+              },
+              {
+                "end": 438,
+                "start": 429,
+                "tag": "IndieDev"
+              },
+              {
+                "end": 443,
+                "start": 439,
+                "tag": "RTS"
+              }
+            ]
+          },
+          "text": "That moment when you boot into the main menu of your childhood..\n\nCross-compiled Warsmash (a LibGDX-based Warcraft III engine reimplementation in Java) to JavaScript using TeaVM so the whole game runs directly in the browser, with map files served from OPFS. Still some quirks left but great progress.\n\nCredits to Retera for his hard work.\n\n#Warcraft3 #RetroGaming #Gamedev #TeaVM #LibGDX #WebGL #Java #OpenSource #BrowserGaming #IndieDev #RTS"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1187,
+          "impression_count": 267251,
+          "like_count": 2986,
+          "quote_count": 60,
+          "reply_count": 97,
+          "retweet_count": 422
+        },
+        "reply_settings": "everyone",
+        "text": "That moment when you boot into the main menu of your childhood..\n\nCross-compiled Warsmash (a LibGDX-based Warcraft III engine reimplementation in Java) to JavaScript using TeaVM so the whole game runs directly in the browser, with map files served from OPFS. Still some quirks https://t.co/IfzOeoT8we"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31118,
+          "following_count": 591,
+          "like_count": 13131,
+          "listed_count": 153,
+          "media_count": 1597,
+          "tweet_count": 10734
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-10T07:45:13.000Z",
+        "description": "Web / Games enthusiast.",
+        "id": "189054734",
+        "location": "Amsterdam, Nederland",
+        "name": "Erik Sombroek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/636099322229092352/-DLjyjAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 1352,
+          "like_count": 1312,
+          "listed_count": 7,
+          "media_count": 46,
+          "tweet_count": 371
+        },
+        "username": "ErikSombroek",
+        "verified": true
+      }
+    ]
+  }
+}

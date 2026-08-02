@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2034333351449182218",
+    "created_at": "2026-03-19T08:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T09:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034549474811621698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2677169946",
+          "start": 0,
+          "username": "caterpillarous"
+        },
+        {
+          "end": 24,
+          "id": "1146999021527023618",
+          "start": 16,
+          "username": "__endif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034549474811621698",
+    "in_reply_to_user_id": "2677169946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034333351449182218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caterpillarous @__endif 哥，我觉得你稍微打扮一下，可以成为小岛秀夫分夫了，很有气质😏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2034333351449182218",
+        "created_at": "2026-03-19T08:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034549474811621698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2677169946",
+              "start": 0,
+              "username": "caterpillarous"
+            },
+            {
+              "end": 24,
+              "id": "1146999021527023618",
+              "start": 16,
+              "username": "__endif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034549474811621698",
+        "in_reply_to_user_id": "2677169946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034333351449182218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caterpillarous @__endif 哥，我觉得你稍微打扮一下，可以成为小岛秀夫分夫了，很有气质😏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2677169946",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2034333351449182218",
+        "created_at": "2026-03-18T18:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034333351449182218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "1146999021527023618",
+              "start": 45,
+              "username": "__endif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034333351449182218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 53,
+                "id": "1146999021527023618",
+                "start": 45,
+                "username": "__endif"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "idle.systems",
+                "end": 349,
+                "expanded_url": "http://idle.systems",
+                "start": 326,
+                "url": "https://t.co/j0yuUs8vSR"
+              }
+            ]
+          },
+          "text": "解除了锁推，因为从Google辞职了不用再害怕吐槽同事被发现了\n\n现在创业中求求大家关注 @__endif 吧，起号好难\n\n正式的<del>吹牛</del>是：\n- 我从23年开始做LLM coding，领导了内部最初的coding agent，并在24年I/O成为了Google第一个正式发布的coding agent\n- LLM方面我从Palm开始贡献，一直到Gemini 3.0\n- 写过Gemini technical report，被邀请到巴西去第一届AIWare讲过agent，发过Google developer blog，给Google Jules发过专利\n- 读过博士项目退过学，做过程序分析，报过CVE\n\n之前的各种胡言乱语都写在 https://t.co/j0yuUs8vSR 了，因为可以搞个有趣的邮箱叫做 process@idle.systems\n\n求转发啊啊啊啊我tm要起号"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 39632,
+          "like_count": 273,
+          "quote_count": 5,
+          "reply_count": 41,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "解除了锁推，因为从Google辞职了不用再害怕吐槽同事被发现了\n\n现在创业中求求大家关注 @__endif 吧，起号好难\n\n正式的&lt;del&gt;吹牛&lt;/del&gt;是：\n- 我从23年开始做LLM coding，领导了内部最初的coding agent，并在24年I/O成为了Google第一个正式发布的coding agent\n- LLM方面我从Palm开始贡献，一直到Gemini"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22645,
+          "following_count": 519,
+          "like_count": 11058,
+          "listed_count": 95,
+          "media_count": 1175,
+          "tweet_count": 8525
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-24T14:26:26.000Z",
+        "description": "…comfortably numb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idle.systems",
+                "end": 23,
+                "expanded_url": "http://idle.systems",
+                "start": 0,
+                "url": "https://t.co/j0yuUs7Y3j"
+              }
+            ]
+          }
+        },
+        "id": "2677169946",
+        "location": "United States",
+        "name": "#endif",
+        "pinned_tweet_id": "1034478506909069313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537988398421450752/MW1m0bwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 600,
+          "like_count": 9324,
+          "listed_count": 18,
+          "media_count": 1000,
+          "tweet_count": 5167
+        },
+        "url": "https://t.co/j0yuUs7Y3j",
+        "username": "caterpillarous",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-05T04:27:31.000Z",
+        "description": "building in stealth🥷, always writing code to do something on code. previously @google",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 78,
+                "username": "google"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jiahao-cai.info",
+                "end": 23,
+                "expanded_url": "https://jiahao-cai.info",
+                "start": 0,
+                "url": "https://t.co/B6YdkTT44j"
+              }
+            ]
+          }
+        },
+        "id": "1146999021527023618",
+        "location": "CA",
+        "name": "jiahao",
+        "pinned_tweet_id": "1865286660294087111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1146999222761340928/So6ABo9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 77,
+          "like_count": 591,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/B6YdkTT44j",
+        "username": "__endif",
+        "verified": true
+      }
+    ]
+  }
+}

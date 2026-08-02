@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2052675206616105357",
+    "created_at": "2026-05-08T09:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052676656553443675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1558317849508122629",
+          "start": 0,
+          "username": "CuiMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052676656553443675",
+    "in_reply_to_user_id": "1558317849508122629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052675206616105357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiMao 在百度练出的口吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4768,
+        "height": 1080,
+        "media_key": "13_2052594480256319488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052594480256319488/img/6x2H4CKyBHOtqDzE.jpg",
+        "public_metrics": {
+          "view_count": 243
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052594480256319488/pl/cbFym02071uV90-K.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052594480256319488/vid/avc1/640x360/F-mqewdLywg2tvfp.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052594480256319488/vid/avc1/1920x1080/Odvvdj1uO_LrcHjD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052594480256319488/vid/avc1/1280x720/cEug0Io8Aw0axuNQ.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052594480256319488/vid/avc1/480x270/5Wyxnb8yUKfJgBZ2.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2052675206616105357",
+        "created_at": "2026-05-08T09:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052676656553443675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1558317849508122629",
+              "start": 0,
+              "username": "CuiMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052676656553443675",
+        "in_reply_to_user_id": "1558317849508122629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052675206616105357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiMao 在百度练出的口吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052594480256319488"
+          ],
+          "media_source_tweet_id": [
+            "2052594652243800450"
+          ]
+        },
+        "author_id": "1558317849508122629",
+        "conversation_id": "2052675206616105357",
+        "created_at": "2026-05-08T09:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052675206616105357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbxKcF8ijV",
+              "end": 48,
+              "expanded_url": "https://x.com/darren_ter/status/2052594652243800450/video/1",
+              "media_key": "13_2052594480256319488",
+              "start": 25,
+              "url": "https://t.co/AbxKcF8ijV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052675206616105357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你别说，奥迪王自带鬼畜，入选赛博人物志指日可待。\nhttps://t.co/AbxKcF8ijV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32386,
+          "following_count": 596,
+          "like_count": 13779,
+          "listed_count": 149,
+          "media_count": 1698,
+          "tweet_count": 11205
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI Developer   |   NVIDIA YES \n深度学习   |  不接广告\nGithub   https://t.co/CRpiUABJoL\nSuno  https://t.co/ySVC83Hl6P\n免费AI学习群  https://t.co/Ha8LFayYSN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Cuimao777",
+                "end": 78,
+                "expanded_url": "https://github.com/Cuimao777",
+                "start": 55,
+                "url": "https://t.co/CRpiUABJoL"
+              },
+              {
+                "display_url": "suno.com/@cuimao",
+                "end": 108,
+                "expanded_url": "https://suno.com/@cuimao",
+                "start": 85,
+                "url": "https://t.co/ySVC83Hl6P"
+              },
+              {
+                "display_url": "t.me/+sol4udt0WPw5M…",
+                "end": 141,
+                "expanded_url": "https://t.me/+sol4udt0WPw5MWE1",
+                "start": 118,
+                "url": "https://t.co/Ha8LFayYSN"
+              }
+            ]
+          }
+        },
+        "id": "1558317849508122629",
+        "location": "Los Angeles, CA",
+        "name": "CuiMao",
+        "pinned_tweet_id": "2049529746279796864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038094847899533312/Qm9uRPeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55690,
+          "following_count": 1241,
+          "like_count": 10243,
+          "listed_count": 313,
+          "media_count": 1583,
+          "tweet_count": 14791
+        },
+        "username": "CuiMao",
+        "verified": true
+      }
+    ]
+  }
+}

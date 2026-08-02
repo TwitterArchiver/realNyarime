@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071324365518524416"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2071324542480290125",
+    "created_at": "2026-06-28T20:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T21:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071324542480290125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ftTRQdNYWM",
+          "end": 46,
+          "expanded_url": "https://x.com/realNyarime/status/2071324542480290125/video/1",
+          "media_key": "13_2071324365518524416",
+          "start": 23,
+          "url": "https://t.co/ftTRQdNYWM"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2071324542480290125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "木生阿公要是听到这一版不得直接从海里再爬起来 https://t.co/ftTRQdNYWM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58500,
+        "height": 1280,
+        "media_key": "13_2071324365518524416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071324365518524416/img/gUKmV3GAEu29EqJe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071324365518524416/vid/avc1/320x568/BqsCEz49Y28aYXXD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071324365518524416/vid/avc1/480x852/P5pL4wo13QqF9iOk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071324365518524416/vid/avc1/720x1280/1auqA0iMKWORXgik.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071324365518524416/pl/seUfkKxPuaP5d9e7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071324365518524416"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2071324542480290125",
+        "created_at": "2026-06-28T20:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071324542480290125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftTRQdNYWM",
+              "end": 46,
+              "expanded_url": "https://x.com/realNyarime/status/2071324542480290125/video/1",
+              "media_key": "13_2071324365518524416",
+              "start": 23,
+              "url": "https://t.co/ftTRQdNYWM"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2071324542480290125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "木生阿公要是听到这一版不得直接从海里再爬起来 https://t.co/ftTRQdNYWM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38639,
+          "following_count": 664,
+          "like_count": 18543,
+          "listed_count": 181,
+          "media_count": 2259,
+          "tweet_count": 15539
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

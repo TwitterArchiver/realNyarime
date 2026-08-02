@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013551692218777600",
+        "3_2013552398359257088",
+        "3_2013552613468356609",
+        "3_2013553071981215744"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2013553734962282544",
+    "created_at": "2026-01-20T10:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T11:05:58.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013553583011012942",
+      "2013553734962282544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4YwR3dZEJV",
+          "end": 180,
+          "expanded_url": "https://x.com/realNyarime/status/2013553734962282544/photo/1",
+          "media_key": "3_2013551692218777600",
+          "start": 157,
+          "url": "https://t.co/4YwR3dZEJV"
+        },
+        {
+          "display_url": "pic.x.com/4YwR3dZEJV",
+          "end": 180,
+          "expanded_url": "https://x.com/realNyarime/status/2013553734962282544/photo/1",
+          "media_key": "3_2013552398359257088",
+          "start": 157,
+          "url": "https://t.co/4YwR3dZEJV"
+        },
+        {
+          "display_url": "pic.x.com/4YwR3dZEJV",
+          "end": 180,
+          "expanded_url": "https://x.com/realNyarime/status/2013553734962282544/photo/1",
+          "media_key": "3_2013552613468356609",
+          "start": 157,
+          "url": "https://t.co/4YwR3dZEJV"
+        },
+        {
+          "display_url": "pic.x.com/4YwR3dZEJV",
+          "end": 180,
+          "expanded_url": "https://x.com/realNyarime/status/2013553734962282544/photo/1",
+          "media_key": "3_2013553071981215744",
+          "start": 157,
+          "url": "https://t.co/4YwR3dZEJV"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 204,
+          "expanded_url": "https://twitter.com/realNyarime/status/2013026913120555246",
+          "start": 181,
+          "url": "https://t.co/cBAcISyJdL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013553734962282544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "之前分享了Clash+VPNGate实现日韩家宽自由，需要关闭Clash的System Proxy、仅作为跳板，本质上是由SoftEther的虚拟网卡提供了TUN。\n这个127.0.0.1:7890其实可以借助Proxifier代理进程，先在Proxifier中添加一个proxy server，选socks5。\n\n也是借助Clash作为socks5服务器，由Proxifier代理进程。如图2添加proxification rules，需要科学上网的程序，比如什么cursor.exe, code.exe（也就是vscode），Chrome.exe，node.exe（vscode插件，Codex，ClaudeCode等）等全放到applications里，并且action就选刚才配的proxy socks5服务器。别忘了让Clash自己走direct！\n\n最后勾选图4这个Passthrough Proxy，这样就不需要开Clash的TUN/System Proxy了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013026913120555246",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前分享了Clash+VPNGate实现日韩家宽自由，需要关闭Clash的System Proxy、仅作为跳板，本质上是由SoftEther的虚拟网卡提供了TUN。\n这个127.0.0.1:7890其实可以借助Proxifier代理进程，先在Proxifier中添加一个proxy server，选socks5。 https://t.co/4YwR3dZEJV https://t.co/cBAcISyJdL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 267,
+        "media_key": "3_2013551692218777600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GSmIeWQAAg2PK.png",
+        "width": 890
+      },
+      {
+        "height": 397,
+        "media_key": "3_2013552398359257088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GTPPDW4AAYwXO.jpg",
+        "width": 915
+      },
+      {
+        "height": 589,
+        "media_key": "3_2013552613468356609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GTbwZXQAE-y62.png",
+        "width": 1147
+      },
+      {
+        "height": 129,
+        "media_key": "3_2013553071981215744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GT2cfWQAAniwn.png",
+        "width": 841
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2013017782116290560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G--tAeWWEAAeLJD.png",
+        "width": 1312
+      },
+      {
+        "height": 1997,
+        "media_key": "3_2013025516110929920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G--0CpuW4AAXkGf.jpg",
+        "width": 2145
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013551692218777600",
+            "3_2013552398359257088",
+            "3_2013552613468356609",
+            "3_2013553071981215744"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2013553583011012942",
+        "created_at": "2026-01-20T10:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:05:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013553583011012942",
+          "2013553734962282544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1WmArQOO1",
+              "end": 172,
+              "expanded_url": "https://x.com/realNyarime/status/2013553583011012942/photo/1",
+              "media_key": "3_2013551692218777600",
+              "start": 149,
+              "url": "https://t.co/n1WmArQOO1"
+            },
+            {
+              "display_url": "pic.x.com/n1WmArQOO1",
+              "end": 172,
+              "expanded_url": "https://x.com/realNyarime/status/2013553583011012942/photo/1",
+              "media_key": "3_2013552398359257088",
+              "start": 149,
+              "url": "https://t.co/n1WmArQOO1"
+            },
+            {
+              "display_url": "pic.x.com/n1WmArQOO1",
+              "end": 172,
+              "expanded_url": "https://x.com/realNyarime/status/2013553583011012942/photo/1",
+              "media_key": "3_2013552613468356609",
+              "start": 149,
+              "url": "https://t.co/n1WmArQOO1"
+            },
+            {
+              "display_url": "pic.x.com/n1WmArQOO1",
+              "end": 172,
+              "expanded_url": "https://x.com/realNyarime/status/2013553583011012942/photo/1",
+              "media_key": "3_2013553071981215744",
+              "start": 149,
+              "url": "https://t.co/n1WmArQOO1"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/realNyarime/status/2013026913120555246",
+              "start": 173,
+              "url": "https://t.co/cBAcISyJdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013553583011012942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "之前分享了Clash+VPNGate实现日韩家宽自由，需要关闭Clash的系统代理、仅作为跳板，本质上是由SoftEther的虚拟网卡提供了TUN。\n这个127.0.0.1:7890其实可以借助Proxifier代理进程，先在Proxifier中添加一个proxy server，选socks5。\n\n也是借助Clash作为socks5服务器，由Proxifier代理进程。如图2添加proxification rules，需要科学上网的程序，比如什么cursor.exe, code.exe（也就是vscode），Chrome.exe，node.exe（vscode插件，Codex，ClaudeCode等）等全放到applications里，并且action就选刚才配的proxy socks5服务器。别忘了让Clash自己走direct！\n\n最后勾选图4这个Passthrough Proxy，这样就不需要开Clash的TUN/System Proxy了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013026913120555246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前分享了Clash+VPNGate实现日韩家宽自由，需要关闭Clash的系统代理、仅作为跳板，本质上是由SoftEther的虚拟网卡提供了TUN。\n这个127.0.0.1:7890其实可以借助Proxifier代理进程，先在Proxifier中添加一个proxy server，选socks5。 https://t.co/n1WmArQOO1 https://t.co/cBAcISyJdL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013551692218777600",
+            "3_2013552398359257088",
+            "3_2013552613468356609",
+            "3_2013553071981215744"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2013553734962282544",
+        "created_at": "2026-01-20T10:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:05:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013553583011012942",
+          "2013553734962282544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4YwR3dZEJV",
+              "end": 180,
+              "expanded_url": "https://x.com/realNyarime/status/2013553734962282544/photo/1",
+              "media_key": "3_2013551692218777600",
+              "start": 157,
+              "url": "https://t.co/4YwR3dZEJV"
+            },
+            {
+              "display_url": "pic.x.com/4YwR3dZEJV",
+              "end": 180,
+              "expanded_url": "https://x.com/realNyarime/status/2013553734962282544/photo/1",
+              "media_key": "3_2013552398359257088",
+              "start": 157,
+              "url": "https://t.co/4YwR3dZEJV"
+            },
+            {
+              "display_url": "pic.x.com/4YwR3dZEJV",
+              "end": 180,
+              "expanded_url": "https://x.com/realNyarime/status/2013553734962282544/photo/1",
+              "media_key": "3_2013552613468356609",
+              "start": 157,
+              "url": "https://t.co/4YwR3dZEJV"
+            },
+            {
+              "display_url": "pic.x.com/4YwR3dZEJV",
+              "end": 180,
+              "expanded_url": "https://x.com/realNyarime/status/2013553734962282544/photo/1",
+              "media_key": "3_2013553071981215744",
+              "start": 157,
+              "url": "https://t.co/4YwR3dZEJV"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 204,
+              "expanded_url": "https://twitter.com/realNyarime/status/2013026913120555246",
+              "start": 181,
+              "url": "https://t.co/cBAcISyJdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013553734962282544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "之前分享了Clash+VPNGate实现日韩家宽自由，需要关闭Clash的System Proxy、仅作为跳板，本质上是由SoftEther的虚拟网卡提供了TUN。\n这个127.0.0.1:7890其实可以借助Proxifier代理进程，先在Proxifier中添加一个proxy server，选socks5。\n\n也是借助Clash作为socks5服务器，由Proxifier代理进程。如图2添加proxification rules，需要科学上网的程序，比如什么cursor.exe, code.exe（也就是vscode），Chrome.exe，node.exe（vscode插件，Codex，ClaudeCode等）等全放到applications里，并且action就选刚才配的proxy socks5服务器。别忘了让Clash自己走direct！\n\n最后勾选图4这个Passthrough Proxy，这样就不需要开Clash的TUN/System Proxy了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013026913120555246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前分享了Clash+VPNGate实现日韩家宽自由，需要关闭Clash的System Proxy、仅作为跳板，本质上是由SoftEther的虚拟网卡提供了TUN。\n这个127.0.0.1:7890其实可以借助Proxifier代理进程，先在Proxifier中添加一个proxy server，选socks5。 https://t.co/4YwR3dZEJV https://t.co/cBAcISyJdL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013017782116290560",
+            "3_2013025516110929920"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2013026913120555246",
+        "created_at": "2026-01-18T23:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013026913120555246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Connect to thousands of active VPN servers with L2TP/IPsec, OpenVPN, MS-SSTP or SSL-VPN protocol, and change your IP address. No user registration.",
+              "display_url": "vpngate.net/cn/",
+              "end": 153,
+              "expanded_url": "https://www.vpngate.net/cn/",
+              "start": 130,
+              "status": 200,
+              "title": "VPN Gate: 公共 VPN 中继服务器列表",
+              "unwound_url": "https://www.vpngate.net/cn/",
+              "url": "https://t.co/waKjRuhwDT"
+            },
+            {
+              "display_url": "pic.x.com/vbXvOXMwiA",
+              "end": 177,
+              "expanded_url": "https://x.com/realNyarime/status/2013026913120555246/photo/1",
+              "media_key": "3_2013017782116290560",
+              "start": 154,
+              "url": "https://t.co/vbXvOXMwiA"
+            },
+            {
+              "display_url": "pic.x.com/vbXvOXMwiA",
+              "end": 177,
+              "expanded_url": "https://x.com/realNyarime/status/2013026913120555246/photo/1",
+              "media_key": "3_2013025516110929920",
+              "start": 154,
+              "url": "https://t.co/vbXvOXMwiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013026913120555246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 869,
+                "start": 865,
+                "tag": "vpn"
+              },
+              {
+                "end": 878,
+                "start": 870,
+                "tag": "vpngate"
+              },
+              {
+                "end": 887,
+                "start": 879,
+                "tag": "openvpn"
+              },
+              {
+                "end": 891,
+                "start": 888,
+                "tag": "家宽"
+              },
+              {
+                "end": 897,
+                "start": 892,
+                "tag": "科学上网"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpngate.net/cn/",
+                "end": 153,
+                "expanded_url": "https://www.vpngate.net/cn/",
+                "start": 130,
+                "url": "https://t.co/6hqKUS3BOh"
+              },
+              {
+                "display_url": "opengw.net",
+                "end": 616,
+                "expanded_url": "http://opengw.net",
+                "start": 593,
+                "url": "https://t.co/8SHnkWD7nz"
+              }
+            ]
+          },
+          "text": "0基础纯小白科学上网喂饭级教程：不要钱就能实现海外家宽IP（搞不定欢迎你私信我） \n相信你人都上𝕏了，那肯定具备了科学上网的基础。今天分享的是VPNGate，它是日本筑波大学研究生院的一个学术实验，基于SSL VPN软件SoftEther VPN的一个插件。\nhttps://t.co/6hqKUS3BOh\n\n由于VPNGate使用的协议基本被GFW阻断，因此推荐在Windows下使用SoftEther配置前置代理再连接（图1）。我使用的是Clash，它提供的代理服务器为127.0.0.1:7890。配好后关闭Clash的系统代理，就可以连接需要的节点啦。\n我建议把主机名拉长，我们选中一个softbank（软银）节点，然后建立连接就可以啦。查询下IP也显示是 AS17676 SoftBank Corp.\n使用软路由挂代理或身处中国境外可省去配置代理服务器的步骤。\n\n其他设备需要怎么做？由于SoftEther只兼容Windows，因此可以使用L2TP或OpenVPN连接，不少节点不含L2TP，因此建议使用OpenVPN。\n很多中国大陆eSIM都是无墙的网络环境，我们只需要访问VPNGate的服务器列表，按照主机名找到你要的落地，按图2方式下载 OpenVPN 配置文件 (.ovpn 文件)，在OpenVPN软件中导入连接即可。\n由于许多家宽都是动态IP，但VPNGate的https://t.co/8SHnkWD7nz域名被DNS污染严重，还是建议使用包含 IP 地址的 .ovpn 文件。\n\n这么折腾，你就有个相对干净的落地了。至于机场，哪怕是一元机场、万人骑IP，能把你的数据丢出墙就可以了。机场只是个跳板，真要看DMM还得是用VPNGate连NTT OCN、SoftBank、索尼So-net的家宽IP去解锁。\n如果你需要eSIM也可以下载RedteaGO购买中国大陆无墙eSIM，使用SUJI0003作为优惠码都能彼此获得3刀😋\n顺带一提，第一次用tag功能。\n希望这篇推文对你有帮助，多跟我互动好吗QWQ\n#vpn #vpngate #openvpn #家宽 #科学上网"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 6694,
+          "like_count": 166,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "0基础纯小白科学上网喂饭级教程：不要钱就能实现海外家宽IP（搞不定欢迎你私信我） \n相信你人都上𝕏了，那肯定具备了科学上网的基础。今天分享的是VPNGate，它是日本筑波大学研究生院的一个学术实验，基于SSL VPN软件SoftEther VPN的一个插件。\nhttps://t.co/waKjRuhwDT https://t.co/vbXvOXMwiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8272,
+          "following_count": 599,
+          "like_count": 9652,
+          "listed_count": 25,
+          "media_count": 765,
+          "tweet_count": 6541
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

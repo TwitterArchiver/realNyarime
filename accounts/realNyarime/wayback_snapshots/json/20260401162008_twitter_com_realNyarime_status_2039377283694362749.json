@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2039361133140910500",
+    "created_at": "2026-04-01T16:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039377283694362749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556187726558515201",
+          "start": 0,
+          "username": "__Lucas04__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "com.android",
+          "end": 73,
+          "expanded_url": "http://com.android",
+          "start": 50,
+          "unwound_url": "http://com.android",
+          "url": "https://t.co/TLMu73JIfF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039377283694362749",
+    "in_reply_to_user_id": "1556187726558515201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039361133140910500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Lucas04__ 拿数据线连电脑，用ADB工具，输入「adb shell pm clear https://t.co/TLMu73JIfF.providers.telephony」\n因为你禁用的是这个ICCID，启用其他esim profile是正常的，但切回来又已禁用。\n\n只能重置，希望可以帮到你，不止一个人遇到。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2656,
+        "media_key": "3_2039361123041054721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1EIuuakAECFOj.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2039361133140910500",
+        "created_at": "2026-04-01T16:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039377283694362749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556187726558515201",
+              "start": 0,
+              "username": "__Lucas04__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "com.android",
+              "end": 73,
+              "expanded_url": "http://com.android",
+              "start": 50,
+              "unwound_url": "http://com.android",
+              "url": "https://t.co/TLMu73JIfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039377283694362749",
+        "in_reply_to_user_id": "1556187726558515201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039361133140910500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Lucas04__ 拿数据线连电脑，用ADB工具，输入「adb shell pm clear https://t.co/TLMu73JIfF.providers.telephony」\n因为你禁用的是这个ICCID，启用其他esim profile是正常的，但切回来又已禁用。\n\n只能重置，希望可以帮到你，不止一个人遇到。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039361123041054721"
+          ]
+        },
+        "author_id": "1556187726558515201",
+        "conversation_id": "2039361133140910500",
+        "created_at": "2026-04-01T15:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:12:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039360141389434934",
+          "2039361133140910500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/In33ILKVs1",
+              "end": 163,
+              "expanded_url": "https://x.com/__Lucas04__/status/2039361133140910500/photo/1",
+              "media_key": "3_2039361123041054721",
+              "start": 140,
+              "url": "https://t.co/In33ILKVs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039361133140910500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 165,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位用 ESTK 实体 eSIM 卡的千万别手欠在设置里关闭那个卡槽，否则那个配置文件将会永远无法重新启用，即使把它删除后重新下载也不能解决……\n\n目前暂不清楚是 HyperOS 的 bug 还是实体 eSIM 的 bug。系统疑似是通过 ICCID 进行区分不同 SIM 的。 https://t.co/In33ILKVs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25112,
+          "following_count": 496,
+          "like_count": 11608,
+          "listed_count": 113,
+          "media_count": 1338,
+          "tweet_count": 9125
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-07T07:59:28.000Z",
+        "description": "A student studying bioinformatics. | 一个学生信的废柴大学生 | Bluesky 👉 https://t.co/uIcugYtObC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lucas.…",
+                "end": 84,
+                "expanded_url": "https://bsky.app/profile/lucas.lucas04.top",
+                "start": 61,
+                "url": "https://t.co/uIcugYtObC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lucas04.top/about/",
+                "end": 23,
+                "expanded_url": "https://blog.lucas04.top/about/",
+                "start": 0,
+                "url": "https://t.co/ozwLzT6Si8"
+              }
+            ]
+          }
+        },
+        "id": "1556187726558515201",
+        "location": "Copenhagen, Denmark",
+        "name": "Lucas",
+        "pinned_tweet_id": "1987810975643553877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904211985593729027/rtm-FcDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 371,
+          "like_count": 6704,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/ozwLzT6Si8",
+        "username": "__Lucas04__",
+        "verified": true
+      }
+    ]
+  }
+}

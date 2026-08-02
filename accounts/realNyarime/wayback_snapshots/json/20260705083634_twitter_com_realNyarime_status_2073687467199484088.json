@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2073390380566143451",
+    "created_at": "2026-07-05T08:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073687467199484088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247446678984105984",
+          "start": 0,
+          "username": "five_xiaowu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "001b1f4d203740ea"
+    },
+    "id": "2073687467199484088",
+    "in_reply_to_user_id": "1247446678984105984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073393543729836329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@five_xiaowu one老用户不用存1w哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [001b1f4d203740ea].",
+      "parameter": "geo.place_id",
+      "resource_id": "001b1f4d203740ea",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "001b1f4d203740ea"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2073390380566143451",
+        "created_at": "2026-07-05T08:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073687467199484088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247446678984105984",
+              "start": 0,
+              "username": "five_xiaowu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2073687467199484088",
+        "in_reply_to_user_id": "1247446678984105984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073393543729836329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@five_xiaowu one老用户不用存1w哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247446678984105984",
+        "conversation_id": "2073390380566143451",
+        "created_at": "2026-07-04T13:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073393543729836329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073393543729836329",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2636,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073390380566143451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 我只有红蓝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39391,
+          "following_count": 654,
+          "like_count": 18787,
+          "listed_count": 181,
+          "media_count": 2295,
+          "tweet_count": 15794
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-07T08:50:49.000Z",
+        "description": "币圈的终途是大结果。 | #HTX| #Binance 广场创作者 | 一级交易分享 📈| 💎🙌是归途 | DM for collab📩👉https://t.co/LmIWbvR84K | 一切观点#dyor | web3真是太精彩了丨干货段子手",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 13,
+                "tag": "HTX"
+              },
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiaowu_0368",
+                "end": 92,
+                "expanded_url": "https://t.me/xiaowu_0368",
+                "start": 69,
+                "url": "https://t.co/LmIWbvR84K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaowu_0368",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaowu_0368",
+                "start": 0,
+                "url": "https://t.co/LmIWbvR84K"
+              }
+            ]
+          }
+        },
+        "id": "1247446678984105984",
+        "location": "United Kingdom🇬🇧",
+        "name": "Crypto小五🔶OP_CAT｜预测世界杯就在Gate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010608076861386752/tS9HnpEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20326,
+          "following_count": 4597,
+          "like_count": 55069,
+          "listed_count": 35,
+          "media_count": 1007,
+          "tweet_count": 47611
+        },
+        "url": "https://t.co/LmIWbvR84K",
+        "username": "five_xiaowu",
+        "verified": true
+      }
+    ]
+  }
+}

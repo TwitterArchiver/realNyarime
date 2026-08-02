@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2012744378305986635",
+    "created_at": "2026-01-18T08:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T09:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012799271230402565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        },
+        {
+          "end": 22,
+          "id": "3151608288",
+          "start": 8,
+          "username": "AppSaildotDEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012799271230402565",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012745584810332637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 @AppSaildotDEV 不过很奇怪的是，我的招行visa信用卡付不出去。。。明明实体卡可以，境外付款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2012744378305986635",
+        "created_at": "2026-01-18T08:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T09:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012799271230402565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            },
+            {
+              "end": 22,
+              "id": "3151608288",
+              "start": 8,
+              "username": "AppSaildotDEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012799271230402565",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012745584810332637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 @AppSaildotDEV 不过很奇怪的是，我的招行visa信用卡付不出去。。。明明实体卡可以，境外付款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631722483521921029",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041046235",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2012744378305986635",
+        "created_at": "2026-01-18T04:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T05:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012745584810332637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3151608288",
+              "start": 0,
+              "username": "AppSaildotDEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012745584810332637",
+        "in_reply_to_user_id": "3151608288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012744982419976386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AppSaildotDEV 虽然 Apple Pay 在支付的时候会生成一个同卡段的虚拟卡号，但是 Stripe 在 info dragging的时候 tag json 文件就已经写死 if region == “cn” decline = true 了\n所以国内卡不管通过什么方式，都是没法付款成功的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2012553157209927938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8064,
+          "following_count": 614,
+          "like_count": 9292,
+          "listed_count": 24,
+          "media_count": 740,
+          "tweet_count": 6209
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 2254,
+          "like_count": 28261,
+          "listed_count": 9,
+          "media_count": 1385,
+          "tweet_count": 6201
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-12T15:43:33.000Z",
+        "description": "Build  https://t.co/DHyfA0YqIu\nX BoostClub 400w+ 社区  #XBC Partner\n#独立开发者 #Payments #汇丰卓越\nDiscord：https://t.co/YqiLcnJofW\n🏂 🏄 🛹 Lover of boards & freedom",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 53,
+                "tag": "XBC"
+              },
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "独立开发者"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "tag": "Payments"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "汇丰卓越"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "3min.top",
+                "end": 30,
+                "expanded_url": "https://3min.top",
+                "start": 7,
+                "url": "https://t.co/DHyfA0YqIu"
+              },
+              {
+                "display_url": "discord.gg/8FnCgMvD6e",
+                "end": 120,
+                "expanded_url": "https://discord.gg/8FnCgMvD6e",
+                "start": 97,
+                "url": "https://t.co/YqiLcnJofW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x-boostclub.notion.site",
+                "end": 23,
+                "expanded_url": "https://x-boostclub.notion.site/",
+                "start": 0,
+                "url": "https://t.co/ADhVYv1I0Z"
+              }
+            ]
+          }
+        },
+        "id": "3151608288",
+        "name": "AppSail.dev",
+        "pinned_tweet_id": "2012339500064579895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004066300289753088/5qO6kRP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16714,
+          "following_count": 1490,
+          "like_count": 8909,
+          "listed_count": 135,
+          "media_count": 377,
+          "tweet_count": 6876
+        },
+        "url": "https://t.co/ADhVYv1I0Z",
+        "username": "AppSaildotDEV",
+        "verified": true
+      }
+    ]
+  }
+}

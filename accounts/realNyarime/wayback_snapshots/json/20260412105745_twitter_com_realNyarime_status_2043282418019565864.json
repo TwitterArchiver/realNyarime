@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2043185822032384086",
+    "created_at": "2026-04-12T10:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043282418019565864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1894548093905084416",
+          "start": 0,
+          "username": "oooodjdjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043282418019565864",
+    "in_reply_to_user_id": "1894548093905084416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043185822032384086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oooodjdjd 内地算本国人范畴吗，如果通行证去香港再护照飞第三国，最后直接飞回内地呢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2043185620873605120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrafzZbcAAPQs8.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2043185822032384086",
+        "created_at": "2026-04-12T10:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043282418019565864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894548093905084416",
+              "start": 0,
+              "username": "oooodjdjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043282418019565864",
+        "in_reply_to_user_id": "1894548093905084416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043185822032384086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oooodjdjd 内地算本国人范畴吗，如果通行证去香港再护照飞第三国，最后直接飞回内地呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043185620873605120"
+          ]
+        },
+        "author_id": "1894548093905084416",
+        "conversation_id": "2043185822032384086",
+        "created_at": "2026-04-12T04:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043185822032384086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNmT9mncg8",
+              "end": 123,
+              "expanded_url": "https://x.com/oooodjdjd/status/2043185822032384086/photo/1",
+              "media_key": "3_2043185620873605120",
+              "start": 100,
+              "url": "https://t.co/GNmT9mncg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043185822032384086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可以用通行证入境香港，用护照去国外，从国外用护照回内地吗？\n\n1. 值机有效入境权，入境自由选择。\n\n值机时，可以使用和边检不同的证件，保证目的地的有效入境权即可。真入境时可以使用你想用的那本证件。\n\n但注意：航司和边检（离港机场+目的地）之间可以通过APIS系统相互查询旅客的信息。持有多本证件的（尤其证件之间可能相互矛盾），要么提前想好如何给出可被接受的合法合理解释，要么找一个根本不在乎旅客持多本出入境证件的地区转机。\n\n2. 非本地证件，出入境一致原则。\n\n在证件本国/本地以外的地区使用证件（也就是说，你不是本国人/本地人）。同一地区的出入境边检，必须用同一本证件（查证件的是边检，不是海关。海关是查货抓税的）。入境出境，同一本证件的号码，正负相抵，完成闭环。比如，法瑞双国籍人士，用瑞士护照入境香港，不能拿法国护照出境香港。否则系统看到一个瑞士人进来逾期滞留，一个法国人凭空出现又离开。后果就是，可能两本护照在香港，都被禁止一段时间内的出入境。\n\n3. 本地证件，出入境自由原则。\n\n在证件本国/本地地区（也就是说，你是本国人/本地人），可以混用本人的身份证件。因为本国公民/本地居民，在合法条件下，有无限随意出入本国本地边境的权利。比如在法兰机场可以使用欧盟护照出境，然后用欧盟身份证入境。在香港，使用英国/BNO/特衰/任意护照出境，入境用香港身份证。这些都是允许的操作。\n\n回到你的问题：\n\n1. 如果你用通行证进香港，就必须离境时用通行证出香港。因为你拿着通行证，所以不是香港本地人。\n\n2. 如果你是内地公民，那通行证过罗湖离境，回内地时，用内地护照入境，这是允许的。出入香港时，使用通行证/内地护照/英美护照/圣基茨等，看你个人需要和喜好，但必须保证出入境一致原则。\n\n（出入境边检以及航司的工作人员，可能心里比你还清楚。如果真的那么较真，从证件上看，每天不知道有多少拿着通行证的内地人在过了罗湖后，在深圳河上神秘进入虫洞，一段时间后又神秘出现，回到内地。从香港看来，这些人拿着美国/英国/澳洲护照，从深圳河上虫洞里神秘出现，进入香港后，短暂停留又再次从机场出境离开香港）\n\n3. 如果只是在香港坐飞机，过蛇口码头可以不入境香港，直接转去香港机场。回来也可以直接出机场到蛇口，直接入境内地，不经过香港。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4920,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "可以用通行证入境香港，用护照去国外，从国外用护照回内地吗？\n\n1. 值机有效入境权，入境自由选择。\n\n值机时，可以使用和边检不同的证件，保证目的地的有效入境权即可。真入境时可以使用你想用的那本证件。 https://t.co/GNmT9mncg8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27887,
+          "following_count": 505,
+          "like_count": 12006,
+          "listed_count": 126,
+          "media_count": 1447,
+          "tweet_count": 9704
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T00:40:49.000Z",
+        "description": "🐱职业打工人，欢迎跟我一起进入web3 \n5年区块链经验丨投研分析丨知识成长分享丨专业HR/web3求职 \n\n🐾欢迎合作（小作文100%回复）：froussimis@gmail.com",
+        "id": "1894548093905084416",
+        "location": "Canyon Rim, UT",
+        "name": "meme",
+        "pinned_tweet_id": "2004720696245858745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949422290019790848/6cIshmX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14407,
+          "following_count": 272,
+          "like_count": 6070,
+          "listed_count": 49,
+          "media_count": 551,
+          "tweet_count": 3578
+        },
+        "username": "oooodjdjd",
+        "verified": true
+      }
+    ]
+  }
+}

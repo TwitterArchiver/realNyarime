@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2033194365116616971",
+    "created_at": "2026-03-15T21:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T22:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033290110226276639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2532581850",
+          "start": 0,
+          "username": "Merlin79918770"
+        },
+        {
+          "end": 28,
+          "id": "1245742764773367808",
+          "start": 16,
+          "username": "xiaojingshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033290110226276639",
+    "in_reply_to_user_id": "2532581850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033196072194179155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merlin79918770 @xiaojingshe App能直接用UDP 先不发任何包，让完全陌生的第二个服务器主动往你端口发数据包，让App产生full cone测试结果\n\n而网页只能靠浏览器WebRTC，必须你先给服务器发包才能测试，一般是测试IP泄露。当然也有专门的Chrome插件屏蔽，毕竟浏览器永远分不清第二个服务器能不能主动进来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2033194365116616971",
+        "created_at": "2026-03-15T21:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T22:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033290110226276639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2532581850",
+              "start": 0,
+              "username": "Merlin79918770"
+            },
+            {
+              "end": 28,
+              "id": "1245742764773367808",
+              "start": 16,
+              "username": "xiaojingshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033290110226276639",
+        "in_reply_to_user_id": "2532581850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033196072194179155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merlin79918770 @xiaojingshe App能直接用UDP 先不发任何包，让完全陌生的第二个服务器主动往你端口发数据包，让App产生full cone测试结果\n\n而网页只能靠浏览器WebRTC，必须你先给服务器发包才能测试，一般是测试IP泄露。当然也有专门的Chrome插件屏蔽，毕竟浏览器永远分不清第二个服务器能不能主动进来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2532581850",
+        "conversation_id": "2033194365116616971",
+        "created_at": "2026-03-15T14:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033196072194179155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1245742764773367808",
+              "start": 0,
+              "username": "xiaojingshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033196072194179155",
+        "in_reply_to_user_id": "1245742764773367808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033194365116616971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingshe 不知道为啥，我App看是full cone，网页是Port restricted cone"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21942,
+          "following_count": 516,
+          "like_count": 10942,
+          "listed_count": 92,
+          "media_count": 1138,
+          "tweet_count": 8404
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-29T12:48:28.000Z",
+        "description": "",
+        "id": "2532581850",
+        "name": "莫理斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952973048556208129/GcNrpW6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 168,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 173
+        },
+        "username": "Merlin79918770",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-02T16:00:06.000Z",
+        "description": "❤️小鲸鱼快成长🫶🫰😘💕 路由器刷机｜科学性能测试｜经验分享、家庭网络瞎折腾｜https://t.co/VsGUWINhgT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mao.fan",
+                "end": 62,
+                "expanded_url": "https://mao.fan",
+                "start": 39,
+                "url": "https://t.co/VsGUWINhgT"
+              }
+            ]
+          }
+        },
+        "id": "1245742764773367808",
+        "name": "小鲸社长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625508795899351040/B-Lc_bby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 225,
+          "like_count": 114,
+          "listed_count": 16,
+          "media_count": 90,
+          "tweet_count": 211
+        },
+        "username": "xiaojingshe",
+        "verified": true
+      }
+    ]
+  }
+}

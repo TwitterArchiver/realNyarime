@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2073683517033292143",
+    "created_at": "2026-07-05T17:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073823958936530957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1302118861995536387",
+          "start": 0,
+          "username": "Jiaxi_Cui"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "001b1f4d203740ea"
+    },
+    "id": "2073823958936530957",
+    "in_reply_to_user_id": "1302118861995536387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073683517033292143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiaxi_Cui 简单的任务用Fable 5有点小题大做"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [001b1f4d203740ea].",
+      "parameter": "geo.place_id",
+      "resource_id": "001b1f4d203740ea",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "001b1f4d203740ea"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_2073683477061582848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc0IrLaQAAlM0K.png",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2073683517033292143",
+        "created_at": "2026-07-05T17:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073823958936530957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1302118861995536387",
+              "start": 0,
+              "username": "Jiaxi_Cui"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2073823958936530957",
+        "in_reply_to_user_id": "1302118861995536387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073683517033292143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiaxi_Cui 简单的任务用Fable 5有点小题大做"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073683477061582848"
+          ]
+        },
+        "author_id": "1302118861995536387",
+        "conversation_id": "2073683517033292143",
+        "created_at": "2026-07-05T08:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073683517033292143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWAHnkuusU",
+              "end": 50,
+              "expanded_url": "https://x.com/Jiaxi_Cui/status/2073683517033292143/photo/1",
+              "media_key": "3_2073683477061582848",
+              "start": 27,
+              "url": "https://t.co/yWAHnkuusU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073683517033292143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1130,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实快速、简单的任务 Haiku 也不是不能用... https://t.co/yWAHnkuusU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39563,
+          "following_count": 658,
+          "like_count": 18921,
+          "listed_count": 181,
+          "media_count": 2302,
+          "tweet_count": 15907
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-05T05:38:34.000Z",
+        "description": "Building @cerul_hq\nI love video",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "cerul_hq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cerul.ai",
+                "end": 23,
+                "expanded_url": "https://cerul.ai",
+                "start": 0,
+                "url": "https://t.co/UIZjPHhc8D"
+              }
+            ]
+          }
+        },
+        "id": "1302118861995536387",
+        "name": "Panda",
+        "pinned_tweet_id": "2042058620729487588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677124881144770560/W6zZ-Zux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21704,
+          "following_count": 900,
+          "like_count": 3969,
+          "listed_count": 230,
+          "media_count": 674,
+          "tweet_count": 3993
+        },
+        "url": "https://t.co/UIZjPHhc8D",
+        "username": "Jiaxi_Cui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      }
+    ],
+    "conversation_id": "2042883436483101061",
+    "created_at": "2026-04-11T09:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042893579765584261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "24313912",
+          "start": 0,
+          "username": "wey_gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042893579765584261",
+    "in_reply_to_user_id": "24313912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042883436483101061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wey_gu 本身Nowledge Mem还处于内测阶段，能在迭代中看到思为老师团队的努力，值得学习\n\n做软件的，即使将来正式版了也会有人不满，包括Adobe的软件一直令我不满\n没有完美的产品，只有无限接近于完美\n\n但我从未失望过Nowledge😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "2042883436483101061",
+        "created_at": "2026-04-11T09:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042893579765584261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "24313912",
+              "start": 0,
+              "username": "wey_gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042893579765584261",
+        "in_reply_to_user_id": "24313912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042883436483101061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wey_gu 本身Nowledge Mem还处于内测阶段，能在迭代中看到思为老师团队的努力，值得学习\n\n做软件的，即使将来正式版了也会有人不满，包括Adobe的软件一直令我不满\n没有完美的产品，只有无限接近于完美\n\n但我从未失望过Nowledge😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "24313912",
+        "conversation_id": "2042883436483101061",
+        "created_at": "2026-04-11T08:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042883436483101061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/danielzmeow/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/danielzmeow/status/2042791995555614888",
+              "start": 55,
+              "url": "https://t.co/QWpVAGN1v6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042883436483101061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1519,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042791995555614888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给大家道歉哈🙇\n赶紧努力做做好\n内测期间快速迭代确实常常有 break 的\n抱歉让很多支持我们的新用户失望了 https://t.co/QWpVAGN1v6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28020,
+          "following_count": 496,
+          "like_count": 11905,
+          "listed_count": 126,
+          "media_count": 1436,
+          "tweet_count": 9594
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-14T02:46:34.000Z",
+        "description": "Build things, troubleshoot& sing.\nCo-Founder @NowledgeLabs, build @NowledgeMem& https://t.co/RVZI2oX9pr\nMicrosoft MVP. Feminist. Prev @NebulaGraph, @Ericsson Cloud",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "NowledgeLabs"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "NowledgeMem"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "NebulaGraph"
+              },
+              {
+                "end": 157,
+                "start": 148,
+                "username": "Ericsson"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nowled.ge/kl",
+                "end": 103,
+                "expanded_url": "https://nowled.ge/kl",
+                "start": 80,
+                "url": "https://t.co/RVZI2oX9pr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "siwei.io/en/",
+                "end": 23,
+                "expanded_url": "https://siwei.io/en/",
+                "start": 0,
+                "url": "https://t.co/rQ8z4IElIi"
+              }
+            ]
+          }
+        },
+        "id": "24313912",
+        "location": "@siwei@mas.to",
+        "name": "Wey Gu 古思为",
+        "pinned_tweet_id": "1952559537703342350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275624368618397697/kZ6PZRqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17116,
+          "following_count": 3766,
+          "like_count": 34654,
+          "listed_count": 242,
+          "media_count": 904,
+          "tweet_count": 19586
+        },
+        "url": "https://t.co/rQ8z4IElIi",
+        "username": "wey_gu",
+        "verified": true
+      }
+    ]
+  }
+}
