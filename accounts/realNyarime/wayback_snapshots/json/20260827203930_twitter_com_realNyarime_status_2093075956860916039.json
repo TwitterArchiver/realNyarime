@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2093075956860916039",
+    "created_at": "2026-08-27T20:39:30.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T21:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093075956860916039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/realNyarime/status/2092639998499848633",
+          "start": 148,
+          "url": "https://t.co/IVTlnTuSss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093075956860916039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "切musl就能用上现代的软件包了，反而是件可喜可贺的事情，当然过时的内核也会逐步跟上。像虚拟机用的Guest Agent均是从Alpine上移植+之前的musl兼容层适配的，会从略微的性能损耗转成原生支持，在老uClibc应该是有个musl ABI兼容插件指定 就跟现在应用市场上的x86版一样\n\n论闭源厂商，MikroTik的RouterOS也是万年uClibc。论其他友商，是先有CLI再有Web。本人也是发烧友，也整软路由、NAS，很多优秀的东西也应该借鉴弄过来，当大家都认同这个做法，反其道而行之便显得反人类了。或许换个角度来看，商用和家用的边界要考虑清楚，其次就是现在的外部大概是2-3年变一次天。之前的长鑫、本月的宇树，未来还有多少未知的变数产生，这很看造化\n\n总之近期不会有很大进展，这事情还需要验证到年底，或许年底非官方设备就可以订阅企业版license了（看公众号说的）。有什么对OS的看法、见解都可以聊聊，其实h/w nat我也在研究 这块显然比软加速会显得有必要，毕竟友商都做了我想着也得做一下的"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092639998499848633",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "切musl就能用上现代的软件包了，反而是件可喜可贺的事情，当然过时的内核也会逐步跟上。像虚拟机用的Guest Agent均是从Alpine上移植+之前的musl兼容层适配的，会从略微的性能损耗转成原生支持，在老uClibc应该是有个musl ABI兼容插件指定 就跟现在应用市场上的x86版一样 https://t.co/IVTlnTuSss"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2093075956860916039",
+        "created_at": "2026-08-27T20:39:30.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093075956860916039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/realNyarime/status/2092639998499848633",
+              "start": 148,
+              "url": "https://t.co/IVTlnTuSss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093075956860916039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "切musl就能用上现代的软件包了，反而是件可喜可贺的事情，当然过时的内核也会逐步跟上。像虚拟机用的Guest Agent均是从Alpine上移植+之前的musl兼容层适配的，会从略微的性能损耗转成原生支持，在老uClibc应该是有个musl ABI兼容插件指定 就跟现在应用市场上的x86版一样\n\n论闭源厂商，MikroTik的RouterOS也是万年uClibc。论其他友商，是先有CLI再有Web。本人也是发烧友，也整软路由、NAS，很多优秀的东西也应该借鉴弄过来，当大家都认同这个做法，反其道而行之便显得反人类了。或许换个角度来看，商用和家用的边界要考虑清楚，其次就是现在的外部大概是2-3年变一次天。之前的长鑫、本月的宇树，未来还有多少未知的变数产生，这很看造化\n\n总之近期不会有很大进展，这事情还需要验证到年底，或许年底非官方设备就可以订阅企业版license了（看公众号说的）。有什么对OS的看法、见解都可以聊聊，其实h/w nat我也在研究 这块显然比软加速会显得有必要，毕竟友商都做了我想着也得做一下的"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092639998499848633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "切musl就能用上现代的软件包了，反而是件可喜可贺的事情，当然过时的内核也会逐步跟上。像虚拟机用的Guest Agent均是从Alpine上移植+之前的musl兼容层适配的，会从略微的性能损耗转成原生支持，在老uClibc应该是有个musl ABI兼容插件指定 就跟现在应用市场上的x86版一样 https://t.co/IVTlnTuSss"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2092639998499848633",
+        "created_at": "2026-08-26T15:47:09.000Z",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092639998499848633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092639998499848633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6502,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给x86版的路由系统转musl了，放弃uClibc后，未来Alpine、OpenWrt能跑的，咱们也能跑！🥺\n这下跟ARM设备一样统一musl ABI了，随后就是Linux Kernel从5.10升到6.12，虽然OS内核尝鲜有不少人吃上了\n虽然我一直很嫌弃这套连深色模式都没有的UI，有些心有余力不足的感觉…… 要真有精力再来专注下这块吧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2093075956860916039",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44662,
+          "following_count": 658,
+          "like_count": 21919,
+          "listed_count": 194,
+          "media_count": 2668,
+          "tweet_count": 18176
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

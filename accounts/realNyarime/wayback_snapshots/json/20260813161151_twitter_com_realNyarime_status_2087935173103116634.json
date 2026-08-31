@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2087935173103116634",
+    "created_at": "2026-08-13T16:11:51.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087935173103116634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/realNyarime/status/2087050444791328888",
+          "start": 136,
+          "url": "https://t.co/WaFRr9PXM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087935173103116634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "支持华为是要付出代价的，要用行动来支持。像你遇到这些困难，人生遇到这些挫折都是考验你对忠诚度的你不能遇到一点挫折你就放弃，否则没办法为你做得更好\n\n像我没办法像你这么包容，所以我从来不买华为，因为我爱华为，爱我们这个国家爱我们这个民族，所以我不想增加麻烦给我们的本土品牌\n\n因为豆包说我这个人比较冲动，遇到事情比较难控制情绪，所以我想出了美国的品牌Apple。我相信很多人都像我一样爱国也是用我同样的方式爱国。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087050444791328888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持华为是要付出代价的，要用行动来支持。像你遇到这些困难，人生遇到这些挫折都是考验你对忠诚度的你不能遇到一点挫折你就放弃，否则没办法为你做得更好\n\n像我没办法像你这么包容，所以我从来不买华为，因为我爱华为，爱我们这个国家爱我们这个民族，所以我不想增加麻烦给我们的本土品牌 https://t.co/WaFRr9PXM8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2087050431570890753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaxT1Ib0AEjpM8.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2087935173103116634",
+        "created_at": "2026-08-13T16:11:51.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087935173103116634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/realNyarime/status/2087050444791328888",
+              "start": 136,
+              "url": "https://t.co/WaFRr9PXM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087935173103116634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "支持华为是要付出代价的，要用行动来支持。像你遇到这些困难，人生遇到这些挫折都是考验你对忠诚度的你不能遇到一点挫折你就放弃，否则没办法为你做得更好\n\n像我没办法像你这么包容，所以我从来不买华为，因为我爱华为，爱我们这个国家爱我们这个民族，所以我不想增加麻烦给我们的本土品牌\n\n因为豆包说我这个人比较冲动，遇到事情比较难控制情绪，所以我想出了美国的品牌Apple。我相信很多人都像我一样爱国也是用我同样的方式爱国。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087050444791328888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持华为是要付出代价的，要用行动来支持。像你遇到这些困难，人生遇到这些挫折都是考验你对忠诚度的你不能遇到一点挫折你就放弃，否则没办法为你做得更好\n\n像我没办法像你这么包容，所以我从来不买华为，因为我爱华为，爱我们这个国家爱我们这个民族，所以我不想增加麻烦给我们的本土品牌 https://t.co/WaFRr9PXM8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087050431570890753"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2087049512787574855",
+        "created_at": "2026-08-11T05:36:16.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087050444791328888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788530078412132352",
+              "start": 0,
+              "username": "zane_os"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xuBN5HYtDe",
+              "end": 44,
+              "expanded_url": "https://x.com/realNyarime/status/2087050444791328888/photo/1",
+              "media_key": "3_2087050431570890753",
+              "start": 21,
+              "url": "https://t.co/xuBN5HYtDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087050444791328888",
+        "in_reply_to_user_id": "1788530078412132352",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087050431570890753"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6197,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087049817746976977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zane_os 搞得华为能救他们命一样 https://t.co/xuBN5HYtDe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2087935173103116634",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44102,
+          "following_count": 665,
+          "like_count": 21391,
+          "listed_count": 190,
+          "media_count": 2590,
+          "tweet_count": 17764
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

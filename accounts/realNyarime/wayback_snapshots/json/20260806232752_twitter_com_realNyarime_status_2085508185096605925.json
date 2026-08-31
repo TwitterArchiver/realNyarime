@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085507986332758017"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2085508185096605925",
+    "created_at": "2026-08-06T23:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T00:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085508185096605925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mi3Z3iE8Wd",
+          "end": 38,
+          "expanded_url": "https://x.com/realNyarime/status/2085508185096605925/video/1",
+          "media_key": "13_2085507986332758017",
+          "start": 15,
+          "url": "https://t.co/Mi3Z3iE8Wd"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c999e6a453e9ef72"
+    },
+    "id": "2085508185096605925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "子弹也忘记拿出去了，不好意思 https://t.co/Mi3Z3iE8Wd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c999e6a453e9ef72].",
+      "parameter": "geo.place_id",
+      "resource_id": "c999e6a453e9ef72",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c999e6a453e9ef72"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18730,
+        "height": 960,
+        "media_key": "13_2085507986332758017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085507986332758017/img/X3AtCag708NnVLWd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085507986332758017/vid/avc1/320x568/O9nx5BA-jbp48-aa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085507986332758017/vid/avc1/480x852/1xtgFug8cgbiJiEA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085507986332758017/vid/avc1/540x960/mQbi1vyBrYMmCEyk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085507986332758017/pl/RJIiwQqmi-_rogis.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085507986332758017"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2085508185096605925",
+        "created_at": "2026-08-06T23:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T00:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085508185096605925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mi3Z3iE8Wd",
+              "end": 38,
+              "expanded_url": "https://x.com/realNyarime/status/2085508185096605925/video/1",
+              "media_key": "13_2085507986332758017",
+              "start": 15,
+              "url": "https://t.co/Mi3Z3iE8Wd"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2085508185096605925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "子弹也忘记拿出去了，不好意思 https://t.co/Mi3Z3iE8Wd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43674,
+          "following_count": 663,
+          "like_count": 21058,
+          "listed_count": 189,
+          "media_count": 2541,
+          "tweet_count": 17554
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

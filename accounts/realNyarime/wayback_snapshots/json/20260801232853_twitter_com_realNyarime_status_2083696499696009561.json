@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2083596598744056018",
+    "created_at": "2026-08-01T23:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T00:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083696499696009561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007154899591802885",
+          "start": 0,
+          "username": "usavmshell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083696499696009561",
+    "in_reply_to_user_id": "2007154899591802885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083672552829010429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usavmshell HSBC距离香港上海本地银行更进一步了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2083596598744056018",
+        "created_at": "2026-08-01T23:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083696499696009561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007154899591802885",
+              "start": 0,
+              "username": "usavmshell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083696499696009561",
+        "in_reply_to_user_id": "2007154899591802885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083672552829010429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usavmshell HSBC距离香港上海本地银行更进一步了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007154899591802885",
+        "conversation_id": "2083596598744056018",
+        "created_at": "2026-08-01T21:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083672552829010429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083672552829010429",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083596598744056018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 汇丰其实在美国不算啥子……\n全美有1400家银行左右\n中国大陆大概800"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43312,
+          "following_count": 663,
+          "like_count": 20872,
+          "listed_count": 188,
+          "media_count": 2521,
+          "tweet_count": 17446
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-02T18:20:14.000Z",
+        "description": "云计算：https://t.co/O8jiqusXcl https://t.co/fJ7Pk5oc9H\neSIM: https://t.co/2Uo1R9wXyx\n旅游： https://t.co/jNRYk7zSHE\n虚拟卡: https://t.co/MCf51pnCSU\nVmShellSSR: https://t.co/VLrzeALIxE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vmshell.com",
+                "end": 27,
+                "expanded_url": "https://vmshell.com/",
+                "start": 4,
+                "url": "https://t.co/O8jiqusXcl"
+              },
+              {
+                "display_url": "tototel.com",
+                "end": 51,
+                "expanded_url": "https://tototel.com/",
+                "start": 28,
+                "url": "https://t.co/fJ7Pk5oc9H"
+              },
+              {
+                "display_url": "vmshell.us",
+                "end": 81,
+                "expanded_url": "https://vmshell.us",
+                "start": 58,
+                "url": "https://t.co/2Uo1R9wXyx"
+              },
+              {
+                "display_url": "vmshell.net",
+                "end": 109,
+                "expanded_url": "https://vmshell.net",
+                "start": 86,
+                "url": "https://t.co/jNRYk7zSHE"
+              },
+              {
+                "display_url": "card.vmshell.com",
+                "end": 138,
+                "expanded_url": "https://card.vmshell.com",
+                "start": 115,
+                "url": "https://t.co/MCf51pnCSU"
+              },
+              {
+                "display_url": "ssr.vmshell.com",
+                "end": 174,
+                "expanded_url": "https://ssr.vmshell.com",
+                "start": 151,
+                "url": "https://t.co/VLrzeALIxE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vmbanks.com",
+                "end": 23,
+                "expanded_url": "https://vmbanks.com",
+                "start": 0,
+                "url": "https://t.co/gIlBeTfkc3"
+              }
+            ]
+          }
+        },
+        "id": "2007154899591802885",
+        "location": " 30 North Gould St Ste R",
+        "name": "VmShell INC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041410532230713344/cl4EGo_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 1881,
+          "like_count": 2231,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/gIlBeTfkc3",
+        "username": "usavmshell",
+        "verified": false
+      }
+    ]
+  }
+}

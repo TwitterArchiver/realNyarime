@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2087854055548960781",
+    "created_at": "2026-08-13T14:08:34.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087904146297176285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1691289874228469761",
+          "start": 0,
+          "username": "fishjlch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087904146297176285",
+    "in_reply_to_user_id": "1691289874228469761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087854055548960781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishjlch 没有，我用银联。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2087854055548960781",
+        "created_at": "2026-08-13T14:08:34.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087904146297176285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1691289874228469761",
+              "start": 0,
+              "username": "fishjlch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087904146297176285",
+        "in_reply_to_user_id": "1691289874228469761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087854055548960781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishjlch 没有，我用银联。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691289874228469761",
+        "conversation_id": "2087854055548960781",
+        "created_at": "2026-08-13T10:49:31.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087854055548960781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087854055548960781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 590,
+                "start": 585,
+                "tag": "跨境支付"
+              },
+              {
+                "end": 598,
+                "start": 591,
+                "tag": "信用卡冷知识"
+              },
+              {
+                "end": 604,
+                "start": 599,
+                "tag": "支付科普"
+              }
+            ]
+          },
+          "text": "今日科普内容:\n你有没有想过:同样是刷美元卡、花美元,为什么有的交易会被多收一笔钱,有的却不会?\n今天用大白话讲清楚「换汇费」和「跨境费(ISA)」到底有什么区别 🧵\n\n先说结论:这是两把完全不同的尺子。\n换汇费 —— 看的是「钱变没变成另一种货币」\n跨境费(ISA)—— 看的是「发卡的国家」和「花钱的国家」是不是同一个国家\n这两件事,没有必然关系。\n\n举个例子:假设你有一张「新加坡银行」发的美元卡,人在美国刷卡买东西,商户收的也是美元。\n钱完全没有换算 → 换汇费应该是 0\n但发卡国(新加坡)≠ 消费国(美国)→ 照样会被判定为「跨境交易」,收一笔 ISA(国际服务评估费,约1%)\n\n换句话说:\n不换汇 ≠ 不跨境\n\n就像你拿着新加坡银行的卡去美国超市刷卡,店员那边看到的信息只有「这张卡不是本地发的」,跟你花的是什么货币完全没关系。\n\n那有没有办法免掉这笔 ISA?\n有,但不是靠「币种一样」就能免的。\n发卡机构要单独跟卡组织(比如 Visa)申请,把特定国家加进「白名单」。一旦某个国家进了名单,即使发卡国和消费国不同,系统也会特批当「本地交易」处理,ISA 就免了。\n\n所以下次看到一笔「莫名其妙」的费用,先别急着觉得算错了。\n先问自己两个问题:\n① 这笔钱换汇了吗?\n② 发卡国和消费国是同一个吗?\n\n这两个问题,分别对应两种完全不同的收费逻辑 💡\n\n#跨境支付 #信用卡冷知识 #支付科普"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日科普内容:\n你有没有想过:同样是刷美元卡、花美元,为什么有的交易会被多收一笔钱,有的却不会?\n今天用大白话讲清楚「换汇费」和「跨境费(ISA)」到底有什么区别 🧵\n\n先说结论:这是两把完全不同的尺子。\n换汇费 —— 看的是「钱变没变成另一种货币」\n跨境费(ISA)——"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2087904146297176285",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44095,
+          "following_count": 665,
+          "like_count": 21388,
+          "listed_count": 190,
+          "media_count": 2589,
+          "tweet_count": 17762
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T03:25:18.000Z",
+        "description": "努力活着是一种勇气\n学心理学主要为了治疗我脑子别问了\n玩推纯属于爱看八卦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/?r=fishjlch",
+                "end": 23,
+                "expanded_url": "https://polymarket.com/?r=fishjlch",
+                "start": 0,
+                "url": "https://t.co/1lTHdCULdc"
+              }
+            ]
+          }
+        },
+        "id": "1691289874228469761",
+        "is_identity_verified": true,
+        "location": "Kuala Lumpur",
+        "most_recent_tweet_id": "2087854951586480525",
+        "name": "Fish",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691289874228469761/1737542340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039784644816855040/Si0OkMZg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 986,
+          "like_count": 15890,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 1814
+        },
+        "url": "https://t.co/1lTHdCULdc",
+        "username": "fishjlch",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

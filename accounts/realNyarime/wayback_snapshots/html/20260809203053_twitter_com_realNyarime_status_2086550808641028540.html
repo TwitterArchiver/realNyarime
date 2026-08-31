@@ -1,0 +1,175 @@
+<!-- Source: https://web.archive.org/web/20260809203053if_/twitter_com_realNyarime_status_2086550808641028540 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="奶昔🥤" src="../avatar/avatar_2037172678558425088.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  奶昔🥤
+  </div>
+  <div class="tweet-author-username">
+  @realNyarime
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  警务通双系统显示无网络造成“生活系统有网（无网）、工作系统无网络”的现象，这是因为两个系统的网络通道本来就是隔离的：生活系统走公共 APN（普通互联网），工作系统走运营商给警务卡开的专属 APN/VPDN 专网，必须经过SIM绑定 + 专网 APN + 安全客户端（加密卡）三者一起才通
+  <br/>
+  <br/>
+  1. 先确认“无网络”是哪个系统 生活系统省略
+  <br/>
+  工作系统（公安网区）：显示“无网络/无法连接网关/警务 APP 登不上” → 问题在专网通道，不在手机硬件。
+  <br/>
+  <br/>
+  2. 工作系统专网不通的常见原因（按概率排）
+  <br/>
+  ① 警务卡没放在卡 1，或默认数据卡不是警务卡 “卡 1 = 警务卡、默认移动数据 = 卡 1”，放卡 2 工作区专网直接起不来。
+  <br/>
+  ② 工作区 APN 被改动 / 不是专属 VPDN 工作系统里「设置→移动网络→接入点 APN」必须是局里下发的专属 APN（xxx.vpdn.xx 、 ctvpdn 、 *jw@vpdn*  之类），且带用户名密码、PAP/CHAP 认证。 部分机型 APN 是 MDM 锁死的，手动新建错一个字符也不行。
+  <br/>
+  ③ 安全客户端 / 加密卡异常 很多警务通工作区联网顺序：插加密卡 → 启动安全客户端 → 建立 VPN 隧道 → 警务 APP 才通。 加密卡没插、未升级、安全客户端版本不对、隧道没起来，状态栏可能显示 5G 但 APP 层就是“无网络”。
+  <br/>
+  ④ SIM 卡状态正常但“专网侧”没开通 普通查话费能打通 ≠ 警务 VPDN 群组有效。常见后台问题： 换卡/补卡后运营商没重写 VPDN 数据 警务卡欠专网流量池费用被停 VPDN（公网还能用） 机卡绑定关系在后台掉了（SN 与 ICCID 未绑定） 局端安全网关/VPN 地址变更，终端还是老配置 ⑤ 工作区被 MDM 策略限制
+  <br/>
+  <br/>
+  3. 现场可自排查的动作（不改后台也能做） 关机，确认警务 SIM 在卡 1，加密 卡在位。 进工作系统 → 开移动数据 → 关 WiFi → 看状态栏有没有专网标识。 工作系统「设置→移动网络→APN」截图核对：名称/APN/用户名/密码/认证类型是否和本单位下发的一致（不要自己乱建）。
+  <br/>
+  <br/>
+  4. 必须找科信/运营商的情况 补换卡后没通知运营商重写 VPDN 数据 专网 APN 被 MDM 锁死且显示空白/被篡改 安全客户端报“证书无效/设备未注册” 后台机卡绑定异常、专网流量池停机 终端 SN 在管控平台显示离线或已注销 如果以上都没有问题，最后一个解决的方法就是重新安装警务通系统，就可以解决
+  <img class="tweet-image" src="../image/20260809203053_pbs.twimg.com_media_HPTq5MnaAAAYvE_.jpg"/>
+  <img class="tweet-image" src="../image/20260809203053_pbs.twimg.com_media_HPTq5nEbkAASh9_.jpg"/>
+  <!-- If there's a quoted tweet, embed it here!-->
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2026-08-09T20:30:53.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

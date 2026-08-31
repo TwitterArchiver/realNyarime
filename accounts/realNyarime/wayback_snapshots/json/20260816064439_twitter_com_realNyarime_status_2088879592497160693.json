@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2088758816376807762",
+    "created_at": "2026-08-16T06:44:39.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088879592497160693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "874126509245476864",
+          "start": 0,
+          "username": "DarioAmodei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088879592497160693",
+    "in_reply_to_user_id": "874126509245476864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088758816376807762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarioAmodei 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2088758816376807762",
+        "created_at": "2026-08-16T06:44:39.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088879592497160693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "874126509245476864",
+              "start": 0,
+              "username": "DarioAmodei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088879592497160693",
+        "in_reply_to_user_id": "874126509245476864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088758816376807762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarioAmodei 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "874126509245476864",
+        "conversation_id": "2088758816376807762",
+        "created_at": "2026-08-15T22:44:43.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088758816376807762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gavinsbaker/st…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/gavinsbaker/status/2088611616577253502",
+              "start": 278,
+              "url": "https://t.co/2W6vWJAE8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088758816376807762",
+        "lang": "en",
+        "note_request_suggestions": [
+          {
+            "suggestion": "Regulatory proposals of Anthropic always benefited Anthropic while putting severe costs on consumers and small businesses ",
+            "suggestion_id": "2088827096479273171"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out the heart of an important conversation.\n\nFirst, on regulation, I think that “either concentrate it in the hands of a chosen few companies and politicians via regulation or distribute it widely” is a false choice.  I know that there’s a sort of Silicon Valley shorthand where regulation = regulatory capture = concentration of power, but I’ve always found this to be an overly simplified picture of the world.  Many people outside this bubble think of regulation as something that constrains corporate power and benefits ordinary people.  I don’t necessarily agree with that perspective either, rather I think it’s complicated and really depends on what the “regulation” consists of.  But in particular I think that those in the “regulation = regulatory capture = concentration of power” frame often underrate the decentralizing power of objective and fair institutional processes.  A crude analogy is that the formal court system can sometimes feel stuffy and elitist, but it does a much better job of defending the rights of vulnerable individuals than the alternative, mob justice.  At their best, institutions can vest power in ideas rather than people, and thereby decentralize that power.\n\nThis is why Anthropic has always made its policy proposals very carefully.  We try very hard to make proposals that disadvantage (slow down) frontier AI companies while *advantaging* smaller competitors.  California’s SB53 (which we supported), and even the much-maligned SB 1047 (which we were ambivalent on), completely exempt any company below a certain amount of revenue or model training costs from being covered at all (it was $500M for SB 53, lower for 1047 but we objected to that).  More recently the testing process we’ve advocated for at CAISI and the White House involves more rigorous tests for frontier models than off-frontier models — something that differentially advantages challengers.  Similarly, the “Pacing the Frontier” letter envisions (or at least Anthropic’s preferred implementation of it envisions) modulating the pace of the very best models while not constraining those who are catching up.  This hurts the business interests of the frontier labs and helps challengers, including open-weights!\n\nOverall my view is that AI is *structurally* a technology that tends to concentrate power, for reasons that have nothing to do with regulation (more to do with the extreme implications of the scaling laws).  Open-weights do help some with this but are nowhere near a sufficient solution because they simply shift the concentration somewhat to those with the most compute and chips (which are roughly the frontier labs plus maybe hardware providers).  By contrast I think the right “rules of the road” can simultaneously (a) address AI’s cyber/bio/alignment risks, (b) institutionally constrain the power of the frontier AI companies, and (c) leave room for open-weights models while also addressing the specific risks that they bring.\n\nBTW I do not think that the events of the last few months have “failed to result in [my] preferred regulatory path”.  The approach that the Trump administration is reported to be taking — pre-deployment testing for frontier models, and also testing of open-weights models when they get closer to the frontier — is one that I am very supportive of, though of course I have to see the details to be sure.  I am also supportive of Demis Hassabis’ ideas around a FINRA-like entity.  This contrasts with six months ago when most of the industry was still pushing for preemption of all state regulation and no apparent federal approach either."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5182,
+          "impression_count": 2011113,
+          "like_count": 5054,
+          "quote_count": 442,
+          "reply_count": 585,
+          "retweet_count": 484
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088611616577253502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out the heart of an important conversation.\n\nFirst, on regulation, I think that “either concentrate it in the hands of a https://t.co/2W6vWJAE8Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2088879592497160693",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44130,
+          "following_count": 661,
+          "like_count": 21410,
+          "listed_count": 192,
+          "media_count": 2601,
+          "tweet_count": 17799
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_bigger.jpg",
+          "description": "Anthropic",
+          "url": "https://twitter.com/AnthropicAI",
+          "user_id": [
+            "1353836358901501952"
+          ]
+        },
+        "created_at": "2017-06-12T04:49:35.000Z",
+        "description": "Anthropic CEO. https://t.co/qXHIf42jTl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "darioamodei.com",
+                "end": 38,
+                "expanded_url": "http://darioamodei.com",
+                "start": 15,
+                "url": "https://t.co/qXHIf42jTl"
+              }
+            ]
+          }
+        },
+        "id": "874126509245476864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088758819304443967",
+        "name": "Dario Amodei",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/874126509245476864/1769457252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575067,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 4613,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "DarioAmodei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

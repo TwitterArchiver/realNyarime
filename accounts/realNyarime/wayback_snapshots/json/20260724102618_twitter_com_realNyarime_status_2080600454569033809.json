@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080600325627785217"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2080600454569033809",
+    "created_at": "2026-07-24T10:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080600454569033809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zf0WxZMvxI",
+          "end": 76,
+          "expanded_url": "https://x.com/realNyarime/status/2080600454569033809/photo/1",
+          "media_key": "3_2080600325627785217",
+          "start": 53,
+          "url": "https://t.co/zf0WxZMvxI"
+        },
+        {
+          "display_url": "x.com/dangshuang/sta…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/dangshuang/status/2079892052452794660",
+          "start": 77,
+          "url": "https://t.co/P55fVKYmPD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080600454569033809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "入职汇丰银行的staff be like，因为汇丰（HSBC）里带了SB，那么傻逼的银行还是不要用好了😭"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079892052452794660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "入职汇丰银行的staff be like，因为汇丰（HSBC）里带了SB，那么傻逼的银行还是不要用好了😭 https://t.co/zf0WxZMvxI https://t.co/P55fVKYmPD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 715,
+        "media_key": "3_2080600325627785217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_G-QCbMAEX0aG.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1278,
+        "media_key": "3_2079892047067336704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1CzAyb0AAVh1c.jpg",
+        "width": 756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080600325627785217"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2080600454569033809",
+        "created_at": "2026-07-24T10:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080600454569033809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zf0WxZMvxI",
+              "end": 76,
+              "expanded_url": "https://x.com/realNyarime/status/2080600454569033809/photo/1",
+              "media_key": "3_2080600325627785217",
+              "start": 53,
+              "url": "https://t.co/zf0WxZMvxI"
+            },
+            {
+              "display_url": "x.com/dangshuang/sta…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/dangshuang/status/2079892052452794660",
+              "start": 77,
+              "url": "https://t.co/P55fVKYmPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080600454569033809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "入职汇丰银行的staff be like，因为汇丰（HSBC）里带了SB，那么傻逼的银行还是不要用好了😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079892052452794660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "入职汇丰银行的staff be like，因为汇丰（HSBC）里带了SB，那么傻逼的银行还是不要用好了😭 https://t.co/zf0WxZMvxI https://t.co/P55fVKYmPD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079892047067336704"
+          ]
+        },
+        "author_id": "1393065220323647494",
+        "conversation_id": "2079892052452794660",
+        "created_at": "2026-07-22T11:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079892052452794660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgg9rp1miL",
+              "end": 29,
+              "expanded_url": "https://x.com/dangshuang/status/2079892052452794660/photo/1",
+              "media_key": "3_2079892047067336704",
+              "start": 6,
+              "url": "https://t.co/fgg9rp1miL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079892052452794660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "野爹证来了 https://t.co/fgg9rp1miL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40889,
+          "following_count": 666,
+          "like_count": 20070,
+          "listed_count": 184,
+          "media_count": 2448,
+          "tweet_count": 16884
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-14T04:46:55.000Z",
+        "description": "Life is so wonderful…/只精通4g63和2jz其他发动机别问我我不知道",
+        "id": "1393065220323647494",
+        "location": "Kuala Lumpur",
+        "name": "霜",
+        "pinned_tweet_id": "1864318595834237066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053918733442420736/VsXftETk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 595,
+          "like_count": 7469,
+          "listed_count": 6,
+          "media_count": 813,
+          "tweet_count": 6693
+        },
+        "url": "",
+        "username": "dangshuang",
+        "verified": true
+      }
+    ]
+  }
+}

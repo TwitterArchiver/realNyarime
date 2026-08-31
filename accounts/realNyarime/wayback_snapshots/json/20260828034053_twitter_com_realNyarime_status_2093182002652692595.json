@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2092627679346561531",
+    "created_at": "2026-08-28T03:40:53.000Z",
+    "display_text_range": [
+      30,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T04:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093182002652692595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        },
+        {
+          "end": 18,
+          "id": "1726486879456096256",
+          "start": 10,
+          "username": "Zai_org"
+        },
+        {
+          "end": 29,
+          "id": "1896810733423493120",
+          "start": 19,
+          "username": "ZixuanLi_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. 1,048,576 token context window.",
+          "display_url": "openrouter.ai/z-ai/glm-5.3-f…",
+          "end": 95,
+          "expanded_url": "https://openrouter.ai/z-ai/glm-5.3-flash#pricing",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2092616802077712384/gKntZKIt?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2092616802077712384/gKntZKIt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 72,
+          "status": 200,
+          "title": "GLM 5.3 Flash - API Pricing & Providers",
+          "unwound_url": "https://openrouter.ai/z-ai/glm-5.3-flash#pricing",
+          "url": "https://t.co/7GfNDTWLFM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093182002652692595",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092657985667596767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI @Zai_org @ZixuanLi_ 隐藏坑，缓存率只有86%，远低于deepseek的99.86%\n应该是硬件不足导致\nhttps://t.co/7GfNDTWLFM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2092627679346561531",
+        "created_at": "2026-08-28T03:40:53.000Z",
+        "display_text_range": [
+          30,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093182002652692595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            },
+            {
+              "end": 18,
+              "id": "1726486879456096256",
+              "start": 10,
+              "username": "Zai_org"
+            },
+            {
+              "end": 29,
+              "id": "1896810733423493120",
+              "start": 19,
+              "username": "ZixuanLi_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. 1,048,576 token context window.",
+              "display_url": "openrouter.ai/z-ai/glm-5.3-f…",
+              "end": 95,
+              "expanded_url": "https://openrouter.ai/z-ai/glm-5.3-flash#pricing",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2092616802077712384/gKntZKIt?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2092616802077712384/gKntZKIt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "GLM 5.3 Flash - API Pricing & Providers",
+              "unwound_url": "https://openrouter.ai/z-ai/glm-5.3-flash#pricing",
+              "url": "https://t.co/7GfNDTWLFM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093182002652692595",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092657985667596767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI @Zai_org @ZixuanLi_ 隐藏坑，缓存率只有86%，远低于deepseek的99.86%\n应该是硬件不足导致\nhttps://t.co/7GfNDTWLFM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699797396589588480",
+        "conversation_id": "2092627679346561531",
+        "created_at": "2026-08-26T16:58:38.000Z",
+        "display_text_range": [
+          22,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092657985667596767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 21,
+              "id": "1726486879456096256",
+              "start": 13,
+              "username": "Zai_org"
+            },
+            {
+              "end": 32,
+              "id": "1896810733423493120",
+              "start": 22,
+              "username": "ZixuanLi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092657985667596767",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4149,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092657834131693608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @Zai_org @ZixuanLi_ 缓存有没有什么办法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2093182002652692595",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44666,
+          "following_count": 658,
+          "like_count": 21923,
+          "listed_count": 194,
+          "media_count": 2670,
+          "tweet_count": 18181
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "Head of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n\n本科辍学创业\n没啥好看的，也就发点AI相关的内容🫡\n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "lobehub"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "listenhub"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6eGp0"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2093180861562941864",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2086799688666382808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33384,
+          "following_count": 2805,
+          "like_count": 22780,
+          "listed_count": 294,
+          "media_count": 1525,
+          "tweet_count": 10486
+        },
+        "url": "https://t.co/Sl0Wv6eGp0",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-20T06:25:51.000Z",
+        "description": "The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity.\nhttps://t.co/gOw7WpwkJt\nhttps://t.co/ot9sGVXU8x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "huggingface.co/zai-org",
+                "end": 120,
+                "expanded_url": "http://huggingface.co/zai-org",
+                "start": 97,
+                "url": "https://t.co/gOw7WpwkJt"
+              },
+              {
+                "display_url": "discord.com/invite/QR7SARH…",
+                "end": 144,
+                "expanded_url": "http://discord.com/invite/QR7SARHRxK",
+                "start": 121,
+                "url": "https://t.co/ot9sGVXU8x"
+              }
+            ]
+          }
+        },
+        "id": "1726486879456096256",
+        "is_identity_verified": false,
+        "location": "user_feedback@z.ai",
+        "most_recent_tweet_id": "2092997479318880513",
+        "name": "Z.ai",
+        "pinned_tweet_id": "2092616204787626030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726486879456096256/1786708959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970775077181411328/W8XKaUIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150828,
+          "following_count": 268,
+          "like_count": 1473,
+          "listed_count": 1496,
+          "media_count": 234,
+          "tweet_count": 1238
+        },
+        "url": "",
+        "username": "Zai_org",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1970775077181411328/W8XKaUIh_bigger.jpg",
+          "description": "Z.ai",
+          "url": "https://twitter.com/Zai_org",
+          "user_id": [
+            "1726486879456096256"
+          ]
+        },
+        "created_at": "2025-03-04T06:31:47.000Z",
+        "description": "Lead https://t.co/KepyJGAtVs @Zai_org.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "Zai_org"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "z.ai",
+                "end": 28,
+                "expanded_url": "http://z.ai",
+                "start": 5,
+                "url": "https://t.co/KepyJGAtVs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "z.ai/subscribe",
+                "end": 23,
+                "expanded_url": "http://z.ai/subscribe",
+                "start": 0,
+                "url": "https://t.co/BoahcQP6zw"
+              }
+            ]
+          }
+        },
+        "id": "1896810733423493120",
+        "is_identity_verified": false,
+        "location": "zixuan.li@z.ai",
+        "most_recent_tweet_id": "2093175413715423624",
+        "name": "Zixuan Li",
+        "pinned_tweet_id": "2092616956432015754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896810733423493120/1767840092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063659642111332353/jaPleXSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31837,
+          "following_count": 243,
+          "like_count": 520,
+          "listed_count": 252,
+          "media_count": 69,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/BoahcQP6zw",
+        "username": "ZixuanLi_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

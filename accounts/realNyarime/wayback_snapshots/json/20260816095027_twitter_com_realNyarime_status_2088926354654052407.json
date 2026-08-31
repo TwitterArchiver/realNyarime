@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2088876760045945173",
+    "created_at": "2026-08-16T09:50:27.000Z",
+    "display_text_range": [
+      0,
+      185
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088926354654052407"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088926354654052407",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "界面虽然可以选择“超高”或“极致”思考强度，但实际发给模型服务的请求仍然是 reasoning_effort: high。这个问题目前已在 WorkBuddy Desktop 5.3.11、内置 CLI 2.115.0 上稳定复现，涉及 GPT、Kimi、Grok 等多个自定义模型，并非某一个模型服务的个例。包括Windows和Mac最新版v5.3.13也有相同问题。\n复现方式比较简单：在 WorkBuddy 中配置一个支持 xhigh、max 的自定义模型，分别选择“高”“超高”“极致”发起对话，再通过本地 mock 服务捕获 WorkBuddy 实际发出的 Chat Completions 请求。捕获结果如下：\n选择“高”  → reasoning_effort: high\n选择“超高” → reasoning_effort: high\n选择“极致” → reasoning_effort: high\n也就是说，界面上的三个不同档位最终被发送成了同一个 high。整个过程没有报错，也没有任何降级提示，用户从界面和对话记录中无法判断自己的选择没有真正生效。\n进一步对照后发现，问题似乎不在第三方接口地址本身，而在自定义模型的能力识别链路。相同的外部测试地址下，使用未收录的自定义模型 ID 时，“极致”会降为 high；换成 WorkBuddy 内置能力目录中的模型 ID 后，xhigh 或 max 则可以得到保留。因此，是否降级主要取决于模型 ID 能否命中客户端内置能力目录，而不是该请求是否发往腾讯内部服务。\n从当前请求处理链路初步定位，可能存在两步有损转换：首先，“极致”对应的 max 在进入底层 SDK 时被转换为 xhigh，导致 max 和 xhigh 过早合并；随后，自定义模型因为没有命中静态能力目录、无法取得 thinkingLevelMap，又被兼容规则从 xhigh 降为 high。最终形成：\nmax  → xhigh → high\nxhigh → high\n自定义模型配置里的 reasoning.supportedEfforts 目前看起来只影响界面展示，没有进入实际请求的能力判定。即使在模型配置中补充 thinkingLevelMap，实际请求仍然会发送 high，因此暂时也没有可用的用户侧配置绕过方式。\n这个问题的主要影响是：界面展示与实际请求不一致。用户以为自己正在使用“超高”或“极致”推理，实际上模型收到的只是 high。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088876760045945173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "界面虽然可以选择“超高”或“极致”思考强度，但实际发给模型服务的请求仍然是 reasoning_effort: high。这个问题目前已在 WorkBuddy Desktop 5.3.11、内置 CLI 2.115.0 上稳定复现，涉及 GPT、Kimi、Grok 等多个自定义模型，并非某一个模型服务的个例。包括Windows和Mac最新版v5.3.13也有相同问题。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "3_2088876366691475456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0t_PhaoAAcQYX.png",
+        "width": 736
+      },
+      {
+        "height": 544,
+        "media_key": "3_2088876685920014336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0uR0vbkAAh2zU.jpg",
+        "width": 1054
+      },
+      {
+        "height": 394,
+        "media_key": "3_2088876702609088512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0uSy6aoAA7dqR.jpg",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2088876760045945173",
+        "created_at": "2026-08-16T09:50:27.000Z",
+        "display_text_range": [
+          0,
+          185
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088926354654052407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088926354654052407",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "界面虽然可以选择“超高”或“极致”思考强度，但实际发给模型服务的请求仍然是 reasoning_effort: high。这个问题目前已在 WorkBuddy Desktop 5.3.11、内置 CLI 2.115.0 上稳定复现，涉及 GPT、Kimi、Grok 等多个自定义模型，并非某一个模型服务的个例。包括Windows和Mac最新版v5.3.13也有相同问题。\n复现方式比较简单：在 WorkBuddy 中配置一个支持 xhigh、max 的自定义模型，分别选择“高”“超高”“极致”发起对话，再通过本地 mock 服务捕获 WorkBuddy 实际发出的 Chat Completions 请求。捕获结果如下：\n选择“高”  → reasoning_effort: high\n选择“超高” → reasoning_effort: high\n选择“极致” → reasoning_effort: high\n也就是说，界面上的三个不同档位最终被发送成了同一个 high。整个过程没有报错，也没有任何降级提示，用户从界面和对话记录中无法判断自己的选择没有真正生效。\n进一步对照后发现，问题似乎不在第三方接口地址本身，而在自定义模型的能力识别链路。相同的外部测试地址下，使用未收录的自定义模型 ID 时，“极致”会降为 high；换成 WorkBuddy 内置能力目录中的模型 ID 后，xhigh 或 max 则可以得到保留。因此，是否降级主要取决于模型 ID 能否命中客户端内置能力目录，而不是该请求是否发往腾讯内部服务。\n从当前请求处理链路初步定位，可能存在两步有损转换：首先，“极致”对应的 max 在进入底层 SDK 时被转换为 xhigh，导致 max 和 xhigh 过早合并；随后，自定义模型因为没有命中静态能力目录、无法取得 thinkingLevelMap，又被兼容规则从 xhigh 降为 high。最终形成：\nmax  → xhigh → high\nxhigh → high\n自定义模型配置里的 reasoning.supportedEfforts 目前看起来只影响界面展示，没有进入实际请求的能力判定。即使在模型配置中补充 thinkingLevelMap，实际请求仍然会发送 high，因此暂时也没有可用的用户侧配置绕过方式。\n这个问题的主要影响是：界面展示与实际请求不一致。用户以为自己正在使用“超高”或“极致”推理，实际上模型收到的只是 high。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088876760045945173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "界面虽然可以选择“超高”或“极致”思考强度，但实际发给模型服务的请求仍然是 reasoning_effort: high。这个问题目前已在 WorkBuddy Desktop 5.3.11、内置 CLI 2.115.0 上稳定复现，涉及 GPT、Kimi、Grok 等多个自定义模型，并非某一个模型服务的个例。包括Windows和Mac最新版v5.3.13也有相同问题。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088876366691475456",
+            "3_2088876685920014336",
+            "3_2088876702609088512"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2088876760045945173",
+        "created_at": "2026-08-16T06:33:23.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088876760045945173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsXCNhSxh1",
+              "end": 162,
+              "expanded_url": "https://x.com/realNyarime/status/2088876760045945173/photo/1",
+              "media_key": "3_2088876366691475456",
+              "start": 139,
+              "url": "https://t.co/hsXCNhSxh1"
+            },
+            {
+              "display_url": "pic.x.com/hsXCNhSxh1",
+              "end": 162,
+              "expanded_url": "https://x.com/realNyarime/status/2088876760045945173/photo/1",
+              "media_key": "3_2088876685920014336",
+              "start": 139,
+              "url": "https://t.co/hsXCNhSxh1"
+            },
+            {
+              "display_url": "pic.x.com/hsXCNhSxh1",
+              "end": 162,
+              "expanded_url": "https://x.com/realNyarime/status/2088876760045945173/photo/1",
+              "media_key": "3_2088876702609088512",
+              "start": 139,
+              "url": "https://t.co/hsXCNhSxh1"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/realNyarime/status/2088349550218252542",
+              "start": 163,
+              "url": "https://t.co/jBuVbqmXyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088876760045945173",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088876366691475456"
+          },
+          {
+            "media_key": "3_2088876685920014336"
+          },
+          {
+            "media_key": "3_2088876702609088512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3099,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088349550218252542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "字节的TraeWork咋一股Claude Code的味，找了下腾讯、阿里的AI IDE对比了下。\n腾讯WorkBuddy使用第三方模型时，默认会回退到High思考强度，哪怕选择了极致和超高\n于是我转到了阿里Qoder，配合夜间折扣用GLM-5.3和Qwen3.7Max都很划算 https://t.co/hsXCNhSxh1 https://t.co/jBuVbqmXyT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2088926354654052407",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44114,
+          "following_count": 662,
+          "like_count": 21429,
+          "listed_count": 192,
+          "media_count": 2601,
+          "tweet_count": 17803
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
