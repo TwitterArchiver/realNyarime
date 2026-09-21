@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096877847554207745",
+        "3_2096878039057739776",
+        "3_2096878087283818496"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2096878194171535404",
+    "created_at": "2026-09-07T08:28:14.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096878194171535404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/An0jF2eR67",
+          "end": 62,
+          "expanded_url": "https://x.com/realNyarime/status/2096878194171535404/photo/1",
+          "media_key": "3_2096877847554207745",
+          "start": 39,
+          "url": "https://t.co/An0jF2eR67"
+        },
+        {
+          "display_url": "pic.x.com/An0jF2eR67",
+          "end": 62,
+          "expanded_url": "https://x.com/realNyarime/status/2096878194171535404/photo/1",
+          "media_key": "3_2096878039057739776",
+          "start": 39,
+          "url": "https://t.co/An0jF2eR67"
+        },
+        {
+          "display_url": "pic.x.com/An0jF2eR67",
+          "end": 62,
+          "expanded_url": "https://x.com/realNyarime/status/2096878194171535404/photo/1",
+          "media_key": "3_2096878087283818496",
+          "start": 39,
+          "url": "https://t.co/An0jF2eR67"
+        },
+        {
+          "display_url": "x.com/captain_kent/s…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/captain_kent/status/2096873024159170629",
+          "start": 63,
+          "url": "https://t.co/nr2Ix6bQVi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096878194171535404",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096877847554207745"
+      },
+      {
+        "media_key": "3_2096878039057739776"
+      },
+      {
+        "media_key": "3_2096878087283818496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096873024159170629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是很懂华为的定位，做的都是工艺品，不过这个小艺问财skill是用来炒股的吗 https://t.co/An0jF2eR67 https://t.co/nr2Ix6bQVi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 325,
+        "media_key": "3_2096877847554207745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmbSujasAEO-iR.jpg",
+        "width": 994
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2096878039057739776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmbd39asAAhK_c.jpg",
+        "width": 1728
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2096878087283818496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmbgrnaQAAlEjv.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1035,
+        "media_key": "3_2096871357531430912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmVY9VaIAA3ntt.jpg",
+        "width": 1387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096877847554207745",
+            "3_2096878039057739776",
+            "3_2096878087283818496"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2096878194171535404",
+        "created_at": "2026-09-07T08:28:14.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096878194171535404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/An0jF2eR67",
+              "end": 62,
+              "expanded_url": "https://x.com/realNyarime/status/2096878194171535404/photo/1",
+              "media_key": "3_2096877847554207745",
+              "start": 39,
+              "url": "https://t.co/An0jF2eR67"
+            },
+            {
+              "display_url": "pic.x.com/An0jF2eR67",
+              "end": 62,
+              "expanded_url": "https://x.com/realNyarime/status/2096878194171535404/photo/1",
+              "media_key": "3_2096878039057739776",
+              "start": 39,
+              "url": "https://t.co/An0jF2eR67"
+            },
+            {
+              "display_url": "pic.x.com/An0jF2eR67",
+              "end": 62,
+              "expanded_url": "https://x.com/realNyarime/status/2096878194171535404/photo/1",
+              "media_key": "3_2096878087283818496",
+              "start": 39,
+              "url": "https://t.co/An0jF2eR67"
+            },
+            {
+              "display_url": "x.com/captain_kent/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/captain_kent/status/2096873024159170629",
+              "start": 63,
+              "url": "https://t.co/nr2Ix6bQVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096878194171535404",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096877847554207745"
+          },
+          {
+            "media_key": "3_2096878039057739776"
+          },
+          {
+            "media_key": "3_2096878087283818496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096873024159170629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是很懂华为的定位，做的都是工艺品，不过这个小艺问财skill是用来炒股的吗 https://t.co/An0jF2eR67 https://t.co/nr2Ix6bQVi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096871357531430912"
+          ]
+        },
+        "author_id": "1720296579406667776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2096873024159170629",
+        "created_at": "2026-09-07T08:07:41.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096873024159170629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAsG9mXMIF",
+              "end": 117,
+              "expanded_url": "https://x.com/captain_kent/status/2096873024159170629/photo/1",
+              "media_key": "3_2096871357531430912",
+              "start": 94,
+              "url": "https://t.co/qAsG9mXMIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096873024159170629",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096871357531430912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 501,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "华为新机XT2发布会竟请来了刘德华，现在还在直播中。\n\n我看了半天，华仔一直在回首人生，说自己65岁了，一直保持好的状态，还一直哼哼唱唱，就像歌迷见面会...\n\n华为到底给了他多少钱？😆 https://t.co/qAsG9mXMIF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2096878194171535404",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45659,
+          "following_count": 662,
+          "like_count": 22211,
+          "listed_count": 197,
+          "media_count": 2745,
+          "tweet_count": 18428
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2023-11-03T04:27:30.000Z",
+        "description": "⚓️ 体制裸辞放飞，他们叫我船长！\n👁‍🗨 Web3・AI・财经・法政・情感\n💼 Binance周边大使 | Solar正式成员 | Arbitrum华语大使 | Jupiter华语大使 …",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/greatkent",
+                "end": 23,
+                "expanded_url": "http://t.me/greatkent",
+                "start": 0,
+                "url": "https://t.co/Ipv9a2C25C"
+              }
+            ]
+          }
+        },
+        "id": "1720296579406667776",
+        "is_identity_verified": false,
+        "location": "📨 TG：",
+        "most_recent_tweet_id": "2096878128484552986",
+        "name": "Captain Kent | 肯特船长🪶",
+        "pinned_tweet_id": "2069777818142310412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720296579406667776/1779164496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056229899476815872/P6cfqeym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36552,
+          "following_count": 4714,
+          "like_count": 96401,
+          "listed_count": 207,
+          "media_count": 1989,
+          "tweet_count": 85227
+        },
+        "url": "https://t.co/Ipv9a2C25C",
+        "username": "captain_kent",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

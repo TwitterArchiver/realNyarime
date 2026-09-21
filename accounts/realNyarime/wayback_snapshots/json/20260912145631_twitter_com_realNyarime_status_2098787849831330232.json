@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2098760099535954016",
+    "created_at": "2026-09-12T14:56:31.000Z",
+    "display_text_range": [
+      9,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098787849831330232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1486017329662423044",
+          "start": 0,
+          "username": "mylifcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098787849831330232",
+    "in_reply_to_user_id": "1486017329662423044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098760099535954016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylifcc Rust重构没有那么快，他只是一些容易内存泄露的东西，会考虑优先适配。而且计算机内核的底层就是C，目前我只知道只有网卡驱动这些东西用了Rust"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2098760099535954016",
+        "created_at": "2026-09-12T14:56:31.000Z",
+        "display_text_range": [
+          9,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098787849831330232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1486017329662423044",
+              "start": 0,
+              "username": "mylifcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098787849831330232",
+        "in_reply_to_user_id": "1486017329662423044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098760099535954016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylifcc Rust重构没有那么快，他只是一些容易内存泄露的东西，会考虑优先适配。而且计算机内核的底层就是C，目前我只知道只有网卡驱动这些东西用了Rust"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486017329662423044",
+        "conversation_id": "2098760099535954016",
+        "created_at": "2026-09-12T13:06:15.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098760099535954016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098760099535954016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 626,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然感觉全世界都在被Rust重构"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2098787849831330232",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46308,
+          "following_count": 658,
+          "like_count": 22380,
+          "listed_count": 198,
+          "media_count": 2805,
+          "tweet_count": 18609
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-25T16:45:32.000Z",
+        "description": "每天用 AI 写代码的工程师\nClaude Code ｜ Codex深度用户  ｜Agentic engineering\n在这里分享 AI 工具实测和开发者工作流，持续构建中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/majiayu000",
+                "end": 23,
+                "expanded_url": "https://github.com/majiayu000",
+                "start": 0,
+                "url": "https://t.co/ufi5xk9Iy2"
+              }
+            ]
+          }
+        },
+        "id": "1486017329662423044",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098779763536171295",
+        "name": "lifcc",
+        "pinned_tweet_id": "2053385535658533072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486017329662423044/1778929715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8534,
+          "following_count": 280,
+          "like_count": 6218,
+          "listed_count": 68,
+          "media_count": 1214,
+          "tweet_count": 14155
+        },
+        "url": "https://t.co/ufi5xk9Iy2",
+        "username": "mylifcc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

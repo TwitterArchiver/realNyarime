@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2098164547022721057",
+    "created_at": "2026-09-11T01:28:09.000Z",
+    "display_text_range": [
+      15,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098222028084146686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1477161691980967937",
+          "start": 0,
+          "username": "sigmaamphibia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098222028084146686",
+    "in_reply_to_user_id": "1477161691980967937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098182793259823560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sigmaamphibia 没法起诉，最后关闭账户就永远不开HSBC CN，留一个HK复活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2098164547022721057",
+        "created_at": "2026-09-11T01:28:09.000Z",
+        "display_text_range": [
+          15,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098222028084146686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1477161691980967937",
+              "start": 0,
+              "username": "sigmaamphibia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098222028084146686",
+        "in_reply_to_user_id": "1477161691980967937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098182793259823560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sigmaamphibia 没法起诉，最后关闭账户就永远不开HSBC CN，留一个HK复活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477161691980967937",
+        "conversation_id": "2098164547022721057",
+        "created_at": "2026-09-10T22:52:14.000Z",
+        "display_text_range": [
+          13,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T23:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098182793259823560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098182793259823560",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 557,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098164547022721057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 你要不去起诉看看，中国的金融机构按道理是没有理由拒绝服务的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2098222028084146686",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46198,
+          "following_count": 661,
+          "like_count": 22316,
+          "listed_count": 198,
+          "media_count": 2784,
+          "tweet_count": 18535
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-01T06:21:28.000Z",
+        "description": "Infra guy. I tweet in EN & CN. Opinions are my own. cooking https://t.co/TFIY4MFyvB as side project",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "getcodesk.com",
+                "end": 83,
+                "expanded_url": "http://getcodesk.com",
+                "start": 60,
+                "url": "https://t.co/TFIY4MFyvB"
+              }
+            ]
+          }
+        },
+        "id": "1477161691980967937",
+        "is_identity_verified": false,
+        "location": "Toronto ON",
+        "most_recent_tweet_id": "2098221247075152118",
+        "name": "AlphaToad",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1477161691980967937/1647545144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504538900316008448/ccZiXsRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 449,
+          "like_count": 2596,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 11260
+        },
+        "url": "",
+        "username": "sigmaamphibia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

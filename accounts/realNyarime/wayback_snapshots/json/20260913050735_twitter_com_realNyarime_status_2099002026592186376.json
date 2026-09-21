@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2099002026592186376",
+    "created_at": "2026-09-13T05:07:35.000Z",
+    "display_text_range": [
+      0,
+      157
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T06:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099002026592186376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2098222495119876428",
+          "start": 158,
+          "url": "https://t.co/zOYpRZtQJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099002026592186376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "大部分国内高校用的是深信服和锐捷方案，以及DrCom做代拨认证，每个学期开学前学校就会把学生学号信息丢给校内营业厅，运营商在校园宽带办理后会将PPPoE认证信息与学号绑定\n\n上网方式有客户端和web认证上网。客户端会阻止学生开热点，像深信服EasyConnect、aTrust装CA根证书，一般抓包即可得到鉴权方式\nweb认证就像连公共WiFi一样，浏览器会弹出captive portal，会记录https sni（看得到域名）还有流量特征？不过这个我倒是不信，因为高校和警务室串通好栽赃你一波\n\n最后是解决方法。搞双不限流量卡+CPE在学校用，不用校园网基础设施，上教务处抢课等在虚拟机里面开个Windows连SSL VPN。如果你觉得校园网稳定，可以把翻墙流量打到国内的家里或腾讯阿里轻量200M，在上面把流量转发到境外落地。大学生连使用网易UU加速器都能叫翻墙，那为啥不把这些公司都废了，反而欺负弱小的大学生呢？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098222495119876428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大部分国内高校用的是深信服和锐捷方案，以及DrCom做代拨认证，每个学期开学前学校就会把学生学号信息丢给校内营业厅，运营商在校园宽带办理后会将PPPoE认证信息与学号绑定\n\n上网方式有客户端和web认证上网。客户端会阻止学生开热点，像深信服EasyConnect、aTrust装CA根证书，一般抓包即可得到鉴权方式 https://t.co/zOYpRZtQJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2098016834586914829",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2nMf5XsA0_hLj.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2098016834754916352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2nMghbMAAe9Ve.jpg",
+        "width": 790
+      },
+      {
+        "height": 695,
+        "media_key": "3_2098016834620444678",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2nMgBXUAYxUmq.jpg",
+        "width": 1124
+      },
+      {
+        "height": 688,
+        "media_key": "3_2098016834653974528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2nMgJW8AAAW0Y.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2099002026592186376",
+        "created_at": "2026-09-13T05:07:35.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099002026592186376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2098222495119876428",
+              "start": 158,
+              "url": "https://t.co/zOYpRZtQJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099002026592186376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大部分国内高校用的是深信服和锐捷方案，以及DrCom做代拨认证，每个学期开学前学校就会把学生学号信息丢给校内营业厅，运营商在校园宽带办理后会将PPPoE认证信息与学号绑定\n\n上网方式有客户端和web认证上网。客户端会阻止学生开热点，像深信服EasyConnect、aTrust装CA根证书，一般抓包即可得到鉴权方式\nweb认证就像连公共WiFi一样，浏览器会弹出captive portal，会记录https sni（看得到域名）还有流量特征？不过这个我倒是不信，因为高校和警务室串通好栽赃你一波\n\n最后是解决方法。搞双不限流量卡+CPE在学校用，不用校园网基础设施，上教务处抢课等在虚拟机里面开个Windows连SSL VPN。如果你觉得校园网稳定，可以把翻墙流量打到国内的家里或腾讯阿里轻量200M，在上面把流量转发到境外落地。大学生连使用网易UU加速器都能叫翻墙，那为啥不把这些公司都废了，反而欺负弱小的大学生呢？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098222495119876428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大部分国内高校用的是深信服和锐捷方案，以及DrCom做代拨认证，每个学期开学前学校就会把学生学号信息丢给校内营业厅，运营商在校园宽带办理后会将PPPoE认证信息与学号绑定\n\n上网方式有客户端和web认证上网。客户端会阻止学生开热点，像深信服EasyConnect、aTrust装CA根证书，一般抓包即可得到鉴权方式 https://t.co/zOYpRZtQJm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098016834586914829",
+            "3_2098016834754916352",
+            "3_2098016834620444678",
+            "3_2098016834653974528"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2098222495119876428",
+        "created_at": "2026-09-11T01:30:00.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098222495119876428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFI4lgAm62",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098222495119876428/photo/1",
+              "media_key": "3_2098016834586914829",
+              "start": 95,
+              "url": "https://t.co/OFI4lgAm62"
+            },
+            {
+              "display_url": "pic.x.com/OFI4lgAm62",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098222495119876428/photo/1",
+              "media_key": "3_2098016834754916352",
+              "start": 95,
+              "url": "https://t.co/OFI4lgAm62"
+            },
+            {
+              "display_url": "pic.x.com/OFI4lgAm62",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098222495119876428/photo/1",
+              "media_key": "3_2098016834620444678",
+              "start": 95,
+              "url": "https://t.co/OFI4lgAm62"
+            },
+            {
+              "display_url": "pic.x.com/OFI4lgAm62",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098222495119876428/photo/1",
+              "media_key": "3_2098016834653974528",
+              "start": 95,
+              "url": "https://t.co/OFI4lgAm62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098222495119876428",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098016834586914829"
+          },
+          {
+            "media_key": "3_2098016834754916352"
+          },
+          {
+            "media_key": "3_2098016834620444678"
+          },
+          {
+            "media_key": "3_2098016834653974528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 471,
+          "impression_count": 838623,
+          "like_count": 1791,
+          "quote_count": 14,
+          "reply_count": 615,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "高校校园也能监控“翻墙”\n\n9月10日，甘肃一名网友曝光某高校监控学生“翻墙”行为：该校“网安信息化办公室”甚至将使用校园网“翻墙”的同学名单列出，还将登录外网社交媒体的时长精确监控到秒。 https://t.co/OFI4lgAm62"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2099002026592186376",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46343,
+          "following_count": 657,
+          "like_count": 22389,
+          "listed_count": 198,
+          "media_count": 2806,
+          "tweet_count": 18615
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2099000120243097680",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265009,
+          "following_count": 1084,
+          "like_count": 10490,
+          "listed_count": 8906,
+          "media_count": 53659,
+          "tweet_count": 60994
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

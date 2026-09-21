@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093586229908680704"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2093583088286892499",
+    "created_at": "2026-08-29T06:27:10.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T07:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093586235956871309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363755659477491714",
+          "start": 0,
+          "username": "RxNANOSU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LNib1i3Sky",
+          "end": 46,
+          "expanded_url": "https://x.com/realNyarime/status/2093586235956871309/photo/1",
+          "media_key": "3_2093586229908680704",
+          "start": 23,
+          "url": "https://t.co/LNib1i3Sky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093586235956871309",
+    "in_reply_to_user_id": "1363755659477491714",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093586229908680704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093585355417268323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RxNANOSU 我吃KFC需要花钱？？？ https://t.co/LNib1i3Sky"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_2093586229908680704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3plXRbMAAm2Io.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093586229908680704"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2093583088286892499",
+        "created_at": "2026-08-29T06:27:10.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093586235956871309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363755659477491714",
+              "start": 0,
+              "username": "RxNANOSU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNib1i3Sky",
+              "end": 46,
+              "expanded_url": "https://x.com/realNyarime/status/2093586235956871309/photo/1",
+              "media_key": "3_2093586229908680704",
+              "start": 23,
+              "url": "https://t.co/LNib1i3Sky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093586235956871309",
+        "in_reply_to_user_id": "1363755659477491714",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093586229908680704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093585355417268323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RxNANOSU 我吃KFC需要花钱？？？ https://t.co/LNib1i3Sky"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363755659477491714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2093583088286892499",
+        "created_at": "2026-08-29T06:23:40.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093585355417268323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093585355417268323",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093583088286892499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 运气不错，分我点，我要吃KFC😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2093586235956871309",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44689,
+          "following_count": 658,
+          "like_count": 21944,
+          "listed_count": 194,
+          "media_count": 2680,
+          "tweet_count": 18200
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-22T07:41:16.000Z",
+        "description": "東/NANOSU，重度叹咖啡爱好者（谨防速子加入红茶）\n喜好：茶座☕️&速子🧪（欢喜冤家）/旅游/Kigurumi/音乐/炸猪排/🎴/🀄️\nDEBUFF：Rx&BZDs/重度睡眠焦虑\n出没：YIC/SZX/CSX/PVG/CAN/HKG/CJU\n欢迎同好扩列，或者咖啡痴找我聊天，面基随缘抓到请我吃饭谢谢（笑）",
+        "id": "1363755659477491714",
+        "is_identity_verified": true,
+        "location": "27时世界",
+        "most_recent_tweet_id": "2093585355417268323",
+        "name": "NANOSU",
+        "pinned_tweet_id": "2078058973979345402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363755659477491714/1768775173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363756616772845572/wb6SVkG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 2780,
+          "like_count": 20133,
+          "listed_count": 7,
+          "media_count": 721,
+          "tweet_count": 4567
+        },
+        "url": "",
+        "username": "RxNANOSU",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

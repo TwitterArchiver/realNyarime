@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096275178649251840",
+        "3_2096275187763429377"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2096275195099304346",
+    "created_at": "2026-09-05T16:32:08.000Z",
+    "display_text_range": [
+      0,
+      164
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096275195099304346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c1TCt01MrE",
+          "end": 188,
+          "expanded_url": "https://x.com/realNyarime/status/2096275195099304346/photo/1",
+          "media_key": "3_2096275178649251840",
+          "start": 165,
+          "url": "https://t.co/c1TCt01MrE"
+        },
+        {
+          "display_url": "pic.x.com/c1TCt01MrE",
+          "end": 188,
+          "expanded_url": "https://x.com/realNyarime/status/2096275195099304346/photo/1",
+          "media_key": "3_2096275187763429377",
+          "start": 165,
+          "url": "https://t.co/c1TCt01MrE"
+        },
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 212,
+          "expanded_url": "https://twitter.com/realNyarime/status/2096268370102698230",
+          "start": 189,
+          "url": "https://t.co/lsIDBlXPkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096275195099304346",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096275178649251840"
+      },
+      {
+        "media_key": "3_2096275187763429377"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "大家买硬路由器主要是担心软路由小包转发很差，因此常见的有高通IPQ的QSDK以及联发科MT的hw_nat闭源驱动提供的硬件加速能解决这类问题\n\n之前提到的两款爱快Q系虽是512MB不过他家iKuaiOS主打流控就没有硬加速，想用就得刷个OpenWrt了。不过选x86或RK就只能靠CPU纯转了，在闲鱼倒是有不少四口2.5G小主机\n\n我自己用的是N5105刷了爱快，这套成品基本在600以内就能刷到，并且是4个2.5G口能满足日常规划。因为是x86小主机，也不用考虑是否支持硬件加速，在思考如果能调度Jellyfin就更好了，平时就挂个科学和AdGuardHome满足日常需求"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096268370102698230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家买硬路由器主要是担心软路由小包转发很差，因此常见的有高通IPQ的QSDK以及联发科MT的hw_nat闭源驱动提供的硬件加速能解决这类问题\n\n之前提到的两款爱快Q系虽是512MB不过他家iKuaiOS主打流控就没有硬加速，想用就得刷个OpenWrt了。不过选x86或RK就只能靠CPU纯转了，在闲鱼倒是有不少四口2.5G小主机 https://t.co/c1TCt01MrE https://t.co/lsIDBlXPkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2096275178649251840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd3Kx7bcAAJgV3.jpg",
+        "width": 2778
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2096275187763429377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd3LT4awAEsDPw.jpg",
+        "width": 1962
+      },
+      {
+        "height": 3872,
+        "media_key": "3_2096268343682666496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdw87saEAAR_lh.jpg",
+        "width": 3512
+      },
+      {
+        "height": 1993,
+        "media_key": "3_2096268356605345792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdw9r1agAAWaEE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1108,
+        "media_key": "3_2096268364117360640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdw-H0awAAubdB.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096275178649251840",
+            "3_2096275187763429377"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2096275195099304346",
+        "created_at": "2026-09-05T16:32:08.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096275195099304346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1TCt01MrE",
+              "end": 188,
+              "expanded_url": "https://x.com/realNyarime/status/2096275195099304346/photo/1",
+              "media_key": "3_2096275178649251840",
+              "start": 165,
+              "url": "https://t.co/c1TCt01MrE"
+            },
+            {
+              "display_url": "pic.x.com/c1TCt01MrE",
+              "end": 188,
+              "expanded_url": "https://x.com/realNyarime/status/2096275195099304346/photo/1",
+              "media_key": "3_2096275187763429377",
+              "start": 165,
+              "url": "https://t.co/c1TCt01MrE"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 212,
+              "expanded_url": "https://twitter.com/realNyarime/status/2096268370102698230",
+              "start": 189,
+              "url": "https://t.co/lsIDBlXPkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096275195099304346",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096275178649251840"
+          },
+          {
+            "media_key": "3_2096275187763429377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "大家买硬路由器主要是担心软路由小包转发很差，因此常见的有高通IPQ的QSDK以及联发科MT的hw_nat闭源驱动提供的硬件加速能解决这类问题\n\n之前提到的两款爱快Q系虽是512MB不过他家iKuaiOS主打流控就没有硬加速，想用就得刷个OpenWrt了。不过选x86或RK就只能靠CPU纯转了，在闲鱼倒是有不少四口2.5G小主机\n\n我自己用的是N5105刷了爱快，这套成品基本在600以内就能刷到，并且是4个2.5G口能满足日常规划。因为是x86小主机，也不用考虑是否支持硬件加速，在思考如果能调度Jellyfin就更好了，平时就挂个科学和AdGuardHome满足日常需求"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096268370102698230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家买硬路由器主要是担心软路由小包转发很差，因此常见的有高通IPQ的QSDK以及联发科MT的hw_nat闭源驱动提供的硬件加速能解决这类问题\n\n之前提到的两款爱快Q系虽是512MB不过他家iKuaiOS主打流控就没有硬加速，想用就得刷个OpenWrt了。不过选x86或RK就只能靠CPU纯转了，在闲鱼倒是有不少四口2.5G小主机 https://t.co/c1TCt01MrE https://t.co/lsIDBlXPkE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096268343682666496",
+            "3_2096268356605345792",
+            "3_2096268364117360640"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2096268370102698230",
+        "created_at": "2026-09-05T16:05:00.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096268370102698230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TeH333h5a",
+              "end": 200,
+              "expanded_url": "https://x.com/realNyarime/status/2096268370102698230/photo/1",
+              "media_key": "3_2096268343682666496",
+              "start": 177,
+              "url": "https://t.co/2TeH333h5a"
+            },
+            {
+              "display_url": "pic.x.com/2TeH333h5a",
+              "end": 200,
+              "expanded_url": "https://x.com/realNyarime/status/2096268370102698230/photo/1",
+              "media_key": "3_2096268356605345792",
+              "start": 177,
+              "url": "https://t.co/2TeH333h5a"
+            },
+            {
+              "display_url": "pic.x.com/2TeH333h5a",
+              "end": 200,
+              "expanded_url": "https://x.com/realNyarime/status/2096268370102698230/photo/1",
+              "media_key": "3_2096268364117360640",
+              "start": 177,
+              "url": "https://t.co/2TeH333h5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096268370102698230",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096268343682666496"
+          },
+          {
+            "media_key": "3_2096268356605345792"
+          },
+          {
+            "media_key": "3_2096268364117360640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "对比了下市面上的联发科方案，清一色的MT7921B，搭配的有256MB和512MB两种规格，更搞笑的是256M也叫（超大内存）这连个插件都跑不动\n\n据小道消息，不少路由器厂家已经开始从256M继续砍到128M，不过我看了下iKuai（爱快）的Q3000（MT7981）和Q6000（MT7987）还在189/379的价位，参考恩山刷OpenWrt是值的\n\n不过未来估计还有很多翻新sku在路由市场，尤其是256MB的新产品会越来越多，等于把库存重新再翻一遍。对于我来说，还不如直接整个4口x86迷你主机刷爱快、iStoreOS或RouterOS方便，闲鱼上j4125、n5105非准系统600-800就能捡了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1666,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对比了下市面上的联发科方案，清一色的MT7921B，搭配的有256MB和512MB两种规格，更搞笑的是256M也叫（超大内存）这连个插件都跑不动\n\n据小道消息，不少路由器厂家已经开始从256M继续砍到128M，不过我看了下iKuai（爱快）的Q3000（MT7981）和Q6000（MT7987）还在189/379的价位，参考恩山刷OpenWrt是值的 https://t.co/2TeH333h5a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2096275195099304346",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45295,
+          "following_count": 662,
+          "like_count": 22153,
+          "listed_count": 196,
+          "media_count": 2731,
+          "tweet_count": 18367
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

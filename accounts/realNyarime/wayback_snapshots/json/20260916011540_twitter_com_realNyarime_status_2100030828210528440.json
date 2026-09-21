@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2099842648559497237",
+    "created_at": "2026-09-16T01:15:40.000Z",
+    "display_text_range": [
+      12,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100030828210528440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1167834723327959040",
+          "start": 0,
+          "username": "Lee_points"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100030828210528440",
+    "in_reply_to_user_id": "1167834723327959040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099842648559497237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee_points 你可以截图文字成图片发，推特不会OCR。不要在文本写，不然就是12小时封禁，因为我曾经也是这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099842639315255296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQjwUiawAAJQ89.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099842639264985089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQjwUWbsAE8oVE.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2099842648559497237",
+        "created_at": "2026-09-16T01:15:40.000Z",
+        "display_text_range": [
+          12,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100030828210528440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1167834723327959040",
+              "start": 0,
+              "username": "Lee_points"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100030828210528440",
+        "in_reply_to_user_id": "1167834723327959040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099842648559497237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee_points 你可以截图文字成图片发，推特不会OCR。不要在文本写，不然就是12小时封禁，因为我曾经也是这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099842639315255296",
+            "3_2099842639264985089"
+          ]
+        },
+        "author_id": "1167834723327959040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2099842648559497237",
+        "created_at": "2026-09-15T12:47:55.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099842648559497237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GD6I9u7CW",
+              "end": 151,
+              "expanded_url": "https://x.com/Lee_points/status/2099842648559497237/photo/1",
+              "media_key": "3_2099842639315255296",
+              "start": 128,
+              "url": "https://t.co/3GD6I9u7CW"
+            },
+            {
+              "display_url": "pic.x.com/3GD6I9u7CW",
+              "end": 151,
+              "expanded_url": "https://x.com/Lee_points/status/2099842648559497237/photo/1",
+              "media_key": "3_2099842639264985089",
+              "start": 128,
+              "url": "https://t.co/3GD6I9u7CW"
+            },
+            {
+              "display_url": "x.com/lee_points/sta…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/lee_points/status/2097924988431208726",
+              "start": 152,
+              "url": "https://t.co/XKxMyAIKgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099842648559497237",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099842639315255296"
+          },
+          {
+            "media_key": "3_2099842639264985089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 23252,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097924988431208726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看你们又在聊定位，不管是wloc还是roam，最优选其实还是尾插，6月份我写过一篇关于尾插的推文，但被人举报了，导致我的账号在7月被封了3天。\n\n虽然账号解封了，但那篇几十万流量的帖子还是被删了。\n\n关于怎么使用尾插，你们去搜搜别人的推文吧，我爱莫能助。 https://t.co/3GD6I9u7CW https://t.co/XKxMyAIKgO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2100030828210528440",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46700,
+          "following_count": 662,
+          "like_count": 22480,
+          "listed_count": 202,
+          "media_count": 2828,
+          "tweet_count": 18697
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-31T16:21:21.000Z",
+        "description": "优秀互联网冲浪选手｜Web3炼金小将｜AI🤖炼丹师｜Esim和银行卡重点培养选手",
+        "id": "1167834723327959040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099887349564150175",
+        "name": "星球🪐🪐☄️☄️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981597194319720448/AM1z7ZU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4266,
+          "following_count": 611,
+          "like_count": 3841,
+          "listed_count": 22,
+          "media_count": 553,
+          "tweet_count": 6117
+        },
+        "url": "",
+        "username": "Lee_points",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

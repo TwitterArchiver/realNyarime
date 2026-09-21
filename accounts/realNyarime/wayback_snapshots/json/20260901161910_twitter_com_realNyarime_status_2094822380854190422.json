@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2094493440377790753",
+    "created_at": "2026-09-01T16:19:10.000Z",
+    "display_text_range": [
+      14,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T17:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094822380854190422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1163102112185749504",
+          "start": 0,
+          "username": "HotoCocoaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094822380854190422",
+    "in_reply_to_user_id": "1163102112185749504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094493440377790753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HotoCocoaOvO 其实就是Hyper-V做的，有一说一wsl2的Ubuntu是真好用，就是rm -rf时会给Windows也删了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_2094493146831060992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREia4FbAAAKJvl.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2094493293237424128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREijZfa0AAvtGS.png",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2094493440377790753",
+        "created_at": "2026-09-01T16:19:10.000Z",
+        "display_text_range": [
+          14,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094822380854190422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1163102112185749504",
+              "start": 0,
+              "username": "HotoCocoaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094822380854190422",
+        "in_reply_to_user_id": "1163102112185749504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094493440377790753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HotoCocoaOvO 其实就是Hyper-V做的，有一说一wsl2的Ubuntu是真好用，就是rm -rf时会给Windows也删了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094493146831060992",
+            "3_2094493293237424128"
+          ]
+        },
+        "author_id": "1163102112185749504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042866033",
+              "name": "VMware"
+            }
+          }
+        ],
+        "conversation_id": "2094493440377790753",
+        "created_at": "2026-08-31T18:32:04.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094493440377790753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZCZdjDYM7",
+              "end": 75,
+              "expanded_url": "https://x.com/HotoCocoaOvO/status/2094493440377790753/photo/1",
+              "media_key": "3_2094493146831060992",
+              "start": 52,
+              "url": "https://t.co/EZCZdjDYM7"
+            },
+            {
+              "display_url": "pic.x.com/EZCZdjDYM7",
+              "end": 75,
+              "expanded_url": "https://x.com/HotoCocoaOvO/status/2094493440377790753/photo/1",
+              "media_key": "3_2094493293237424128",
+              "start": 52,
+              "url": "https://t.co/EZCZdjDYM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094493440377790753",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094493146831060992"
+          },
+          {
+            "media_key": "3_2094493293237424128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2765,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以为WSL还是什么落后玩意，没想到还是给了不小的惊喜，不过还是继续测试，看看能不能把VMWare给甩了 https://t.co/EZCZdjDYM7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2094822380854190422",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44830,
+          "following_count": 657,
+          "like_count": 22032,
+          "listed_count": 195,
+          "media_count": 2694,
+          "tweet_count": 18264
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-18T14:55:39.000Z",
+        "description": "💻全栈/网络工程师 | 🎶音游 | 厨 #wataten/#gochiusa | 🚫键/R18\nZH/EN\n\n❤️小可爱 @KawaiiSmolChino @Hoshikan_Uru",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 20,
+                "tag": "wataten"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "tag": "gochiusa"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "KawaiiSmolChino"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Hoshikan_Uru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "250king.top",
+                "end": 23,
+                "expanded_url": "https://250king.top",
+                "start": 0,
+                "url": "https://t.co/0FJKBy1cH9"
+              }
+            ]
+          }
+        },
+        "id": "1163102112185749504",
+        "is_identity_verified": true,
+        "location": "BrightBunny ACG Studio",
+        "most_recent_tweet_id": "2094774037163790505",
+        "name": "耀",
+        "pinned_tweet_id": "2085413929287897422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163102112185749504/1766389968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986041123786436608/keAX0hWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 302,
+          "like_count": 9954,
+          "listed_count": 4,
+          "media_count": 1398,
+          "tweet_count": 13114
+        },
+        "url": "https://t.co/0FJKBy1cH9",
+        "username": "HotoCocoaOvO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

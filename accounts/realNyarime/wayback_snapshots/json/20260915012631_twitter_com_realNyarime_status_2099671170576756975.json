@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2099657448869318679",
+    "created_at": "2026-09-15T01:26:31.000Z",
+    "display_text_range": [
+      13,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T02:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099671170576756975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099671170576756975",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099657448869318679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 微软应该定纯黑鼠标，特别是Word、很多网页的编辑器不开深色模式，看不到鼠标指针在哪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2099509989174026240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSL1NiMaIAAXUqm.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1159,
+        "media_key": "3_2099509989190856704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSL1NiQa8AA1Kqa.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2099657448869318679",
+        "created_at": "2026-09-15T01:26:31.000Z",
+        "display_text_range": [
+          13,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099671170576756975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099671170576756975",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099657448869318679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 微软应该定纯黑鼠标，特别是Word、很多网页的编辑器不开深色模式，看不到鼠标指针在哪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099509989174026240",
+            "3_2099509989190856704"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2099657448869318679",
+        "created_at": "2026-09-15T00:32:00.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099657448869318679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "#系统资讯 微软似乎在为 Windows 11 设计新的鼠标指针样式，采用现代化几何设计，不再留着长长的尾巴。这个样式与微软在 Mi…",
+              "display_url": "ourl.co/126857?x",
+              "end": 152,
+              "expanded_url": "https://ourl.co/126857?x",
+              "start": 129,
+              "status": 200,
+              "title": "微软似乎在为Windows 11设计新的默认鼠标指针 替换沿用多年的默认样式 - 蓝点网",
+              "unwound_url": "https://www.landian.news/archives/126857.html?utm_source=x.com&utm_medium=social&utm_campaign=share&utm_content=landiantech&utm_term=%E5%BE%AE%E8%BD%AF%E4%BC%BC%E4%B9%8E%E5%9C%A8%E4%B8%BAWindows+11%E8%AE%BE%E8%AE%A1%E6%96%B0%E7%9A%84%E9%BB%98%E8%AE%A4%E9%BC%A0%E6%A0%87%E6%8C%87%E9%92%88+%E6%9B%BF%E6%8D%A2%E6%B2%BF%E7%94%A8%E5%A4%9A%E5%B9%B4%E7%9A%84%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F",
+              "url": "https://t.co/5vdevMXR5g"
+            },
+            {
+              "display_url": "pic.x.com/BwqGhfLegG",
+              "end": 176,
+              "expanded_url": "https://x.com/landiantech/status/2099657448869318679/photo/1",
+              "media_key": "3_2099509989174026240",
+              "start": 153,
+              "url": "https://t.co/BwqGhfLegG"
+            },
+            {
+              "display_url": "pic.x.com/BwqGhfLegG",
+              "end": 176,
+              "expanded_url": "https://x.com/landiantech/status/2099657448869318679/photo/1",
+              "media_key": "3_2099509989190856704",
+              "start": 153,
+              "url": "https://t.co/BwqGhfLegG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099657448869318679",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099509989174026240"
+          },
+          {
+            "media_key": "3_2099509989190856704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 674,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微软似乎在为 Windows 11 设计新的鼠标指针样式，采用现代化几何设计，不再留着长长的尾巴。\n\n这个样式与微软在 Microsoft Fluent UI 仓库中提到的光标样式非常类似，待微软测试完毕后有可能后续版本就会默认采用这个新样式。\n\n查看全文：https://t.co/5vdevMXR5g https://t.co/BwqGhfLegG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2099671170576756975",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46554,
+          "following_count": 660,
+          "like_count": 22467,
+          "listed_count": 200,
+          "media_count": 2823,
+          "tweet_count": 18681
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "is_identity_verified": false,
+        "location": "土卫六",
+        "most_recent_tweet_id": "2099668773611418110",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2095707381397434728",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37666,
+          "following_count": 811,
+          "like_count": 6484,
+          "listed_count": 283,
+          "media_count": 6651,
+          "tweet_count": 17967
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

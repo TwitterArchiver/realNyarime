@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098661014439157761"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325474",
+          "name": "American Express "
+        }
+      }
+    ],
+    "conversation_id": "2098661056575082574",
+    "created_at": "2026-09-12T06:32:41.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098661056575082574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3ZNYF2qit",
+          "end": 78,
+          "expanded_url": "https://x.com/realNyarime/status/2098661056575082574/photo/1",
+          "media_key": "3_2098661014439157761",
+          "start": 55,
+          "url": "https://t.co/d3ZNYF2qit"
+        },
+        {
+          "display_url": "x.com/xingjia520/sta…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/xingjia520/status/2098657679636135974",
+          "start": 79,
+          "url": "https://t.co/bCLR6ytzAc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098661056575082574",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098661014439157761"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098657679636135974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "北京国贸专属的香格里拉和黑白菜，1万或15笔免次年，不过高新企业可以先下奋斗专再挂3135长隆、环球Amex https://t.co/d3ZNYF2qit https://t.co/bCLR6ytzAc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1515,
+        "media_key": "3_2098661014439157761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_xEs2bYAEV8At.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098657672140890112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_uCJ0bIAADdCj.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098661014439157761"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325474",
+              "name": "American Express "
+            }
+          }
+        ],
+        "conversation_id": "2098661056575082574",
+        "created_at": "2026-09-12T06:32:41.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098661056575082574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3ZNYF2qit",
+              "end": 78,
+              "expanded_url": "https://x.com/realNyarime/status/2098661056575082574/photo/1",
+              "media_key": "3_2098661014439157761",
+              "start": 55,
+              "url": "https://t.co/d3ZNYF2qit"
+            },
+            {
+              "display_url": "x.com/xingjia520/sta…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/xingjia520/status/2098657679636135974",
+              "start": 79,
+              "url": "https://t.co/bCLR6ytzAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098661056575082574",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098661014439157761"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098657679636135974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "北京国贸专属的香格里拉和黑白菜，1万或15笔免次年，不过高新企业可以先下奋斗专再挂3135长隆、环球Amex https://t.co/d3ZNYF2qit https://t.co/bCLR6ytzAc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098657672140890112"
+          ]
+        },
+        "author_id": "199593931",
+        "conversation_id": "2098656316218867984",
+        "created_at": "2026-09-12T06:19:16.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098657679636135974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/6IUdxDXASqTg…",
+              "end": 124,
+              "expanded_url": "https://mp.weixin.qq.com/s/6IUdxDXASqTgMMo9GESpbw",
+              "start": 101,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HO_upGqjU9UGOra64jkxYt3-v9skShDZoXRnjAD0&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6IUdxDXASqTgMMo9GESpbw",
+              "url": "https://t.co/2KBD9cbLHd"
+            },
+            {
+              "display_url": "pic.x.com/GEfWrkBrxz",
+              "end": 148,
+              "expanded_url": "https://x.com/xingjia520/status/2098657679636135974/photo/1",
+              "media_key": "3_2098657672140890112",
+              "start": 125,
+              "url": "https://t.co/GEfWrkBrxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098657679636135974",
+        "in_reply_to_user_id": "199593931",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098657672140890112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098656316218867984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多有钱人和领导都会用一种外包的思路去解决一些问题，但关于自由这件事，外包给别人的代价是巨大的，终身学习就是去中心化世界的生存能力，核心技能只能靠自己躬身入局，下场去试错！\n\n给新港人的线下第一课 \n\nhttps://t.co/2KBD9cbLHd https://t.co/GEfWrkBrxz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2098661056575082574",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46262,
+          "following_count": 660,
+          "like_count": 22340,
+          "listed_count": 198,
+          "media_count": 2798,
+          "tweet_count": 18571
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-07T08:02:46.000Z",
+        "description": "Dad of 3. Yinchuan → Tencent → Hong Kong.\nBuilding AI products. \nHelping families earn their first USD.\n\n从银川到深圳，再到香港的三娃父亲。\n公众号：星佳是个小人物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ai.xingjia.xyz",
+                "end": 23,
+                "expanded_url": "http://ai.xingjia.xyz",
+                "start": 0,
+                "url": "https://t.co/8Rix8YjL29"
+              }
+            ]
+          }
+        },
+        "id": "199593931",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2098660325629546550",
+        "name": "在香港的宁夏三娃老父亲阿星",
+        "pinned_tweet_id": "2094067529413190042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/199593931/1773080198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055617614169477120/_x5cbZXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5598,
+          "following_count": 669,
+          "like_count": 20,
+          "listed_count": 24,
+          "media_count": 992,
+          "tweet_count": 4790
+        },
+        "url": "https://t.co/8Rix8YjL29",
+        "username": "xingjia520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

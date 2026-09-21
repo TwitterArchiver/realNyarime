@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2094776712777343270",
+    "created_at": "2026-09-01T16:01:44.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T17:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094817995667410952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Subject: PSA-2026-00037-1: SCTPhantom Local Privilege Escalation issue Advisory date: 2026-08-10 Packages: proxmox-kernel-* Details: A use-after-free issue in the Linux kernels SCTP code...",
+          "display_url": "forum.proxmox.com/threads/proxmo…",
+          "end": 135,
+          "expanded_url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-security-advisories.149331/post-867929",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2094721027444199424/VaPgF9Lt?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2094721027444199424/VaPgF9Lt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 112,
+          "status": 200,
+          "title": "Proxmox Virtual Environment - Security Advisories",
+          "unwound_url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-security-advisories.149331/page-4#post-867929",
+          "url": "https://t.co/qw8TGRO9eQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094817995667410952",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094776712777343270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Proxmox 官方已给出详细调查报告及临时修复方式，该漏洞已在 8.0-3 及后续版本中修复，我们强烈建议将 Proxmox VE 升级至最新的 9.2-11, 若实在无法更新到 v9 版本，也至少更新到 8.4-21。\nhttps://t.co/qw8TGRO9eQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2094776101528858624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIjxAea8AA9k7_.png",
+        "width": 1455
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2094776712777343270",
+        "created_at": "2026-09-01T16:01:44.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094817995667410952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Subject: PSA-2026-00037-1: SCTPhantom Local Privilege Escalation issue Advisory date: 2026-08-10 Packages: proxmox-kernel-* Details: A use-after-free issue in the Linux kernels SCTP code...",
+              "display_url": "forum.proxmox.com/threads/proxmo…",
+              "end": 135,
+              "expanded_url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-security-advisories.149331/post-867929",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2094721027444199424/VaPgF9Lt?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2094721027444199424/VaPgF9Lt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "Proxmox Virtual Environment - Security Advisories",
+              "unwound_url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-security-advisories.149331/page-4#post-867929",
+              "url": "https://t.co/qw8TGRO9eQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094817995667410952",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094776712777343270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Proxmox 官方已给出详细调查报告及临时修复方式，该漏洞已在 8.0-3 及后续版本中修复，我们强烈建议将 Proxmox VE 升级至最新的 9.2-11, 若实在无法更新到 v9 版本，也至少更新到 8.4-21。\nhttps://t.co/qw8TGRO9eQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094776101528858624"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2094776712777343270",
+        "created_at": "2026-09-01T13:17:42.000Z",
+        "display_text_range": [
+          0,
+          173
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094776712777343270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kb6anvCOm3",
+              "end": 197,
+              "expanded_url": "https://x.com/realNyarime/status/2094776712777343270/photo/1",
+              "media_key": "3_2094776101528858624",
+              "start": 174,
+              "url": "https://t.co/kb6anvCOm3"
+            },
+            {
+              "display_url": "x.com/nebusecurity/s…",
+              "end": 221,
+              "expanded_url": "https://twitter.com/nebusecurity/status/2094719919539793989",
+              "start": 198,
+              "url": "https://t.co/AXbjhMlpLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094776712777343270",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094776101528858624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "刚给PVE从8.4升到9.2.11，不止PVE7受到影响，已知PVE8 (已知报告版本: 8.0.3 / 8.2 / 8.4) 全系列均已被攻破，可绕过身份验证\n\n因此无论公网是否堵上8006端口，都应该更新为PVE9。虽然更新只是堵住漏洞，但能尽可能的影响那些必须暴露到公网的PVE服务器，希望有帮助\n\n操作建议：\n1) 立即停止将任何 PVE WebUI / WebAPI (8006) / SSH 直接暴露公网；\n2) 如一定需要暴露公网，也尽可能利用 VPN (e.g. Tailscale)  / SD-WAN / Cloudflare Zero-Trust (One) 为 PVE WebUI 增加二层防护 (或者最简单的: 加个 basic auth)；在 sshd config 中也禁止使用密码登录；\n3) 哪怕 PVE 仅部署在内网，也请配置好 IP-ACL Rule；\n4) PVE <=8 已正式 EOL，无论如何都请更新到 PVE 9；\n5) 非常建议 PVE9 也采取以上安全措施建议； 6) 近期在运维时需要投入更多精力关注 PVE 相关补丁更新。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5044,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094719919539793989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚给PVE从8.4升到9.2.11，不止PVE7受到影响，已知PVE8 (已知报告版本: 8.0.3 / 8.2 / 8.4) 全系列均已被攻破，可绕过身份验证\n\n因此无论公网是否堵上8006端口，都应该更新为PVE9。虽然更新只是堵住漏洞，但能尽可能的影响那些必须暴露到公网的PVE服务器，希望有帮助\n\n操作建议：\n1) 立即停止将任何 PVE https://t.co/kb6anvCOm3 https://t.co/AXbjhMlpLL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2094817995667410952",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44828,
+          "following_count": 657,
+          "like_count": 22029,
+          "listed_count": 195,
+          "media_count": 2694,
+          "tweet_count": 18262
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
