@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104567601729044480"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2104567607324196890",
+    "created_at": "2026-09-28T13:43:13.000Z",
+    "display_text_range": [
+      0,
+      169
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104567607324196890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "gemini.google.com/spark",
+          "end": 112,
+          "expanded_url": "https://gemini.google.com/spark",
+          "start": 89,
+          "status": 302,
+          "unwound_url": "https://www.google.com/sorry/index?continue=https://gemini.google.com/spark&q=EgTHEJ22GOq36NUGIjAUHpdfNwQqrHHjnq05VdHfC0lDowgm6lq5m5pHxwJP4Oi-CY8mP0buiOfXfrRLrCQyBz5qY25kclJaAUM",
+          "url": "https://t.co/6eoHwK1Cim"
+        },
+        {
+          "description": "Try Muse, your personal AI agent that gets things done. Give Muse a goal or an everyday task and it handles the rest, from finances and health to shopping and the people you care about.",
+          "display_url": "muse.ai",
+          "end": 169,
+          "expanded_url": "https://muse.ai",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2102523255987036160/Dk0WkIVJ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2102523255987036160/Dk0WkIVJ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 146,
+          "status": 200,
+          "title": "Muse — Your Personal AI Agent",
+          "unwound_url": "https://muse.ai",
+          "url": "https://t.co/4Pk2znjQgT"
+        },
+        {
+          "display_url": "pic.x.com/OVFobpqPQQ",
+          "end": 193,
+          "expanded_url": "https://x.com/realNyarime/status/2104567607324196890/photo/1",
+          "media_key": "3_2104567601729044480",
+          "start": 170,
+          "url": "https://t.co/OVFobpqPQQ"
+        },
+        {
+          "display_url": "x.com/lifesinger/sta…",
+          "end": 217,
+          "expanded_url": "https://twitter.com/lifesinger/status/2102742244176576538",
+          "start": 194,
+          "url": "https://t.co/peBvUksYst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104567607324196890",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104567601729044480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "gemini.google.com/spark",
+            "end": 112,
+            "expanded_url": "https://gemini.google.com/spark",
+            "start": 89,
+            "url": "https://t.co/5oEGeye0gp"
+          },
+          {
+            "display_url": "muse.ai",
+            "end": 169,
+            "expanded_url": "https://muse.ai",
+            "start": 146,
+            "url": "https://t.co/p2HpOJpBxV"
+          }
+        ]
+      },
+      "text": "抱着试一下的心态弄了个Muse，还自带一个2C8G虚拟机，分享一下我的注册方式：\n\n用Gemini Spark 帮你注册 Muse 就行，用Gemini pro 账号\n1）打开 https://t.co/5oEGeye0gp\n2）输入：远端浏览器访问 Google\n3）接管任务，浏览器输入 https://t.co/p2HpOJpBxV\n4）输入邮箱注册，会让你输入银行卡验证年龄，用国内Visa或万事达卡就行\n5）注册成功，设置里兑换邀请码，可以找朋友的输，双方能互相领取10亿token\n\n感觉小扎是得了Manus的真传，为了拉人头想出的模式：\n快来看看你的个人 AI 智能体 Muse 。在加入后的 48 小时内通过“设置”兑现我的邀请码，我们就能分别获得 10 亿个 Muse 词元。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102742244176576538",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抱着试一下的心态弄了个Muse，还自带一个2C8G虚拟机，分享一下我的注册方式：\n\n用Gemini Spark 帮你注册 Muse 就行，用Gemini pro 账号\n1）打开 https://t.co/6eoHwK1Cim\n2）输入：远端浏览器访问 Google\n3）接管任务，浏览器输入 https://t.co/4Pk2znjQgT https://t.co/OVFobpqPQQ https://t.co/peBvUksYst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2104567601729044480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTtFVLbAAADpda.jpg",
+        "width": 708
+      },
+      {
+        "height": 793,
+        "media_key": "3_2102741845000523777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5wkTWbEAEXZ9e.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104567601729044480"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2104567607324196890",
+        "created_at": "2026-09-28T13:43:13.000Z",
+        "display_text_range": [
+          0,
+          169
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104567607324196890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "gemini.google.com/spark",
+              "end": 112,
+              "expanded_url": "https://gemini.google.com/spark",
+              "start": 89,
+              "status": 302,
+              "unwound_url": "https://www.google.com/sorry/index?continue=https://gemini.google.com/spark&q=EgTHEJ22GOq36NUGIjAUHpdfNwQqrHHjnq05VdHfC0lDowgm6lq5m5pHxwJP4Oi-CY8mP0buiOfXfrRLrCQyBz5qY25kclJaAUM",
+              "url": "https://t.co/6eoHwK1Cim"
+            },
+            {
+              "description": "Try Muse, your personal AI agent that gets things done. Give Muse a goal or an everyday task and it handles the rest, from finances and health to shopping and the people you care about.",
+              "display_url": "muse.ai",
+              "end": 169,
+              "expanded_url": "https://muse.ai",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102523255987036160/Dk0WkIVJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102523255987036160/Dk0WkIVJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 146,
+              "status": 200,
+              "title": "Muse — Your Personal AI Agent",
+              "unwound_url": "https://muse.ai",
+              "url": "https://t.co/4Pk2znjQgT"
+            },
+            {
+              "display_url": "pic.x.com/OVFobpqPQQ",
+              "end": 193,
+              "expanded_url": "https://x.com/realNyarime/status/2104567607324196890/photo/1",
+              "media_key": "3_2104567601729044480",
+              "start": 170,
+              "url": "https://t.co/OVFobpqPQQ"
+            },
+            {
+              "display_url": "x.com/lifesinger/sta…",
+              "end": 217,
+              "expanded_url": "https://twitter.com/lifesinger/status/2102742244176576538",
+              "start": 194,
+              "url": "https://t.co/peBvUksYst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104567607324196890",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104567601729044480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "gemini.google.com/spark",
+                "end": 112,
+                "expanded_url": "https://gemini.google.com/spark",
+                "start": 89,
+                "url": "https://t.co/5oEGeye0gp"
+              },
+              {
+                "display_url": "muse.ai",
+                "end": 169,
+                "expanded_url": "https://muse.ai",
+                "start": 146,
+                "url": "https://t.co/p2HpOJpBxV"
+              }
+            ]
+          },
+          "text": "抱着试一下的心态弄了个Muse，还自带一个2C8G虚拟机，分享一下我的注册方式：\n\n用Gemini Spark 帮你注册 Muse 就行，用Gemini pro 账号\n1）打开 https://t.co/5oEGeye0gp\n2）输入：远端浏览器访问 Google\n3）接管任务，浏览器输入 https://t.co/p2HpOJpBxV\n4）输入邮箱注册，会让你输入银行卡验证年龄，用国内Visa或万事达卡就行\n5）注册成功，设置里兑换邀请码，可以找朋友的输，双方能互相领取10亿token\n\n感觉小扎是得了Manus的真传，为了拉人头想出的模式：\n快来看看你的个人 AI 智能体 Muse 。在加入后的 48 小时内通过“设置”兑现我的邀请码，我们就能分别获得 10 亿个 Muse 词元。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102742244176576538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱着试一下的心态弄了个Muse，还自带一个2C8G虚拟机，分享一下我的注册方式：\n\n用Gemini Spark 帮你注册 Muse 就行，用Gemini pro 账号\n1）打开 https://t.co/6eoHwK1Cim\n2）输入：远端浏览器访问 Google\n3）接管任务，浏览器输入 https://t.co/4Pk2znjQgT https://t.co/OVFobpqPQQ https://t.co/peBvUksYst"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102741845000523777"
+          ]
+        },
+        "author_id": "16681326",
+        "conversation_id": "2102742244176576538",
+        "created_at": "2026-09-23T12:49:52.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T13:48:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102741865514856814",
+          "2102742244176576538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gf78DsPhDq",
+              "end": 173,
+              "expanded_url": "https://x.com/lifesinger/status/2102742244176576538/photo/1",
+              "media_key": "3_2102741845000523777",
+              "start": 150,
+              "url": "https://t.co/Gf78DsPhDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102742244176576538",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102741845000523777"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Muse 这一届 personal agent 大概率还是伪需求。\n\n邮件，全是可以不看的。日历，对不起，大部分用户的日历空空如也。\n\n订机票，全球大部分人都还没坐过飞机。订餐，抱歉，非精英人群没这么多讲究。\n\n退订无良 AI 产品的订阅，这个确实是真需求。\n\n爆料下已经是精英人群里的精英 @少楠 的日历。我的日历稍微多了 1-2 项，大体也差不多。\n\n精英都是纸老虎。\n为人民服务，才是真需求。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 112549,
+          "like_count": 145,
+          "quote_count": 21,
+          "reply_count": 110,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Muse 这一届 personal agent 大概率还是伪需求。\n\n邮件，全是可以不看的。日历，对不起，大部分用户的日历空空如也。\n\n订机票，全球大部分人都还没坐过飞机。订餐，抱歉，非精英人群没这么多讲究。\n\n退订无良 AI 产品的订阅，这个确实是真需求。\n\n爆料下已经是精英人群里的精英 @少楠 https://t.co/Gf78DsPhDq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2104567607324196890",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48828,
+          "following_count": 663,
+          "like_count": 23085,
+          "listed_count": 211,
+          "media_count": 2946,
+          "tweet_count": 19237
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-10-10T09:36:41.000Z",
+        "description": "I am curious and honest",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youmind.com",
+                "end": 23,
+                "expanded_url": "http://youmind.com",
+                "start": 0,
+                "url": "https://t.co/5nDvystgUk"
+              }
+            ]
+          }
+        },
+        "id": "16681326",
+        "is_identity_verified": false,
+        "location": "FUTURE",
+        "most_recent_tweet_id": "2104203067285758406",
+        "name": "Frank Wang 玉伯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16681326/1755700256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096469880929456128/tXUcxmQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47393,
+          "following_count": 1358,
+          "like_count": 7197,
+          "listed_count": 607,
+          "media_count": 304,
+          "tweet_count": 5752
+        },
+        "url": "https://t.co/5nDvystgUk",
+        "username": "lifesinger",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

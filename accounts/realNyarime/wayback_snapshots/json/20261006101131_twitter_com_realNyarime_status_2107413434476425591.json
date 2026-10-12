@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "conversation_id": "2107402228487303374",
+    "created_at": "2026-10-06T10:11:31.000Z",
+    "display_text_range": [
+      13,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107413434476425591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "837852476929781761",
+          "start": 0,
+          "username": "cn_LittleYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107413434476425591",
+    "in_reply_to_user_id": "837852476929781761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107402228487303374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cn_LittleYu 领导一直要我go转rust，虽然我也买了书来看，但我感觉入门起来很难。其实说c内存泄露，不如说rust写不好整个性能也会非常糟糕，不过有AI了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2107402049164136448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7-_4tb0AAqhjm.jpg",
+        "width": 2507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2107402228487303374",
+        "created_at": "2026-10-06T10:11:31.000Z",
+        "display_text_range": [
+          13,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107413434476425591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "837852476929781761",
+              "start": 0,
+              "username": "cn_LittleYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107413434476425591",
+        "in_reply_to_user_id": "837852476929781761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107402228487303374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cn_LittleYu 领导一直要我go转rust，虽然我也买了书来看，但我感觉入门起来很难。其实说c内存泄露，不如说rust写不好整个性能也会非常糟糕，不过有AI了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107402049164136448"
+          ]
+        },
+        "author_id": "837852476929781761",
+        "conversation_id": "2107402228487303374",
+        "created_at": "2026-10-06T09:26:59.000Z",
+        "display_text_range": [
+          0,
+          173
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107402228487303374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OzhmES39uv",
+              "end": 197,
+              "expanded_url": "https://x.com/cn_LittleYu/status/2107402228487303374/photo/1",
+              "media_key": "3_2107402049164136448",
+              "start": 174,
+              "url": "https://t.co/OzhmES39uv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107402228487303374",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107402049164136448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Golang vs Rust/C++ 这种上古问题又被拿出来讨论。\n\n在内存敏感的场景，尤其是并发、延迟要求很高时，使用 Rust/C++ 精确管理内存，将会比 Golang 强出不少。\n但现实是，初、中级程序员，用 Golang 写出来的代码，性能甚至会优于 Rust/C++，bug 也更少。（甚至工时也会少\n\n然而现在，大家拥有了 AI 🤣 https://t.co/OzhmES39uv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2107413434476425591",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50595,
+          "following_count": 668,
+          "like_count": 23691,
+          "listed_count": 219,
+          "media_count": 3050,
+          "tweet_count": 19742
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-04T02:29:31.000Z",
+        "description": "只会端茶送水和电脑开关机的混子程序员 / 不肥不宅的二刺螈 / 买不起Supreme的popping dancer / 脱离高级趣味的现充 / おじさん構文 😁❗",
+        "id": "837852476929781761",
+        "is_identity_verified": false,
+        "location": "西安市雁塔区大雁塔701室",
+        "most_recent_tweet_id": "2107409407818764621",
+        "name": "poppinzhang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/837852476929781761/1712705206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950633997794529280/i4dNa0Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 204,
+          "like_count": 3128,
+          "listed_count": 22,
+          "media_count": 1029,
+          "tweet_count": 4329
+        },
+        "url": "",
+        "username": "cn_LittleYu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

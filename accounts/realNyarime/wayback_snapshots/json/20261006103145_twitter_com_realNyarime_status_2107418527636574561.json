@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107418519075954689"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1462809874195042313",
+          "name": "Computer software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "id": "1462809919204122628",
+          "name": "Multimedia & design software"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10042866033",
+          "name": "VMware"
+        }
+      }
+    ],
+    "conversation_id": "2107418527636574561",
+    "created_at": "2026-10-06T10:31:45.000Z",
+    "display_text_range": [
+      0,
+      164
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107418527636574561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yOxREf61M8",
+          "end": 188,
+          "expanded_url": "https://x.com/realNyarime/status/2107418527636574561/photo/1",
+          "media_key": "3_2107418519075954689",
+          "start": 165,
+          "url": "https://t.co/yOxREf61M8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107418527636574561",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107418519075954689"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "用过VMware的都知道，虚拟机要装VMware Tools（或open-vm-tools）才能实现宿主精准读取虚拟机状态、软关机/重启功能\n\n应需求在路由OS上也做了，用户反馈首次开机有概率读不到信息，但关机、重启指令正常执行。停止再启动、重启都能顺利读到，最后上ESXi的SSH抓取才知道Web UI有20分钟刷新一次的间隔\n\n而且VMware从未开放过ESXi的API，一般是通过vSphere间接管理、引出接口。不对接vSphere的情况下，ESXi的监控只能看一天，这样还不如用PVE呢？再说博通把VMware收了，现在Workstation Pro免费了，也没有汉化了；Fusion一直免费，但macOS 26没有GPU驱动了……"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用过VMware的都知道，虚拟机要装VMware Tools（或open-vm-tools）才能实现宿主精准读取虚拟机状态、软关机/重启功能\n\n应需求在路由OS上也做了，用户反馈首次开机有概率读不到信息，但关机、重启指令正常执行。停止再启动、重启都能顺利读到，最后上ESXi的SSH抓取才知道Web UI有20分钟刷新一次的间隔 https://t.co/yOxREf61M8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2107418519075954689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8N-j6aIAExrKZ.jpg",
+        "width": 1687
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107418519075954689"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809874195042313",
+              "name": "Computer software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809919204122628",
+              "name": "Multimedia & design software"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042866033",
+              "name": "VMware"
+            }
+          }
+        ],
+        "conversation_id": "2107418527636574561",
+        "created_at": "2026-10-06T10:31:45.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107418527636574561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOxREf61M8",
+              "end": 188,
+              "expanded_url": "https://x.com/realNyarime/status/2107418527636574561/photo/1",
+              "media_key": "3_2107418519075954689",
+              "start": 165,
+              "url": "https://t.co/yOxREf61M8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107418527636574561",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107418519075954689"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "用过VMware的都知道，虚拟机要装VMware Tools（或open-vm-tools）才能实现宿主精准读取虚拟机状态、软关机/重启功能\n\n应需求在路由OS上也做了，用户反馈首次开机有概率读不到信息，但关机、重启指令正常执行。停止再启动、重启都能顺利读到，最后上ESXi的SSH抓取才知道Web UI有20分钟刷新一次的间隔\n\n而且VMware从未开放过ESXi的API，一般是通过vSphere间接管理、引出接口。不对接vSphere的情况下，ESXi的监控只能看一天，这样还不如用PVE呢？再说博通把VMware收了，现在Workstation Pro免费了，也没有汉化了；Fusion一直免费，但macOS 26没有GPU驱动了……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用过VMware的都知道，虚拟机要装VMware Tools（或open-vm-tools）才能实现宿主精准读取虚拟机状态、软关机/重启功能\n\n应需求在路由OS上也做了，用户反馈首次开机有概率读不到信息，但关机、重启指令正常执行。停止再启动、重启都能顺利读到，最后上ESXi的SSH抓取才知道Web UI有20分钟刷新一次的间隔 https://t.co/yOxREf61M8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2107418527636574561",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50597,
+          "following_count": 668,
+          "like_count": 23692,
+          "listed_count": 219,
+          "media_count": 3050,
+          "tweet_count": 19743
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

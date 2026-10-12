@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102746943931965440",
+        "3_2102746952236679168"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "2102746959710998689",
+    "created_at": "2026-09-23T13:08:37.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T14:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102746959710998689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "在 App Store 下载“Weigan Technology (Shenzhen) Co., Ltd.”的“天衣”。查看截屏、评分及评论、用户提示以及更多类似“天衣”的 App。",
+          "display_url": "apps.apple.com/cn/app/%E5%A4%…",
+          "end": 107,
+          "expanded_url": "https://apps.apple.com/cn/app/%E5%A4%A9%E8%A1%A3/id6768071550",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2102594855423901696/PdvxKOBW?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2102594855423901696/PdvxKOBW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 84,
+          "status": 200,
+          "title": "天衣 App - App Store",
+          "unwound_url": "https://apps.apple.com/cn/app/%E5%A4%A9%E8%A1%A3/id6768071550",
+          "url": "https://t.co/fOUZuRLmlK"
+        },
+        {
+          "display_url": "pic.x.com/gBaM8uglHa",
+          "end": 131,
+          "expanded_url": "https://x.com/realNyarime/status/2102746959710998689/photo/1",
+          "media_key": "3_2102746943931965440",
+          "start": 108,
+          "url": "https://t.co/gBaM8uglHa"
+        },
+        {
+          "display_url": "pic.x.com/gBaM8uglHa",
+          "end": 131,
+          "expanded_url": "https://x.com/realNyarime/status/2102746959710998689/photo/1",
+          "media_key": "3_2102746952236679168",
+          "start": 108,
+          "url": "https://t.co/gBaM8uglHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102746959710998689",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102746943931965440"
+      },
+      {
+        "media_key": "3_2102746952236679168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近国区App Store上架了一款叫“天衣”的VPN客户端，开发者：为敢技术（深圳）有限公司，注册地址：\n深圳市福田区梅林街道梅都社区公安街3号干警宿舍楼208A\n\nhttps://t.co/fOUZuRLmlK https://t.co/gBaM8uglHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_2102746943931965440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS51NGWaYAAef1T.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1154,
+        "media_key": "3_2102746952236679168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS51NlSaQAApK3_.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102746943931965440",
+            "3_2102746952236679168"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2102746959710998689",
+        "created_at": "2026-09-23T13:08:37.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102746959710998689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "在 App Store 下载“Weigan Technology (Shenzhen) Co., Ltd.”的“天衣”。查看截屏、评分及评论、用户提示以及更多类似“天衣”的 App。",
+              "display_url": "apps.apple.com/cn/app/%E5%A4%…",
+              "end": 107,
+              "expanded_url": "https://apps.apple.com/cn/app/%E5%A4%A9%E8%A1%A3/id6768071550",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102594855423901696/PdvxKOBW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102594855423901696/PdvxKOBW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 84,
+              "status": 200,
+              "title": "天衣 App - App Store",
+              "unwound_url": "https://apps.apple.com/cn/app/%E5%A4%A9%E8%A1%A3/id6768071550",
+              "url": "https://t.co/fOUZuRLmlK"
+            },
+            {
+              "display_url": "pic.x.com/gBaM8uglHa",
+              "end": 131,
+              "expanded_url": "https://x.com/realNyarime/status/2102746959710998689/photo/1",
+              "media_key": "3_2102746943931965440",
+              "start": 108,
+              "url": "https://t.co/gBaM8uglHa"
+            },
+            {
+              "display_url": "pic.x.com/gBaM8uglHa",
+              "end": 131,
+              "expanded_url": "https://x.com/realNyarime/status/2102746959710998689/photo/1",
+              "media_key": "3_2102746952236679168",
+              "start": 108,
+              "url": "https://t.co/gBaM8uglHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102746959710998689",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102746943931965440"
+          },
+          {
+            "media_key": "3_2102746952236679168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近国区App Store上架了一款叫“天衣”的VPN客户端，开发者：为敢技术（深圳）有限公司，注册地址：\n深圳市福田区梅林街道梅都社区公安街3号干警宿舍楼208A\n\nhttps://t.co/fOUZuRLmlK https://t.co/gBaM8uglHa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2102746959710998689",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47908,
+          "following_count": 660,
+          "like_count": 22805,
+          "listed_count": 210,
+          "media_count": 2894,
+          "tweet_count": 18982
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

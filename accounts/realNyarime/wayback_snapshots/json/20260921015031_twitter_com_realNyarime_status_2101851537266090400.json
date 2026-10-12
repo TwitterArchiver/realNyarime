@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101851498028453888"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "conversation_id": "2101851537266090400",
+    "created_at": "2026-09-21T01:50:31.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T02:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101851537266090400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible. - zai-org/ZCode",
+          "display_url": "github.com/zai-org/ZCode",
+          "end": 77,
+          "expanded_url": "https://github.com/zai-org/ZCode",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2101837449962160128/WXB0HNLM?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2101837449962160128/WXB0HNLM?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "GitHub - zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+          "unwound_url": "https://github.com/zai-org/ZCode",
+          "url": "https://t.co/JlegXFalJJ"
+        },
+        {
+          "display_url": "pic.x.com/SLTU12q6EJ",
+          "end": 144,
+          "expanded_url": "https://x.com/realNyarime/status/2101851537266090400/photo/1",
+          "media_key": "3_2101851498028453888",
+          "start": 121,
+          "url": "https://t.co/SLTU12q6EJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101851537266090400",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101851498028453888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/zai-org/ZCode",
+            "end": 77,
+            "expanded_url": "https://github.com/zai-org/ZCode",
+            "start": 54,
+            "url": "https://t.co/xTbqLfBt7I"
+          }
+        ]
+      },
+      "text": "针对社区反馈的 ZCode 产品安全问题，我们已经完成整改，并向所有用户道歉。我们已将 ZCode 开源 (https://t.co/xTbqLfBt7I)，把代码交给社区监督，让 ZCode 变得开放、透明。\n非常感谢此前发现 ZCode 问题的社区开发者，接下来我们将建立常态化的产品安全漏洞机制，欢迎开发者伙伴持续检查和反馈问题，我们会根据问题严重程度给予相应回报。\n对于社区中提及的代码数据，我们承诺无留存，也从未将其用于模型训练。完成整改后，我们邀请中国信息通信研究院和绿盟科技开展安全审计，结果如下：\n经中国信息通信研究院技术评测，确认 zcode-prod 阿里云OSS存储桶状态为云端零数据。ZCode v3.14.0 客户端已完成安全整改，已经移除 Repo Wiki 功能，已切断本地仓库快照生成与上传链路。\n经绿盟科技审查，确认 zcode-prod (阿里云对象存储OSS) 内全部数据对象及存储桶本身已删除。ZCode v3.14.0 客户端已完成整改，Repo Wiki 入口及相应生成链路已移除，未发现可触发本地仓库快照或文件外发的功能路径。\n再次向大家致歉，请大家持续监督。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "针对社区反馈的 ZCode 产品安全问题，我们已经完成整改，并向所有用户道歉。我们已将 ZCode 开源 (https://t.co/JlegXFalJJ)，把代码交给社区监督，让 ZCode 变得开放、透明。\n非常感谢此前发现 ZCode https://t.co/SLTU12q6EJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_2101851498028453888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStGzSab0AAfFxR.jpg",
+        "width": 1526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101851498028453888"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2101851537266090400",
+        "created_at": "2026-09-21T01:50:31.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101851537266090400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible. - zai-org/ZCode",
+              "display_url": "github.com/zai-org/ZCode",
+              "end": 77,
+              "expanded_url": "https://github.com/zai-org/ZCode",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2101837449962160128/WXB0HNLM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101837449962160128/WXB0HNLM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "GitHub - zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+              "unwound_url": "https://github.com/zai-org/ZCode",
+              "url": "https://t.co/JlegXFalJJ"
+            },
+            {
+              "display_url": "pic.x.com/SLTU12q6EJ",
+              "end": 144,
+              "expanded_url": "https://x.com/realNyarime/status/2101851537266090400/photo/1",
+              "media_key": "3_2101851498028453888",
+              "start": 121,
+              "url": "https://t.co/SLTU12q6EJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101851537266090400",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101851498028453888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/zai-org/ZCode",
+                "end": 77,
+                "expanded_url": "https://github.com/zai-org/ZCode",
+                "start": 54,
+                "url": "https://t.co/xTbqLfBt7I"
+              }
+            ]
+          },
+          "text": "针对社区反馈的 ZCode 产品安全问题，我们已经完成整改，并向所有用户道歉。我们已将 ZCode 开源 (https://t.co/xTbqLfBt7I)，把代码交给社区监督，让 ZCode 变得开放、透明。\n非常感谢此前发现 ZCode 问题的社区开发者，接下来我们将建立常态化的产品安全漏洞机制，欢迎开发者伙伴持续检查和反馈问题，我们会根据问题严重程度给予相应回报。\n对于社区中提及的代码数据，我们承诺无留存，也从未将其用于模型训练。完成整改后，我们邀请中国信息通信研究院和绿盟科技开展安全审计，结果如下：\n经中国信息通信研究院技术评测，确认 zcode-prod 阿里云OSS存储桶状态为云端零数据。ZCode v3.14.0 客户端已完成安全整改，已经移除 Repo Wiki 功能，已切断本地仓库快照生成与上传链路。\n经绿盟科技审查，确认 zcode-prod (阿里云对象存储OSS) 内全部数据对象及存储桶本身已删除。ZCode v3.14.0 客户端已完成整改，Repo Wiki 入口及相应生成链路已移除，未发现可触发本地仓库快照或文件外发的功能路径。\n再次向大家致歉，请大家持续监督。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "针对社区反馈的 ZCode 产品安全问题，我们已经完成整改，并向所有用户道歉。我们已将 ZCode 开源 (https://t.co/JlegXFalJJ)，把代码交给社区监督，让 ZCode 变得开放、透明。\n非常感谢此前发现 ZCode https://t.co/SLTU12q6EJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2101851537266090400",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47600,
+          "following_count": 664,
+          "like_count": 22707,
+          "listed_count": 207,
+          "media_count": 2872,
+          "tweet_count": 18888
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

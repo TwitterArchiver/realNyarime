@@ -1,0 +1,750 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1579488006225874944",
+          "name": "OKX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390680741206368263",
+          "name": "Cryptocurrency exchanges"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1579488006225874944",
+          "name": "OKX"
+        }
+      }
+    ],
+    "conversation_id": "2105616368595026024",
+    "created_at": "2026-10-01T13:10:50.000Z",
+    "display_text_range": [
+      24,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T14:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105646624508911832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstra"
+        },
+        {
+          "end": 18,
+          "id": "1901873735315202048",
+          "start": 9,
+          "username": "mark_okx"
+        },
+        {
+          "end": 23,
+          "id": "867617849208037377",
+          "start": 19,
+          "username": "okx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105646624508911832",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105616368595026024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstra @mark_okx @okx 老板又有好东西！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105616361078816768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTim7KNagAA60tT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2105616361078800384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTim7KNaQAA2ZWG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          }
+        ],
+        "conversation_id": "2105616368595026024",
+        "created_at": "2026-10-01T13:10:50.000Z",
+        "display_text_range": [
+          24,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T14:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105646624508911832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstra"
+            },
+            {
+              "end": 18,
+              "id": "1901873735315202048",
+              "start": 9,
+              "username": "mark_okx"
+            },
+            {
+              "end": 23,
+              "id": "867617849208037377",
+              "start": 19,
+              "username": "okx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105646624508911832",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105616368595026024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstra @mark_okx @okx 老板又有好东西！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105616361078816768",
+            "3_2105616361078800384"
+          ]
+        },
+        "author_id": "1775079210484436992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          }
+        ],
+        "conversation_id": "2105616368595026024",
+        "created_at": "2026-10-01T11:10:37.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105616368595026024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1901873735315202048",
+              "start": 9,
+              "username": "mark_okx"
+            },
+            {
+              "end": 25,
+              "id": "867617849208037377",
+              "start": 21,
+              "username": "okx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7MPtN2s1R",
+              "end": 51,
+              "expanded_url": "https://x.com/0xAstra/status/2105616368595026024/photo/1",
+              "media_key": "3_2105616361078816768",
+              "start": 28,
+              "url": "https://t.co/I7MPtN2s1R"
+            },
+            {
+              "display_url": "pic.x.com/I7MPtN2s1R",
+              "end": 51,
+              "expanded_url": "https://x.com/0xAstra/status/2105616368595026024/photo/1",
+              "media_key": "3_2105616361078800384",
+              "start": 28,
+              "url": "https://t.co/I7MPtN2s1R"
+            },
+            {
+              "display_url": "x.com/meta8mate/stat…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/meta8mate/status/2105232250791202878",
+              "start": 52,
+              "url": "https://t.co/Oem746JxNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105616368595026024",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105616361078816768"
+          },
+          {
+            "media_key": "3_2105616361078800384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 876,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105232250791202878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "光顾着吃了，谢谢 @mark_okx 谢谢@okx\n🥰 https://t.co/I7MPtN2s1R https://t.co/Oem746JxNl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xiamen, Fujian, China",
+              "geo": {
+                "coordinates": [
+                  118.08187,
+                  24.47979
+                ],
+                "type": "Point"
+              },
+              "locality": "Xiamen",
+              "region": "Fujian"
+            }
+          ]
+        },
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2105646624508911832",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49711,
+          "following_count": 667,
+          "like_count": 23330,
+          "listed_count": 214,
+          "media_count": 2988,
+          "tweet_count": 19420
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "Photographer & Product Manager | Night City enjoyer |Intern @GMWallet | ex-CICC | Pudgy Penguin #5103 | BAYC Holder: https://t.co/uBlAPV8pDX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "GMWallet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bayc.com/astra",
+                "end": 140,
+                "expanded_url": "http://bayc.com/astra",
+                "start": 117,
+                "url": "https://t.co/uBlAPV8pDX"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "is_identity_verified": false,
+        "location": "Canberra",
+        "most_recent_tweet_id": "2105640343274455220",
+        "name": "Astra 🍌🐧",
+        "pinned_tweet_id": "2105528864764318009",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775079210484436992/1781170680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095779450948550656/vhPp0CYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9647,
+          "following_count": 1726,
+          "like_count": 77205,
+          "listed_count": 42,
+          "media_count": 994,
+          "tweet_count": 16483
+        },
+        "url": "",
+        "username": "0xAstra",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-18T05:50:14.000Z",
+        "description": "Sales Director @ OKX Australia",
+        "id": "1901873735315202048",
+        "is_identity_verified": false,
+        "location": "Sydney",
+        "most_recent_tweet_id": "2105285943360143482",
+        "name": "Mark | OKX",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901873735315202048/1742426623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072998730341740545/KGle4hTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 186,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "mark_okx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-25T05:46:29.000Z",
+        "description": "The New Money App | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 42,
+                "username": "Wallet"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "OKXHelpDesk"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "username": "OKX_UK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okx.com",
+                "end": 23,
+                "expanded_url": "https://www.okx.com",
+                "start": 0,
+                "url": "https://t.co/zUK2ThuSHs"
+              }
+            ]
+          }
+        },
+        "id": "867617849208037377",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105636600335999171",
+        "name": "OKX",
+        "pinned_tweet_id": "2102069408239661118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/867617849208037377/1760060058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5602633,
+          "following_count": 351,
+          "like_count": 31945,
+          "listed_count": 8420,
+          "media_count": 16300,
+          "tweet_count": 53932
+        },
+        "url": "https://t.co/zUK2ThuSHs",
+        "username": "okx",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104575347710971904"
+      ]
+    },
+    "author_id": "1165044876297134080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "New York Womenswear Fashion Week 10-15 September 2026\nLondon Womenswear Fashion Week 17-21 September 2026\nMilan Womenswear Fashion Week 22-28 September 2026\nParis Womenswear Fashion Week 28-6 October 2026",
+          "id": "2090752060832571392",
+          "name": "Fashion Weeks (Womenswear SS27) "
+        }
+      }
+    ],
+    "conversation_id": "2104575352786059687",
+    "created_at": "2026-09-28T14:13:59.000Z",
+    "display_text_range": [
+      0,
+      192
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T15:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104575352786059687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U5Bg6W1W1l",
+          "end": 216,
+          "expanded_url": "https://x.com/realNyarime/status/2104575352786059687/photo/1",
+          "media_key": "3_2104575347710971904",
+          "start": 193,
+          "url": "https://t.co/U5Bg6W1W1l"
+        },
+        {
+          "display_url": "x.com/RealVicHere/st…",
+          "end": 240,
+          "expanded_url": "https://twitter.com/RealVicHere/status/2104456680658579690",
+          "start": 217,
+          "url": "https://t.co/8Ck2qhlHey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104575352786059687",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104575347710971904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104456680658579690",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "腾讯的AI布局还是很并行的，在LLM整了个混元（Hy）大模型\n\n在Agent上：\n因OpenClaw，推出了QClaw和Marvis\n因Hermes，推出了LightVela\n因Codex，搞了WorkBuddy，吞了QClaw\n在编程上：\n因GitHub，搞了CNB COOL，灭了Coding\n因Cursor，搞了CodeBuddy，同替VS Code\n\n很符合我对腾讯的刻板印象 https://t.co/U5Bg6W1W1l https://t.co/8Ck2qhlHey"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_2104575347710971904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTT0INNbUAAIzYz.jpg",
+        "width": 1091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104575347710971904"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "New York Womenswear Fashion Week 10-15 September 2026\nLondon Womenswear Fashion Week 17-21 September 2026\nMilan Womenswear Fashion Week 22-28 September 2026\nParis Womenswear Fashion Week 28-6 October 2026",
+              "id": "2090752060832571392",
+              "name": "Fashion Weeks (Womenswear SS27) "
+            }
+          }
+        ],
+        "conversation_id": "2104575352786059687",
+        "created_at": "2026-09-28T14:13:59.000Z",
+        "display_text_range": [
+          0,
+          192
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104575352786059687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U5Bg6W1W1l",
+              "end": 216,
+              "expanded_url": "https://x.com/realNyarime/status/2104575352786059687/photo/1",
+              "media_key": "3_2104575347710971904",
+              "start": 193,
+              "url": "https://t.co/U5Bg6W1W1l"
+            },
+            {
+              "display_url": "x.com/RealVicHere/st…",
+              "end": 240,
+              "expanded_url": "https://twitter.com/RealVicHere/status/2104456680658579690",
+              "start": 217,
+              "url": "https://t.co/8Ck2qhlHey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104575352786059687",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104575347710971904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104456680658579690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腾讯的AI布局还是很并行的，在LLM整了个混元（Hy）大模型\n\n在Agent上：\n因OpenClaw，推出了QClaw和Marvis\n因Hermes，推出了LightVela\n因Codex，搞了WorkBuddy，吞了QClaw\n在编程上：\n因GitHub，搞了CNB COOL，灭了Coding\n因Cursor，搞了CodeBuddy，同替VS Code\n\n很符合我对腾讯的刻板印象 https://t.co/U5Bg6W1W1l https://t.co/8Ck2qhlHey"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856400310811668482",
+        "conversation_id": "2104419764743577742",
+        "created_at": "2026-09-28T06:22:26.000Z",
+        "display_text_range": [
+          13,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104456680658579690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104456680658579690",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104419764743577742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime Marvis 竟然还没有被 Workbuddy 项目组吞了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2104575352786059687",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48831,
+          "following_count": 663,
+          "like_count": 23087,
+          "listed_count": 211,
+          "media_count": 2949,
+          "tweet_count": 19247
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-12T18:15:17.000Z",
+        "description": "Founder of Hecara | Building Fiume  & @BatonAgent — AI Coding Agent Orchestration\nBe who you were meant to be.\n\n@OpenClaw Contributor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "BatonAgent"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "username": "OpenClaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hecara.com",
+                "end": 23,
+                "expanded_url": "http://hecara.com",
+                "start": 0,
+                "url": "https://t.co/986ll20mOl"
+              }
+            ]
+          }
+        },
+        "id": "1856400310811668482",
+        "is_identity_verified": false,
+        "location": "earth",
+        "most_recent_tweet_id": "2104549247811203445",
+        "name": "Vic Zhang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856400310811668482/1783706569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093016242647101445/L0vgKSWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 621,
+          "like_count": 19735,
+          "listed_count": 2,
+          "media_count": 589,
+          "tweet_count": 3963
+        },
+        "url": "https://t.co/986ll20mOl",
+        "username": "RealVicHere",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
